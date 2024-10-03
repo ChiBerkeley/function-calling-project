@@ -93,7 +93,6 @@ def get_weather_info(city: str) -> str:
 def calculate_trip_cost(distance: float, fuel_efficiency: float, fuel_cost_per_liter: float) -> str:
     """
     Calculate the total cost of a trip based on the distance, fuel efficiency, and fuel cost.
-    Includes error handling to ensure valid inputs.
 
     Args:
         distance (float): The total distance of the trip in kilometers (must be positive).
