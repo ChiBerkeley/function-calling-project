@@ -9,10 +9,10 @@ import json
 def get_stock_price(symbol: str) -> str:
     """
     Retrieves the current stock price for a given symbol.
-    
+
     Parameters:
     symbol (str): The stock symbol (e.g., 'AAPL', 'GOOG').
-    
+
     Example:
     >>> get_stock_price('AAPL')
     '{"result": 145.23}'
@@ -25,14 +25,15 @@ def get_stock_price(symbol: str) -> str:
     except Exception as e:
         return json.dumps({"error": f"Failed to retrieve stock price: {e}"})
 
+
 def count_letter(word: str, letter: str) -> str:
     """
     Counts the number of occurrences of a specified letter in a word.
-    
+
     Parameters:
     word (str): The word to count letters in.
     letter (str): The letter to count.
-    
+
     Example:
     >>> count_letter('strawberry', 'R')
     '{"result": 2}'
