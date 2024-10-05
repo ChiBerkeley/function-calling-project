@@ -36,7 +36,7 @@ def count_letter(word: str, letter: str) -> str:
 
     Example:
     >>> count_letter('strawberry', 'R')
-    '{"result": 2}'
+    '{"result": 3}'
     """
     if not isinstance(word, str) or not isinstance(letter, str):
         return json.dumps({"error": "The word and letter must be strings."})
