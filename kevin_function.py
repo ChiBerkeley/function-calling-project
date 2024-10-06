@@ -99,3 +99,29 @@ def calculate_area(length: float, width: float, unit: str = 'meters', round_resu
         return json.dumps({"error": "Length and width must be numbers."})
     area = length * width
     return json.dumps({"area": f"{round(area) if round_result else area} {unit}^2"})
+
+
+def get_country_capital(country: str) -> str:
+    """
+    Retrieves the capital of a given country.
+    
+    Parameters:
+    country (str): The name of the country.
+    
+    Returns:
+    str: A JSON string containing the capital of the country.
+    
+    Example:
+    >>> get_country_capital('France')
+    '{"result": "Paris"}'
+    """
+    if not isinstance(country, str):
+        return json.dumps({"error": "The country must be a string."})
+    try:
+        base_url = "https://restcountries.com/v3.1/name/"
+        response = requests.get(base_url + country)
+        data = response.json()
+        capital = data[0]['capital'][0]
+        return json.dumps({"result": capital})
+    except Exception as e:
+        return json.dumps({"error": f"Failed to retrieve capital: {e}"})
