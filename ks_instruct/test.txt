@@ -1,4 +1,4 @@
-{
+[{
   "query": "How many times does the letter 'a' appear in the word 'banana'?",
   "answer": {
     "function": "count_letter",
@@ -882,4 +882,5 @@
     }
   }
 }
+]
 
