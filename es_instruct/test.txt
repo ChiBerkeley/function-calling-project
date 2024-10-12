@@ -1,0 +1,885 @@
+{
+  "query": "How many times does the letter 'a' appear in the word 'banana'?",
+  "answer": {
+    "function": "count_letter",
+    "arguments": {
+      "word": "banana",
+      "letter": "a"
+    },
+    "result": {
+      "result": "3"
+    }
+  }
+},
+{
+  "query": "How many times does the letter 'e' appear in the word 'computer'?",
+  "answer": {
+    "function": "count_letter",
+    "arguments": {
+      "word": "computer",
+      "letter": "e"
+    },
+    "result": {
+      "result": "2"
+    }
+  }
+},
+{
+  "query": "How many times does the letter 't' appear in the word 'telescope'?",
+  "answer": {
+    "function": "count_letter",
+    "arguments": {
+      "word": "telescope",
+      "letter": "t"
+    },
+    "result": {
+      "result": "2"
+    }
+  }
+},
+{
+  "query": "How many times does the letter 'r' appear in the word 'rainbow'?",
+  "answer": {
+    "function": "count_letter",
+    "arguments": {
+      "word": "rainbow",
+      "letter": "r"
+    },
+    "result": {
+      "result": "2"
+    }
+  }
+},
+{
+  "query": "How many times does the letter 'o' appear in the word 'ocean'?",
+  "answer": {
+    "function": "count_letter",
+    "arguments": {
+      "word": "ocean",
+      "letter": "o"
+    },
+    "result": {
+      "result": "2"
+    }
+  }
+},
+{
+  "query": "How many times does the letter 'b' appear in the word 'bubble'?",
+  "answer": {
+    "function": "count_letter",
+    "arguments": {
+      "word": "bubble",
+      "letter": "b"
+    },
+    "result": {
+      "result": "2"
+    }
+  }
+},
+{
+  "query": "How many times does the letter 'p' appear in the word 'paper'?",
+  "answer": {
+    "function": "count_letter",
+    "arguments": {
+      "word": "paper",
+      "letter": "p"
+    },
+    "result": {
+      "result": "1"
+    }
+  }
+},
+{
+  "query": "How many times does the letter 's' appear in the word 'space'?",
+  "answer": {
+    "function": "count_letter",
+    "arguments": {
+      "word": "space",
+      "letter": "s"
+    },
+    "result": {
+      "result": "1"
+    }
+  }
+},
+{
+  "query": "How many times does the letter 'd' appear in the word 'dog'?",
+  "answer": {
+    "function": "count_letter",
+    "arguments": {
+      "word": "dog",
+      "letter": "d"
+    },
+    "result": {
+      "result": "1"
+    }
+  }
+},
+{
+  "query": "How many times does the letter 'f' appear in the word 'fish'?",
+  "answer": {
+    "function": "count_letter",
+    "arguments": {
+      "word": "fish",
+      "letter": "f"
+    },
+    "result": {
+      "result": "1"
+    }
+  }
+},
+{
+  "query": "How many times does the letter 'c' appear in the word 'cat'?",
+  "answer": {
+    "function": "count_letter",
+    "arguments": {
+      "word": "cat",
+      "letter": "c"
+    },
+    "result": {
+      "result": "1"
+    }
+  }
+},
+{
+  "query": "How many times does the letter 'h' appear in the word 'house'?",
+  "answer": {
+    "function": "count_letter",
+    "arguments": {
+      "word": "house",
+      "letter": "h"
+    },
+    "result": {
+      "result": "1"
+    }
+  }
+},
+{
+  "query": "How many times does the letter 'm' appear in the word 'mouse'?",
+  "answer": {
+    "function": "count_letter",
+    "arguments": {
+      "word": "mouse",
+      "letter": "m"
+    },
+    "result": {
+      "result": "1"
+    }
+  }
+},
+{
+  "query": "How many times does the letter 'n' appear in the word 'nest'?",
+  "answer": {
+    "function": "count_letter",
+    "arguments": {
+      "word": "nest",
+      "letter": "n"
+    },
+    "result": {
+      "result": "1"
+    }
+  }
+},
+{
+  "query": "How many times does the letter 'v' appear in the word 'vase'?",
+  "answer": {
+    "function": "count_letter",
+    "arguments": {
+      "word": "vase",
+      "letter": "v"
+    },
+    "result": {
+      "result": "1"
+    }
+  }
+},
+{
+  "query": "How many times does the letter 'z' appear in the word 'zebra'?",
+  "answer": {
+    "function": "count_letter",
+    "arguments": {
+      "word": "zebra",
+      "letter": "z"
+    },
+    "result": {
+      "result": "1"
+    }
+  }
+},
+{
+  "query": "How many times does the letter 'q' appear in the word 'queen'?",
+  "answer": {
+    "function": "count_letter",
+    "arguments": {
+      "word": "queen",
+      "letter": "q"
+    },
+    "result": {
+      "result": "1"
+    }
+  }
+},
+{
+  "query": "How many times does the letter 'j' appear in the word 'jug'?",
+  "answer": {
+    "function": "count_letter",
+    "arguments": {
+      "word": "jug",
+      "letter": "j"
+    },
+    "result": {
+      "result": "1"
+    }
+  }
+},
+{
+  "query": "How many times does the letter 'k' appear in the word 'kite'?",
+  "answer": {
+    "function": "count_letter",
+    "arguments": {
+      "word": "kite",
+      "letter": "k"
+    },
+    "result": {
+      "result": "1"
+    }
+  }
+},
+{
+  "query": "How many times does the letter 'x' appear in the word 'fox'?",
+  "answer": {
+    "function": "count_letter",
+    "arguments": {
+      "word": "fox",
+      "letter": "x"
+    },
+    "result": {
+      "result": "1"
+    }
+  }
+},
+{
+  "query": "How many times does the letter 'y' appear in the word 'yes'?",
+  "answer": {
+    "function": "count_letter",
+    "arguments": {
+      "word": "yes",
+      "letter": "y"
+    },
+    "result": {
+      "result": "1"
+    }
+  }
+},
+{
+  "query": "How many times does the letter 'u' appear in the word 'umbrella'?",
+  "answer": {
+    "function": "count_letter",
+    "arguments": {
+      "word": "umbrella",
+      "letter": "u"
+    },
+    "result": {
+      "result": "1"
+    }
+  }
+},
+{
+  "query": "How many times does the letter 'e' appear in the word 'elephant'?",
+  "answer": {
+    "function": "count_letter",
+    "arguments": {
+      "word": "elephant",
+      "letter": "e"
+    },
+    "result": {
+      "result": "1"
+    }
+  }
+},
+{
+  "query": "How many times does the letter 'a' appear in the word 'apple'?",
+  "answer": {
+    "function": "count_letter",
+    "arguments": {
+      "word": "apple",
+      "letter": "a"
+    },
+    "result": {
+      "result": "1"
+    }
+  }
+},
+{
+  "query": "How many times does the letter 'i' appear in the word 'igloo'?",
+  "answer": {
+    "function": "count_letter",
+    "arguments": {
+      "word": "igloo",
+      "letter": "i"
+    },
+    "result": {
+      "result": "1"
+    }
+  }
+},
+{
+  "query": "How many times does the letter 'w' appear in the word 'whale'?",
+  "answer": {
+    "function": "count_letter",
+    "arguments": {
+      "word": "whale",
+      "letter": "w"
+    },
+    "result": {
+      "result": "1"
+    }
+  }
+},
+{
+  "query": "How many times does the letter 'g' appear in the word 'girl'?",
+  "answer": {
+    "function": "count_letter",
+    "arguments": {
+      "word": "girl",
+      "letter": "g"
+    },
+    "result": {
+      "result": "1"
+    }
+  }
+},
+{
+  "query": "How many times does the letter 'l' appear in the word 'lion'?",
+  "answer": {
+    "function": "count_letter",
+    "arguments": {
+      "word": "lion",
+      "letter": "l"
+    },
+    "result": {
+      "result": "1"
+    }
+  }
+},
+{
+  "query": "How many times does the letter 'o' appear in the word 'ocean'?",
+  "answer": {
+    "function": "count_letter",
+    "arguments": {
+      "word": "ocean",
+      "letter": "o"
+    },
+    "result": {
+      "result": "1"
+    }
+  }
+},
+{
+  "query": "How many times does the letter 'p' appear in the word 'paper'?",
+  "answer": {
+    "function": "count_letter",
+    "arguments": {
+      "word": "paper",
+      "letter": "p"
+    },
+    "result": {
+      "result": "1"
+    }
+  }
+},
+{
+  "query": "How many times does the letter 't' appear in the word 'tree'?",
+  "answer": {
+    "function": "count_letter",
+    "arguments": {
+      "word": "tree",
+      "letter": "t"
+    },
+    "result": {
+      "result": "1"
+    }
+  }
+},
+{
+  "query": "How many times does the letter 'r' appear in the word 'rainbow'?",
+  "answer": {
+    "function": "count_letter",
+    "arguments": {
+      "word": "rainbow",
+      "letter": "r"
+    },
+    "result": {
+      "result": "1"
+    }
+  }
+},
+{
+  "query": "How many times does the letter 's' appear in the word 'sunshine'?",
+  "answer": {
+    "function": "count_letter",
+    "arguments": {
+      "word": "sunshine",
+      "letter": "s"
+    },
+    "result": {
+      "result": "1"
+    }
+  }
+},
+{
+  "query": "How many times does the letter 'f' appear in the word 'flower'?",
+  "answer": {
+    "function": "count_letter",
+    "arguments": {
+      "word": "flower",
+      "letter": "f"
+    },
+    "result": {
+      "result": "1"
+    }
+  }
+},
+{
+  "query": "How many times does the letter 'h' appear in the word 'house'?",
+  "answer": {
+    "function": "count_letter",
+    "arguments": {
+      "word": "house",
+      "letter": "h"
+    },
+    "result": {
+      "result": "1"
+    }
+  }
+},
+{
+  "query": "How many times does the letter 'c' appear in the word 'cloud'?",
+  "answer": {
+    "function": "count_letter",
+    "arguments": {
+      "word": "cloud",
+      "letter": "c"
+    },
+    "result": {
+      "result": "1"
+    }
+  }
+},
+{
+  "query": "How many times does the letter 'm' appear in the word 'moments'?",
+  "answer": {
+    "function": "count_letter",
+    "arguments": {
+      "word": "moments",
+      "letter": "m"
+    },
+    "result": {
+      "result": "1"
+    }
+  }
+},
+{
+  "query": "How many times does the letter 'v' appear in the word 'victory'?",
+  "answer": {
+    "function": "count_letter",
+    "arguments": {
+      "word": "victory",
+      "letter": "v"
+    },
+    "result": {
+      "result": "1"
+    }
+  }
+},
+{
+  "query": "How many times does the letter 'b' appear in the word 'bubble'?",
+  "answer": {
+    "function": "count_letter",
+    "arguments": {
+      "word": "bubble",
+      "letter": "b"
+    },
+    "result": {
+      "result": "1"
+    }
+  }
+},
+{
+  "query": "How many times does the letter 'd' appear in the word 'dance'?",
+  "answer": {
+    "function": "count_letter",
+    "arguments": {
+      "word": "dance",
+      "letter": "d"
+    },
+    "result": {
+      "result": "1"
+    }
+  }
+},
+{
+  "query": "How many times does the letter 'z' appear in the word 'zebra'?",
+  "answer": {
+    "function": "count_letter",
+    "arguments": {
+      "word": "zebra",
+      "letter": "z"
+    },
+    "result": {
+      "result": "1"
+    }
+  }
+},
+{
+  "query": "How many times does the letter 'n' appear in the word 'night'?",
+  "answer": {
+    "function": "count_letter",
+    "arguments": {
+      "word": "night",
+      "letter": "n"
+    },
+    "result": {
+      "result": "1"
+    }
+  }
+},
+{
+  "query": "How many times does the letter 'p' appear in the word 'pink'?",
+  "answer": {
+    "function": "count_letter",
+    "arguments": {
+      "word": "pink",
+      "letter": "p"
+    },
+    "result": {
+      "result": "1"
+    }
+  }
+},
+{
+  "query": "How many times does the letter 'q' appear in the word 'queen'?",
+  "answer": {
+    "function": "count_letter",
+    "arguments": {
+      "word": "queen",
+      "letter": "q"
+    },
+    "result": {
+      "result": "1"
+    }
+  }
+},
+{
+  "query": "How many times does the letter 'w' appear in the word 'water'?",
+  "answer": {
+    "function": "count_letter",
+    "arguments": {
+      "word": "water",
+      "letter": "w"
+    },
+    "result": {
+      "result": "1"
+    }
+  }
+},
+{
+  "query": "How many times does the letter 'x' appear in the word 'xylophone'?",
+  "answer": {
+    "function": "count_letter",
+    "arguments": {
+      "word": "xylophone",
+      "letter": "x"
+    },
+    "result": {
+      "result": "1"
+    }
+  }
+},
+{
+  "query": "How many times does the letter 'y' appear in the word 'yacht'?",
+  "answer": {
+    "function": "count_letter",
+    "arguments": {
+      "word": "yacht",
+      "letter": "y"
+    },
+    "result": {
+      "result": "1"
+    }
+  }
+},
+{
+  "query": "How many times does the letter 'u' appear in the word 'umbrella'?",
+  "answer": {
+    "function": "count_letter",
+    "arguments": {
+      "word": "umbrella",
+      "letter": "u"
+    },
+    "result": {
+      "result": "1"
+    }
+  }
+},
+{
+  "query": "How many times does the letter 'j' appear in the word 'jester'?",
+  "answer": {
+    "function": "count_letter",
+    "arguments": {
+      "word": "jester",
+      "letter": "j"
+    },
+    "result": {
+      "result": "1"
+    }
+  }
+},
+{
+  "query": "How many times does the letter 'k' appear in the word 'knight'?",
+  "answer": {
+    "function": "count_letter",
+    "arguments": {
+      "word": "knight",
+      "letter": "k"
+    },
+    "result": {
+      "result": "1"
+    }
+  }
+},
+{
+  "query": "How many times does the letter 'i' appear in the word 'igloo'?",
+  "answer": {
+    "function": "count_letter",
+    "arguments": {
+      "word": "igloo",
+      "letter": "i"
+    },
+    "result": {
+      "result": "1"
+    }
+  }
+},
+{
+  "query": "How many times does the letter 'a' appear in the word 'apple'?",
+  "answer": {
+    "function": "count_letter",
+    "arguments": {
+      "word": "apple",
+      "letter": "a"
+    },
+    "result": {
+      "result": "1"
+    }
+  }
+},
+{
+  "query": "How many times does the letter 'e' appear in the word 'elephant'?",
+  "answer": {
+    "function": "count_letter",
+    "arguments": {
+      "word": "elephant",
+      "letter": "e"
+    },
+    "result": {
+      "result": "1"
+    }
+  }
+},
+{
+  "query": "How many times does the letter 'o' appear in the word 'ocean'?",
+  "answer": {
+    "function": "count_letter",
+    "arguments": {
+      "word": "ocean",
+      "letter": "o"
+    },
+    "result": {
+      "result": "1"
+    }
+  }
+},
+{
+  "query": "How many times does the letter 'l' appear in the word 'lake'?",
+  "answer": {
+    "function": "count_letter",
+    "arguments": {
+      "word": "lake",
+      "letter": "l"
+    },
+    "result": {
+      "result": "1"
+    }
+  }
+},
+{
+  "query": "How many times does the letter 'g' appear in the word 'goose'?",
+  "answer": {
+    "function": "count_letter",
+    "arguments": {
+      "word": "goose",
+      "letter": "g"
+    },
+    "result": {
+      "result": "1"
+    }
+  }
+},
+{
+  "query": "How many times does the letter 'T' appear in the word 'tiger'?",
+  "answer": {
+    "function": "count_letter",
+    "arguments": {
+      "word": "tiger",
+      "letter": "T"
+    },
+    "result": {
+      "result": "1"
+    }
+  }
+},
+{
+  "query": "How many times does the letter 'S' appear in the word 'snake'?",
+  "answer": {
+    "function": "count_letter",
+    "arguments": {
+      "word": "snake",
+      "letter": "S"
+    },
+    "result": {
+      "result": "1"
+    }
+  }
+},
+{
+  "query": "How many times does the letter 'P' appear in the word 'penguin'?",
+  "answer": {
+    "function": "count_letter",
+    "arguments": {
+      "word": "penguin",
+      "letter": "P"
+    },
+    "result": {
+      "result": "1"
+    }
+  }
+},
+{
+  "query": "How many times does the letter 'C' appear in the word 'chameleon'?",
+  "answer": {
+    "function": "count_letter",
+    "arguments": {
+      "word": "chameleon",
+      "letter": "C"
+    },
+    "result": {
+      "result": "1"
+    }
+  }
+},
+{
+  "query": "How many times does the letter 'M' appear in the word 'monkey'?",
+  "answer": {
+    "function": "count_letter",
+    "arguments": {
+      "word": "monkey",
+      "letter": "M"
+    },
+    "result": {
+      "result": "1"
+    }
+  }
+},
+{
+  "query": "How many times does the letter 'N' appear in the word 'ninja'?",
+  "answer": {
+    "function": "count_letter",
+    "arguments": {
+      "word": "ninja",
+      "letter": "N"
+    },
+    "result": {
+      "result": "1"
+    }
+  }
+},
+{
+  "query": "How many times does the letter 'F' appear in the word 'fox'?",
+  "answer": {
+    "function": "count_letter",
+    "arguments": {
+      "word": "fox",
+      "letter": "F"
+    },
+    "result": {
+      "result": "1"
+    }
+  }
+},
+{
+  "query": "How many times does the letter 'H' appear in the word 'hen'?",
+  "answer": {
+    "function": "count_letter",
+    "arguments": {
+      "word": "hen",
+      "letter": "H"
+    },
+    "result": {
+      "result": "1"
+    }
+  }
+},
+{
+  "query": "How many times does the letter 'R' appear in the word 'rhino'?",
+  "answer": {
+    "function": "count_letter",
+    "arguments": {
+      "word": "rhino",
+      "letter": "R"
+    },
+    "result": {
+      "result": "1"
+    }
+  }
+},
+{
+  "query": "How many times does the letter 'D' appear in the word 'dog'?",
+  "answer": {
+    "function": "count_letter",
+    "arguments": {
+      "word": "dog",
+      "letter": "D"
+    },
+    "result": {
+      "result": "1"
+    }
+  }
+},
+{
+  "query": "How many times does the letter 'V' appear in the word 'vulture'?",
+  "answer": {
+    "function": "count_letter",
+    "arguments": {
+      "word": "vulture",
+      "letter": "V"
+    },
+    "result": {
+      "result": "1"
+    }
+  }
+},
+{
+  "query": "How many times does the letter 'Z' appear in the word 'zebra'?",
+  "answer": {
+    "function": "count_letter",
+    "arguments": {
+      "word": "zebra",
+      "letter": "Z"
+    },
+    "result": {
+      "result": "1"
+    }
+  }
+}
+

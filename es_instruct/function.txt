@@ -1,0 +1,17 @@
+def count_letter(word: str, letter: str) -> str:
+    """
+    Counts the number of occurrences of a specified letter in a word.
+
+    Parameters:
+    word (str): The word to count letters in.
+    letter (str): The letter to count.
+
+    Example:
+    >>> count_letter('strawberry', 'R')
+    '{"result": 3}'
+    """
+    if not isinstance(word, str) or not isinstance(letter, str):
+        return json.dumps({"error": "The word and letter must be strings."})
+    if len(letter) != 1:
+        return json.dumps({"error": "The letter must be a single character."})
+    return json.dumps({"result": word.lower().count(letter.lower())})
