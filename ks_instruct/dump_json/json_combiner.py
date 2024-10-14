@@ -1,6 +1,6 @@
 ###############################################
 # Combines multiple JSON files into a single  #
-# JSON file with unique queries               #   
+# JSON file with unique queries               #
 # Written by ChatGPT                          #
 ###############################################
 
@@ -17,6 +17,7 @@ unique_queries = set()
 # List to store the final output
 final_queries = []
 
+
 # Function to process each JSON file
 def process_json_file(file_path):
     with open(file_path, 'r') as f:
@@ -27,6 +28,7 @@ def process_json_file(file_path):
             if query_str not in unique_queries:
                 unique_queries.add(query_str)
                 final_queries.append(query_obj)
+
 
 # Read all JSON files
 for json_file in glob(os.path.join(json_dir, '*.json')):
