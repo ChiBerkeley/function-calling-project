@@ -1,0 +1,384 @@
+{
+    "queries": [
+        {
+            "query": "How many 's' are in Kebab?",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Kebab",
+                    "letter": "s"
+                }
+            }
+        },
+        {
+            "query": "What's the count of 't' in Tornado?",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Tornado",
+                    "letter": "t"
+                }
+            }
+        },
+        {
+            "query": "How many 'd' are in Dinosaur?",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Dinosaur",
+                    "letter": "d"
+                }
+            }
+        },
+        {
+            "query": "What's the count of 'r' in Robot?",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Robot",
+                    "letter": "r"
+                }
+            }
+        },
+        {
+            "query": "How many 'e' are in Elephant?",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Elephant",
+                    "letter": "e"
+                }
+            }
+        },
+        {
+            "query": "What's the count of 'a' in Astronaut?",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Astronaut",
+                    "letter": "a"
+                }
+            }
+        },
+        {
+            "query": "How many 'i' are in Igloo?",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Igloo",
+                    "letter": "i"
+                }
+            }
+        },
+        {
+            "query": "What's the count of 'o' in Ocean?",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Ocean",
+                    "letter": "o"
+                }
+            }
+        },
+        {
+            "query": "How many 'n' are in Ninja?",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Ninja",
+                    "letter": "n"
+                }
+            }
+        },
+        {
+            "query": "What's the count of 'g' in Galaxy?",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Galaxy",
+                    "letter": "g"
+                }
+            }
+        },
+        {
+            "query": "How many 'c' are in Computer?",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Computer",
+                    "letter": "c"
+                }
+            }
+        },
+        {
+            "query": "What's the count of 'u' in Universe?",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Universe",
+                    "letter": "u"
+                }
+            }
+        },
+        {
+            "query": "How many 'm' are in Meteorite?",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Meteorite",
+                    "letter": "m"
+                }
+            }
+        },
+        {
+            "query": "What's the count of 'h' in Hurricane?",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Hurricane",
+                    "letter": "h"
+                }
+            }
+        },
+        {
+            "query": "How many 'f' are in Fossil?",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Fossil",
+                    "letter": "f"
+                }
+            }
+        },
+        {
+            "query": "What's the count of 'p' in Pyramid?",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Pyramid",
+                    "letter": "p"
+                }
+            }
+        },
+        {
+            "query": "How many 'l' are in Llama?",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Llama",
+                    "letter": "l"
+                }
+            }
+        },
+        {
+            "query": "What's the count of 'k' in Kryptonite?",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Kryptonite",
+                    "letter": "k"
+                }
+            }
+        },
+        {
+            "query": "How many 'j' are in Jester?",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Jester",
+                    "letter": "j"
+                }
+            }
+        },
+        {
+            "query": "What's the count of 'x' in Xenon?",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Xenon",
+                    "letter": "x"
+                }
+            }
+        },
+        {
+            "query": "How many 'v' are in Volcano?",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Volcano",
+                    "letter": "v"
+                }
+            }
+        },
+        {
+            "query": "What's the count of 'y' in Yellowstone?",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Yellowstone",
+                    "letter": "y"
+                }
+            }
+        },
+        {
+            "query": "How many 'z' are in Zodiac?",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Zodiac",
+                    "letter": "z"
+                }
+            }
+        },
+        {
+            "query": "What's the count of 'q' in Quasar?",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Quasar",
+                    "letter": "q"
+                }
+            }
+        },
+        {
+            "query": "How many 'w' are in Waterfall?",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Waterfall",
+                    "letter": "w"
+                }
+            }
+        },
+        {
+            "query": "What's the count of 'e' in Espresso?",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Espresso",
+                    "letter": "e"
+                }
+            }
+        },
+        {
+            "query": "How many 't' are in Tangerine?",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Tangerine",
+                    "letter": "t"
+                }
+            }
+        },
+        {
+            "query": "What's the count of 's' are in Sphinx?",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Sphinx",
+                    "letter": "s"
+                }
+            }
+        },
+        {
+            "query": "How many 'r' are in Rhapsody?",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Rhapsody",
+                    "letter": "r"
+                }
+            }
+        },
+        {
+            "query": "What's the count of 'o' are in Oasis?",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Oasis",
+                    "letter": "o"
+                }
+            }
+        },
+        {
+            "query": "How many 'i' are in Iguana?",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Iguana",
+                    "letter": "i"
+                }
+            }
+        },
+        {
+            "query": "What's the count of 'a' are in Aroma?",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Aroma",
+                    "letter": "a"
+                }
+            }
+        },
+        {
+            "query": "How many 'm' are in Mirage?",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Mirage",
+                    "letter": "m"
+                }
+            }
+        },
+        {
+            "query": "What's the count of 'g' are in Galaxy?",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Galaxy",
+                    "letter": "g"
+                }
+            }
+        },
+        {
+            "query": "How many 'c' are in Cactus?",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Cactus",
+                    "letter": "c"
+                }
+            }
+        },
+        {
+            "query": "What's the count of 'u' are in Utopia?",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Utopia",
+                    "letter": "u"
+                }
+            }
+        },
+        {
+            "query": "How many 'h' are in Hurricane?",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Hurricane",
+                    "letter": "h"
+                }
+            }
+        },
+        {
+            "query": "What's the count of 'f' are in Fjord?",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Fjord",
+                    "letter": "f"
+                }
+            }
+        }
+    ]
+}

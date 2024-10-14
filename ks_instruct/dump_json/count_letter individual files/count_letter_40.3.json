@@ -1,0 +1,384 @@
+{
+    "queries": [
+        {
+            "query": "How many times does the letter 'K' appear in the word 'Computer'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Computer",
+                    "letter": "K"
+                }
+            }
+        },
+        {
+            "query": "What is the frequency of the letter 'T' in the term 'Technologies'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Technologies",
+                    "letter": "T"
+                }
+            }
+        },
+        {
+            "query": "In the phrase 'Universe', how many times does the letter 'E' show up",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Universe",
+                    "letter": "E"
+                }
+            }
+        },
+        {
+            "query": "How often is the letter 'A' used in the word 'Apple'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Apple",
+                    "letter": "A"
+                }
+            }
+        },
+        {
+            "query": "Count how many times the letter 'S' appears in the term 'Successes'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Successes",
+                    "letter": "S"
+                }
+            }
+        },
+        {
+            "query": "How many instances of the letter 'M' are there in the word 'Meteorite'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Meteorite",
+                    "letter": "M"
+                }
+            }
+        },
+        {
+            "query": "In the term 'Rhythm', how often does the letter 'H' appear",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Rhythm",
+                    "letter": "H"
+                }
+            }
+        },
+        {
+            "query": "What is the count of the letter 'L' in the word 'Laughed'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Laughed",
+                    "letter": "L"
+                }
+            }
+        },
+        {
+            "query": "In the phrase 'Computer', how many times does the letter 'P' show up",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Computer",
+                    "letter": "P"
+                }
+            }
+        },
+        {
+            "query": "How often is the letter 'N' used in the term 'Narrator'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Narrator",
+                    "letter": "N"
+                }
+            }
+        },
+        {
+            "query": "Count how many times the letter 'O' appears in the word 'Ocean'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Ocean",
+                    "letter": "O"
+                }
+            }
+        },
+        {
+            "query": "How many instances of the letter 'T' are there in the word 'Terrific'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Terrific",
+                    "letter": "T"
+                }
+            }
+        },
+        {
+            "query": "In the term 'Rabbit', how often does the letter 'B' appear",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Rabbit",
+                    "letter": "B"
+                }
+            }
+        },
+        {
+            "query": "What is the count of the letter 'I' in the word 'Icy'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Icy",
+                    "letter": "I"
+                }
+            }
+        },
+        {
+            "query": "In the phrase 'Space', how many times does the letter 'E' show up",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Space",
+                    "letter": "E"
+                }
+            }
+        },
+        {
+            "query": "How often is the letter 'C' used in the term 'Cloudy'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Cloudy",
+                    "letter": "C"
+                }
+            }
+        },
+        {
+            "query": "Count how many times the letter 'D' appears in the word 'Dreams'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Dreams",
+                    "letter": "D"
+                }
+            }
+        },
+        {
+            "query": "How many instances of the letter 'R' are there in the word 'Rainbow'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Rainbow",
+                    "letter": "R"
+                }
+            }
+        },
+        {
+            "query": "In the term 'Honey', how often does the letter 'E' appear",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Honey",
+                    "letter": "E"
+                }
+            }
+        },
+        {
+            "query": "What is the count of the letter 'Y' in the word 'Yellow'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Yellow",
+                    "letter": "Y"
+                }
+            }
+        },
+        {
+            "query": "In the phrase 'Flower', how many times does the letter 'F' show up",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Flower",
+                    "letter": "F"
+                }
+            }
+        },
+        {
+            "query": "How often is the letter 'W' used in the term 'Waterfall'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Waterfall",
+                    "letter": "W"
+                }
+            }
+        },
+        {
+            "query": "Count how many times the letter 'E' appears in the word 'Elephant'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Elephant",
+                    "letter": "E"
+                }
+            }
+        },
+        {
+            "query": "How many instances of the letter 'P' are there in the word 'Piano'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Piano",
+                    "letter": "P"
+                }
+            }
+        },
+        {
+            "query": "In the term 'Sparkle', how often does the letter 'A' appear",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Sparkle",
+                    "letter": "A"
+                }
+            }
+        },
+        {
+            "query": "What is the count of the letter 'S' in the word 'Sunshine'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Sunshine",
+                    "letter": "S"
+                }
+            }
+        },
+        {
+            "query": "In the phrase 'Tiger', how many times does the letter 'G' show up",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Tiger",
+                    "letter": "G"
+                }
+            }
+        },
+        {
+            "query": "How often is the letter 'N' used in the term 'Nightmare'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Nightmare",
+                    "letter": "N"
+                }
+            }
+        },
+        {
+            "query": "Count how many times the letter 'O' appears in the word 'Orange'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Orange",
+                    "letter": "O"
+                }
+            }
+        },
+        {
+            "query": "How many instances of the letter 'R' are there in the word 'Rainy'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Rainy",
+                    "letter": "R"
+                }
+            }
+        },
+        {
+            "query": "In the term 'Dance', how often does the letter 'C' appear",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Dance",
+                    "letter": "C"
+                }
+            }
+        },
+        {
+            "query": "What is the count of the letter 'A' in the word 'Amaze'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Amaze",
+                    "letter": "A"
+                }
+            }
+        },
+        {
+            "query": "In the phrase 'Bubble', how many times does the letter 'B' show up",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Bubble",
+                    "letter": "B"
+                }
+            }
+        },
+        {
+            "query": "How often is the letter 'L' used in the term 'Laughed'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Laughed",
+                    "letter": "L"
+                }
+            }
+        },
+        {
+            "query": "Count how many times the letter 'E' appears in the word 'Elephant's'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Elephant's",
+                    "letter": "E"
+                }
+            }
+        },
+        {
+            "query": "How many instances of the letter 'T' are there in the word 'Terrifically'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Terrifically",
+                    "letter": "T"
+                }
+            }
+        },
+        {
+            "query": "In the term 'Rhapsody', how often does the letter 'S' appear",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Rhapsody",
+                    "letter": "S"
+                }
+            }
+        },
+        {
+            "query": "What is the count of the letter 'Y' in the word 'Yesterday'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Yesterday",
+                    "letter": "Y"
+                }
+            }
+        }
+    ]
+}

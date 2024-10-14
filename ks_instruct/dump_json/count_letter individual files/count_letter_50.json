@@ -1,0 +1,374 @@
+{
+    "queries": [
+        {
+            "query": "Count the letter 'x' in banana",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "banana",
+                    "letter": "x"
+                }
+            }
+        },
+        {
+            "query": "Find the frequency of the letter 'q' in chocolate",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "chocolate",
+                    "letter": "q"
+                }
+            }
+        },
+        {
+            "query": "Letter count for the letter 'y' in strawberry",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "strawberry",
+                    "letter": "y"
+                }
+            }
+        },
+        {
+            "query": "How many times does the letter 'v' appear in kiwi?",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "kiwi",
+                    "letter": "v"
+                }
+            }
+        },
+        {
+            "query": "Count the occurrences of the letter 'k' in pineapple",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "pineapple",
+                    "letter": "k"
+                }
+            }
+        },
+        {
+            "query": "Letter frequency for the letter 'n' in mango",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "mango",
+                    "letter": "n"
+                }
+            }
+        },
+        {
+            "query": "The count of the letter 'u' in blueberry",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "blueberry",
+                    "letter": "u"
+                }
+            }
+        },
+        {
+            "query": "How many times is the letter 'r' in watermelon?",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "watermelon",
+                    "letter": "r"
+                }
+            }
+        },
+        {
+            "query": "Count the instances of the letter 't' in orange",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "orange",
+                    "letter": "t"
+                }
+            }
+        },
+        {
+            "query": "Letter count for the word 'grapes' and the letter 'p'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "grapes",
+                    "letter": "p"
+                }
+            }
+        },
+        {
+            "query": "Find the frequency of the letter 's' in avocado",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "avocado",
+                    "letter": "s"
+                }
+            }
+        },
+        {
+            "query": "Count the occurrences of the letter 'a' in cherry",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "cherry",
+                    "letter": "a"
+                }
+            }
+        },
+        {
+            "query": "Letter frequency for the word 'lemon' and the letter 'm'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "lemon",
+                    "letter": "m"
+                }
+            }
+        },
+        {
+            "query": "How many times does the letter 'o' appear in peach?",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "peach",
+                    "letter": "o"
+                }
+            }
+        },
+        {
+            "query": "Count the instances of the letter 'c' in plum",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "plum",
+                    "letter": "c"
+                }
+            }
+        },
+        {
+            "query": "Letter count for the word 'fig' and the letter 'i'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "fig",
+                    "letter": "i"
+                }
+            }
+        },
+        {
+            "query": "Find the frequency of the letter 'f' in apricot",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "apricot",
+                    "letter": "f"
+                }
+            }
+        },
+        {
+            "query": "Count the occurrences of the letter 'e' in pear",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "pear",
+                    "letter": "e"
+                }
+            }
+        },
+        {
+            "query": "Letter frequency for the word 'olive' and the letter 'l'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "olive",
+                    "letter": "l"
+                }
+            }
+        },
+        {
+            "query": "How many times does the letter 'h' appear in papaya?",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "papaya",
+                    "letter": "h"
+                }
+            }
+        },
+        {
+            "query": "Count the instances of the letter 'j' in tomato",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "tomato",
+                    "letter": "j"
+                }
+            }
+        },
+        {
+            "query": "Letter count for the word 'squash' and the letter 'q'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "squash",
+                    "letter": "q"
+                }
+            }
+        },
+        {
+            "query": "Find the frequency of the letter 'w' in onion",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "onion",
+                    "letter": "w"
+                }
+            }
+        },
+        {
+            "query": "Count the occurrences of the letter 'd' in broccoli",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "broccoli",
+                    "letter": "d"
+                }
+            }
+        },
+        {
+            "query": "Letter frequency for the word 'rhubarb' and the letter 'b'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "rhubarb",
+                    "letter": "b"
+                }
+            }
+        },
+        {
+            "query": "How many times does the letter 'p' appear in radish?",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "radish",
+                    "letter": "p"
+                }
+            }
+        },
+        {
+            "query": "Count the instances of the letter 'g' in garlic",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "garlic",
+                    "letter": "g"
+                }
+            }
+        },
+        {
+            "query": "Letter count for the word 'cabbage' and the letter 'a'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "cabbage",
+                    "letter": "a"
+                }
+            }
+        },
+        {
+            "query": "Find the frequency of the letter 'i' in asparagus",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "asparagus",
+                    "letter": "i"
+                }
+            }
+        },
+        {
+            "query": "Count the occurrences of the letter 'm' in mushroom",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "mushroom",
+                    "letter": "m"
+                }
+            }
+        },
+        {
+            "query": "Letter frequency for the word 'parsnip' and the letter 's'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "parsnip",
+                    "letter": "s"
+                }
+            }
+        },
+        {
+            "query": "How many times does the letter 'n' appear in beetroot?",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "beetroot",
+                    "letter": "n"
+                }
+            }
+        },
+        {
+            "query": "Count the instances of the letter 'r' in turnip",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "turnip",
+                    "letter": "r"
+                }
+            }
+        },
+        {
+            "query": "Letter count for the word 'kale' and the letter 'e'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "kale",
+                    "letter": "e"
+                }
+            }
+        },
+        {
+            "query": "Find the frequency of the letter 'l' in okra",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "okra",
+                    "letter": "l"
+                }
+            }
+        },
+        {
+            "query": "Count the occurrences of the letter 't' in eggplant",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "eggplant",
+                    "letter": "t"
+                }
+            }
+        },
+        {
+            "query": "Letter frequency for the word 'carrot' and the letter 'c'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "carrot",
+                    "letter": "c"
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,434 @@
+{
+    "queries": [
+        {
+            "query": "What percentage of 'quokkas' contains the letter 'e'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "quokkas",
+                    "letter": "e"
+                }
+            }
+        },
+        {
+            "query": "How many times does the letter 't' appear in 'sociably'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "sociably",
+                    "letter": "t"
+                }
+            }
+        },
+        {
+            "query": "What is the count of 'kayaks' for the letter 'a'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "kayaks",
+                    "letter": "a"
+                }
+            }
+        },
+        {
+            "query": "In 'garrulous', how many times does the letter 'u' appear",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "garrulous",
+                    "letter": "u"
+                }
+            }
+        },
+        {
+            "query": "What percentage of 'buzzing' contains the letter 'z'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "buzzing",
+                    "letter": "z"
+                }
+            }
+        },
+        {
+            "query": "In 'flapjacks', how many times does the letter 'f' appear",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "flapjacks",
+                    "letter": "f"
+                }
+            }
+        },
+        {
+            "query": "How many times does the letter 'p' appear in 'ripples'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "ripples",
+                    "letter": "p"
+                }
+            }
+        },
+        {
+            "query": "What is the count of 'squid', for the letter 'd'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "squid",
+                    "letter": "d"
+                }
+            }
+        },
+        {
+            "query": "In 'quixotic', how many times does the letter 'x' appear",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "quixotic",
+                    "letter": "x"
+                }
+            }
+        },
+        {
+            "query": "What percentage of 'buzzing' contains the letter 'g'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "buzzing",
+                    "letter": "g"
+                }
+            }
+        },
+        {
+            "query": "How many times does the letter 's' appear in 'finesse'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "finesse",
+                    "letter": "s"
+                }
+            }
+        },
+        {
+            "query": "What is the count of 'quixotic', for the letter 'i'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "quixotic",
+                    "letter": "i"
+                }
+            }
+        },
+        {
+            "query": "In 'sizzle', how many times does the letter 'z' appear",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "sizzle",
+                    "letter": "z"
+                }
+            }
+        },
+        {
+            "query": "What percentage of 'knotty' contains the letter 'y'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "knotty",
+                    "letter": "y"
+                }
+            }
+        },
+        {
+            "query": "How many times does the letter 'k' appear in 'snicker'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "snicker",
+                    "letter": "k"
+                }
+            }
+        },
+        {
+            "query": "What is the count of 'gallimaufry', for the letter 'm'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "gallimaufry",
+                    "letter": "m"
+                }
+            }
+        },
+        {
+            "query": "In 'buzzing', how many times does the letter 'u' appear",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "buzzing",
+                    "letter": "u"
+                }
+            }
+        },
+        {
+            "query": "What percentage of 'quokkas' contains the letter 'q'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "quokkas",
+                    "letter": "q"
+                }
+            }
+        },
+        {
+            "query": "How many times does the letter 'r' appear in 'snuffles'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "snuffles",
+                    "letter": "r"
+                }
+            }
+        },
+        {
+            "query": "What is the count of 'sundae', for the letter 'n'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "sundae",
+                    "letter": "n"
+                }
+            }
+        },
+        {
+            "query": "In 'kiboshed', how many times does the letter 'h' appear",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "kiboshed",
+                    "letter": "h"
+                }
+            }
+        },
+        {
+            "query": "What percentage of 'flabbergast' contains the letter 'g'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "flabbergast",
+                    "letter": "g"
+                }
+            }
+        },
+        {
+            "query": "How many times does the letter 'f' appear in 'gallimaufry'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "gallimaufry",
+                    "letter": "f"
+                }
+            }
+        },
+        {
+            "query": "What is the count of 'sizzle', for the letter 'z'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "sizzle",
+                    "letter": "z"
+                }
+            }
+        },
+        {
+            "query": "In 'quokkas', how many times does the letter 'k' appear",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "quokkas",
+                    "letter": "k"
+                }
+            }
+        },
+        {
+            "query": "What percentage of 'buzzing' contains the letter 'b'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "buzzing",
+                    "letter": "b"
+                }
+            }
+        },
+        {
+            "query": "How many times does the letter 'y' appear in 'knotty'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "knotty",
+                    "letter": "y"
+                }
+            }
+        },
+        {
+            "query": "What is the count of 'sundae', for the letter 'u'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "sundae",
+                    "letter": "u"
+                }
+            }
+        },
+        {
+            "query": "In 'quixotic', how many times does the letter 'q' appear",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "quixotic",
+                    "letter": "q"
+                }
+            }
+        },
+        {
+            "query": "What percentage of 'ripples' contains the letter 'p'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "ripples",
+                    "letter": "p"
+                }
+            }
+        },
+        {
+            "query": "How many times does the letter 's' appear in 'snickers'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "snickers",
+                    "letter": "s"
+                }
+            }
+        },
+        {
+            "query": "What is the count of 'buzzing', for the letter 'z'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "buzzing",
+                    "letter": "z"
+                }
+            }
+        },
+        {
+            "query": "In 'flapjacks', how many times does the letter 'f' appear",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "flapjacks",
+                    "letter": "f"
+                }
+            }
+        },
+        {
+            "query": "What percentage of 'sizzle' contains the letter 'z'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "sizzle",
+                    "letter": "z"
+                }
+            }
+        },
+        {
+            "query": "How many times does the letter 'i' appear in 'quixotic'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "quixotic",
+                    "letter": "i"
+                }
+            }
+        },
+        {
+            "query": "What is the count of 'snuffles', for the letter 's'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "snuffles",
+                    "letter": "s"
+                }
+            }
+        },
+        {
+            "query": "In 'knotty', how many times does the letter 'k' appear",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "knotty",
+                    "letter": "k"
+                }
+            }
+        },
+        {
+            "query": "What percentage of 'quokkas' contains the letter 'o'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "quokkas",
+                    "letter": "o"
+                }
+            }
+        },
+        {
+            "query": "How many times does the letter 'y' appear in 'gallimaufry'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "gallimaufry",
+                    "letter": "y"
+                }
+            }
+        },
+        {
+            "query": "What is the count of 'quixotic', for the letter 'i'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "quixotic",
+                    "letter": "i"
+                }
+            }
+        },
+        {
+            "query": "In 'sundae', how many times does the letter 'u' appear",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "sundae",
+                    "letter": "u"
+                }
+            }
+        },
+        {
+            "query": "What percentage of 'snickers' contains the letter 'c'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "snickers",
+                    "letter": "c"
+                }
+            }
+        },
+        {
+            "query": "How many times does the letter 'r' appear in 'quokkas'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "quokkas",
+                    "letter": "r"
+                }
+            }
+        }
+    ]
+}

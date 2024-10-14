@@ -1,0 +1,404 @@
+{
+    "queries": [
+        {
+            "query": "How many Es are in Sandwich",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Sandwich",
+                    "letter": "e"
+                }
+            }
+        },
+        {
+            "query": "What is the count of As in Caramel",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Caramel",
+                    "letter": "a"
+                }
+            }
+        },
+        {
+            "query": "How many Ts are in Perfume",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Perfume",
+                    "letter": "t"
+                }
+            }
+        },
+        {
+            "query": "What is the count of Os in Honeybee",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Honeybee",
+                    "letter": "o"
+                }
+            }
+        },
+        {
+            "query": "Count the number of Ps in Quokka",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Quokka",
+                    "letter": "p"
+                }
+            }
+        },
+        {
+            "query": "How many Ms are in Whimsy",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Whimsy",
+                    "letter": "m"
+                }
+            }
+        },
+        {
+            "query": "What is the count of Fs in Phantom",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Phantom",
+                    "letter": "f"
+                }
+            }
+        },
+        {
+            "query": "Count the number of Ns in Serenade",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Serenade",
+                    "letter": "n"
+                }
+            }
+        },
+        {
+            "query": "How many Rs are in Rhapsody",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Rhapsody",
+                    "letter": "r"
+                }
+            }
+        },
+        {
+            "query": "What is the count of Ls in Lullaby",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Lullaby",
+                    "letter": "l"
+                }
+            }
+        },
+        {
+            "query": "Count the number of Cs in Cacophony",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Cacophony",
+                    "letter": "c"
+                }
+            }
+        },
+        {
+            "query": "How many Ds are in Dichotomy",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Dichotomy",
+                    "letter": "d"
+                }
+            }
+        },
+        {
+            "query": "What is the count of Gs in Galvanize",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Galvanize",
+                    "letter": "g"
+                }
+            }
+        },
+        {
+            "query": "Count the number of Js in Jubilant",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Jubilant",
+                    "letter": "j"
+                }
+            }
+        },
+        {
+            "query": "How many Ks are in Kaleidoscope",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Kaleidoscope",
+                    "letter": "k"
+                }
+            }
+        },
+        {
+            "query": "What is the count of Ss in Sophisticate",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Sophisticate",
+                    "letter": "s"
+                }
+            }
+        },
+        {
+            "query": "Count the number of Hs in Hydrangea",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Hydrangea",
+                    "letter": "h"
+                }
+            }
+        },
+        {
+            "query": "How many Vs are in Vigilante",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Vigilante",
+                    "letter": "v"
+                }
+            }
+        },
+        {
+            "query": "What is the count of Bs in Beguile",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Beguile",
+                    "letter": "b"
+                }
+            }
+        },
+        {
+            "query": "Count the number of Ys in Yellow",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Yellow",
+                    "letter": "y"
+                }
+            }
+        },
+        {
+            "query": "How many Ts are in Tintinnabulation",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Tintinnabulation",
+                    "letter": "t"
+                }
+            }
+        },
+        {
+            "query": "What is the count of Pns are in Papillon",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Papillon",
+                    "letter": "p"
+                }
+            }
+        },
+        {
+            "query": "Count the number of Qs are in Quandary",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Quandary",
+                    "letter": "q"
+                }
+            }
+        },
+        {
+            "query": "How many Xs are in Xanthic",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Xanthic",
+                    "letter": "x"
+                }
+            }
+        },
+        {
+            "query": "What is the count of Zs are in Zymurgy",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Zymurgy",
+                    "letter": "z"
+                }
+            }
+        },
+        {
+            "query": "Count the number of Es are in Ephemera",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Ephemera",
+                    "letter": "e"
+                }
+            }
+        },
+        {
+            "query": "How many As are in Axiom",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Axiom",
+                    "letter": "a"
+                }
+            }
+        },
+        {
+            "query": "What is the count of Os are in Oboe",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Oboe",
+                    "letter": "o"
+                }
+            }
+        },
+        {
+            "query": "Count the number of Ms are in Mimesis",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Mimesis",
+                    "letter": "m"
+                }
+            }
+        },
+        {
+            "query": "How many Fs are in Finesse",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Finesse",
+                    "letter": "f"
+                }
+            }
+        },
+        {
+            "query": "What is the count of Ns are in Nexus",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Nexus",
+                    "letter": "n"
+                }
+            }
+        },
+        {
+            "query": "Count the number of Rs are in Rhapsody",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Rhapsody",
+                    "letter": "r"
+                }
+            }
+        },
+        {
+            "query": "How many Ls are in Luminesce",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Luminesce",
+                    "letter": "l"
+                }
+            }
+        },
+        {
+            "query": "What is the count of Cs are in Cacography",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Cacography",
+                    "letter": "c"
+                }
+            }
+        },
+        {
+            "query": "Count the number of Ds are in Dichotomy",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Dichotomy",
+                    "letter": "d"
+                }
+            }
+        },
+        {
+            "query": "How many Gs are in Galvanize",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Galvanize",
+                    "letter": "g"
+                }
+            }
+        },
+        {
+            "query": "What is the count of Js are in Jubilant",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Jubilant",
+                    "letter": "j"
+                }
+            }
+        },
+        {
+            "query": "Count the number of Ks are in Kaleidoscope",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Kaleidoscope",
+                    "letter": "k"
+                }
+            }
+        },
+        {
+            "query": "How many Ss are in Sophisticate",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Sophisticate",
+                    "letter": "s"
+                }
+            }
+        },
+        {
+            "query": "What is the count of Hs are in Hydrangea",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Hydrangea",
+                    "letter": "h"
+                }
+            }
+        }
+    ]
+}

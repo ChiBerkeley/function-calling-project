@@ -1,0 +1,384 @@
+{
+    "queries": [
+        {
+            "query": "How many times does the letter 'x' appear in the word 'exquisite'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "exquisite",
+                    "letter": "x"
+                }
+            }
+        },
+        {
+            "query": "Can you count how many times the letter 'k' appears in the word 'kryptonite'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "kryptonite",
+                    "letter": "k"
+                }
+            }
+        },
+        {
+            "query": "What is the frequency of the letter 'g' in the word 'galaxy'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "galaxy",
+                    "letter": "g"
+                }
+            }
+        },
+        {
+            "query": "How many times does the letter 's' appear in the word 'splendid'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "splendid",
+                    "letter": "s"
+                }
+            }
+        },
+        {
+            "query": "Can you count how many times the letter 'q' appears in the word 'questionnaire'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "questionnaire",
+                    "letter": "q"
+                }
+            }
+        },
+        {
+            "query": "What is the occurrence of the letter 'd' in the word 'diamonds'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "diamonds",
+                    "letter": "d"
+                }
+            }
+        },
+        {
+            "query": "How many times does the letter 'c' appear in the word 'cosmic'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "cosmic",
+                    "letter": "c"
+                }
+            }
+        },
+        {
+            "query": "Can you count how many times the letter 'f' appears in the word 'fantasy'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "fantasy",
+                    "letter": "f"
+                }
+            }
+        },
+        {
+            "query": "What is the frequency of the letter 'j' in the word 'journey'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "journey",
+                    "letter": "j"
+                }
+            }
+        },
+        {
+            "query": "How many times does the letter 'v' appear in the word 'velocity'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "velocity",
+                    "letter": "v"
+                }
+            }
+        },
+        {
+            "query": "Can you count how many times the letter 'p' appears in the word 'paradigm'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "paradigm",
+                    "letter": "p"
+                }
+            }
+        },
+        {
+            "query": "What is the occurrence of the letter 'm' in the word 'marvelous'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "marvelous",
+                    "letter": "m"
+                }
+            }
+        },
+        {
+            "query": "How many times does the letter 'r' appear in the word 'revolutionary'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "revolutionary",
+                    "letter": "r"
+                }
+            }
+        },
+        {
+            "query": "Can you count how many times the letter 'e' appears in the word 'ecstatic'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "ecstatic",
+                    "letter": "e"
+                }
+            }
+        },
+        {
+            "query": "What is the frequency of the letter 't' in the word 'technique'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "technique",
+                    "letter": "t"
+                }
+            }
+        },
+        {
+            "query": "How many times does the letter 'y' appear in the word 'yacht'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "yacht",
+                    "letter": "y"
+                }
+            }
+        },
+        {
+            "query": "Can you count how many times the letter 'h' appears in the word 'historical'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "historical",
+                    "letter": "h"
+                }
+            }
+        },
+        {
+            "query": "What is the occurrence of the letter 'u' in the word 'universe'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "universe",
+                    "letter": "u"
+                }
+            }
+        },
+        {
+            "query": "How many times does the letter 'n' appear in the word 'novelty'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "novelty",
+                    "letter": "n"
+                }
+            }
+        },
+        {
+            "query": "Can you count how many times the letter 'i' appears in the word 'illusion'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "illusion",
+                    "letter": "i"
+                }
+            }
+        },
+        {
+            "query": "What is the frequency of the letter 'l' in the word 'luxurious'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "luxurious",
+                    "letter": "l"
+                }
+            }
+        },
+        {
+            "query": "How many times does the letter 'w' appear in the word 'wizardry'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "wizardry",
+                    "letter": "w"
+                }
+            }
+        },
+        {
+            "query": "Can you count how many times the letter 'z' appears in the word 'zephyr'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "zephyr",
+                    "letter": "z"
+                }
+            }
+        },
+        {
+            "query": "What is the occurrence of the letter 'a' in the word 'astronaut'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "astronaut",
+                    "letter": "a"
+                }
+            }
+        },
+        {
+            "query": "How many times does the letter 'o' appear in the word 'oscillation'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "oscillation",
+                    "letter": "o"
+                }
+            }
+        },
+        {
+            "query": "Can you count how many times the letter 's' appears in the word 'symphony'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "symphony",
+                    "letter": "s"
+                }
+            }
+        },
+        {
+            "query": "What is the frequency of the letter 'd' in the word 'dictionary'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "dictionary",
+                    "letter": "d"
+                }
+            }
+        },
+        {
+            "query": "How many times does the letter 'c' appear in the word 'century'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "century",
+                    "letter": "c"
+                }
+            }
+        },
+        {
+            "query": "Can you count how many times the letter 'm' appears in the word 'magnitude'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "magnitude",
+                    "letter": "m"
+                }
+            }
+        },
+        {
+            "query": "What is the occurrence of the letter 'f' in the word 'fluidity'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "fluidity",
+                    "letter": "f"
+                }
+            }
+        },
+        {
+            "query": "How many times does the letter 't' appear in the word 'topography'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "topography",
+                    "letter": "t"
+                }
+            }
+        },
+        {
+            "query": "Can you count how many times the letter 'e' appears in the word 'encyclopedia'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "encyclopedia",
+                    "letter": "e"
+                }
+            }
+        },
+        {
+            "query": "What is the frequency of the letter 'p' in the word 'permutation'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "permutation",
+                    "letter": "p"
+                }
+            }
+        },
+        {
+            "query": "How many times does the letter 'a' appear in the word 'acceleration'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "acceleration",
+                    "letter": "a"
+                }
+            }
+        },
+        {
+            "query": "Can you count how many times the letter 'r' appears in the word 'renaissance'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "renaissance",
+                    "letter": "r"
+                }
+            }
+        },
+        {
+            "query": "What is the occurrence of the letter 'l' in the word 'latitude'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "latitude",
+                    "letter": "l"
+                }
+            }
+        },
+        {
+            "query": "How many times does the letter 'n' appear in the word 'novelistic'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "novelistic",
+                    "letter": "n"
+                }
+            }
+        },
+        {
+            "query": "Can you count how many times the letter 'u' appears in the word 'unpredictable'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "unpredictable",
+                    "letter": "u"
+                }
+            }
+        }
+    ]
+}

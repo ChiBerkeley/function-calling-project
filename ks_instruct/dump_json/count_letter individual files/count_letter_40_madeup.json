@@ -1,0 +1,394 @@
+{
+    "queries": [
+        {
+            "query": "How many times does the letter Z appear in Blorple",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Blorple",
+                    "letter": "Z"
+                }
+            }
+        },
+        {
+            "query": "What is the count of the letter K in Flishy",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Flishy",
+                    "letter": "K"
+                }
+            }
+        },
+        {
+            "query": "How many times does the letter E appear in Gorvoth",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Gorvoth",
+                    "letter": "E"
+                }
+            }
+        },
+        {
+            "query": "Count the occurrences of the letter T in Plurble",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Plurble",
+                    "letter": "T"
+                }
+            }
+        },
+        {
+            "query": "In the word Vexar, how many times does the letter A appear",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Vexar",
+                    "letter": "A"
+                }
+            }
+        },
+        {
+            "query": "How many times does the letter N appear in Snyth",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Snyth",
+                    "letter": "N"
+                }
+            }
+        },
+        {
+            "query": "What is the count of the letter R in Klabox",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Klabox",
+                    "letter": "R"
+                }
+            }
+        },
+        {
+            "query": "In the word Jyvath, how many times does the letter Y appear",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Jyvath",
+                    "letter": "Y"
+                }
+            }
+        },
+        {
+            "query": "Count the occurrences of the letter C in Throk",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Throk",
+                    "letter": "C"
+                }
+            }
+        },
+        {
+            "query": "How many times does the letter H appear in Nuvol",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Nuvol",
+                    "letter": "H"
+                }
+            }
+        },
+        {
+            "query": "What is the count of the letter G in Xarxas",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Xarxas",
+                    "letter": "G"
+                }
+            }
+        },
+        {
+            "query": "In the word Mynth, how many times does the letter M appear",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Mynth",
+                    "letter": "M"
+                }
+            }
+        },
+        {
+            "query": "Count the occurrences of the letter I in Kyraz",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Kyraz",
+                    "letter": "I"
+                }
+            }
+        },
+        {
+            "query": "How many times does the letter B appear in Fyrm",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Fyrm",
+                    "letter": "B"
+                }
+            }
+        },
+        {
+            "query": "What is the count of the letter D in Shyrk",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Shyrk",
+                    "letter": "D"
+                }
+            }
+        },
+        {
+            "query": "In the word Zylth, how many times does the letter L appear",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Zylth",
+                    "letter": "L"
+                }
+            }
+        },
+        {
+            "query": "Count the occurrences of the letter P in Kyrax",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Kyrax",
+                    "letter": "P"
+                }
+            }
+        },
+        {
+            "query": "How many times does the letter J appear in Vexar",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Vexar",
+                    "letter": "J"
+                }
+            }
+        },
+        {
+            "query": "What is the count of the letter F in Snyth",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Snyth",
+                    "letter": "F"
+                }
+            }
+        },
+        {
+            "query": "In the word Throk, how many times does the letter T appear",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Throk",
+                    "letter": "T"
+                }
+            }
+        },
+        {
+            "query": "Count the occurrences of the letter O in Kyrm",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Kyrm",
+                    "letter": "O"
+                }
+            }
+        },
+        {
+            "query": "How many times does the letter E appear in Jyvath",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Jyvath",
+                    "letter": "E"
+                }
+            }
+        },
+        {
+            "query": "What is the count of the letter S in Mynth",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Mynth",
+                    "letter": "S"
+                }
+            }
+        },
+        {
+            "query": "In the word Xarxas, how many times does the letter R appear",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Xarxas",
+                    "letter": "R"
+                }
+            }
+        },
+        {
+            "query": "Count the occurrences of the letter N in Fyrm",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Fyrm",
+                    "letter": "N"
+                }
+            }
+        },
+        {
+            "query": "How many times does the letter C appear in Zylth",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Zylth",
+                    "letter": "C"
+                }
+            }
+        },
+        {
+            "query": "What is the count of the letter K in Plurble",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Plurble",
+                    "letter": "K"
+                }
+            }
+        },
+        {
+            "query": "In the word Kyrm, how many times does the letter Y appear",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Kyrm",
+                    "letter": "Y"
+                }
+            }
+        },
+        {
+            "query": "Count the occurrences of the letter G in Shyrk",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Shyrk",
+                    "letter": "G"
+                }
+            }
+        },
+        {
+            "query": "How many times does the letter M appear in Blorple",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Blorple",
+                    "letter": "M"
+                }
+            }
+        },
+        {
+            "query": "What is the count of the letter I in Kyraz",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Kyraz",
+                    "letter": "I"
+                }
+            }
+        },
+        {
+            "query": "In the word Flishy, how many times does the letter H appear",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Flishy",
+                    "letter": "H"
+                }
+            }
+        },
+        {
+            "query": "Count the occurrences of the letter B in Vexar",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Vexar",
+                    "letter": "B"
+                }
+            }
+        },
+        {
+            "query": "How many times does the letter T appear in Gorvoth",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Gorvoth",
+                    "letter": "T"
+                }
+            }
+        },
+        {
+            "query": "What is the count of the letter P in Klabox",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Klabox",
+                    "letter": "P"
+                }
+            }
+        },
+        {
+            "query": "In the word Zylth, how many times does the letter Z appear",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Zylth",
+                    "letter": "Z"
+                }
+            }
+        },
+        {
+            "query": "Count the occurrences of the letter R in Throk",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Throk",
+                    "letter": "R"
+                }
+            }
+        },
+        {
+            "query": "How many times does the letter F appear in Snyth",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Snyth",
+                    "letter": "F"
+                }
+            }
+        },
+        {
+            "query": "What is the count of the letter Y appears in Jyvath",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Jyvath",
+                    "letter": "Y"
+                }
+            }
+        }
+    ]
+}

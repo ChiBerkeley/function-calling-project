@@ -1,0 +1,394 @@
+{
+    "queries": [
+        {
+            "query": "How many times does the letter 'K' appear in 'Kaffeeh\u00e4user'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Kaffeeh\u00e4user",
+                    "letter": "K"
+                }
+            }
+        },
+        {
+            "query": "What is the count of the letter 'J' in 'Jubil\u00e4umsfeier'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Jubil\u00e4umsfeier",
+                    "letter": "J"
+                }
+            }
+        },
+        {
+            "query": "How often does the letter 'X' appear in 'Xenonatome'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Xenonatome",
+                    "letter": "X"
+                }
+            }
+        },
+        {
+            "query": "In how many instances is the letter 'Q' present in 'Qualit\u00e4tskontrolle'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Qualit\u00e4tskontrolle",
+                    "letter": "Q"
+                }
+            }
+        },
+        {
+            "query": "What is the count of the letter 'Z' in 'Zeitgleich'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Zeitgleich",
+                    "letter": "Z"
+                }
+            }
+        },
+        {
+            "query": "How many times does the letter 'F' appear in 'Fundamentalwissenschaften'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Fundamentalwissenschaften",
+                    "letter": "F"
+                }
+            }
+        },
+        {
+            "query": "In how many instances is the letter 'V' present in 'Vitalit\u00e4tssysteme'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Vitalit\u00e4tssysteme",
+                    "letter": "V"
+                }
+            }
+        },
+        {
+            "query": "What is the count of the letter 'P' in 'Physikalische Chemie'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Physikalische Chemie",
+                    "letter": "P"
+                }
+            }
+        },
+        {
+            "query": "How often does the letter 'R' appear in 'Revolution\u00e4res Wachstum'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Revolution\u00e4res Wachstum",
+                    "letter": "R"
+                }
+            }
+        },
+        {
+            "query": "In how many instances is the letter 'L' present in 'Lebensmittelindustrie'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Lebensmittelindustrie",
+                    "letter": "L"
+                }
+            }
+        },
+        {
+            "query": "What is the count of the letter 'N' in 'Neue Technologien'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Neue Technologien",
+                    "letter": "N"
+                }
+            }
+        },
+        {
+            "query": "How many times does the letter 'G' appear in 'Geisteswissenschaften'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Geisteswissenschaften",
+                    "letter": "G"
+                }
+            }
+        },
+        {
+            "query": "In how many instances is the letter 'E' present in 'Elektroniksysteme'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Elektroniksysteme",
+                    "letter": "E"
+                }
+            }
+        },
+        {
+            "query": "What is the count of the letter 'H' in 'Humanit\u00e4re Hilfe'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Humanit\u00e4re Hilfe",
+                    "letter": "H"
+                }
+            }
+        },
+        {
+            "query": "How often does the letter 'I' appear in 'Informatiksysteme'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Informatiksysteme",
+                    "letter": "I"
+                }
+            }
+        },
+        {
+            "query": "In how many instances is the letter 'T' present in 'Technologische Innovationen'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Technologische Innovationen",
+                    "letter": "T"
+                }
+            }
+        },
+        {
+            "query": "What is the count of the letter 'S' in 'Soziale Verantwortung'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Soziale Verantwortung",
+                    "letter": "S"
+                }
+            }
+        },
+        {
+            "query": "How many times does the letter 'C' appear in 'Computerwissenschaften'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Computerwissenschaften",
+                    "letter": "C"
+                }
+            }
+        },
+        {
+            "query": "In how many instances is the letter 'M' present in 'Medizinische Forschung'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Medizinische Forschung",
+                    "letter": "M"
+                }
+            }
+        },
+        {
+            "query": "What is the count of the letter 'D' in 'Digitale Kommunikation'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Digitale Kommunikation",
+                    "letter": "D"
+                }
+            }
+        },
+        {
+            "query": "How often does the letter 'Y' appear in 'Yttriumatome'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Yttriumatome",
+                    "letter": "Y"
+                }
+            }
+        },
+        {
+            "query": "In how many instances is the letter 'K' present in 'Katalysatoreffekte'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Katalysatoreffekte",
+                    "letter": "K"
+                }
+            }
+        },
+        {
+            "query": "What is the count of the letter 'J' in 'Jasminbl\u00fcten'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Jasminbl\u00fcten",
+                    "letter": "J"
+                }
+            }
+        },
+        {
+            "query": "How many times does the letter 'P' appear in 'Physikalische Chemie'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Physikalische Chemie",
+                    "letter": "P"
+                }
+            }
+        },
+        {
+            "query": "In how many instances is the letter 'F' present in 'Fundamentalwissenschaften'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Fundamentalwissenschaften",
+                    "letter": "F"
+                }
+            }
+        },
+        {
+            "query": "What is the count of the letter 'V' in 'Vitalit\u00e4tssysteme'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Vitalit\u00e4tssysteme",
+                    "letter": "V"
+                }
+            }
+        },
+        {
+            "query": "How often does the letter 'R' appear in 'Revolution\u00e4res Wachstum'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Revolution\u00e4res Wachstum",
+                    "letter": "R"
+                }
+            }
+        },
+        {
+            "query": "In how many instances is the letter 'L' present in 'Lebensmittelindustrie'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Lebensmittelindustrie",
+                    "letter": "L"
+                }
+            }
+        },
+        {
+            "query": "What is the count of the letter 'N' in 'Neue Technologien'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Neue Technologien",
+                    "letter": "N"
+                }
+            }
+        },
+        {
+            "query": "How many times does the letter 'G' appear in 'Geisteswissenschaften'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Geisteswissenschaften",
+                    "letter": "G"
+                }
+            }
+        },
+        {
+            "query": "In how many instances is the letter 'E' present in 'Elektroniksysteme'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Elektroniksysteme",
+                    "letter": "E"
+                }
+            }
+        },
+        {
+            "query": "What is the count of the letter 'H' in 'Humanit\u00e4re Hilfe'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Humanit\u00e4re Hilfe",
+                    "letter": "H"
+                }
+            }
+        },
+        {
+            "query": "How often does the letter 'I' appear in 'Informatiksysteme'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Informatiksysteme",
+                    "letter": "I"
+                }
+            }
+        },
+        {
+            "query": "In how many instances is the letter 'T' present in 'Technologische Innovationen'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Technologische Innovationen",
+                    "letter": "T"
+                }
+            }
+        },
+        {
+            "query": "What is the count of the letter 'S' in 'Soziale Verantwortung'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Soziale Verantwortung",
+                    "letter": "S"
+                }
+            }
+        },
+        {
+            "query": "How many times does the letter 'C' appear in 'Computerwissenschaften'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Computerwissenschaften",
+                    "letter": "C"
+                }
+            }
+        },
+        {
+            "query": "In how many instances is the letter 'M' present in 'Medizinische Forschung'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Medizinische Forschung",
+                    "letter": "M"
+                }
+            }
+        },
+        {
+            "query": "What is the count of the letter 'D' in 'Digitale Kommunikation'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Digitale Kommunikation",
+                    "letter": "D"
+                }
+            }
+        },
+        {
+            "query": "How often does the letter 'Y' appear in 'Yttriumatome'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Yttriumatome",
+                    "letter": "Y"
+                }
+            }
+        }
+    ]
+}

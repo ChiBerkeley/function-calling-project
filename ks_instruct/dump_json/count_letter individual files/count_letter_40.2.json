@@ -1,0 +1,404 @@
+{
+    "queries": [
+        {
+            "query": "How many As are in Unpredictable",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Unpredictable",
+                    "letter": "A"
+                }
+            }
+        },
+        {
+            "query": "What is the total count of Es in Conversation",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Conversation",
+                    "letter": "E"
+                }
+            }
+        },
+        {
+            "query": "How many Ts are in Difficulty",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Difficulty",
+                    "letter": "T"
+                }
+            }
+        },
+        {
+            "query": "Count the number of Rs in Restaurant",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Restaurant",
+                    "letter": "R"
+                }
+            }
+        },
+        {
+            "query": "How many As are in Amazingly",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Amazingly",
+                    "letter": "A"
+                }
+            }
+        },
+        {
+            "query": "What is the count of Fs in Flexible",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Flexible",
+                    "letter": "F"
+                }
+            }
+        },
+        {
+            "query": "How many Es are in Energetic",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Energetic",
+                    "letter": "E"
+                }
+            }
+        },
+        {
+            "query": "Count the number of Us in Unusual",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Unusual",
+                    "letter": "U"
+                }
+            }
+        },
+        {
+            "query": "How many As are in Astonishing",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Astonishing",
+                    "letter": "A"
+                }
+            }
+        },
+        {
+            "query": "What is the total count of Ts in Tactician",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Tactician",
+                    "letter": "T"
+                }
+            }
+        },
+        {
+            "query": "How many Is are in Inspiring",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Inspiring",
+                    "letter": "I"
+                }
+            }
+        },
+        {
+            "query": "Count the number of Ss in Sensational",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Sensational",
+                    "letter": "S"
+                }
+            }
+        },
+        {
+            "query": "How many Es are in Exuberant",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Exuberant",
+                    "letter": "E"
+                }
+            }
+        },
+        {
+            "query": "What is the count of Rs in Radiant",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Radiant",
+                    "letter": "R"
+                }
+            }
+        },
+        {
+            "query": "How many As are in Audacious",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Audacious",
+                    "letter": "A"
+                }
+            }
+        },
+        {
+            "query": "Count the number of Ts in Tenacious",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Tenacious",
+                    "letter": "T"
+                }
+            }
+        },
+        {
+            "query": "How many Es are in Elegant",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Elegant",
+                    "letter": "E"
+                }
+            }
+        },
+        {
+            "query": "What is the total count of Fs in Flamboyant",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Flamboyant",
+                    "letter": "F"
+                }
+            }
+        },
+        {
+            "query": "How many Is are in Ingenious",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Ingenious",
+                    "letter": "I"
+                }
+            }
+        },
+        {
+            "query": "Count the number of Ss in Spectacular",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Spectacular",
+                    "letter": "S"
+                }
+            }
+        },
+        {
+            "query": "How many As are in Affable",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Affable",
+                    "letter": "A"
+                }
+            }
+        },
+        {
+            "query": "What is the count of Ts in Tenaciousness",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Tenaciousness",
+                    "letter": "T"
+                }
+            }
+        },
+        {
+            "query": "How many Es are in Enthusiastic",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Enthusiastic",
+                    "letter": "E"
+                }
+            }
+        },
+        {
+            "query": "Count the number of Rs in Rhapsody",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Rhapsody",
+                    "letter": "R"
+                }
+            }
+        },
+        {
+            "query": "How many As are in Artistic",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Artistic",
+                    "letter": "A"
+                }
+            }
+        },
+        {
+            "query": "What is the total count of Fs in Fascinating",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Fascinating",
+                    "letter": "F"
+                }
+            }
+        },
+        {
+            "query": "How many Es are in Extraordinary",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Extraordinary",
+                    "letter": "E"
+                }
+            }
+        },
+        {
+            "query": "Count the number of Us in Unbreakable",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Unbreakable",
+                    "letter": "U"
+                }
+            }
+        },
+        {
+            "query": "How many As are in Admirable",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Admirable",
+                    "letter": "A"
+                }
+            }
+        },
+        {
+            "query": "What is the count of Ts in Tranquil",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Tranquil",
+                    "letter": "T"
+                }
+            }
+        },
+        {
+            "query": "How many Es are in Elegance",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Elegance",
+                    "letter": "E"
+                }
+            }
+        },
+        {
+            "query": "Count the number of Ss in Splendid",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Splendid",
+                    "letter": "S"
+                }
+            }
+        },
+        {
+            "query": "How many As are in Amazing",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Amazing",
+                    "letter": "A"
+                }
+            }
+        },
+        {
+            "query": "What is the total count of Fs in Fantastic",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Fantastic",
+                    "letter": "F"
+                }
+            }
+        },
+        {
+            "query": "How many Es are in Exquisite",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Exquisite",
+                    "letter": "E"
+                }
+            }
+        },
+        {
+            "query": "Count the number of Rs in Radiant",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Radiant",
+                    "letter": "R"
+                }
+            }
+        },
+        {
+            "query": "How many As are in Artistry",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Artistry",
+                    "letter": "A"
+                }
+            }
+        },
+        {
+            "query": "What is the count of Ts in Tenaciousness",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Tenaciousness",
+                    "letter": "T"
+                }
+            }
+        },
+        {
+            "query": "How many Es are in Elegant",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Elegant",
+                    "letter": "E"
+                }
+            }
+        },
+        {
+            "query": "Count the number of Ss in Spectacularity",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Spectacularity",
+                    "letter": "S"
+                }
+            }
+        }
+    ]
+}

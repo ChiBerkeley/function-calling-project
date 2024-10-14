@@ -1,0 +1,404 @@
+{
+    "queries": [
+        {
+            "query": "How many As are in Quadruplets",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Quadruplets",
+                    "letter": "A"
+                }
+            }
+        },
+        {
+            "query": "What is the count of Ts in Chameleon",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Chameleon",
+                    "letter": "T"
+                }
+            }
+        },
+        {
+            "query": "How many Es are there in Dandelion",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Dandelion",
+                    "letter": "E"
+                }
+            }
+        },
+        {
+            "query": "What is the count of Fs in Perfume",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Perfume",
+                    "letter": "F"
+                }
+            }
+        },
+        {
+            "query": "How many As are there in Banana",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Banana",
+                    "letter": "A"
+                }
+            }
+        },
+        {
+            "query": "What is the count of Cs in Chocolate",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Chocolate",
+                    "letter": "C"
+                }
+            }
+        },
+        {
+            "query": "How many Es are there in Espresso",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Espresso",
+                    "letter": "E"
+                }
+            }
+        },
+        {
+            "query": "What is the count of Ts in Tartarus",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Tartarus",
+                    "letter": "T"
+                }
+            }
+        },
+        {
+            "query": "How many Us are there in Rhythm",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Rhythm",
+                    "letter": "U"
+                }
+            }
+        },
+        {
+            "query": "What is the count of Ms in Fiddle",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Fiddle",
+                    "letter": "M"
+                }
+            }
+        },
+        {
+            "query": "How many As are there in Salsa",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Salsa",
+                    "letter": "A"
+                }
+            }
+        },
+        {
+            "query": "What is the count of Ps in Paprika",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Paprika",
+                    "letter": "P"
+                }
+            }
+        },
+        {
+            "query": "How many Es are there in Kettle",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Kettle",
+                    "letter": "E"
+                }
+            }
+        },
+        {
+            "query": "What is the count of Rs in Carousel",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Carousel",
+                    "letter": "R"
+                }
+            }
+        },
+        {
+            "query": "How many As are there in Galaxy",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Galaxy",
+                    "letter": "A"
+                }
+            }
+        },
+        {
+            "query": "What is the count of Ts in Mistake",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Mistake",
+                    "letter": "T"
+                }
+            }
+        },
+        {
+            "query": "How many Us are there in Fuzzier",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Fuzzier",
+                    "letter": "U"
+                }
+            }
+        },
+        {
+            "query": "What is the count of Ms in Buzzing",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Buzzing",
+                    "letter": "M"
+                }
+            }
+        },
+        {
+            "query": "How many Es are there in Jester",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Jester",
+                    "letter": "E"
+                }
+            }
+        },
+        {
+            "query": "What is the count of Rs in Whisker",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Whisker",
+                    "letter": "R"
+                }
+            }
+        },
+        {
+            "query": "How many As are there in Honeybee",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Honeybee",
+                    "letter": "A"
+                }
+            }
+        },
+        {
+            "query": "What is the count of Ts in Butterfly",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Butterfly",
+                    "letter": "T"
+                }
+            }
+        },
+        {
+            "query": "How many Us are there in Cactus",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Cactus",
+                    "letter": "U"
+                }
+            }
+        },
+        {
+            "query": "What is the count of Ms in Llama",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Llama",
+                    "letter": "M"
+                }
+            }
+        },
+        {
+            "query": "How many Es are there in Gorilla",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Gorilla",
+                    "letter": "E"
+                }
+            }
+        },
+        {
+            "query": "What is the count of Rs in Jaguar",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Jaguar",
+                    "letter": "R"
+                }
+            }
+        },
+        {
+            "query": "How many As are there in Kangaroo",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Kangaroo",
+                    "letter": "A"
+                }
+            }
+        },
+        {
+            "query": "What is the count of Ts in Lemur",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Lemur",
+                    "letter": "T"
+                }
+            }
+        },
+        {
+            "query": "How many Us are there in Armadillo",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Armadillo",
+                    "letter": "U"
+                }
+            }
+        },
+        {
+            "query": "What is the count of Ms in Chameleon",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Chameleon",
+                    "letter": "M"
+                }
+            }
+        },
+        {
+            "query": "How many Es are there in Tortoise",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Tortoise",
+                    "letter": "E"
+                }
+            }
+        },
+        {
+            "query": "What is the count of Rs in Ostrich",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Ostrich",
+                    "letter": "R"
+                }
+            }
+        },
+        {
+            "query": "How many As are there in Elephant",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Elephant",
+                    "letter": "A"
+                }
+            }
+        },
+        {
+            "query": "What is the count of Ts in Rhinoceros",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Rhinoceros",
+                    "letter": "T"
+                }
+            }
+        },
+        {
+            "query": "How many Us are there in Gazelle",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Gazelle",
+                    "letter": "U"
+                }
+            }
+        },
+        {
+            "query": "What is the count of Ms in Hyrax",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Hyrax",
+                    "letter": "M"
+                }
+            }
+        },
+        {
+            "query": "How many Es are there in Springbok",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Springbok",
+                    "letter": "E"
+                }
+            }
+        },
+        {
+            "query": "What is the count of Rs in Meerkat",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Meerkat",
+                    "letter": "R"
+                }
+            }
+        },
+        {
+            "query": "How many As are there in Okapi",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Okapi",
+                    "letter": "A"
+                }
+            }
+        },
+        {
+            "query": "What is the count of Ts in Vervet",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Vervet",
+                    "letter": "T"
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,374 @@
+{
+    "queries": [
+        {
+            "query": "How many Es are in Quixote",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Quixote",
+                    "letter": "E"
+                }
+            }
+        },
+        {
+            "query": "Count the number of Ts in Cachalot",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Cachalot",
+                    "letter": "T"
+                }
+            }
+        },
+        {
+            "query": "Find out how many As are in Kibitzer",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Kibitzer",
+                    "letter": "A"
+                }
+            }
+        },
+        {
+            "query": "What is the count of Os in Wobbly",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Wobbly",
+                    "letter": "O"
+                }
+            }
+        },
+        {
+            "query": "How many Us are there in Fiddle?",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Fiddle",
+                    "letter": "U"
+                }
+            }
+        },
+        {
+            "query": "Count the Es in Sneaker",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Sneaker",
+                    "letter": "E"
+                }
+            }
+        },
+        {
+            "query": "Find out how many As are in Fjord",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Fjord",
+                    "letter": "A"
+                }
+            }
+        },
+        {
+            "query": "What is the count of Ts in Galoshes",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Galoshes",
+                    "letter": "T"
+                }
+            }
+        },
+        {
+            "query": "How many Os are there in Tapioca?",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Tapioca",
+                    "letter": "O"
+                }
+            }
+        },
+        {
+            "query": "Count the number of Us in Gingham",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Gingham",
+                    "letter": "U"
+                }
+            }
+        },
+        {
+            "query": "Find out how many Is are in Jazzy",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Jazzy",
+                    "letter": "I"
+                }
+            }
+        },
+        {
+            "query": "What is the count of Es in Quicksand",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Quicksand",
+                    "letter": "E"
+                }
+            }
+        },
+        {
+            "query": "How many As are there in Krypton?",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Krypton",
+                    "letter": "A"
+                }
+            }
+        },
+        {
+            "query": "Count the number of Os in Waspish",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Waspish",
+                    "letter": "O"
+                }
+            }
+        },
+        {
+            "query": "Find out how many Ts are in Galvanize",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Galvanize",
+                    "letter": "T"
+                }
+            }
+        },
+        {
+            "query": "What is the count of Us in Cogitate?",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Cogitate",
+                    "letter": "U"
+                }
+            }
+        },
+        {
+            "query": "How many Es are there in Quirky?",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Quirky",
+                    "letter": "E"
+                }
+            }
+        },
+        {
+            "query": "Count the number of Is in Jesterly",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Jesterly",
+                    "letter": "I"
+                }
+            }
+        },
+        {
+            "query": "Find out how many As are in Fiddlehead",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Fiddlehead",
+                    "letter": "A"
+                }
+            }
+        },
+        {
+            "query": "What is the count of Os in Tintinnabulation",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Tintinnabulation",
+                    "letter": "O"
+                }
+            }
+        },
+        {
+            "query": "How many Ts are there in Galvanometer?",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Galvanometer",
+                    "letter": "T"
+                }
+            }
+        },
+        {
+            "query": "Count the number of Us in Gobemouches",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Gobemouches",
+                    "letter": "U"
+                }
+            }
+        },
+        {
+            "query": "Find out how many Is are in Jargonelle",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Jargonelle",
+                    "letter": "I"
+                }
+            }
+        },
+        {
+            "query": "What is the count of Es in Quincunx?",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Quincunx",
+                    "letter": "E"
+                }
+            }
+        },
+        {
+            "query": "How many As are there in Kibitzerish",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Kibitzerish",
+                    "letter": "A"
+                }
+            }
+        },
+        {
+            "query": "Count the number of Os in Wambley",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Wambley",
+                    "letter": "O"
+                }
+            }
+        },
+        {
+            "query": "Find out how many Ts are in Galoshesque",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Galoshesque",
+                    "letter": "T"
+                }
+            }
+        },
+        {
+            "query": "What is the count of Us in Cachalotish",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Cachalotish",
+                    "letter": "U"
+                }
+            }
+        },
+        {
+            "query": "How many Es are there in Sneakers?",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Sneakers",
+                    "letter": "E"
+                }
+            }
+        },
+        {
+            "query": "Count the number of Is in Jazzyite",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Jazzyite",
+                    "letter": "I"
+                }
+            }
+        },
+        {
+            "query": "Find out how many As are in Fiddleheady",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Fiddleheady",
+                    "letter": "A"
+                }
+            }
+        },
+        {
+            "query": "What is the count of Os in Tapiocan",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Tapiocan",
+                    "letter": "O"
+                }
+            }
+        },
+        {
+            "query": "How many Ts are there in Galvanometers?",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Galvanometers",
+                    "letter": "T"
+                }
+            }
+        },
+        {
+            "query": "Count the number of Us in Gobemouchesque",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Gobemouchesque",
+                    "letter": "U"
+                }
+            }
+        },
+        {
+            "query": "Find out how many Is are in Jargonelles",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Jargonelles",
+                    "letter": "I"
+                }
+            }
+        },
+        {
+            "query": "What is the count of Es in Quincunxes?",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Quincunxes",
+                    "letter": "E"
+                }
+            }
+        },
+        {
+            "query": "How many As are there in Kibitzerishes",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Kibitzerishes",
+                    "letter": "A"
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,394 @@
+{
+    "queries": [
+        {
+            "query": "How many T's are in Quirky",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Quirky",
+                    "letter": "T"
+                }
+            }
+        },
+        {
+            "query": "Can you find all E's in Unpredictable",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Unpredictable",
+                    "letter": "E"
+                }
+            }
+        },
+        {
+            "query": "What is the count of A's in Caramel",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Caramel",
+                    "letter": "A"
+                }
+            }
+        },
+        {
+            "query": "How many O's are there in Chocolatey",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Chocolatey",
+                    "letter": "O"
+                }
+            }
+        },
+        {
+            "query": "Can you count the S's in Kisses",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Kisses",
+                    "letter": "S"
+                }
+            }
+        },
+        {
+            "query": "What is the count of I's in Fiddle",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Fiddle",
+                    "letter": "I"
+                }
+            }
+        },
+        {
+            "query": "How many U's are there in Jubilant",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Jubilant",
+                    "letter": "U"
+                }
+            }
+        },
+        {
+            "query": "Can you count the Y's in Yesterday",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Yesterday",
+                    "letter": "Y"
+                }
+            }
+        },
+        {
+            "query": "What is the count of H's in Whimsy",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Whimsy",
+                    "letter": "H"
+                }
+            }
+        },
+        {
+            "query": "How many L's are there in Shelly",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Shelly",
+                    "letter": "L"
+                }
+            }
+        },
+        {
+            "query": "Can you count the V's in Gravy",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Gravy",
+                    "letter": "V"
+                }
+            }
+        },
+        {
+            "query": "What is the count of W's in Squawky",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Squawky",
+                    "letter": "W"
+                }
+            }
+        },
+        {
+            "query": "How many N's are there in Quaintly",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Quaintly",
+                    "letter": "N"
+                }
+            }
+        },
+        {
+            "query": "Can you count the M's in Dizzy",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Dizzy",
+                    "letter": "M"
+                }
+            }
+        },
+        {
+            "query": "What is the count of K's in Jolly",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Jolly",
+                    "letter": "K"
+                }
+            }
+        },
+        {
+            "query": "How many G's are there in Giggle",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Giggle",
+                    "letter": "G"
+                }
+            }
+        },
+        {
+            "query": "Can you count the J's in Jubilee",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Jubilee",
+                    "letter": "J"
+                }
+            }
+        },
+        {
+            "query": "What is the count of D's in Whimsical",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Whimsical",
+                    "letter": "D"
+                }
+            }
+        },
+        {
+            "query": "How many F's are there in Fancy",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Fancy",
+                    "letter": "F"
+                }
+            }
+        },
+        {
+            "query": "Can you count the R's in Rusty",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Rusty",
+                    "letter": "R"
+                }
+            }
+        },
+        {
+            "query": "What is the count of T's in Silty",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Silty",
+                    "letter": "T"
+                }
+            }
+        },
+        {
+            "query": "How many P's are there in Quirkyly",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Quirkyly",
+                    "letter": "P"
+                }
+            }
+        },
+        {
+            "query": "Can you count the O's in Jolly",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Jolly",
+                    "letter": "O"
+                }
+            }
+        },
+        {
+            "query": "What is the count of E's in Whimsy",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Whimsy",
+                    "letter": "E"
+                }
+            }
+        },
+        {
+            "query": "How many Y's are there in Fancy",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Fancy",
+                    "letter": "Y"
+                }
+            }
+        },
+        {
+            "query": "Can you count the I's in Silty",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Silty",
+                    "letter": "I"
+                }
+            }
+        },
+        {
+            "query": "What is the count of A's in Dizzy",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Dizzy",
+                    "letter": "A"
+                }
+            }
+        },
+        {
+            "query": "How many S's are there in Jolly",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Jolly",
+                    "letter": "S"
+                }
+            }
+        },
+        {
+            "query": "Can you count the M's in Quirky",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Quirky",
+                    "letter": "M"
+                }
+            }
+        },
+        {
+            "query": "What is the count of N's in Fancy",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Fancy",
+                    "letter": "N"
+                }
+            }
+        },
+        {
+            "query": "How many G's are there in Whimsy",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Whimsy",
+                    "letter": "G"
+                }
+            }
+        },
+        {
+            "query": "Can you count the V's in Quirkyly",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Quirkyly",
+                    "letter": "V"
+                }
+            }
+        },
+        {
+            "query": "What is the count of U's in Dizzy",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Dizzy",
+                    "letter": "U"
+                }
+            }
+        },
+        {
+            "query": "How many H's are there in Fancy",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Fancy",
+                    "letter": "H"
+                }
+            }
+        },
+        {
+            "query": "Can you count the K's in Silty",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Silty",
+                    "letter": "K"
+                }
+            }
+        },
+        {
+            "query": "What is the count of J's in Quirky",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Quirky",
+                    "letter": "J"
+                }
+            }
+        },
+        {
+            "query": "How many W's are there in Whimsical",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Whimsical",
+                    "letter": "W"
+                }
+            }
+        },
+        {
+            "query": "Can you count the F's in Jolly",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Jolly",
+                    "letter": "F"
+                }
+            }
+        },
+        {
+            "query": "What is the count of R's in Fancy",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Fancy",
+                    "letter": "R"
+                }
+            }
+        }
+    ]
+}
