@@ -1,0 +1,472 @@
+{
+    "queries": [
+        {
+            "query": "What is the weather in Yangon",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Yangon"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather in Buenos Aires",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Buenos Aires"
+                }
+            }
+        },
+        {
+            "query": "What is the temperature in Lima today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Lima"
+                }
+            }
+        },
+        {
+            "query": "Get current time and weather info for Hanoi",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Hanoi"
+                }
+            }
+        },
+        {
+            "query": "What is the weather like in Bogota right now",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Bogota"
+                }
+            }
+        },
+        {
+            "query": "Get current time and weather for Kathmandu",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Kathmandu"
+                }
+            }
+        },
+        {
+            "query": "What is the temperature in Maputo today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Maputo"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather info for Dhaka",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Dhaka"
+                }
+            }
+        },
+        {
+            "query": "Get current time and weather in Chisinau",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Chisinau"
+                }
+            }
+        },
+        {
+            "query": "What is the weather like in Ashgabat right now",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Ashgabat"
+                }
+            }
+        },
+        {
+            "query": "Get current time and weather info for Almaty",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Almaty"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather in Tashkent",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Tashkent"
+                }
+            }
+        },
+        {
+            "query": "What is the temperature in Bishkek today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Bishkek"
+                }
+            }
+        },
+        {
+            "query": "Get current time and weather for Astana",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Astana"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather info in Ulaanbaatar",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Ulaanbaatar"
+                }
+            }
+        },
+        {
+            "query": "What is the weather like in Vientiane right now",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Vientiane"
+                }
+            }
+        },
+        {
+            "query": "Get current time and weather for Phnom Penh",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Phnom Penh"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather info in Bangkok",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Bangkok"
+                }
+            }
+        },
+        {
+            "query": "What is the temperature in Kuala Lumpur today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Kuala Lumpur"
+                }
+            }
+        },
+        {
+            "query": "Get current time and weather for Jakarta",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Jakarta"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather info in Manila",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Manila"
+                }
+            }
+        },
+        {
+            "query": "What is the weather like in Hanoi right now",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Hanoi"
+                }
+            }
+        },
+        {
+            "query": "Get current time and weather for Ho Chi Minh City",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Ho Chi Minh City"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather info in Bandar Seri Begawan",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Bandar Seri Begawan"
+                }
+            }
+        },
+        {
+            "query": "What is the temperature in Dili today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Dili"
+                }
+            }
+        },
+        {
+            "query": "Get current time and weather for Port Moresby",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Port Moresby"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather info in Honiara",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Honiara"
+                }
+            }
+        },
+        {
+            "query": "What is the weather like in Funafuti right now",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Funafuti"
+                }
+            }
+        },
+        {
+            "query": "Get current time and weather for Majuro",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Majuro"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather info in Tarawa",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Tarawa"
+                }
+            }
+        },
+        {
+            "query": "What is the temperature in Nuku'alofa today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Nuku'alofa"
+                }
+            }
+        },
+        {
+            "query": "Get current time and weather for Apia",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Apia"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather info in Funafo'ou",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Funafo'ou"
+                }
+            }
+        },
+        {
+            "query": "What is the weather like in Papeete right now",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Papeete"
+                }
+            }
+        },
+        {
+            "query": "Get current time and weather for Noumea",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Noumea"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather info in Port Vila",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Port Vila"
+                }
+            }
+        },
+        {
+            "query": "What is the temperature in Suva today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Suva"
+                }
+            }
+        },
+        {
+            "query": "Get current time and weather for Nadi",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Nadi"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather info in Lautoka",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Lautoka"
+                }
+            }
+        },
+        {
+            "query": "What is the weather like in Kavaratti right now",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Kavaratti"
+                }
+            }
+        },
+        {
+            "query": "Get current time and weather for Mal\u00e9",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Mal\u00e9"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather info in Addu City",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Addu City"
+                }
+            }
+        },
+        {
+            "query": "What is the temperature in Fuvahmuluku today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Fuvahmuluku"
+                }
+            }
+        },
+        {
+            "query": "Get current time and weather for Hithadhoo",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Hithadhoo"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather info in Thinadhoo",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Thinadhoo"
+                }
+            }
+        },
+        {
+            "query": "What is the weather like in Villingili right now",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Villingili"
+                }
+            }
+        },
+        {
+            "query": "Get current time and weather for Marudu",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Marudu"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather info in Malacca City",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Malacca City"
+                }
+            }
+        },
+        {
+            "query": "What is the temperature in Putrajaya today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Putrajaya"
+                }
+            }
+        },
+        {
+            "query": "Get current time and weather for Kuala Lumpur",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Kuala Lumpur"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather info in Kuching",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Kuching"
+                }
+            }
+        },
+        {
+            "query": "What is the weather like in Kota Kinabalu right now",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Kota Kinabalu"
+                }
+            }
+        }
+    ]
+}

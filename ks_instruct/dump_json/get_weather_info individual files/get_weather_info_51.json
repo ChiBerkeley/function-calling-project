@@ -1,0 +1,463 @@
+{
+    "queries": [
+        {
+            "query": "What is the weather in Kathmandu",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Kathmandu"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather in Mumbai",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Mumbai"
+                }
+            }
+        },
+        {
+            "query": "What is the current weather in Tokyo",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Tokyo"
+                }
+            }
+        },
+        {
+            "query": "Get the time and temperature in Rio de Janeiro",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Rio de Janeiro"
+                }
+            }
+        },
+        {
+            "query": "Current weather info for Beijing",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Beijing"
+                }
+            }
+        },
+        {
+            "query": "What is the current time and weather in Bangkok",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Bangkok"
+                }
+            }
+        },
+        {
+            "query": "Get weather info for Lima, Peru",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Lima"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather in Moscow",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Moscow"
+                }
+            }
+        },
+        {
+            "query": "What is the current weather info for Nairobi, Kenya",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Nairobi"
+                }
+            }
+        },
+        {
+            "query": "Get time and weather in Cairo, Egypt",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Cairo"
+                }
+            }
+        },
+        {
+            "query": "Current weather info for Hanoi, Vietnam",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Hanoi"
+                }
+            }
+        },
+        {
+            "query": "Get the current time and weather in Santiago, Chile",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Santiago"
+                }
+            }
+        },
+        {
+            "query": "What is the current weather info for Dhaka, Bangladesh",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Dhaka"
+                }
+            }
+        },
+        {
+            "query": "Get time and weather in Bogota, Colombia",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Bogota"
+                }
+            }
+        },
+        {
+            "query": "Current weather info for Jakarta, Indonesia",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Jakarta"
+                }
+            }
+        },
+        {
+            "query": "What is the current time and weather in Budapest, Hungary",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Budapest"
+                }
+            }
+        },
+        {
+            "query": "Get weather info for Tel Aviv, Israel",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Tel Aviv"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather in Warsaw, Poland",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Warsaw"
+                }
+            }
+        },
+        {
+            "query": "What is the current weather info for Abuja, Nigeria",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Abuja"
+                }
+            }
+        },
+        {
+            "query": "Get time and weather in Caracas, Venezuela",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Caracas"
+                }
+            }
+        },
+        {
+            "query": "Current weather info for Accra, Ghana",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Accra"
+                }
+            }
+        },
+        {
+            "query": "What is the current time and weather in Lima, Peru",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Lima"
+                }
+            }
+        },
+        {
+            "query": "Get weather info for Maputo, Mozambique",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Maputo"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather in Chisinau, Moldova",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Chisinau"
+                }
+            }
+        },
+        {
+            "query": "What is the current weather info for Kiev, Ukraine",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Kiev"
+                }
+            }
+        },
+        {
+            "query": "Get time and weather in Skopje, North Macedonia",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Skopje"
+                }
+            }
+        },
+        {
+            "query": "Current weather info for Tirana, Albania",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Tirana"
+                }
+            }
+        },
+        {
+            "query": "What is the current time and weather in Podgorica, Montenegro",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Podgorica"
+                }
+            }
+        },
+        {
+            "query": "Get weather info for Yerevan, Armenia",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Yerevan"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather in Baku, Azerbaijan",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Baku"
+                }
+            }
+        },
+        {
+            "query": "What is the current weather info for Tbilisi, Georgia",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Tbilisi"
+                }
+            }
+        },
+        {
+            "query": "Get time and weather in Ashgabat, Turkmenistan",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Ashgabat"
+                }
+            }
+        },
+        {
+            "query": "Current weather info for Dushanbe, Tajikistan",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Dushanbe"
+                }
+            }
+        },
+        {
+            "query": "What is the current time and weather in Kuwait City, Kuwait",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Kuwait City"
+                }
+            }
+        },
+        {
+            "query": "Get weather info for Muscat, Oman",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Muscat"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather in Amman, Jordan",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Amman"
+                }
+            }
+        },
+        {
+            "query": "What is the current weather info for Riyadh, Saudi Arabia",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Riyadh"
+                }
+            }
+        },
+        {
+            "query": "Get time and weather in Dubai, United Arab Emirates",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Dubai"
+                }
+            }
+        },
+        {
+            "query": "Current weather info for Manama, Bahrain",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Manama"
+                }
+            }
+        },
+        {
+            "query": "What is the current time and weather in Beirut, Lebanon",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Beirut"
+                }
+            }
+        },
+        {
+            "query": "Get weather info for Baghdad, Iraq",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Baghdad"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather in Erbil, Iraq",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Erbil"
+                }
+            }
+        },
+        {
+            "query": "What is the current weather info for Damascus, Syria",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Damascus"
+                }
+            }
+        },
+        {
+            "query": "Get time and weather in Tripoli, Libya",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Tripoli"
+                }
+            }
+        },
+        {
+            "query": "Current weather info for Tunis, Tunisia",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Tunis"
+                }
+            }
+        },
+        {
+            "query": "What is the current time and weather in Cairo, Egypt",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Cairo"
+                }
+            }
+        },
+        {
+            "query": "Get weather info for Algiers, Algeria",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Algiers"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather in Khartoum, Sudan",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Khartoum"
+                }
+            }
+        },
+        {
+            "query": "What is the current weather info for Addis Ababa, Ethiopia",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Addis Ababa"
+                }
+            }
+        },
+        {
+            "query": "Get time and weather in Nairobi, Kenya",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Nairobi"
+                }
+            }
+        },
+        {
+            "query": "Current weather info for Mogadishu, Somalia",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Mogadishu"
+                }
+            }
+        }
+    ]
+}

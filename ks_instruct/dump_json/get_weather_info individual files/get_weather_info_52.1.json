@@ -1,0 +1,472 @@
+{
+    "queries": [
+        {
+            "query": "What is the weather in Kathmandu",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Kathmandu"
+                }
+            }
+        },
+        {
+            "query": "Current time and forecast for Lima",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Lima"
+                }
+            }
+        },
+        {
+            "query": "Get the current weather in Tokyo",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Tokyo"
+                }
+            }
+        },
+        {
+            "query": "What is the time and temperature in Mumbai today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Mumbai"
+                }
+            }
+        },
+        {
+            "query": "Current weather conditions for Bangkok",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Bangkok"
+                }
+            }
+        },
+        {
+            "query": "Get the forecast for Rio de Janeiro",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Rio de Janeiro"
+                }
+            }
+        },
+        {
+            "query": "What is the current time and weather in Moscow",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Moscow"
+                }
+            }
+        },
+        {
+            "query": "Get the temperature and forecast for Cairo",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Cairo"
+                }
+            }
+        },
+        {
+            "query": "Current weather in Delhi today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Delhi"
+                }
+            }
+        },
+        {
+            "query": "What is the forecast for Beijing",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Beijing"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather in Istanbul",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Istanbul"
+                }
+            }
+        },
+        {
+            "query": "Get the forecast for Seoul today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Seoul"
+                }
+            }
+        },
+        {
+            "query": "What is the current time and temperature in Jakarta",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Jakarta"
+                }
+            }
+        },
+        {
+            "query": "Current weather conditions for Hong Kong",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Hong Kong"
+                }
+            }
+        },
+        {
+            "query": "Get the forecast for Dubai today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Dubai"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather in Singapore",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Singapore"
+                }
+            }
+        },
+        {
+            "query": "What is the current temperature in Mumbai today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Mumbai"
+                }
+            }
+        },
+        {
+            "query": "Current weather conditions for Manila today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Manila"
+                }
+            }
+        },
+        {
+            "query": "Get the forecast for Mumbai today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Mumbai"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather in Bangkok today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Bangkok"
+                }
+            }
+        },
+        {
+            "query": "What is the current temperature in Beijing today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Beijing"
+                }
+            }
+        },
+        {
+            "query": "Current weather conditions for Seoul today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Seoul"
+                }
+            }
+        },
+        {
+            "query": "Get the forecast for Delhi today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Delhi"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather in Cairo today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Cairo"
+                }
+            }
+        },
+        {
+            "query": "What is the current temperature in Moscow today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Moscow"
+                }
+            }
+        },
+        {
+            "query": "Current weather conditions for Istanbul today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Istanbul"
+                }
+            }
+        },
+        {
+            "query": "Get the forecast for Manila today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Manila"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather in Hong Kong today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Hong Kong"
+                }
+            }
+        },
+        {
+            "query": "What is the current temperature in Dubai today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Dubai"
+                }
+            }
+        },
+        {
+            "query": "Current weather conditions for Singapore today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Singapore"
+                }
+            }
+        },
+        {
+            "query": "Get the forecast for Jakarta today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Jakarta"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather in Beijing today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Beijing"
+                }
+            }
+        },
+        {
+            "query": "What is the current temperature in Seoul today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Seoul"
+                }
+            }
+        },
+        {
+            "query": "Current weather conditions for Mumbai today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Mumbai"
+                }
+            }
+        },
+        {
+            "query": "Get the forecast for Bangkok today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Bangkok"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather in Delhi today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Delhi"
+                }
+            }
+        },
+        {
+            "query": "What is the current temperature in Cairo today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Cairo"
+                }
+            }
+        },
+        {
+            "query": "Current weather conditions for Dubai today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Dubai"
+                }
+            }
+        },
+        {
+            "query": "Get the forecast for Hong Kong today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Hong Kong"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather in Manila today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Manila"
+                }
+            }
+        },
+        {
+            "query": "What is the current temperature in Singapore today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Singapore"
+                }
+            }
+        },
+        {
+            "query": "Current weather conditions for Jakarta today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Jakarta"
+                }
+            }
+        },
+        {
+            "query": "Get the forecast for Istanbul today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Istanbul"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather in Tokyo today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Tokyo"
+                }
+            }
+        },
+        {
+            "query": "What is the current temperature in Lima today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Lima"
+                }
+            }
+        },
+        {
+            "query": "Current weather conditions for Kathmandu today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Kathmandu"
+                }
+            }
+        },
+        {
+            "query": "Get the forecast for Moscow today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Moscow"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather in Rio de Janeiro today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Rio de Janeiro"
+                }
+            }
+        },
+        {
+            "query": "What is the current temperature in Cairo today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Cairo"
+                }
+            }
+        },
+        {
+            "query": "Current weather conditions for Bangkok today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Bangkok"
+                }
+            }
+        },
+        {
+            "query": "Get the forecast for Beijing today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Beijing"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather in Delhi today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Delhi"
+                }
+            }
+        }
+    ]
+}

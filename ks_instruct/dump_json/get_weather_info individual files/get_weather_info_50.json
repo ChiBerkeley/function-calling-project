@@ -1,0 +1,454 @@
+{
+    "queries": [
+        {
+            "query": "What is the current weather in a small town called Plovdiv, Bulgaria",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Plovdiv"
+                }
+            }
+        },
+        {
+            "query": "Can you tell me what's the temperature like right now in Guanajuato, Mexico?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Guanajuato"
+                }
+            }
+        },
+        {
+            "query": "What is the time and weather forecast for a city called Krasnodar in Russia?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Krasnodar"
+                }
+            }
+        },
+        {
+            "query": "How's the current weather looking like in a town called Nakhon Phanom, Thailand?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Nakhon Phanom"
+                }
+            }
+        },
+        {
+            "query": "What is the time and weather conditions for a city called Split, Croatia today?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Split"
+                }
+            }
+        },
+        {
+            "query": "I want to know what's the current weather like in a city called Tashkent, Uzbekistan",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Tashkent"
+                }
+            }
+        },
+        {
+            "query": "What is the time and temperature like right now in a town called Cuenca, Ecuador?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Cuenca"
+                }
+            }
+        },
+        {
+            "query": "How's the current weather looking like in a city called Sofia, Bulgaria today?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Sofia"
+                }
+            }
+        },
+        {
+            "query": "What is the time and weather forecast for a town called Vladivostok, Russia?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Vladivostok"
+                }
+            }
+        },
+        {
+            "query": "I want to know what's the current weather like in a city called Bandar Seri Begawan, Brunei today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Bandar Seri Begawan"
+                }
+            }
+        },
+        {
+            "query": "What is the time and temperature like right now in a town called Yerevan, Armenia?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Yerevan"
+                }
+            }
+        },
+        {
+            "query": "Can you tell me what's the weather forecast for today in a city called Astana, Kazakhstan?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Astana"
+                }
+            }
+        },
+        {
+            "query": "What is the time and weather conditions for a town called Thimphu, Bhutan today?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Thimphu"
+                }
+            }
+        },
+        {
+            "query": "I want to know what's the current weather like in a city called Baku, Azerbaijan today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Baku"
+                }
+            }
+        },
+        {
+            "query": "What is the time and temperature like right now in a town called Apia, Samoa?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Apia"
+                }
+            }
+        },
+        {
+            "query": "Can you tell me what's the weather forecast for today in a city called Hanoi, Vietnam?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Hanoi"
+                }
+            }
+        },
+        {
+            "query": "How's the current weather looking like in a town called Ashgabat, Turkmenistan today?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Ashgabat"
+                }
+            }
+        },
+        {
+            "query": "What is the time and weather forecast for a city called Dushanbe, Tajikistan today?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Dushanbe"
+                }
+            }
+        },
+        {
+            "query": "I want to know what's the current weather like in a city called Malabo, Equatorial Guinea today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Malabo"
+                }
+            }
+        },
+        {
+            "query": "What is the time and temperature like right now in a town called Phnom Penh, Cambodia?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Phnom Penh"
+                }
+            }
+        },
+        {
+            "query": "Can you tell me what's the weather forecast for today in a city called Port Moresby, Papua New Guinea?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Port Moresby"
+                }
+            }
+        },
+        {
+            "query": "How's the current weather looking like in a town called Majuro, Marshall Islands today?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Majuro"
+                }
+            }
+        },
+        {
+            "query": "What is the time and weather forecast for a city called Funafuti, Tuvalu today?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Funafuti"
+                }
+            }
+        },
+        {
+            "query": "I want to know what's the current weather like in a city called Nuku'alofa, Tonga today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Nuku'alofa"
+                }
+            }
+        },
+        {
+            "query": "What is the time and temperature like right now in a town called Honiara, Solomon Islands?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Honiara"
+                }
+            }
+        },
+        {
+            "query": "Can you tell me what's the weather forecast for today in a city called Rarotonga, Cook Islands?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Rarotonga"
+                }
+            }
+        },
+        {
+            "query": "How's the current weather looking like in a town called Tarawa, Kiribati today?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Tarawa"
+                }
+            }
+        },
+        {
+            "query": "What is the time and weather forecast for a city called Suva, Fiji today?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Suva"
+                }
+            }
+        },
+        {
+            "query": "I want to know what's the current weather like in a town called Apia, Samoa today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Apia"
+                }
+            }
+        },
+        {
+            "query": "What is the time and temperature like right now in a city called Funafuti, Tuvalu?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Funafuti"
+                }
+            }
+        },
+        {
+            "query": "Can you tell me what's the weather forecast for today in a town called Majuro, Marshall Islands?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Majuro"
+                }
+            }
+        },
+        {
+            "query": "How's the current weather looking like in a city called Tarawa, Kiribati today?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Tarawa"
+                }
+            }
+        },
+        {
+            "query": "What is the time and weather forecast for a city called Rarotonga, Cook Islands today?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Rarotonga"
+                }
+            }
+        },
+        {
+            "query": "I want to know what's the current weather like in a town called Honiara, Solomon Islands today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Honiara"
+                }
+            }
+        },
+        {
+            "query": "What is the time and temperature like right now in a city called Suva, Fiji?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Suva"
+                }
+            }
+        },
+        {
+            "query": "Can you tell me what's the weather forecast for today in a town called Nuku'alofa, Tonga?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Nuku'alofa"
+                }
+            }
+        },
+        {
+            "query": "How's the current weather looking like in a city called Port Moresby, Papua New Guinea today?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Port Moresby"
+                }
+            }
+        },
+        {
+            "query": "What is the time and weather forecast for a city called Phnom Penh, Cambodia today?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Phnom Penh"
+                }
+            }
+        },
+        {
+            "query": "I want to know what's the current weather like in a town called Malabo, Equatorial Guinea today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Malabo"
+                }
+            }
+        },
+        {
+            "query": "What is the time and temperature like right now in a city called Dushanbe, Tajikistan?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Dushanbe"
+                }
+            }
+        },
+        {
+            "query": "Can you tell me what's the weather forecast for today in a town called Ashgabat, Turkmenistan?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Ashgabat"
+                }
+            }
+        },
+        {
+            "query": "How's the current weather looking like in a city called Hanoi, Vietnam today?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Hanoi"
+                }
+            }
+        },
+        {
+            "query": "What is the time and weather forecast for a city called Baku, Azerbaijan today?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Baku"
+                }
+            }
+        },
+        {
+            "query": "I want to know what's the current weather like in a town called Thimphu, Bhutan today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Thimphu"
+                }
+            }
+        },
+        {
+            "query": "What is the time and temperature like right now in a city called Kabul, Afghanistan?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Kabul"
+                }
+            }
+        },
+        {
+            "query": "Can you tell me what's the weather forecast for today in a town called Dhaka, Bangladesh?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Dhaka"
+                }
+            }
+        },
+        {
+            "query": "How's the current weather looking like in a city called Kathmandu, Nepal today?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Kathmandu"
+                }
+            }
+        },
+        {
+            "query": "What is the time and weather forecast for a city called Male, Maldives today?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Male"
+                }
+            }
+        },
+        {
+            "query": "I want to know what's the current weather like in a town called Colombo, Sri Lanka today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Colombo"
+                }
+            }
+        },
+        {
+            "query": "What is the time and temperature like right now in a city called Islamabad, Pakistan?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Islamabad"
+                }
+            }
+        }
+    ]
+}
