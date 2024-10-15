@@ -1,0 +1,496 @@
+{
+    "queries": [
+        {
+            "query": "What is the time zone of Plovdiv?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Plovdiv",
+                    "state": "Rhodope",
+                    "country": "Bulgaria",
+                    "mail_code": "4000"
+                }
+            }
+        },
+        {
+            "query": "In what time zone is Tbilisi located?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tbilisi",
+                    "state": null,
+                    "country": "Georgia",
+                    "mail_code": "0100"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Mostar in real-time?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Mostar",
+                    "state": "Herzegovina-Neretva Canton",
+                    "country": "Bosnia and Herzegovina",
+                    "mail_code": "88000"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Riga in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Riga",
+                    "state": null,
+                    "country": "Latvia",
+                    "mail_code": "LV-1001"
+                }
+            }
+        },
+        {
+            "query": "In what time zone is Podgorica located in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Podgorica",
+                    "state": null,
+                    "country": "Montenegro",
+                    "mail_code": "81000"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Chisinau in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Chisinau",
+                    "state": null,
+                    "country": "Moldova",
+                    "mail_code": "MD-2000"
+                }
+            }
+        },
+        {
+            "query": "In what time zone is Tirana located in real-time?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tirana",
+                    "state": null,
+                    "country": "Albania",
+                    "mail_code": "1001"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Minsk in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Minsk",
+                    "state": null,
+                    "country": "Belarus",
+                    "mail_code": "220000"
+                }
+            }
+        },
+        {
+            "query": "In what time zone is Sarajevo located?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Sarajevo",
+                    "state": "Canton Sarajevo",
+                    "country": "Bosnia and Herzegovina",
+                    "mail_code": "71000"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Lviv in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Lviv",
+                    "state": null,
+                    "country": "Ukraine",
+                    "mail_code": "79000"
+                }
+            }
+        },
+        {
+            "query": "In what time zone is Skopje located?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Skopje",
+                    "state": null,
+                    "country": "North Macedonia",
+                    "mail_code": "1000"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Minsk in real-time?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Minsk",
+                    "state": null,
+                    "country": "Belarus",
+                    "mail_code": "220000"
+                }
+            }
+        },
+        {
+            "query": "In what time zone is Tirana located?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tirana",
+                    "state": null,
+                    "country": "Albania",
+                    "mail_code": "1001"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Chisinau in real-time?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Chisinau",
+                    "state": null,
+                    "country": "Moldova",
+                    "mail_code": "MD-2000"
+                }
+            }
+        },
+        {
+            "query": "In what time zone is Riga located?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Riga",
+                    "state": null,
+                    "country": "Latvia",
+                    "mail_code": "LV-1001"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Podgorica in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Podgorica",
+                    "state": null,
+                    "country": "Montenegro",
+                    "mail_code": "81000"
+                }
+            }
+        },
+        {
+            "query": "In what time zone is Mostar located?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Mostar",
+                    "state": "Herzegovina-Neretva Canton",
+                    "country": "Bosnia and Herzegovina",
+                    "mail_code": "88000"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Plovdiv in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Plovdiv",
+                    "state": "Rhodope",
+                    "country": "Bulgaria",
+                    "mail_code": "4000"
+                }
+            }
+        },
+        {
+            "query": "In what time zone is Tbilisi located in real-time?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tbilisi",
+                    "state": null,
+                    "country": "Georgia",
+                    "mail_code": "0100"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Sarajevo in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Sarajevo",
+                    "state": "Canton Sarajevo",
+                    "country": "Bosnia and Herzegovina",
+                    "mail_code": "71000"
+                }
+            }
+        },
+        {
+            "query": "In what time zone is Lviv located?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Lviv",
+                    "state": null,
+                    "country": "Ukraine",
+                    "mail_code": "79000"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Minsk in real-time?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Minsk",
+                    "state": null,
+                    "country": "Belarus",
+                    "mail_code": "220000"
+                }
+            }
+        },
+        {
+            "query": "In what time zone is Skopje located?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Skopje",
+                    "state": null,
+                    "country": "North Macedonia",
+                    "mail_code": "1000"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Tirana in real-time?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tirana",
+                    "state": null,
+                    "country": "Albania",
+                    "mail_code": "1001"
+                }
+            }
+        },
+        {
+            "query": "In what time zone is Plovdiv located?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Plovdiv",
+                    "state": "Rhodope",
+                    "country": "Bulgaria",
+                    "mail_code": "4000"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Chisinau in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Chisinau",
+                    "state": null,
+                    "country": "Moldova",
+                    "mail_code": "MD-2000"
+                }
+            }
+        },
+        {
+            "query": "In what time zone is Tbilisi located?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tbilisi",
+                    "state": null,
+                    "country": "Georgia",
+                    "mail_code": "0100"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Mostar in real-time?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Mostar",
+                    "state": "Herzegovina-Neretva Canton",
+                    "country": "Bosnia and Herzegovina",
+                    "mail_code": "88000"
+                }
+            }
+        },
+        {
+            "query": "In what time zone is Podgorica located?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Podgorica",
+                    "state": null,
+                    "country": "Montenegro",
+                    "mail_code": "81000"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Riga in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Riga",
+                    "state": null,
+                    "country": "Latvia",
+                    "mail_code": "LV-1001"
+                }
+            }
+        },
+        {
+            "query": "In what time zone is Lviv located?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Lviv",
+                    "state": null,
+                    "country": "Ukraine",
+                    "mail_code": "79000"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Sarajevo in real-time?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Sarajevo",
+                    "state": "Canton Sarajevo",
+                    "country": "Bosnia and Herzegovina",
+                    "mail_code": "71000"
+                }
+            }
+        },
+        {
+            "query": "In what time zone is Tbilisi located?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tbilisi",
+                    "state": null,
+                    "country": "Georgia",
+                    "mail_code": "0100"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Podgorica in real-time?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Podgorica",
+                    "state": null,
+                    "country": "Montenegro",
+                    "mail_code": "81000"
+                }
+            }
+        },
+        {
+            "query": "In what time zone is Plovdiv located?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Plovdiv",
+                    "state": "Rhodope",
+                    "country": "Bulgaria",
+                    "mail_code": "4000"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Chisinau in real-time?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Chisinau",
+                    "state": null,
+                    "country": "Moldova",
+                    "mail_code": "MD-2000"
+                }
+            }
+        },
+        {
+            "query": "In what time zone is Riga located?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Riga",
+                    "state": null,
+                    "country": "Latvia",
+                    "mail_code": "LV-1001"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Mostar in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Mostar",
+                    "state": "Herzegovina-Neretva Canton",
+                    "country": "Bosnia and Herzegovina",
+                    "mail_code": "88000"
+                }
+            }
+        },
+        {
+            "query": "In what time zone is Skopje located?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Skopje",
+                    "state": null,
+                    "country": "North Macedonia",
+                    "mail_code": "1000"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Tirana in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tirana",
+                    "state": null,
+                    "country": "Albania",
+                    "mail_code": "1001"
+                }
+            }
+        },
+        {
+            "query": "In what time zone is Lviv located in real-time?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Lviv",
+                    "state": null,
+                    "country": "Ukraine",
+                    "mail_code": "79000"
+                }
+            }
+        }
+    ]
+}

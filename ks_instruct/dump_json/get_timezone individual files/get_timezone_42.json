@@ -1,0 +1,508 @@
+{
+    "queries": [
+        {
+            "query": "What time zone is Ouagadougou in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Ouagadougou",
+                    "state": "none",
+                    "country": "Burkina Faso",
+                    "mail_code": "01000"
+                }
+            }
+        },
+        {
+            "query": "Time zone of Kigali",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Kigali",
+                    "state": "none",
+                    "country": "Rwanda",
+                    "mail_code": "12345"
+                }
+            }
+        },
+        {
+            "query": "What is the time zone for Khartoum?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Khartoum",
+                    "state": "none",
+                    "country": "Sudan",
+                    "mail_code": "11111"
+                }
+            }
+        },
+        {
+            "query": "Get timezone for Addis Ababa",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Addis Ababa",
+                    "state": "none",
+                    "country": "Ethiopia",
+                    "mail_code": "22222"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Baku in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Baku",
+                    "state": "none",
+                    "country": "Azerbaijan",
+                    "mail_code": "33333"
+                }
+            }
+        },
+        {
+            "query": "Timezone of Dakar",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Dakar",
+                    "state": "none",
+                    "country": "Senegal",
+                    "mail_code": "44444"
+                }
+            }
+        },
+        {
+            "query": "Get time zone for Nouakchott",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Nouakchott",
+                    "state": "none",
+                    "country": "Mauritania",
+                    "mail_code": "55555"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Phnom Penh?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Phnom Penh",
+                    "state": "none",
+                    "country": "Cambodia",
+                    "mail_code": "66666"
+                }
+            }
+        },
+        {
+            "query": "Time zone for Maputo",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Maputo",
+                    "state": "none",
+                    "country": "Mozambique",
+                    "mail_code": "77777"
+                }
+            }
+        },
+        {
+            "query": "Get timezone of Sanaa",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Sanaa",
+                    "state": "none",
+                    "country": "Yemen",
+                    "mail_code": "88888"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Podgorica in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Podgorica",
+                    "state": "none",
+                    "country": "Montenegro",
+                    "mail_code": "99999"
+                }
+            }
+        },
+        {
+            "query": "Timezone of Ashgabat",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Ashgabat",
+                    "state": "none",
+                    "country": "Turkmenistan",
+                    "mail_code": "101010"
+                }
+            }
+        },
+        {
+            "query": "Get time zone for Lome",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Lome",
+                    "state": "none",
+                    "country": "Togo",
+                    "mail_code": "111111"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Yangon?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Yangon",
+                    "state": "none",
+                    "country": "Myanmar",
+                    "mail_code": "121212"
+                }
+            }
+        },
+        {
+            "query": "Time zone for Minsk",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Minsk",
+                    "state": "none",
+                    "country": "Belarus",
+                    "mail_code": "131313"
+                }
+            }
+        },
+        {
+            "query": "Get timezone of Tbilisi",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tbilisi",
+                    "state": "none",
+                    "country": "Georgia",
+                    "mail_code": "141414"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Chisinau in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Chisinau",
+                    "state": "none",
+                    "country": "Moldova",
+                    "mail_code": "151515"
+                }
+            }
+        },
+        {
+            "query": "Timezone of Bishkek",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Bishkek",
+                    "state": "none",
+                    "country": "Kyrgyzstan",
+                    "mail_code": "161616"
+                }
+            }
+        },
+        {
+            "query": "Get time zone for Dushanbe",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Dushanbe",
+                    "state": "none",
+                    "country": "Tajikistan",
+                    "mail_code": "171717"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Astana?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Astana",
+                    "state": "none",
+                    "country": "Kazakhstan",
+                    "mail_code": "181818"
+                }
+            }
+        },
+        {
+            "query": "Time zone for Tashkent",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tashkent",
+                    "state": "none",
+                    "country": "Uzbekistan",
+                    "mail_code": "191919"
+                }
+            }
+        },
+        {
+            "query": "Get timezone of Almaty",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Almaty",
+                    "state": "none",
+                    "country": "Kazakhstan",
+                    "mail_code": "202020"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Ashgabat in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Ashgabat",
+                    "state": "none",
+                    "country": "Turkmenistan",
+                    "mail_code": "212121"
+                }
+            }
+        },
+        {
+            "query": "Timezone of Tbilisi",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tbilisi",
+                    "state": "none",
+                    "country": "Georgia",
+                    "mail_code": "222222"
+                }
+            }
+        },
+        {
+            "query": "Get time zone for Podgorica",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Podgorica",
+                    "state": "none",
+                    "country": "Montenegro",
+                    "mail_code": "232323"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Chisinau?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Chisinau",
+                    "state": "none",
+                    "country": "Moldova",
+                    "mail_code": "242424"
+                }
+            }
+        },
+        {
+            "query": "Time zone for Yerevan",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Yerevan",
+                    "state": "none",
+                    "country": "Armenia",
+                    "mail_code": "252525"
+                }
+            }
+        },
+        {
+            "query": "Get timezone of Baku",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Baku",
+                    "state": "none",
+                    "country": "Azerbaijan",
+                    "mail_code": "262626"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Tirana in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tirana",
+                    "state": "none",
+                    "country": "Albania",
+                    "mail_code": "272727"
+                }
+            }
+        },
+        {
+            "query": "Timezone of Minsk",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Minsk",
+                    "state": "none",
+                    "country": "Belarus",
+                    "mail_code": "282828"
+                }
+            }
+        },
+        {
+            "query": "Get time zone for Tbilisi",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tbilisi",
+                    "state": "none",
+                    "country": "Georgia",
+                    "mail_code": "292929"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Minsk?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Minsk",
+                    "state": "none",
+                    "country": "Belarus",
+                    "mail_code": "303030"
+                }
+            }
+        },
+        {
+            "query": "Time zone for Ashgabat",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Ashgabat",
+                    "state": "none",
+                    "country": "Turkmenistan",
+                    "mail_code": "313131"
+                }
+            }
+        },
+        {
+            "query": "Get timezone of Tashkent",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tashkent",
+                    "state": "none",
+                    "country": "Uzbekistan",
+                    "mail_code": "323232"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Bishkek in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Bishkek",
+                    "state": "none",
+                    "country": "Kyrgyzstan",
+                    "mail_code": "333333"
+                }
+            }
+        },
+        {
+            "query": "Timezone of Dushanbe",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Dushanbe",
+                    "state": "none",
+                    "country": "Tajikistan",
+                    "mail_code": "343434"
+                }
+            }
+        },
+        {
+            "query": "Get time zone for Almaty",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Almaty",
+                    "state": "none",
+                    "country": "Kazakhstan",
+                    "mail_code": "353535"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Astana?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Astana",
+                    "state": "none",
+                    "country": "Kazakhstan",
+                    "mail_code": "363636"
+                }
+            }
+        },
+        {
+            "query": "Time zone for Tashkent",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tashkent",
+                    "state": "none",
+                    "country": "Uzbekistan",
+                    "mail_code": "373737"
+                }
+            }
+        },
+        {
+            "query": "Get timezone of Yerevan",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Yerevan",
+                    "state": "none",
+                    "country": "Armenia",
+                    "mail_code": "383838"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Chisinau in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Chisinau",
+                    "state": "none",
+                    "country": "Moldova",
+                    "mail_code": "393939"
+                }
+            }
+        },
+        {
+            "query": "Timezone of Baku",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Baku",
+                    "state": "none",
+                    "country": "Azerbaijan",
+                    "mail_code": "404040"
+                }
+            }
+        }
+    ]
+}

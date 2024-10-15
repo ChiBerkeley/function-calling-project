@@ -1,0 +1,556 @@
+{
+    "queries": [
+        {
+            "query": "What is the timezone of Nome?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Nome",
+                    "state": "Alaska",
+                    "country": "United States",
+                    "mail_code": "99762"
+                }
+            }
+        },
+        {
+            "query": "Timezone for a city in Louisiana?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Gretna",
+                    "state": "Louisiana",
+                    "country": "United States",
+                    "mail_code": "70053"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Bisbee?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Bisbee",
+                    "state": "Arizona",
+                    "country": "United States",
+                    "mail_code": "85603"
+                }
+            }
+        },
+        {
+            "query": "Timezone for a city in Maine?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Presque Isle",
+                    "state": "Maine",
+                    "country": "United States",
+                    "mail_code": "04769"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Douglas?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Douglas",
+                    "state": "Wyoming",
+                    "country": "United States",
+                    "mail_code": "82633"
+                }
+            }
+        },
+        {
+            "query": "Timezone for a city in Vermont?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Montpelier",
+                    "state": "Vermont",
+                    "country": "United States",
+                    "mail_code": "05602"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Superior?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Superior",
+                    "state": "Wisconsin",
+                    "country": "United States",
+                    "mail_code": "54880"
+                }
+            }
+        },
+        {
+            "query": "Timezone for a city in Idaho?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Riggins",
+                    "state": "Idaho",
+                    "country": "United States",
+                    "mail_code": "83549"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Tucumcari?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tucumcari",
+                    "state": "New Mexico",
+                    "country": "United States",
+                    "mail_code": "88427"
+                }
+            }
+        },
+        {
+            "query": "Timezone for a city in New Hampshire?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Peterborough",
+                    "state": "New Hampshire",
+                    "country": "United States",
+                    "mail_code": "03458"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Marquette?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Marquette",
+                    "state": "Michigan",
+                    "country": "United States",
+                    "mail_code": "49855"
+                }
+            }
+        },
+        {
+            "query": "Timezone for a city in Delaware?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Rehoboth Beach",
+                    "state": "Delaware",
+                    "country": "United States",
+                    "mail_code": "19971"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Truth or Consequences?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Truth or Consequences",
+                    "state": "New Mexico",
+                    "country": "United States",
+                    "mail_code": "87901"
+                }
+            }
+        },
+        {
+            "query": "Timezone for a city in South Dakota?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Wall",
+                    "state": "South Dakota",
+                    "country": "United States",
+                    "mail_code": "57790"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Farmington?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Farmington",
+                    "state": "Maine",
+                    "country": "United States",
+                    "mail_code": "04938"
+                }
+            }
+        },
+        {
+            "query": "Timezone for a city in Oklahoma?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Pawhuska",
+                    "state": "Oklahoma",
+                    "country": "United States",
+                    "mail_code": "74455"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Glenwood Springs?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Glenwood Springs",
+                    "state": "Colorado",
+                    "country": "United States",
+                    "mail_code": "81601"
+                }
+            }
+        },
+        {
+            "query": "Timezone for a city in West Virginia?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Fayetteville",
+                    "state": "West Virginia",
+                    "country": "United States",
+                    "mail_code": "25840"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Eureka?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Eureka",
+                    "state": "Montana",
+                    "country": "United States",
+                    "mail_code": "59518"
+                }
+            }
+        },
+        {
+            "query": "Timezone for a city in Nebraska?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Stapleton",
+                    "state": "Nebraska",
+                    "country": "United States",
+                    "mail_code": "69167"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Franklin?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Franklin",
+                    "state": "New Hampshire",
+                    "country": "United States",
+                    "mail_code": "03235"
+                }
+            }
+        },
+        {
+            "query": "Timezone for a city in Iowa?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Fayette",
+                    "state": "Iowa",
+                    "country": "United States",
+                    "mail_code": "52050"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Heber City?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Heber City",
+                    "state": "Utah",
+                    "country": "United States",
+                    "mail_code": "84032"
+                }
+            }
+        },
+        {
+            "query": "Timezone for a city in Georgia?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Folkston",
+                    "state": "Georgia",
+                    "country": "United States",
+                    "mail_code": "31537"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Lander?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Lander",
+                    "state": "Wyoming",
+                    "country": "United States",
+                    "mail_code": "82520"
+                }
+            }
+        },
+        {
+            "query": "Timezone for a city in Massachusetts?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Millers Falls",
+                    "state": "Massachusetts",
+                    "country": "United States",
+                    "mail_code": "01349"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Pinedale?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Pinedale",
+                    "state": "Wyoming",
+                    "country": "United States",
+                    "mail_code": "82941"
+                }
+            }
+        },
+        {
+            "query": "Timezone for a city in New Mexico?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Cimarron",
+                    "state": "New Mexico",
+                    "country": "United States",
+                    "mail_code": "87714"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Cawker City?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Cawker City",
+                    "state": "Kansas",
+                    "country": "United States",
+                    "mail_code": "67474"
+                }
+            }
+        },
+        {
+            "query": "Timezone for a city in Minnesota?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "International Falls",
+                    "state": "Minnesota",
+                    "country": "United States",
+                    "mail_code": "56649"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Rye Brook?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Rye Brook",
+                    "state": "New York",
+                    "country": "United States",
+                    "mail_code": "10573"
+                }
+            }
+        },
+        {
+            "query": "Timezone for a city in Alabama?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tarrant",
+                    "state": "Alabama",
+                    "country": "United States",
+                    "mail_code": "35222"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Leadville?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Leadville",
+                    "state": "Colorado",
+                    "country": "United States",
+                    "mail_code": "80461"
+                }
+            }
+        },
+        {
+            "query": "Timezone for a city in Kansas?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Lindsborg",
+                    "state": "Kansas",
+                    "country": "United States",
+                    "mail_code": "67456"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of West Union?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "West Union",
+                    "state": "Ohio",
+                    "country": "United States",
+                    "mail_code": "45693"
+                }
+            }
+        },
+        {
+            "query": "Timezone for a city in Kentucky?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Cynthiana",
+                    "state": "Kentucky",
+                    "country": "United States",
+                    "mail_code": "41031"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Bigfork?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Bigfork",
+                    "state": "Montana",
+                    "country": "United States",
+                    "mail_code": "59917"
+                }
+            }
+        },
+        {
+            "query": "Timezone for a city in Vermont?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Lowell",
+                    "state": "Vermont",
+                    "country": "United States",
+                    "mail_code": "04453"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of New Hampton?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "New Hampton",
+                    "state": "New York",
+                    "country": "United States",
+                    "mail_code": "13807"
+                }
+            }
+        },
+        {
+            "query": "Timezone for a city in Missouri?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Richmond",
+                    "state": "Missouri",
+                    "country": "United States",
+                    "mail_code": "64085"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Eastman?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Eastman",
+                    "state": "Georgia",
+                    "country": "United States",
+                    "mail_code": "31210"
+                }
+            }
+        },
+        {
+            "query": "Timezone for a city in South Carolina?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Cameron",
+                    "state": "South Carolina",
+                    "country": "United States",
+                    "mail_code": "29030"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Montevideo?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Montevideo",
+                    "state": "Minnesota",
+                    "country": "United States",
+                    "mail_code": "56265"
+                }
+            }
+        },
+        {
+            "query": "Timezone for a city in North Carolina?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Ronda",
+                    "state": "North Carolina",
+                    "country": "United States",
+                    "mail_code": "28670"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of New Castle?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "New Castle",
+                    "state": "Pennsylvania",
+                    "country": "United States",
+                    "mail_code": "16101"
+                }
+            }
+        },
+        {
+            "query": "Timezone for a city in Wisconsin?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Plover",
+                    "state": "Wisconsin",
+                    "country": "United States",
+                    "mail_code": "54467"
+                }
+            }
+        }
+    ]
+}

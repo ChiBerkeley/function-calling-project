@@ -1,0 +1,580 @@
+{
+    "queries": [
+        {
+            "query": "What is the timezone of New York",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "New York",
+                    "state": "New York",
+                    "country": "USA",
+                    "mail_code": "10001"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Chicago in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Chicago",
+                    "state": "Illinois",
+                    "country": "USA",
+                    "mail_code": "60601"
+                }
+            }
+        },
+        {
+            "query": "Get the timezone for San Francisco",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "San Francisco",
+                    "state": "",
+                    "country": "USA",
+                    "mail_code": "94105"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Phoenix?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Phoenix",
+                    "state": "Arizona",
+                    "country": "USA",
+                    "mail_code": "85001"
+                }
+            }
+        },
+        {
+            "query": "Timezone for Houston Texas",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Houston",
+                    "state": "Texas",
+                    "country": "USA",
+                    "mail_code": "77002"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Los Angeles in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Los Angeles",
+                    "state": "California",
+                    "country": "USA",
+                    "mail_code": "90001"
+                }
+            }
+        },
+        {
+            "query": "Get the timezone for Denver Colorado",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Denver",
+                    "state": "Colorado",
+                    "country": "USA",
+                    "mail_code": "80202"
+                }
+            }
+        },
+        {
+            "query": "Timezone for Dallas Texas",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Dallas",
+                    "state": "Texas",
+                    "country": "USA",
+                    "mail_code": "75201"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Seattle?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Seattle",
+                    "state": "Washington",
+                    "country": "USA",
+                    "mail_code": "98101"
+                }
+            }
+        },
+        {
+            "query": "Get the timezone for Miami Florida",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Miami",
+                    "state": "Florida",
+                    "country": "USA",
+                    "mail_code": "33101"
+                }
+            }
+        },
+        {
+            "query": "Timezone for San Diego California",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "San Diego",
+                    "state": "California",
+                    "country": "USA",
+                    "mail_code": "92101"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Jacksonville in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Jacksonville",
+                    "state": "Florida",
+                    "country": "USA",
+                    "mail_code": "32202"
+                }
+            }
+        },
+        {
+            "query": "Get the timezone for Indianapolis Indiana",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Indianapolis",
+                    "state": "Indiana",
+                    "country": "USA",
+                    "mail_code": "46201"
+                }
+            }
+        },
+        {
+            "query": "Timezone for Columbus Ohio",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Columbus",
+                    "state": "Ohio",
+                    "country": "USA",
+                    "mail_code": "43201"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Oklahoma City?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Oklahoma City",
+                    "state": "Oklahoma",
+                    "country": "USA",
+                    "mail_code": "73101"
+                }
+            }
+        },
+        {
+            "query": "Get the timezone for Nashville Tennessee",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Nashville",
+                    "state": "Tennessee",
+                    "country": "USA",
+                    "mail_code": "37201"
+                }
+            }
+        },
+        {
+            "query": "Timezone for Baltimore Maryland",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Baltimore",
+                    "state": "Maryland",
+                    "country": "USA",
+                    "mail_code": "21201"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Kansas City in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Kansas City",
+                    "state": "Missouri",
+                    "country": "USA",
+                    "mail_code": "64101"
+                }
+            }
+        },
+        {
+            "query": "Get the timezone for Memphis Tennessee",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Memphis",
+                    "state": "Tennessee",
+                    "country": "USA",
+                    "mail_code": "38101"
+                }
+            }
+        },
+        {
+            "query": "Timezone for Milwaukee Wisconsin",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Milwaukee",
+                    "state": "Wisconsin",
+                    "country": "USA",
+                    "mail_code": "53201"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Charlotte?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Charlotte",
+                    "state": "North Carolina",
+                    "country": "USA",
+                    "mail_code": "28201"
+                }
+            }
+        },
+        {
+            "query": "Get the timezone for Albuquerque New Mexico",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Albuquerque",
+                    "state": "New Mexico",
+                    "country": "USA",
+                    "mail_code": "87101"
+                }
+            }
+        },
+        {
+            "query": "Timezone for Wichita Kansas",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Wichita",
+                    "state": "Kansas",
+                    "country": "USA",
+                    "mail_code": "67201"
+                }
+            }
+        },
+        {
+            "query": "What time zone is New Orleans in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "New Orleans",
+                    "state": "Louisiana",
+                    "country": "USA",
+                    "mail_code": "70101"
+                }
+            }
+        },
+        {
+            "query": "Get the timezone for Oklahoma City Oklahoma",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Oklahoma City",
+                    "state": "Oklahoma",
+                    "country": "USA",
+                    "mail_code": "73101"
+                }
+            }
+        },
+        {
+            "query": "Timezone for Louisville Kentucky",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Louisville",
+                    "state": "Kentucky",
+                    "country": "USA",
+                    "mail_code": "40201"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Sacramento?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Sacramento",
+                    "state": "California",
+                    "country": "USA",
+                    "mail_code": "95801"
+                }
+            }
+        },
+        {
+            "query": "Get the timezone for Memphis Tennessee",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Memphis",
+                    "state": "Tennessee",
+                    "country": "USA",
+                    "mail_code": "38101"
+                }
+            }
+        },
+        {
+            "query": "Timezone for Honolulu Hawaii",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Honolulu",
+                    "state": "Hawaii",
+                    "country": "USA",
+                    "mail_code": "96801"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Austin in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Austin",
+                    "state": "Texas",
+                    "country": "USA",
+                    "mail_code": "78701"
+                }
+            }
+        },
+        {
+            "query": "Get the timezone for Tampa Florida",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tampa",
+                    "state": "Florida",
+                    "country": "USA",
+                    "mail_code": "33601"
+                }
+            }
+        },
+        {
+            "query": "Timezone for Oakland California",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Oakland",
+                    "state": "California",
+                    "country": "USA",
+                    "mail_code": "94601"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Raleigh?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Raleigh",
+                    "state": "North Carolina",
+                    "country": "USA",
+                    "mail_code": "27601"
+                }
+            }
+        },
+        {
+            "query": "Get the timezone for Omaha Nebraska",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Omaha",
+                    "state": "Nebraska",
+                    "country": "USA",
+                    "mail_code": "68101"
+                }
+            }
+        },
+        {
+            "query": "Timezone for Norfolk Virginia",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Norfolk",
+                    "state": "Virginia",
+                    "country": "USA",
+                    "mail_code": "23501"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Albuquerque in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Albuquerque",
+                    "state": "New Mexico",
+                    "country": "USA",
+                    "mail_code": "87101"
+                }
+            }
+        },
+        {
+            "query": "Get the timezone for Knoxville Tennessee",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Knoxville",
+                    "state": "Tennessee",
+                    "country": "USA",
+                    "mail_code": "37901"
+                }
+            }
+        },
+        {
+            "query": "Timezone for Colorado Springs Colorado",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Colorado Springs",
+                    "state": "Colorado",
+                    "country": "USA",
+                    "mail_code": "80901"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Albuquerque?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Albuquerque",
+                    "state": "New Mexico",
+                    "country": "USA",
+                    "mail_code": "87101"
+                }
+            }
+        },
+        {
+            "query": "Get the timezone for Honolulu Hawaii",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Honolulu",
+                    "state": "Hawaii",
+                    "country": "USA",
+                    "mail_code": "96801"
+                }
+            }
+        },
+        {
+            "query": "Timezone for Fresno California",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Fresno",
+                    "state": "California",
+                    "country": "USA",
+                    "mail_code": "93601"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Albuquerque in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Albuquerque",
+                    "state": "New Mexico",
+                    "country": "USA",
+                    "mail_code": "87101"
+                }
+            }
+        },
+        {
+            "query": "Get the timezone for Oklahoma City Oklahoma",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Oklahoma City",
+                    "state": "Oklahoma",
+                    "country": "USA",
+                    "mail_code": "73101"
+                }
+            }
+        },
+        {
+            "query": "Timezone for Sacramento California",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Sacramento",
+                    "state": "California",
+                    "country": "USA",
+                    "mail_code": "95801"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Honolulu?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Honolulu",
+                    "state": "Hawaii",
+                    "country": "USA",
+                    "mail_code": "96801"
+                }
+            }
+        },
+        {
+            "query": "Get the timezone for Milwaukee Wisconsin",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Milwaukee",
+                    "state": "Wisconsin",
+                    "country": "USA",
+                    "mail_code": "53201"
+                }
+            }
+        },
+        {
+            "query": "Timezone for Tampa Florida",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tampa",
+                    "state": "Florida",
+                    "country": "USA",
+                    "mail_code": "33601"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Sacramento in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Sacramento",
+                    "state": "California",
+                    "country": "USA",
+                    "mail_code": "95801"
+                }
+            }
+        }
+    ]
+}

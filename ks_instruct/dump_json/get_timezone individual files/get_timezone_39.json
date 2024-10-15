@@ -1,0 +1,472 @@
+{
+    "queries": [
+        {
+            "query": "What time zone is Ushuaia in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Ushuaia",
+                    "state": "Tierra del Fuego",
+                    "country": "Argentina",
+                    "mail_code": "94100"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Kathmandu in when the city is spelled correctly",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Kathmandu",
+                    "state": "Bagmati Province",
+                    "country": "Nepal",
+                    "mail_code": "44600"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Svalbard in when the city name has an error",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Svalbard city",
+                    "state": "Svalbard",
+                    "country": "Norway",
+                    "mail_code": "9170"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Quito in when the country name has a typo",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Quito",
+                    "state": "Pichincha Province",
+                    "country": "Ecuadoria",
+                    "mail_code": "170150"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Reykjavik in when the state name has an abbreviation",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Reykjavik",
+                    "state": "S",
+                    "country": "Iceland",
+                    "mail_code": "101"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Astana in when the city name has a different case",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "astana",
+                    "state": "Akmola Province",
+                    "country": "Kazakhstan",
+                    "mail_code": "010000"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Bogota in when the country name has an error",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Bogota",
+                    "state": "Cundinamarca Department",
+                    "country": "Colombia",
+                    "mail_code": "111711"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Tallinn in when the state name has an error",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tallinn",
+                    "state": "Harju County",
+                    "country": "Estonia",
+                    "mail_code": "10112"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Hanoi in when the city name has an incorrect spelling",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Hanoey",
+                    "state": "Red River Delta",
+                    "country": "Vietnam",
+                    "mail_code": "100000"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Belgrade in when the mail code has an incorrect format",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Belgrade",
+                    "state": "City of Belgrade",
+                    "country": "Serbia",
+                    "mail_code": "11000a"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Lima in when the state name has an abbreviation",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Lima",
+                    "state": "L",
+                    "country": "Peru",
+                    "mail_code": "15074"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Riga in when the country name has a typo",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Riga",
+                    "state": "Latgale Planning Region",
+                    "country": "Lettland",
+                    "mail_code": "LV-1001"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Tashkent in when the city name has a different case",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "tashkent",
+                    "state": "Tashkent Region",
+                    "country": "Uzbekistan",
+                    "mail_code": "700000"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Muscat in when the mail code has an incorrect format",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Muscat",
+                    "state": "Muscat Governorate",
+                    "country": "Oman",
+                    "mail_code": "123456e"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Bishkek in when the state name has an error",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Bishkek",
+                    "state": "Chuy Region",
+                    "country": "Kirgizstan",
+                    "mail_code": "720016"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Minsk in when the city name has an incorrect spelling",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Minsc",
+                    "state": "Minsk Region",
+                    "country": "Belarus",
+                    "mail_code": "220000"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Skopje in when the country name has an abbreviation",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Skopje",
+                    "state": "City of Skopje",
+                    "country": "Macedonia",
+                    "mail_code": "1000"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Yerevan in when the state name has an abbreviation",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Yerevan",
+                    "state": "Aragatsotn Province",
+                    "country": "Armenia",
+                    "mail_code": "375009"
+                }
+            }
+        },
+        {
+            "query": "What timezone is N'Djamena in when the city name has a different case",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "ndjamena",
+                    "state": "Logone Occidental Region",
+                    "country": "Chad",
+                    "mail_code": "10001"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Baku in when the country name has a typo",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Baku",
+                    "state": "Absheron Province",
+                    "country": "Azerbaijan",
+                    "mail_code": "AZ1000"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Tbilisi in when the mail code has an incorrect format",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tbilisi",
+                    "state": "Kakheti Region",
+                    "country": "Georgia",
+                    "mail_code": "0100000"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Ashgabat in when the state name has an error",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Ashgabat",
+                    "state": "Merv Region",
+                    "country": "Turkmenistan",
+                    "mail_code": "744000"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Pristina in when the city name has an incorrect spelling",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Prishtine",
+                    "state": "Kosovo District",
+                    "country": "Kosovo",
+                    "mail_code": "10000"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Dushanbe in when the country name has an abbreviation",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Dushanbe",
+                    "state": "Dushanbe City",
+                    "country": "Tajikistan",
+                    "mail_code": "734025"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Kabul in when the state name has an abbreviation",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Kabul",
+                    "state": "Kabul Province",
+                    "country": "Afghanistan",
+                    "mail_code": "1000"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Phnom Penh in when the mail code has an incorrect format",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Phnom Penh",
+                    "state": "Kandal Province",
+                    "country": "Cambodia",
+                    "mail_code": "123456e"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Hanoi in when the country name has a typo",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Hanoi",
+                    "state": "Quang Ninh Province",
+                    "country": "Vietnam",
+                    "mail_code": "VN-1000"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Sana'a in when the city name has a different case",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "sana'a",
+                    "state": "Sana'a Governorate",
+                    "country": "Yemen",
+                    "mail_code": "10000"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Djibouti in when the state name has an error",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Djibouti",
+                    "state": "Arta Region",
+                    "country": "Djibouti",
+                    "mail_code": "7510"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Mogadishu in when the city name has an incorrect spelling",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Mogadiscio",
+                    "state": "Bakool Region",
+                    "country": "Somalia",
+                    "mail_code": "10000"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Maputo in when the country name has an abbreviation",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Maputo",
+                    "state": "Maputo Province",
+                    "country": "Mozambique",
+                    "mail_code": "1000"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Bissau in when the state name has an abbreviation",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Bissau",
+                    "state": "Bafata Region",
+                    "country": "Guinea-Bissau",
+                    "mail_code": "1000"
+                }
+            }
+        },
+        {
+            "query": "What timezone is N'Djamena in when the mail code has an incorrect format",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "N'djamena",
+                    "state": "Logone Occidental Region",
+                    "country": "Chad",
+                    "mail_code": "10001"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Bangui in when the city name has a different case",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "bangui",
+                    "state": "Ombella Region",
+                    "country": "Central African Republic",
+                    "mail_code": "10000"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Juba in when the state name has an error",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Juba",
+                    "state": "Eastern Equatoria Region",
+                    "country": "South Sudan",
+                    "mail_code": "1000"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Kinshasa in when the country name has a typo",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Kinshasa",
+                    "state": "Kinshasa City",
+                    "country": "Congo (Brazzaville)",
+                    "mail_code": "10000"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Harare in when the mail code has an incorrect format",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Harare",
+                    "state": "Harare Province",
+                    "country": "Zimbabwe",
+                    "mail_code": "123456e"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Libreville in when the city name has an incorrect spelling",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Librevil",
+                    "state": "Gu\u00e9m\u00e9n\u00e9 Region",
+                    "country": "Gabon",
+                    "mail_code": "10000"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Yaounde in when the state name has an abbreviation",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Yaounde",
+                    "state": "Centre Region",
+                    "country": "Cameroon",
+                    "mail_code": "1000"
+                }
+            }
+        }
+    ]
+}

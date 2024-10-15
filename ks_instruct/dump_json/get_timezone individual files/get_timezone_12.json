@@ -1,0 +1,148 @@
+{
+    "queries": [
+        {
+            "query": "What time zone is Sidi Bouzid in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Sidi Bouzid",
+                    "state": "Kasserine",
+                    "country": "Tunisia",
+                    "mail_code": "2740"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Utsunomiya in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Utsunomiya",
+                    "state": "",
+                    "country": "Japan",
+                    "mail_code": "320-0011"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Kostanay in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Kostanay",
+                    "state": "",
+                    "country": "Kazakhstan",
+                    "mail_code": "11100"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Caxias do Sul in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Caxias do Sul",
+                    "state": "Rio Grande do Sul",
+                    "country": "Brazil",
+                    "mail_code": "95010-000"
+                }
+            }
+        },
+        {
+            "query": "What time zone is L'viv in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "L'viv",
+                    "state": "",
+                    "country": "Ukraine",
+                    "mail_code": "79000"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Al 'Ayn in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Al 'Ayn",
+                    "state": "",
+                    "country": "United Arab Emirates",
+                    "mail_code": "1410"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Yerevan in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Yerevan",
+                    "state": "",
+                    "country": "Armenia",
+                    "mail_code": "375009"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Quito in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Quito",
+                    "state": "",
+                    "country": "Ecuador",
+                    "mail_code": "170450"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Minsk in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Minsk",
+                    "state": "",
+                    "country": "Belarus",
+                    "mail_code": "220009"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Pontianak in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Pontianak",
+                    "state": "West Kalimantan",
+                    "country": "Indonesia",
+                    "mail_code": "78118"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Taichung in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Taichung",
+                    "state": "",
+                    "country": "Taiwan",
+                    "mail_code": "400000"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Sapporo in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Sapporo",
+                    "state": "",
+                    "country": "Japan",
+                    "mail_code": "060-8067"
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,172 @@
+{
+    "queries": [
+        {
+            "query": "What time zone is Smederevska Palanka in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Smederevska Palanka",
+                    "state": "default",
+                    "country": "Serbia",
+                    "mail_code": "16000"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Pazardzhik in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Pazardzhik",
+                    "state": "default",
+                    "country": "Bulgaria",
+                    "mail_code": "4400"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Tbilisi in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tbilisi",
+                    "state": "default",
+                    "country": "Georgia",
+                    "mail_code": "0101"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Kragujevac in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Kragujevac",
+                    "state": "default",
+                    "country": "Serbia",
+                    "mail_code": "34000"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Skopje in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Skopje",
+                    "state": "default",
+                    "country": "North Macedonia",
+                    "mail_code": "1000"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Baku in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Baku",
+                    "state": "default",
+                    "country": "Azerbaijan",
+                    "mail_code": "1000"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Zagreb in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Zagreb",
+                    "state": "default",
+                    "country": "Croatia",
+                    "mail_code": "10000"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Tirana in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tirana",
+                    "state": "default",
+                    "country": "Albania",
+                    "mail_code": "1001"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Pristina in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Pristina",
+                    "state": "default",
+                    "country": "Kosovo",
+                    "mail_code": "10000"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Sofia in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Sofia",
+                    "state": "default",
+                    "country": "Bulgaria",
+                    "mail_code": "1000"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Budapest in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Budapest",
+                    "state": "default",
+                    "country": "Hungary",
+                    "mail_code": "1094"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Kiev in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Kiev",
+                    "state": "default",
+                    "country": "Ukraine",
+                    "mail_code": "01080"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Bratislava in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Bratislava",
+                    "state": "default",
+                    "country": "Slovakia",
+                    "mail_code": "814 99"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Tirana in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tirana",
+                    "state": "default",
+                    "country": "Albania",
+                    "mail_code": "1001"
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,496 @@
+{
+    "queries": [
+        {
+            "query": "What is the timezone of Khabarovsk?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Khabarovsk",
+                    "state": "",
+                    "country": "Russia",
+                    "mail_code": "680000"
+                }
+            }
+        },
+        {
+            "query": "Timezone of Zougeur",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Zougeur",
+                    "state": "",
+                    "country": "Morocco",
+                    "mail_code": "44000"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Jambi in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Jambi",
+                    "state": "",
+                    "country": "Indonesia",
+                    "mail_code": "36122"
+                }
+            }
+        },
+        {
+            "query": "Get the timezone of Yopal",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Yopal",
+                    "state": "Meta",
+                    "country": "Colombia",
+                    "mail_code": "650002"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Khulna?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Khulna",
+                    "state": "",
+                    "country": "Bangladesh",
+                    "mail_code": "9200"
+                }
+            }
+        },
+        {
+            "query": "Timezone of Sisimiut",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Sisimiut",
+                    "state": "",
+                    "country": "Greenland",
+                    "mail_code": "3911"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Ulaanbaatar in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Ulaanbaatar",
+                    "state": "",
+                    "country": "Mongolia",
+                    "mail_code": "210022"
+                }
+            }
+        },
+        {
+            "query": "Get the timezone of Tacloban",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tacloban",
+                    "state": "Eastern Samar",
+                    "country": "Philippines",
+                    "mail_code": "6500"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Ushuaia?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Ushuaia",
+                    "state": "",
+                    "country": "Argentina",
+                    "mail_code": "94100"
+                }
+            }
+        },
+        {
+            "query": "Timezone of Peshawar",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Peshawar",
+                    "state": "Khyber Pakhtunkhwa",
+                    "country": "Pakistan",
+                    "mail_code": "25000"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Quito in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Quito",
+                    "state": "",
+                    "country": "Ecuador",
+                    "mail_code": "170150"
+                }
+            }
+        },
+        {
+            "query": "Get the timezone of Dushanbe",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Dushanbe",
+                    "state": "",
+                    "country": "Tajikistan",
+                    "mail_code": "734025"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Dar es Salaam?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Dar es Salaam",
+                    "state": "",
+                    "country": "Tanzania",
+                    "mail_code": "12100"
+                }
+            }
+        },
+        {
+            "query": "Timezone of Ashgabat",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Ashgabat",
+                    "state": "",
+                    "country": "Turkmenistan",
+                    "mail_code": "744000"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Tashkent in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tashkent",
+                    "state": "",
+                    "country": "Uzbekistan",
+                    "mail_code": "700000"
+                }
+            }
+        },
+        {
+            "query": "Get the timezone of Maputo",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Maputo",
+                    "state": "",
+                    "country": "Mozambique",
+                    "mail_code": "1100"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Naypyidaw?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Naypyidaw",
+                    "state": "",
+                    "country": "Myanmar",
+                    "mail_code": "15000"
+                }
+            }
+        },
+        {
+            "query": "Timezone of Maseru",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Maseru",
+                    "state": "",
+                    "country": "Lesotho",
+                    "mail_code": "1000"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Antananarivo in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Antananarivo",
+                    "state": "",
+                    "country": "Madagascar",
+                    "mail_code": "10100"
+                }
+            }
+        },
+        {
+            "query": "Get the timezone of Bishkek",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Bishkek",
+                    "state": "",
+                    "country": "Kyrgyzstan",
+                    "mail_code": "720016"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Funafuti?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Funafuti",
+                    "state": "",
+                    "country": "Tuvalu",
+                    "mail_code": "97650"
+                }
+            }
+        },
+        {
+            "query": "Timezone of Apia",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Apia",
+                    "state": "",
+                    "country": "Samoa",
+                    "mail_code": "0000"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Nuku'alofa in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Nuku'alofa",
+                    "state": "",
+                    "country": "Tonga",
+                    "mail_code": "20000"
+                }
+            }
+        },
+        {
+            "query": "Get the timezone of Majuro",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Majuro",
+                    "state": "",
+                    "country": "Marshall Islands",
+                    "mail_code": "96960"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Koror?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Koror",
+                    "state": "",
+                    "country": "Palau",
+                    "mail_code": "67030"
+                }
+            }
+        },
+        {
+            "query": "Timezone of Malabo",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Malabo",
+                    "state": "",
+                    "country": "Equatorial Guinea",
+                    "mail_code": "0001"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Djibouti in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Djibouti",
+                    "state": "",
+                    "country": "Djibouti",
+                    "mail_code": "7510"
+                }
+            }
+        },
+        {
+            "query": "Get the timezone of Tripoli",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tripoli",
+                    "state": "",
+                    "country": "Libya",
+                    "mail_code": "10000"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Tunis?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tunis",
+                    "state": "",
+                    "country": "Tunisia",
+                    "mail_code": "1000"
+                }
+            }
+        },
+        {
+            "query": "Timezone of Mogadishu",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Mogadishu",
+                    "state": "",
+                    "country": "Somalia",
+                    "mail_code": "21000"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Asmara in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Asmara",
+                    "state": "",
+                    "country": "Eritrea",
+                    "mail_code": "1000"
+                }
+            }
+        },
+        {
+            "query": "Get the timezone of Khartoum",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Khartoum",
+                    "state": "",
+                    "country": "Sudan",
+                    "mail_code": "11111"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Cairo?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Cairo",
+                    "state": "",
+                    "country": "Egypt",
+                    "mail_code": "11651"
+                }
+            }
+        },
+        {
+            "query": "Timezone of Addis Ababa",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Addis Ababa",
+                    "state": "",
+                    "country": "Ethiopia",
+                    "mail_code": "1000"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Nairobi in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Nairobi",
+                    "state": "",
+                    "country": "Kenya",
+                    "mail_code": "00100"
+                }
+            }
+        },
+        {
+            "query": "Get the timezone of Kampala",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Kampala",
+                    "state": "",
+                    "country": "Uganda",
+                    "mail_code": "1000"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Kigali?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Kigali",
+                    "state": "",
+                    "country": "Rwanda",
+                    "mail_code": "0001"
+                }
+            }
+        },
+        {
+            "query": "Timezone of Kinshasa",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Kinshasa",
+                    "state": "",
+                    "country": "Democratic Republic of the Congo",
+                    "mail_code": "1000"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Brazzaville in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Brazzaville",
+                    "state": "",
+                    "country": "Republic of the Congo",
+                    "mail_code": "1000"
+                }
+            }
+        },
+        {
+            "query": "Get the timezone of Bangui",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Bangui",
+                    "state": "",
+                    "country": "Central African Republic",
+                    "mail_code": "0001"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Yaound\u00e9?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Yaound\u00e9",
+                    "state": "",
+                    "country": "Cameroon",
+                    "mail_code": "1000"
+                }
+            }
+        }
+    ]
+}

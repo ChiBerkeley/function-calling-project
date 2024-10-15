@@ -1,0 +1,436 @@
+{
+    "queries": [
+        {
+            "query": "What is the timezone of Gdansk",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Gdansk",
+                    "state": "Pomeranian Voivodeship",
+                    "country": "Poland",
+                    "mail_code": "80-001"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Reykjavik in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Reykjavik",
+                    "state": "",
+                    "country": "Iceland",
+                    "mail_code": "101"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Pontianak",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Pontianak",
+                    "state": "West Kalimantan",
+                    "country": "Indonesia",
+                    "mail_code": "78111"
+                }
+            }
+        },
+        {
+            "query": "In what time zone is Sibiu located?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Sibiu",
+                    "state": "",
+                    "country": "Romania",
+                    "mail_code": "220001"
+                }
+            }
+        },
+        {
+            "query": "What timezone does Almaty belong to?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Almaty",
+                    "state": "Almaty Province",
+                    "country": "Kazakhstan",
+                    "mail_code": "050000"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Agra in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Agra",
+                    "state": "Uttar Pradesh",
+                    "country": "India",
+                    "mail_code": "282001"
+                }
+            }
+        },
+        {
+            "query": "In what timezone is Puebla located?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Puebla",
+                    "state": "Puebla",
+                    "country": "Mexico",
+                    "mail_code": "72000"
+                }
+            }
+        },
+        {
+            "query": "What time zone does Tbilisi belong to?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tbilisi",
+                    "state": "",
+                    "country": "Georgia",
+                    "mail_code": "0100"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Salvador, Bahia",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Salvador",
+                    "state": "Bahia",
+                    "country": "Brazil",
+                    "mail_code": "40000-000"
+                }
+            }
+        },
+        {
+            "query": "In what time zone is Astana located?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Astana",
+                    "state": ", Akmola Province",
+                    "country": "Kazakhstan",
+                    "mail_code": "010000"
+                }
+            }
+        },
+        {
+            "query": "What timezone does Guadalajara belong to?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Guadalajara",
+                    "state": "Jalisco",
+                    "country": "Mexico",
+                    "mail_code": "45000"
+                }
+            }
+        },
+        {
+            "query": "In what time zone is Hanoi located?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Hanoi",
+                    "state": "",
+                    "country": "Vietnam",
+                    "mail_code": "100000"
+                }
+            }
+        },
+        {
+            "query": "What timezone does Port-au-Prince belong to?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Port-au-Prince",
+                    "state": "",
+                    "country": "Haiti",
+                    "mail_code": "10100"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Minsk in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Minsk",
+                    "state": "",
+                    "country": "Belarus",
+                    "mail_code": "220007"
+                }
+            }
+        },
+        {
+            "query": "In what timezone is Conakry located?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Conakry",
+                    "state": "",
+                    "country": "Guinea",
+                    "mail_code": "21000"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Bandar Seri Begawan",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Bandar Seri Begawan",
+                    "state": "",
+                    "country": "Brunei",
+                    "mail_code": "BS2828"
+                }
+            }
+        },
+        {
+            "query": "In what time zone is Phnom Penh located?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Phnom Penh",
+                    "state": "",
+                    "country": "Cambodia",
+                    "mail_code": "12302"
+                }
+            }
+        },
+        {
+            "query": "What timezone does N'Djamena belong to?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "N'Djamena",
+                    "state": "",
+                    "country": "Chad",
+                    "mail_code": "10001"
+                }
+            }
+        },
+        {
+            "query": "In what time zone is Bishkek located?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Bishkek",
+                    "state": "",
+                    "country": "Kyrgyzstan",
+                    "mail_code": "720000"
+                }
+            }
+        },
+        {
+            "query": "What timezone does Accra belong to?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Accra",
+                    "state": "",
+                    "country": "Ghana",
+                    "mail_code": "110001"
+                }
+            }
+        },
+        {
+            "query": "In what time zone is Yerevan located?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Yerevan",
+                    "state": "",
+                    "country": "Armenia",
+                    "mail_code": "375006"
+                }
+            }
+        },
+        {
+            "query": "What timezone does Kabul belong to?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Kabul",
+                    "state": "",
+                    "country": "Afghanistan",
+                    "mail_code": "100"
+                }
+            }
+        },
+        {
+            "query": "In what time zone is Pyongyang located?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Pyongyang",
+                    "state": "",
+                    "country": "North Korea",
+                    "mail_code": "11011"
+                }
+            }
+        },
+        {
+            "query": "What timezone does Ashgabat belong to?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Ashgabat",
+                    "state": "",
+                    "country": "Turkmenistan",
+                    "mail_code": "744000"
+                }
+            }
+        },
+        {
+            "query": "In what time zone is Kuwait City located?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Kuwait City",
+                    "state": "",
+                    "country": "Kuwait",
+                    "mail_code": "13001"
+                }
+            }
+        },
+        {
+            "query": "What timezone does Abuja belong to?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Abuja",
+                    "state": "",
+                    "country": "Nigeria",
+                    "mail_code": "900001"
+                }
+            }
+        },
+        {
+            "query": "In what time zone is Kathmandu located?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Kathmandu",
+                    "state": "",
+                    "country": "Nepal",
+                    "mail_code": "44600"
+                }
+            }
+        },
+        {
+            "query": "What timezone does Thimphu belong to?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Thimphu",
+                    "state": "",
+                    "country": "Bhutan",
+                    "mail_code": "11001"
+                }
+            }
+        },
+        {
+            "query": "In what time zone is Doha located?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Doha",
+                    "state": "",
+                    "country": "Qatar",
+                    "mail_code": "28000"
+                }
+            }
+        },
+        {
+            "query": "What timezone does Mal\u00e9 belongs to?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Mal\u00e9",
+                    "state": "",
+                    "country": "Maldives",
+                    "mail_code": "20022"
+                }
+            }
+        },
+        {
+            "query": "In what time zone is Nuku'alofa located?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Nuku'alofa",
+                    "state": "",
+                    "country": "Tonga",
+                    "mail_code": "10000"
+                }
+            }
+        },
+        {
+            "query": "What timezone does Majuro belongs to?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Majuro",
+                    "state": "",
+                    "country": "Marshall Islands",
+                    "mail_code": "69255"
+                }
+            }
+        },
+        {
+            "query": "In what time zone is Funafuti located?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Funafuti",
+                    "state": "",
+                    "country": "Tuvalu",
+                    "mail_code": "97875"
+                }
+            }
+        },
+        {
+            "query": "What timezone does Tarawa belongs to?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tarawa",
+                    "state": "",
+                    "country": "Kiribati",
+                    "mail_code": "97600"
+                }
+            }
+        },
+        {
+            "query": "In what time zone is Apia located?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Apia",
+                    "state": "",
+                    "country": "Samoa",
+                    "mail_code": "99999"
+                }
+            }
+        },
+        {
+            "query": "What timezone does Honiara belongs to?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Honiara",
+                    "state": "",
+                    "country": "Solomon Islands",
+                    "mail_code": "95000"
+                }
+            }
+        }
+    ]
+}
