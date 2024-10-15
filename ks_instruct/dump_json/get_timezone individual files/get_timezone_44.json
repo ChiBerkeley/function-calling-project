@@ -1,0 +1,532 @@
+{
+    "queries": [
+        {
+            "query": "What is the timezone of Iquitos, Loreto in Peru with zip code 72200?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Iquitos",
+                    "state": "Loreto",
+                    "country": "Peru",
+                    "mail_code": "72200"
+                }
+            }
+        },
+        {
+            "query": "In what time zone is Ketchikan, Alaska located in the United States with postal code 99950?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Ketchikan",
+                    "state": "Alaska",
+                    "country": "United States",
+                    "mail_code": "99950"
+                }
+            }
+        },
+        {
+            "query": "What timezone is El Alto, La Paz in Bolivia with the zip code 08600?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "El Alto",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "08600"
+                }
+            }
+        },
+        {
+            "query": "What is the time zone of Maceio, Alagoas in Brazil with the postal code 57019-110?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Maceio",
+                    "state": "Alagoas",
+                    "country": "Brazil",
+                    "mail_code": "57019-110"
+                }
+            }
+        },
+        {
+            "query": "What timezone is San Salvador, Cuscatlan in El Salvador with the mail code 50259?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "San Salvador",
+                    "state": "Cuscatlan",
+                    "country": "El Salvador",
+                    "mail_code": "50259"
+                }
+            }
+        },
+        {
+            "query": "In what time zone is Iquitos, Loreto in Peru with zip code 72200?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Iquitos",
+                    "state": "Loreto",
+                    "country": "Peru",
+                    "mail_code": "72200"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Cayenne, Guyane in French Guiana with the postal code 97351?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Cayenne",
+                    "state": "Guyane",
+                    "country": "French Guiana",
+                    "mail_code": "97351"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Pucallpa, Ucayali in Peru with the zip code 07200?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Pucallpa",
+                    "state": "Ucayali",
+                    "country": "Peru",
+                    "mail_code": "07200"
+                }
+            }
+        },
+        {
+            "query": "What is the time zone of Tegucigalpa, Francisco Morazan in Honduras with postal code 11101?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tegucigalpa",
+                    "state": "Francisco Morazan",
+                    "country": "Honduras",
+                    "mail_code": "11101"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Paramaribo, Paramaribo in Suriname with the mail code 47800?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Paramaribo",
+                    "state": "Paramaribo",
+                    "country": "Suriname",
+                    "mail_code": "47800"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Asuncion, Central in Paraguay with postal code 1230?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Asuncion",
+                    "state": "Central",
+                    "country": "Paraguay",
+                    "mail_code": "1230"
+                }
+            }
+        },
+        {
+            "query": "In what time zone is Puerto Ayora, Galapagos in Ecuador with the zip code 200150?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Puerto Ayora",
+                    "state": "Galapagos",
+                    "country": "Ecuador",
+                    "mail_code": "200150"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Manta, Manabi in Ecuador with the mail code 39060?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Manta",
+                    "state": "Manabi",
+                    "country": "Ecuador",
+                    "mail_code": "39060"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Paramaribo, Paramaribo in Suriname with postal code 47800?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Paramaribo",
+                    "state": "Paramaribo",
+                    "country": "Suriname",
+                    "mail_code": "47800"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Manaus, Amazonas in Brazil with the postal code 69002-012?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Manaus",
+                    "state": "Amazonas",
+                    "country": "Brazil",
+                    "mail_code": "69002-012"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Puerto Principe, Pinar del Rio in Cuba with the zip code 72200?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Puerto Principe",
+                    "state": "Pinar del Rio",
+                    "country": "Cuba",
+                    "mail_code": "72200"
+                }
+            }
+        },
+        {
+            "query": "What is the time zone of San Jose, Cartago in Costa Rica with postal code 1007-4000?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "San Jose",
+                    "state": "Cartago",
+                    "country": "Costa Rica",
+                    "mail_code": "1007-4000"
+                }
+            }
+        },
+        {
+            "query": "In what time zone is Asuncion, Central in Paraguay with the mail code 1230?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Asuncion",
+                    "state": "Central",
+                    "country": "Paraguay",
+                    "mail_code": "1230"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Tegucigalpa, Francisco Morazan in Honduras with postal code 11101?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tegucigalpa",
+                    "state": "Francisco Morazan",
+                    "country": "Honduras",
+                    "mail_code": "11101"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Guayaquil, Guayas in Ecuador with the zip code 090150?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Guayaquil",
+                    "state": "Guayas",
+                    "country": "Ecuador",
+                    "mail_code": "090150"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Bogota, Cundinamarca in Colombia with postal code 111110?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Bogota",
+                    "state": "Cundinamarca",
+                    "country": "Colombia",
+                    "mail_code": "111110"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Montevideo, Montevideo in Uruguay with the postal code 11200?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Montevideo",
+                    "state": "Montevideo",
+                    "country": "Uruguay",
+                    "mail_code": "11200"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Quito, Pichincha in Ecuador with the mail code 170150?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Quito",
+                    "state": "Pichincha",
+                    "country": "Ecuador",
+                    "mail_code": "170150"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Asuncion, Central in Paraguay with the zip code 1230?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Asuncion",
+                    "state": "Central",
+                    "country": "Paraguay",
+                    "mail_code": "1230"
+                }
+            }
+        },
+        {
+            "query": "What timezone is San Salvador, San Salvador in El Salvador with the mail code 11400?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "San Salvador",
+                    "state": "San Salvador",
+                    "country": "El Salvador",
+                    "mail_code": "11400"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Lima, Lima in Peru with postal code 10000",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Lima",
+                    "state": "Lima",
+                    "country": "Peru",
+                    "mail_code": "10000"
+                }
+            }
+        },
+        {
+            "query": "In what time zone is San Jose, Cartago in Costa Rica with the mail code 1007-4000?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "San Jose",
+                    "state": "Cartago",
+                    "country": "Costa Rica",
+                    "mail_code": "1007-4000"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Port of Spain, Port of Spain in Trinidad and Tobago with the zip code 12211",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Port of Spain",
+                    "state": "Port of Spain",
+                    "country": "Trinidad and Tobago",
+                    "mail_code": "12211"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Sucre, Chuquisaca in Bolivia with the mail code 50000",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Sucre",
+                    "state": "Chuquisaca",
+                    "country": "Bolivia",
+                    "mail_code": "50000"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Santiago, Santiago in Chile with the mail code 8420000",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Santiago",
+                    "state": "Santiago",
+                    "country": "Chile",
+                    "mail_code": "8420000"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Montevideo, Montevideo in Uruguay with the zip code 11200",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Montevideo",
+                    "state": "Montevideo",
+                    "country": "Uruguay",
+                    "mail_code": "11200"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Caracas, Distrito Federal in Venezuela with the mail code 1061",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Caracas",
+                    "state": "Distrito Federal",
+                    "country": "Venezuela",
+                    "mail_code": "1061"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Quito, Pichincha in Ecuador with the zip code 170150",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Quito",
+                    "state": "Pichincha",
+                    "country": "Ecuador",
+                    "mail_code": "170150"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Bogota, Cundinamarca in Colombia with the postal code 111110",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Bogota",
+                    "state": "Cundinamarca",
+                    "country": "Colombia",
+                    "mail_code": "111110"
+                }
+            }
+        },
+        {
+            "query": "What time zone is San Salvador, San Salvador in El Salvador with the mail code 11400",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "San Salvador",
+                    "state": "San Salvador",
+                    "country": "El Salvador",
+                    "mail_code": "11400"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Asuncion, Central in Paraguay with the mail code 1230",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Asuncion",
+                    "state": "Central",
+                    "country": "Paraguay",
+                    "mail_code": "1230"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Lima, Lima in Peru with postal code 10000",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Lima",
+                    "state": "Lima",
+                    "country": "Peru",
+                    "mail_code": "10000"
+                }
+            }
+        },
+        {
+            "query": "In what time zone is Montevideo, Montevideo in Uruguay with the zip code 11200",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Montevideo",
+                    "state": "Montevideo",
+                    "country": "Uruguay",
+                    "mail_code": "11200"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Quito, Pichincha in Ecuador with the mail code 170150",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Quito",
+                    "state": "Pichincha",
+                    "country": "Ecuador",
+                    "mail_code": "170150"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Caracas, Distrito Federal in Venezuela with the mail code 1061",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Caracas",
+                    "state": "Distrito Federal",
+                    "country": "Venezuela",
+                    "mail_code": "1061"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Bogota, Cundinamarca in Colombia with the zip code 111110",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Bogota",
+                    "state": "Cundinamarca",
+                    "country": "Colombia",
+                    "mail_code": "111110"
+                }
+            }
+        },
+        {
+            "query": "What time zone is San Salvador, San Salvador in El Salvador with the postal code 11400",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "San Salvador",
+                    "state": "San Salvador",
+                    "country": "El Salvador",
+                    "mail_code": "11400"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Asuncion, Central in Paraguay with the mail code 1230",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Asuncion",
+                    "state": "Central",
+                    "country": "Paraguay",
+                    "mail_code": "1230"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Santiago, Santiago in Chile with the postal code 8420000",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Santiago",
+                    "state": "Santiago",
+                    "country": "Chile",
+                    "mail_code": "8420000"
+                }
+            }
+        }
+    ]
+}

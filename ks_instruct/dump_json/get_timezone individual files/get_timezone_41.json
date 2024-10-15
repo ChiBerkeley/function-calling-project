@@ -1,494 +1,494 @@
 {
     "queries": [
         {
-            "query": "What is the timezone of Khabarovsk?",
+            "query": "What is the timezone of Ketchikan, Alaska?",
             "answer": {
                 "function": "get_timezone",
                 "arguments": {
-                    "city": "Khabarovsk",
+                    "city": "Ketchikan",
+                    "state": "Alaska",
+                    "country": "USA",
+                    "mail_code": "99950"
+                }
+            }
+        },
+        {
+            "query": "In which time zone is Sitka, Alaska located in the USA with mail code 99835?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Sitka",
+                    "state": "Alaska",
+                    "country": "USA",
+                    "mail_code": "99835"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Whitehorse, Yukon in Canada located in with mail code Y1A 3T6?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Whitehorse",
                     "state": "",
-                    "country": "Russia",
-                    "mail_code": "680000"
+                    "country": "Canada",
+                    "mail_code": "Y1A 3T6"
                 }
             }
         },
         {
-            "query": "Timezone of Zougeur",
+            "query": "What is the timezone of Iqaluit, Nunavut in Canada with mail code X0A 1H0?",
             "answer": {
                 "function": "get_timezone",
                 "arguments": {
-                    "city": "Zougeur",
+                    "city": "Iqaluit",
                     "state": "",
-                    "country": "Morocco",
-                    "mail_code": "44000"
+                    "country": "Canada",
+                    "mail_code": "X0A 1H0"
                 }
             }
         },
         {
-            "query": "What timezone is Jambi in?",
+            "query": "In which time zone is Yellowknife, Northwest Territories in Canada with mail code X1A 3T6?",
             "answer": {
                 "function": "get_timezone",
                 "arguments": {
-                    "city": "Jambi",
+                    "city": "Yellowknife",
                     "state": "",
-                    "country": "Indonesia",
-                    "mail_code": "36122"
+                    "country": "Canada",
+                    "mail_code": "X1A 3T6"
                 }
             }
         },
         {
-            "query": "Get the timezone of Yopal",
+            "query": "What time zone is Churchill, Manitoba in Canada with mail code R0B 0E0?",
             "answer": {
                 "function": "get_timezone",
                 "arguments": {
-                    "city": "Yopal",
-                    "state": "Meta",
-                    "country": "Colombia",
-                    "mail_code": "650002"
-                }
-            }
-        },
-        {
-            "query": "What is the timezone of Khulna?",
-            "answer": {
-                "function": "get_timezone",
-                "arguments": {
-                    "city": "Khulna",
+                    "city": "Churchill",
                     "state": "",
-                    "country": "Bangladesh",
-                    "mail_code": "9200"
+                    "country": "Canada",
+                    "mail_code": "R0B 0E0"
                 }
             }
         },
         {
-            "query": "Timezone of Sisimiut",
+            "query": "What is the timezone of Dawson Creek, British Columbia in Canada with mail code V1G 3V9?",
             "answer": {
                 "function": "get_timezone",
                 "arguments": {
-                    "city": "Sisimiut",
+                    "city": "Dawson Creek",
                     "state": "",
-                    "country": "Greenland",
-                    "mail_code": "3911"
+                    "country": "Canada",
+                    "mail_code": "V1G 3V9"
                 }
             }
         },
         {
-            "query": "What timezone is Ulaanbaatar in?",
+            "query": "In which time zone is Lloydminster, Alberta and Saskatchewan in Canada with mail code T9V 0A2?",
             "answer": {
                 "function": "get_timezone",
                 "arguments": {
-                    "city": "Ulaanbaatar",
+                    "city": "Lloydminster",
                     "state": "",
-                    "country": "Mongolia",
-                    "mail_code": "210022"
+                    "country": "Canada",
+                    "mail_code": "T9V 0A2"
                 }
             }
         },
         {
-            "query": "Get the timezone of Tacloban",
+            "query": "What time zone is Fort Smith, Northwest Territories in Canada with mail code X0E 1H0?",
             "answer": {
                 "function": "get_timezone",
                 "arguments": {
-                    "city": "Tacloban",
-                    "state": "Eastern Samar",
-                    "country": "Philippines",
-                    "mail_code": "6500"
-                }
-            }
-        },
-        {
-            "query": "What is the timezone of Ushuaia?",
-            "answer": {
-                "function": "get_timezone",
-                "arguments": {
-                    "city": "Ushuaia",
+                    "city": "Fort Smith",
                     "state": "",
-                    "country": "Argentina",
-                    "mail_code": "94100"
+                    "country": "Canada",
+                    "mail_code": "X0E 1H0"
                 }
             }
         },
         {
-            "query": "Timezone of Peshawar",
+            "query": "What is the timezone of Grande Prairie, Alberta in Canada with mail code T8V 2Y7?",
             "answer": {
                 "function": "get_timezone",
                 "arguments": {
-                    "city": "Peshawar",
-                    "state": "Khyber Pakhtunkhwa",
-                    "country": "Pakistan",
-                    "mail_code": "25000"
-                }
-            }
-        },
-        {
-            "query": "What timezone is Quito in?",
-            "answer": {
-                "function": "get_timezone",
-                "arguments": {
-                    "city": "Quito",
+                    "city": "Grande Prairie",
                     "state": "",
-                    "country": "Ecuador",
-                    "mail_code": "170150"
+                    "country": "Canada",
+                    "mail_code": "T8V 2Y7"
                 }
             }
         },
         {
-            "query": "Get the timezone of Dushanbe",
+            "query": "In which time zone is Estevan, Saskatchewan in Canada with mail code S4A 0X3?",
             "answer": {
                 "function": "get_timezone",
                 "arguments": {
-                    "city": "Dushanbe",
+                    "city": "Estevan",
                     "state": "",
-                    "country": "Tajikistan",
-                    "mail_code": "734025"
+                    "country": "Canada",
+                    "mail_code": "S4A 0X3"
                 }
             }
         },
         {
-            "query": "What is the timezone of Dar es Salaam?",
+            "query": "What time zone is Taber, Alberta in Canada with mail code T1G 1C5?",
             "answer": {
                 "function": "get_timezone",
                 "arguments": {
-                    "city": "Dar es Salaam",
+                    "city": "Taber",
                     "state": "",
-                    "country": "Tanzania",
-                    "mail_code": "12100"
+                    "country": "Canada",
+                    "mail_code": "T1G 1C5"
                 }
             }
         },
         {
-            "query": "Timezone of Ashgabat",
+            "query": "What is the timezone of Prince Albert, Saskatchewan in Canada with mail code S6V 7N2?",
             "answer": {
                 "function": "get_timezone",
                 "arguments": {
-                    "city": "Ashgabat",
+                    "city": "Prince Albert",
                     "state": "",
-                    "country": "Turkmenistan",
-                    "mail_code": "744000"
+                    "country": "Canada",
+                    "mail_code": "S6V 7N2"
                 }
             }
         },
         {
-            "query": "What timezone is Tashkent in?",
+            "query": "In which time zone is Weyburn, Saskatchewan in Canada with mail code S0G 1P0?",
             "answer": {
                 "function": "get_timezone",
                 "arguments": {
-                    "city": "Tashkent",
+                    "city": "Weyburn",
                     "state": "",
-                    "country": "Uzbekistan",
-                    "mail_code": "700000"
+                    "country": "Canada",
+                    "mail_code": "S0G 1P0"
                 }
             }
         },
         {
-            "query": "Get the timezone of Maputo",
+            "query": "What time zone is Swift Current, Saskatchewan in Canada with mail code S9H 3V8?",
             "answer": {
                 "function": "get_timezone",
                 "arguments": {
-                    "city": "Maputo",
+                    "city": "Swift Current",
                     "state": "",
-                    "country": "Mozambique",
-                    "mail_code": "1100"
+                    "country": "Canada",
+                    "mail_code": "S9H 3V8"
                 }
             }
         },
         {
-            "query": "What is the timezone of Naypyidaw?",
+            "query": "What is the timezone of Yorkton, Saskatchewan in Canada with mail code S3N 2T6?",
             "answer": {
                 "function": "get_timezone",
                 "arguments": {
-                    "city": "Naypyidaw",
+                    "city": "Yorkton",
                     "state": "",
-                    "country": "Myanmar",
-                    "mail_code": "15000"
+                    "country": "Canada",
+                    "mail_code": "S3N 2T6"
                 }
             }
         },
         {
-            "query": "Timezone of Maseru",
+            "query": "In which time zone is Melfort, Saskatchewan in Canada with mail code S0J 1A0?",
             "answer": {
                 "function": "get_timezone",
                 "arguments": {
-                    "city": "Maseru",
+                    "city": "Melfort",
                     "state": "",
-                    "country": "Lesotho",
-                    "mail_code": "1000"
+                    "country": "Canada",
+                    "mail_code": "S0J 1A0"
                 }
             }
         },
         {
-            "query": "What timezone is Antananarivo in?",
+            "query": "What time zone is Kindersley, Saskatchewan in Canada with mail code S0L 1N0?",
             "answer": {
                 "function": "get_timezone",
                 "arguments": {
-                    "city": "Antananarivo",
+                    "city": "Kindersley",
                     "state": "",
-                    "country": "Madagascar",
-                    "mail_code": "10100"
+                    "country": "Canada",
+                    "mail_code": "S0L 1N0"
                 }
             }
         },
         {
-            "query": "Get the timezone of Bishkek",
+            "query": "What is the timezone of Humboldt, Saskatchewan in Canada with mail code S0B 2H0?",
             "answer": {
                 "function": "get_timezone",
                 "arguments": {
-                    "city": "Bishkek",
+                    "city": "Humboldt",
                     "state": "",
-                    "country": "Kyrgyzstan",
-                    "mail_code": "720016"
+                    "country": "Canada",
+                    "mail_code": "S0B 2H0"
                 }
             }
         },
         {
-            "query": "What is the timezone of Funafuti?",
+            "query": "In which time zone is Martensville, Saskatchewan in Canada with mail code S0K 3T4?",
             "answer": {
                 "function": "get_timezone",
                 "arguments": {
-                    "city": "Funafuti",
+                    "city": "Martensville",
                     "state": "",
-                    "country": "Tuvalu",
-                    "mail_code": "97650"
+                    "country": "Canada",
+                    "mail_code": "S0K 3T4"
                 }
             }
         },
         {
-            "query": "Timezone of Apia",
+            "query": "What time zone is Nipawin, Saskatchewan in Canada with mail code S0T 1H0?",
             "answer": {
                 "function": "get_timezone",
                 "arguments": {
-                    "city": "Apia",
+                    "city": "Nipawin",
                     "state": "",
-                    "country": "Samoa",
-                    "mail_code": "0000"
+                    "country": "Canada",
+                    "mail_code": "S0T 1H0"
                 }
             }
         },
         {
-            "query": "What timezone is Nuku'alofa in?",
+            "query": "What is the timezone of Meadow Lake, Saskatchewan in Canada with mail code S9A 1C8?",
             "answer": {
                 "function": "get_timezone",
                 "arguments": {
-                    "city": "Nuku'alofa",
+                    "city": "Meadow Lake",
                     "state": "",
-                    "country": "Tonga",
-                    "mail_code": "20000"
+                    "country": "Canada",
+                    "mail_code": "S9A 1C8"
                 }
             }
         },
         {
-            "query": "Get the timezone of Majuro",
+            "query": "In which time zone is Tisdale, Saskatchewan in Canada with mail code S0J 2T0?",
             "answer": {
                 "function": "get_timezone",
                 "arguments": {
-                    "city": "Majuro",
+                    "city": "Tisdale",
                     "state": "",
-                    "country": "Marshall Islands",
-                    "mail_code": "96960"
+                    "country": "Canada",
+                    "mail_code": "S0J 2T0"
                 }
             }
         },
         {
-            "query": "What is the timezone of Koror?",
+            "query": "What time zone is La Ronge, Saskatchewan in Canada with mail code S0J 1C0?",
             "answer": {
                 "function": "get_timezone",
                 "arguments": {
-                    "city": "Koror",
+                    "city": "La Ronge",
                     "state": "",
-                    "country": "Palau",
-                    "mail_code": "67030"
+                    "country": "Canada",
+                    "mail_code": "S0J 1C0"
                 }
             }
         },
         {
-            "query": "Timezone of Malabo",
+            "query": "What is the timezone of Meadow Lake, Saskatchewan in Canada with mail code S9A 1C8?",
             "answer": {
                 "function": "get_timezone",
                 "arguments": {
-                    "city": "Malabo",
+                    "city": "Meadow Lake",
                     "state": "",
-                    "country": "Equatorial Guinea",
-                    "mail_code": "0001"
+                    "country": "Canada",
+                    "mail_code": "S9A 1C8"
                 }
             }
         },
         {
-            "query": "What timezone is Djibouti in?",
+            "query": "In which time zone is Flin Flon, Manitoba in Canada with mail code R8A 0N5?",
             "answer": {
                 "function": "get_timezone",
                 "arguments": {
-                    "city": "Djibouti",
+                    "city": "Flin Flon",
                     "state": "",
-                    "country": "Djibouti",
-                    "mail_code": "7510"
+                    "country": "Canada",
+                    "mail_code": "R8A 0N5"
                 }
             }
         },
         {
-            "query": "Get the timezone of Tripoli",
+            "query": "What time zone is Thompson, Manitoba in Canada with mail code R7N 1T2?",
             "answer": {
                 "function": "get_timezone",
                 "arguments": {
-                    "city": "Tripoli",
+                    "city": "Thompson",
                     "state": "",
-                    "country": "Libya",
-                    "mail_code": "10000"
+                    "country": "Canada",
+                    "mail_code": "R7N 1T2"
                 }
             }
         },
         {
-            "query": "What is the timezone of Tunis?",
+            "query": "What is the timezone of Gillam, Manitoba in Canada with mail code R0B 0A3?",
             "answer": {
                 "function": "get_timezone",
                 "arguments": {
-                    "city": "Tunis",
+                    "city": "Gillam",
                     "state": "",
-                    "country": "Tunisia",
-                    "mail_code": "1000"
+                    "country": "Canada",
+                    "mail_code": "R0B 0A3"
                 }
             }
         },
         {
-            "query": "Timezone of Mogadishu",
+            "query": "In which time zone is Red Lake, Ontario in Canada with mail code P2A 0A0?",
             "answer": {
                 "function": "get_timezone",
                 "arguments": {
-                    "city": "Mogadishu",
+                    "city": "Red Lake",
                     "state": "",
-                    "country": "Somalia",
-                    "mail_code": "21000"
+                    "country": "Canada",
+                    "mail_code": "P2A 0A0"
                 }
             }
         },
         {
-            "query": "What timezone is Asmara in?",
+            "query": "What time zone is Vermilion, Alberta in Canada with mail code T9H 1G8?",
             "answer": {
                 "function": "get_timezone",
                 "arguments": {
-                    "city": "Asmara",
+                    "city": "Vermilion",
                     "state": "",
-                    "country": "Eritrea",
-                    "mail_code": "1000"
+                    "country": "Canada",
+                    "mail_code": "T9H 1G8"
                 }
             }
         },
         {
-            "query": "Get the timezone of Khartoum",
+            "query": "What is the timezone of Vegreville, Alberta in Canada with mail code T9C 1N2?",
             "answer": {
                 "function": "get_timezone",
                 "arguments": {
-                    "city": "Khartoum",
+                    "city": "Vegreville",
                     "state": "",
-                    "country": "Sudan",
-                    "mail_code": "11111"
+                    "country": "Canada",
+                    "mail_code": "T9C 1N2"
                 }
             }
         },
         {
-            "query": "What is the timezone of Cairo?",
+            "query": "In which time zone is St. Paul, Alberta in Canada with mail code T0A 3Y4?",
             "answer": {
                 "function": "get_timezone",
                 "arguments": {
-                    "city": "Cairo",
+                    "city": "St. Paul",
                     "state": "",
-                    "country": "Egypt",
-                    "mail_code": "11651"
+                    "country": "Canada",
+                    "mail_code": "T0A 3Y4"
                 }
             }
         },
         {
-            "query": "Timezone of Addis Ababa",
+            "query": "What time zone is Elk Point, Alberta in Canada with mail code T0C 0B5?",
             "answer": {
                 "function": "get_timezone",
                 "arguments": {
-                    "city": "Addis Ababa",
+                    "city": "Elk Point",
                     "state": "",
-                    "country": "Ethiopia",
-                    "mail_code": "1000"
+                    "country": "Canada",
+                    "mail_code": "T0C 0B5"
                 }
             }
         },
         {
-            "query": "What timezone is Nairobi in?",
+            "query": "What is the timezone of Cold Lake, Alberta in Canada with mail code T9V 3B7?",
             "answer": {
                 "function": "get_timezone",
                 "arguments": {
-                    "city": "Nairobi",
+                    "city": "Cold Lake",
                     "state": "",
-                    "country": "Kenya",
-                    "mail_code": "00100"
+                    "country": "Canada",
+                    "mail_code": "T9V 3B7"
                 }
             }
         },
         {
-            "query": "Get the timezone of Kampala",
+            "query": "In which time zone is High Level, Alberta in Canada with mail code T0H 1Z0?",
             "answer": {
                 "function": "get_timezone",
                 "arguments": {
-                    "city": "Kampala",
+                    "city": "High Level",
                     "state": "",
-                    "country": "Uganda",
-                    "mail_code": "1000"
+                    "country": "Canada",
+                    "mail_code": "T0H 1Z0"
                 }
             }
         },
         {
-            "query": "What is the timezone of Kigali?",
+            "query": "What time zone is Peace River, Alberta in Canada with mail code T8L 2A3?",
             "answer": {
                 "function": "get_timezone",
                 "arguments": {
-                    "city": "Kigali",
+                    "city": "Peace River",
                     "state": "",
-                    "country": "Rwanda",
-                    "mail_code": "0001"
+                    "country": "Canada",
+                    "mail_code": "T8L 2A3"
                 }
             }
         },
         {
-            "query": "Timezone of Kinshasa",
+            "query": "What is the timezone of Fort Smith, Northwest Territories in Canada with mail code X0E 1P0?",
             "answer": {
                 "function": "get_timezone",
                 "arguments": {
-                    "city": "Kinshasa",
+                    "city": "Fort Smith",
                     "state": "",
-                    "country": "Democratic Republic of the Congo",
-                    "mail_code": "1000"
+                    "country": "Canada",
+                    "mail_code": "X0E 1P0"
                 }
             }
         },
         {
-            "query": "What timezone is Brazzaville in?",
+            "query": "In which time zone is Hay River, Northwest Territories in Canada with mail code X0E 1G0?",
             "answer": {
                 "function": "get_timezone",
                 "arguments": {
-                    "city": "Brazzaville",
+                    "city": "Hay River",
                     "state": "",
-                    "country": "Republic of the Congo",
-                    "mail_code": "1000"
+                    "country": "Canada",
+                    "mail_code": "X0E 1G0"
                 }
             }
         },
         {
-            "query": "Get the timezone of Bangui",
+            "query": "What time zone is Norman Wells, Northwest Territories in Canada with mail code X0E 1Z0?",
             "answer": {
                 "function": "get_timezone",
                 "arguments": {
-                    "city": "Bangui",
+                    "city": "Norman Wells",
                     "state": "",
-                    "country": "Central African Republic",
-                    "mail_code": "0001"
+                    "country": "Canada",
+                    "mail_code": "X0E 1Z0"
                 }
             }
         },
         {
-            "query": "What is the timezone of Yaound\u00e9?",
+            "query": "What is the timezone of Inuvik, Northwest Territories in Canada with mail code T9V 0A3?",
             "answer": {
                 "function": "get_timezone",
                 "arguments": {
-                    "city": "Yaound\u00e9",
+                    "city": "Inuvik",
                     "state": "",
-                    "country": "Cameroon",
-                    "mail_code": "1000"
+                    "country": "Canada",
+                    "mail_code": "T9V 0A3"
+                }
+            }
+        },
+        {
+            "query": "In which time zone is Whitehorse, Yukon in Canada with mail code Y1A 2B7?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Whitehorse",
+                    "state": "",
+                    "country": "Canada",
+                    "mail_code": "Y1A 2B7"
                 }
             }
         }

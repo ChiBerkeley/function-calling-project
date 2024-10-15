@@ -1,0 +1,484 @@
+{
+    "queries": [
+        {
+            "query": "What is the timezone of Iquitos, Loreto in Peru with the mail code 72200 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Iquitos",
+                    "state": "Loreto",
+                    "country": "Peru",
+                    "mail_code": "72200"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Yerevan, Ararat in Armenia with the mail code 0601 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Yerevan",
+                    "state": "Ararat",
+                    "country": "Armenia",
+                    "mail_code": "0601"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Belmopan, Cayo in Belize with the mail code 00000 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Belmopan",
+                    "state": "Cayo",
+                    "country": "Belize",
+                    "mail_code": "00000"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Tegucigalpa, Francisco Moraz\u00e1n in Honduras with the mail code 51001 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tegucigalpa",
+                    "state": "Francisco Moraz\u00e1n",
+                    "country": "Honduras",
+                    "mail_code": "51001"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Port Moresby, National Capital District in Papua New Guinea with the mail code 121 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Port Moresby",
+                    "state": "National Capital District",
+                    "country": "Papua New Guinea",
+                    "mail_code": "121"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Paramaribo, Paramaribo in Suriname with the mail code 1001 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Paramaribo",
+                    "state": "Paramaribo",
+                    "country": "Suriname",
+                    "mail_code": "1001"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Asmara, Debub in Eritrea with the mail code 111 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Asmara",
+                    "state": "Debub",
+                    "country": "Eritrea",
+                    "mail_code": "111"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Juba, Central Equatoria in South Sudan with the mail code 10101 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Juba",
+                    "state": "Central Equatoria",
+                    "country": "South Sudan",
+                    "mail_code": "10101"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Funafuti, Tuvalu with the mail code 976 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Funafuti",
+                    "state": "",
+                    "country": "Tuvalu",
+                    "mail_code": "976"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Hargeisa, Woqooyi Galbeed in Somalia with the mail code 73400 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Hargeisa",
+                    "state": "Woqooyi Galbeed",
+                    "country": "Somalia",
+                    "mail_code": "73400"
+                }
+            }
+        },
+        {
+            "query": "What timezone is N'Djamena, Chari-Bagirmi in Chad with the mail code 1161 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "N'Djamena",
+                    "state": "Chari-Bagirmi",
+                    "country": "Chad",
+                    "mail_code": "1161"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Bichkek, Chuy in Kyrgyzstan with the mail code 72100 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Bichkek",
+                    "state": "Chuy",
+                    "country": "Kyrgyzstan",
+                    "mail_code": "72100"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Maseru, Maseru in Lesotho with the mail code 100 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Maseru",
+                    "state": "Maseru",
+                    "country": "Lesotho",
+                    "mail_code": "100"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Apia, Tuamasaga in Samoa with the mail code 16000 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Apia",
+                    "state": "Tuamasaga",
+                    "country": "Samoa",
+                    "mail_code": "16000"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Naypyidaw, Ayeyarwady in Myanmar with the mail code 15011 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Naypyidaw",
+                    "state": "Ayeyarwady",
+                    "country": "Myanmar",
+                    "mail_code": "15011"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Thimphu, Thimphu in Bhutan with the mail code 1000 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Thimphu",
+                    "state": "Thimphu",
+                    "country": "Bhutan",
+                    "mail_code": "1000"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Ashgabat, Ahal in Turkmenistan with the mail code 80000 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Ashgabat",
+                    "state": "Ahal",
+                    "country": "Turkmenistan",
+                    "mail_code": "80000"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Dili, Dili in East Timor with the mail code 1000 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Dili",
+                    "state": "Dili",
+                    "country": "East Timor",
+                    "mail_code": "1000"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Majuro, Marshall Islands with the mail code 96960 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Majuro",
+                    "state": "",
+                    "country": "Marshall Islands",
+                    "mail_code": "96960"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Kigali, Kigali in Rwanda with the mail code 1111 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Kigali",
+                    "state": "Kigali",
+                    "country": "Rwanda",
+                    "mail_code": "1111"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Maputo, Maputo in Mozambique with the mail code 1000 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Maputo",
+                    "state": "Maputo",
+                    "country": "Mozambique",
+                    "mail_code": "1000"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Yaren, Yaren in Nauru with the mail code 999 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Yaren",
+                    "state": "Yaren",
+                    "country": "Nauru",
+                    "mail_code": "999"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Nouakchott, Dakhlet Nouadhibou in Mauritania with the mail code 44000 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Nouakchott",
+                    "state": "Dakhlet Nouadhibou",
+                    "country": "Mauritania",
+                    "mail_code": "44000"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Funafuti, Tuvalu with the mail code 97600 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Funafuti",
+                    "state": "",
+                    "country": "Tuvalu",
+                    "mail_code": "97600"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Palikir, New Ireland in Micronesia with the mail code 98898 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Palikir",
+                    "state": "New Ireland",
+                    "country": "Micronesia",
+                    "mail_code": "98898"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Lom\u00e9, Maritime in Togo with the mail code 99900 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Lom\u00e9",
+                    "state": "Maritime",
+                    "country": "Togo",
+                    "mail_code": "99900"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Tarawa, Gilbert Islands in Kiribati with the mail code 99166 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tarawa",
+                    "state": "Gilbert Islands",
+                    "country": "Kiribati",
+                    "mail_code": "99166"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Tbilisi, Tbilisi in Georgia with the mail code 80000 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tbilisi",
+                    "state": "Tbilisi",
+                    "country": "Georgia",
+                    "mail_code": "80000"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Gaborone, Gaborone in Botswana with the mail code 1000 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Gaborone",
+                    "state": "Gaborone",
+                    "country": "Botswana",
+                    "mail_code": "1000"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Dar es Salaam, Dar es Salaam in Tanzania with the mail code 11100 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Dar es Salaam",
+                    "state": "Dar es Salaam",
+                    "country": "Tanzania",
+                    "mail_code": "11100"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Accra, Greater Accra in Ghana with the mail code 1000 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Accra",
+                    "state": "Greater Accra",
+                    "country": "Ghana",
+                    "mail_code": "1000"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Freetown, Western Area in Sierra Leone with the mail code 11100 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Freetown",
+                    "state": "Western Area",
+                    "country": "Sierra Leone",
+                    "mail_code": "11100"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Monrovia, Montserrado in Liberia with the mail code 1000 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Monrovia",
+                    "state": "Montserrado",
+                    "country": "Liberia",
+                    "mail_code": "1000"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Conakry, Kindia in Guinea with the mail code 11100 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Conakry",
+                    "state": "Kindia",
+                    "country": "Guinea",
+                    "mail_code": "11100"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Abidjan, Lagunes in C\u00f4te d'Ivoire with the mail code 1000 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Abidjan",
+                    "state": "Lagunes",
+                    "country": "C\u00f4te d'Ivoire",
+                    "mail_code": "1000"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Dakar, Fatick in Senegal with the mail code 11100 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Dakar",
+                    "state": "Fatick",
+                    "country": "Senegal",
+                    "mail_code": "11100"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Ouagadougou, Kadiogo in Burkina Faso with the mail code 1000 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Ouagadougou",
+                    "state": "Kadiogo",
+                    "country": "Burkina Faso",
+                    "mail_code": "1000"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Bamako, Koulikoro in Mali with the mail code 11100 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Bamako",
+                    "state": "Koulikoro",
+                    "country": "Mali",
+                    "mail_code": "11100"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Cape Town, Western Cape in South Africa with the mail code 8000 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Cape Town",
+                    "state": "Western Cape",
+                    "country": "South Africa",
+                    "mail_code": "8000"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Windhoek, Khomas in Namibia with the mail code 90000 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Windhoek",
+                    "state": "Khomas",
+                    "country": "Namibia",
+                    "mail_code": "90000"
+                }
+            }
+        }
+    ]
+}

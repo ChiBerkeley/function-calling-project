@@ -1,0 +1,3148 @@
+{
+    "queries": [
+        {
+            "query": "What time zone is Riberalta, Beni in Bolivia with mail code 24100 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Riberalta",
+                    "state": "Beni",
+                    "country": "Bolivia",
+                    "mail_code": "24100"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Cachuela, Pando in Bolivia with mail code 10100 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Cachuela",
+                    "state": "Pando",
+                    "country": "Bolivia",
+                    "mail_code": "10100"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Rurrenabaque, Pando in Bolivia with mail code 99700 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Rurrenabaque",
+                    "state": "Pando",
+                    "country": "Bolivia",
+                    "mail_code": "99700"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Cobija, Pando in Bolivia with mail code 70706 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Cobija",
+                    "state": "Pando",
+                    "country": "Bolivia",
+                    "mail_code": "70706"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Puerto Villarroel, Pando in Bolivia with mail code 70500 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Puerto Villarroel",
+                    "state": "Pando",
+                    "country": "Bolivia",
+                    "mail_code": "70500"
+                }
+            }
+        },
+        {
+            "query": "What time zone is La Asunta, Beni in Bolivia with mail code 25001 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "La Asunta",
+                    "state": "Beni",
+                    "country": "Bolivia",
+                    "mail_code": "25001"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Magdalena, Beni in Bolivia with mail code 22000 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Magdalena",
+                    "state": "Beni",
+                    "country": "Bolivia",
+                    "mail_code": "22000"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Santa Ana, Beni in Bolivia with mail code 24004 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Santa Ana",
+                    "state": "Beni",
+                    "country": "Bolivia",
+                    "mail_code": "24004"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Charasani, La Paz in Bolivia with mail code 30200 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Charasani",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30200"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Laja, La Paz in Bolivia with mail code 31202 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Laja",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31202"
+                }
+            }
+        },
+        {
+            "query": "What time zone is El Alto, La Paz in Bolivia with mail code 08601 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "El Alto",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "08601"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Oruro, Oruro in Bolivia with mail code 13014 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Oruro",
+                    "state": "Oruro",
+                    "country": "Bolivia",
+                    "mail_code": "13014"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Caracollo, Oruro in Bolivia with mail code 12601 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Caracollo",
+                    "state": "Oruro",
+                    "country": "Bolivia",
+                    "mail_code": "12601"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Salinas, Oruro in Bolivia with mail code 12304 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Salinas",
+                    "state": "Oruro",
+                    "country": "Bolivia",
+                    "mail_code": "12304"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Sucre, Chuquisaca in Bolivia with mail code 14001 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Sucre",
+                    "state": "Chuquisaca",
+                    "country": "Bolivia",
+                    "mail_code": "14001"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Camargo, Tarija in Bolivia with mail code 77002 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Camargo",
+                    "state": "Tarija",
+                    "country": "Bolivia",
+                    "mail_code": "77002"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Tarija, Tarija in Bolivia with mail code 79001 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tarija",
+                    "state": "Tarija",
+                    "country": "Bolivia",
+                    "mail_code": "79001"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Alkalajtu, Tarija in Bolivia with mail code 77004 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Alkalajtu",
+                    "state": "Tarija",
+                    "country": "Bolivia",
+                    "mail_code": "77004"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Yacuma, Beni in Bolivia with mail code 25007 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Yacuma",
+                    "state": "Beni",
+                    "country": "Bolivia",
+                    "mail_code": "25007"
+                }
+            }
+        },
+        {
+            "query": "What time zone is San Ramon, Beni in Bolivia with mail code 25006 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "San Ramon",
+                    "state": "Beni",
+                    "country": "Bolivia",
+                    "mail_code": "25006"
+                }
+            }
+        },
+        {
+            "query": "What time zone is R\u00edmac, La Paz in Bolivia with mail code 30201 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "R\u00edmac",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30201"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Zona Sur, Pando in Bolivia with mail code 99900 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Zona Sur",
+                    "state": "Pando",
+                    "country": "Bolivia",
+                    "mail_code": "99900"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Cuevo, Beni in Bolivia with mail code 26003 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Cuevo",
+                    "state": "Beni",
+                    "country": "Bolivia",
+                    "mail_code": "26003"
+                }
+            }
+        },
+        {
+            "query": "What time zone is San Borja, Beni in Bolivia with mail code 25008 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "San Borja",
+                    "state": "Beni",
+                    "country": "Bolivia",
+                    "mail_code": "25008"
+                }
+            }
+        },
+        {
+            "query": "What time zone is San Pedro, Beni in Bolivia with mail code 26002 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "San Pedro",
+                    "state": "Beni",
+                    "country": "Bolivia",
+                    "mail_code": "26002"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Puerto Rico, Pando in Bolivia with mail code 99001 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Puerto Rico",
+                    "state": "Pando",
+                    "country": "Bolivia",
+                    "mail_code": "99001"
+                }
+            }
+        },
+        {
+            "query": "What time zone is San Antonio, Beni in Bolivia with mail code 26004 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "San Antonio",
+                    "state": "Beni",
+                    "country": "Bolivia",
+                    "mail_code": "26004"
+                }
+            }
+        },
+        {
+            "query": "What time zone is San Lorenzo, Beni in Bolivia with mail code 25005 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "San Lorenzo",
+                    "state": "Beni",
+                    "country": "Bolivia",
+                    "mail_code": "25005"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Santa Cruz, Beni in Bolivia with mail code 26001 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Santa Cruz",
+                    "state": "Beni",
+                    "country": "Bolivia",
+                    "mail_code": "26001"
+                }
+            }
+        },
+        {
+            "query": "What time zone is San Joaqu\u00edn, Beni in Bolivia with mail code 25009 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "San Joaqu\u00edn",
+                    "state": "Beni",
+                    "country": "Bolivia",
+                    "mail_code": "25009"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Rurrenabaque, Beni in Bolivia with mail code 25004 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Rurrenabaque",
+                    "state": "Beni",
+                    "country": "Bolivia",
+                    "mail_code": "25004"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Riberalta, Beni in Bolivia with mail code 25003 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Riberalta",
+                    "state": "Beni",
+                    "country": "Bolivia",
+                    "mail_code": "25003"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Santa Ana, Beni in Bolivia with mail code 26005 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Santa Ana",
+                    "state": "Beni",
+                    "country": "Bolivia",
+                    "mail_code": "26005"
+                }
+            }
+        },
+        {
+            "query": "What time zone is La Paz, La Paz in Bolivia with mail code 01001 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "La Paz",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "01001"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Santa Rosa, La Paz in Bolivia with mail code 30203 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Santa Rosa",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30203"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Viacha, La Paz in Bolivia with mail code 30001 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Viacha",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30001"
+                }
+            }
+        },
+        {
+            "query": "What time zone is El Chaco, La Paz in Bolivia with mail code 30205 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "El Chaco",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30205"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Tiquipaya, La Paz in Bolivia with mail code 31101 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tiquipaya",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31101"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Calamarca, La Paz in Bolivia with mail code 30204 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Calamarca",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30204"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Zongo, La Paz in Bolivia with mail code 31102 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Zongo",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31102"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Tarrabui, La Paz in Bolivia with mail code 30206 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tarrabui",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30206"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Carapapapa, La Paz in Bolivia with mail code 31103 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Carapapapa",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31103"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Juncalito, La Paz in Bolivia with mail code 30207 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Juncalito",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30207"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Quime, La Paz in Bolivia with mail code 31104 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Quime",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31104"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Iral, La Paz in Bolivia with mail code 30208 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Iral",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30208"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Palomar, La Paz in Bolivia with mail code 31105 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Palomar",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31105"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Tiquipaya, La Paz in Bolivia with mail code 30101 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tiquipaya",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30101"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Calamarca, La Paz in Bolivia with mail code 30202 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Calamarca",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30202"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Zongo, La Paz in Bolivia with mail code 31101 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Zongo",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31101"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Tarrabui, La Paz in Bolivia with mail code 30203 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tarrabui",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30203"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Carapapapa, La Paz in Bolivia with mail code 31102 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Carapapapa",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31102"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Juncalito, La Paz in Bolivia with mail code 30204 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Juncalito",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30204"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Quime, La Paz in Bolivia with mail code 31103 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Quime",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31103"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Iral, La Paz in Bolivia with mail code 30205 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Iral",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30205"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Palomar, La Paz in Bolivia with mail code 31104 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Palomar",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31104"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Tiquipaya, La Paz in Bolivia with mail code 30102 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tiquipaya",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30102"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Calamarca, La Paz in Bolivia with mail code 30201 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Calamarca",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30201"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Zongo, La Paz in Bolivia with mail code 31100 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Zongo",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31100"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Tarrabui, La Paz in Bolivia with mail code 30200 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tarrabui",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30200"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Carapapapa, La Paz in Bolivia with mail code 31101 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Carapapapa",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31101"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Juncalito, La Paz in Bolivia with mail code 30202 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Juncalito",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30202"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Quime, La Paz in Bolivia with mail code 31102 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Quime",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31102"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Iral, La Paz in Bolivia with mail code 30203 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Iral",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30203"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Palomar, La Paz in Bolivia with mail code 31103 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Palomar",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31103"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Tiquipaya, La Paz in Bolivia with mail code 30100 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tiquipaya",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30100"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Calamarca, La Paz in Bolivia with mail code 30204 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Calamarca",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30204"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Zongo, La Paz in Bolivia with mail code 31101 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Zongo",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31101"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Tarrabui, La Paz in Bolivia with mail code 30205 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tarrabui",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30205"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Carapapapa, La Paz in Bolivia with mail code 31102 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Carapapapa",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31102"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Juncalito, La Paz in Bolivia with mail code 30206 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Juncalito",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30206"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Quime, La Paz in Bolivia with mail code 31103 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Quime",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31103"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Iral, La Paz in Bolivia with mail code 30207 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Iral",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30207"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Palomar, La Paz in Bolivia with mail code 31104 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Palomar",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31104"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Tiquipaya, La Paz in Bolivia with mail code 30101 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tiquipaya",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30101"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Calamarca, La Paz in Bolivia with mail code 30208 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Calamarca",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30208"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Zongo, La Paz in Bolivia with mail code 31105 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Zongo",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31105"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Tarrabui, La Paz in Bolivia with mail code 30209 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tarrabui",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30209"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Carapapapa, La Paz in Bolivia with mail code 31106 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Carapapapa",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31106"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Juncalito, La Paz in Bolivia with mail code 30210 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Juncalito",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30210"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Quime, La Paz in Bolivia with mail code 31107 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Quime",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31107"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Iral, La Paz in Bolivia with mail code 30211 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Iral",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30211"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Palomar, La Paz in Bolivia with mail code 31108 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Palomar",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31108"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Tiquipaya, La Paz in Bolivia with mail code 30102 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tiquipaya",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30102"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Calamarca, La Paz in Bolivia with mail code 30212 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Calamarca",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30212"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Zongo, La Paz in Bolivia with mail code 31109 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Zongo",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31109"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Tarrabui, La Paz in Bolivia with mail code 30213 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tarrabui",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30213"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Carapapapa, La Paz in Bolivia with mail code 31110 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Carapapapa",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31110"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Juncalito, La Paz in Bolivia with mail code 30214 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Juncalito",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30214"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Quime, La Paz in Bolivia with mail code 31111 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Quime",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31111"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Iral, La Paz in Bolivia with mail code 30215 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Iral",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30215"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Palomar, La Paz in Bolivia with mail code 31112 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Palomar",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31112"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Tiquipaya, La Paz in Bolivia with mail code 30103 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tiquipaya",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30103"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Calamarca, La Paz in Bolivia with mail code 30216 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Calamarca",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30216"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Zongo, La Paz in Bolivia with mail code 31113 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Zongo",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31113"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Tarrabui, La Paz in Bolivia with mail code 30217 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tarrabui",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30217"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Carapapapa, La Paz in Bolivia with mail code 31114 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Carapapapa",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31114"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Juncalito, La Paz in Bolivia with mail code 30218 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Juncalito",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30218"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Quime, La Paz in Bolivia with mail code 31115 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Quime",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31115"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Iral, La Paz in Bolivia with mail code 30219 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Iral",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30219"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Palomar, La Paz in Bolivia with mail code 31116 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Palomar",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31116"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Tiquipaya, La Paz in Bolivia with mail code 30104 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tiquipaya",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30104"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Calamarca, La Paz in Bolivia with mail code 30220 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Calamarca",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30220"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Zongo, La Paz in Bolivia with mail code 31117 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Zongo",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31117"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Tarrabui, La Paz in Bolivia with mail code 30221 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tarrabui",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30221"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Carapapapa, La Paz in Bolivia with mail code 31118 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Carapapapa",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31118"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Juncalito, La Paz in Bolivia with mail code 30222 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Juncalito",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30222"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Quime, La Paz in Bolivia with mail code 31119 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Quime",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31119"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Iral, La Paz in Bolivia with mail code 30223 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Iral",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30223"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Palomar, La Paz in Bolivia with mail code 31120 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Palomar",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31120"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Tiquipaya, La Paz in Bolivia with mail code 30105 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tiquipaya",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30105"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Calamarca, La Paz in Bolivia with mail code 30224 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Calamarca",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30224"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Zongo, La Paz in Bolivia with mail code 31121 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Zongo",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31121"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Tarrabui, La Paz in Bolivia with mail code 30225 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tarrabui",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30225"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Carapapapa, La Paz in Bolivia with mail code 31122 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Carapapapa",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31122"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Juncalito, La Paz in Bolivia with mail code 30226 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Juncalito",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30226"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Quime, La Paz in Bolivia with mail code 31123 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Quime",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31123"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Iral, La Paz in Bolivia with mail code 30227 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Iral",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30227"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Palomar, La Paz in Bolivia with mail code 31124 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Palomar",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31124"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Tiquipaya, La Paz in Bolivia with mail code 30106 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tiquipaya",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30106"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Calamarca, La Paz in Bolivia with mail code 30228 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Calamarca",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30228"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Zongo, La Paz in Bolivia with mail code 31125 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Zongo",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31125"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Tarrabui, La Paz in Bolivia with mail code 30229 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tarrabui",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30229"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Carapapapa, La Paz in Bolivia with mail code 31126 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Carapapapa",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31126"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Juncalito, La Paz in Bolivia with mail code 30230 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Juncalito",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30230"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Quime, La Paz in Bolivia with mail code 31127 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Quime",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31127"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Iral, La Paz in Bolivia with mail code 30231 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Iral",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30231"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Palomar, La Paz in Bolivia with mail code 31128 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Palomar",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31128"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Tiquipaya, La Paz in Bolivia with mail code 30107 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tiquipaya",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30107"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Calamarca, La Paz in Bolivia with mail code 30232 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Calamarca",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30232"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Zongo, La Paz in Bolivia with mail code 31129 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Zongo",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31129"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Tarrabui, La Paz in Bolivia with mail code 30233 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tarrabui",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30233"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Carapapapa, La Paz in Bolivia with mail code 31130 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Carapapapa",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31130"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Juncalito, La Paz in Bolivia with mail code 30234 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Juncalito",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30234"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Quime, La Paz in Bolivia with mail code 31131 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Quime",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31131"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Iral, La Paz in Bolivia with mail code 30235 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Iral",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30235"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Palomar, La Paz in Bolivia with mail code 31132 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Palomar",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31132"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Tiquipaya, La Paz in Bolivia with mail code 30108 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tiquipaya",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30108"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Calamarca, La Paz in Bolivia with mail code 30236 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Calamarca",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30236"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Zongo, La Paz in Bolivia with mail code 31133 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Zongo",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31133"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Tarrabui, La Paz in Bolivia with mail code 30237 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tarrabui",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30237"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Carapapapa, La Paz in Bolivia with mail code 31134 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Carapapapa",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31134"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Juncalito, La Paz in Bolivia with mail code 30238 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Juncalito",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30238"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Quime, La Paz in Bolivia with mail code 31135 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Quime",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31135"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Iral, La Paz in Bolivia with mail code 30239 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Iral",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30239"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Palomar, La Paz in Bolivia with mail code 31136 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Palomar",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31136"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Tiquipaya, La Paz in Bolivia with mail code 30109 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tiquipaya",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30109"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Calamarca, La Paz in Bolivia with mail code 30240 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Calamarca",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30240"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Zongo, La Paz in Bolivia with mail code 31137 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Zongo",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31137"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Tarrabui, La Paz in Bolivia with mail code 30241 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tarrabui",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30241"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Carapapapa, La Paz in Bolivia with mail code 31138 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Carapapapa",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31138"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Juncalito, La Paz in Bolivia with mail code 30242 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Juncalito",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30242"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Quime, La Paz in Bolivia with mail code 31139 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Quime",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31139"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Iral, La Paz in Bolivia with mail code 30243 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Iral",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30243"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Palomar, La Paz in Bolivia with mail code 31140 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Palomar",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31140"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Tiquipaya, La Paz in Bolivia with mail code 30110 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tiquipaya",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30110"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Calamarca, La Paz in Bolivia with mail code 30244 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Calamarca",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30244"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Zongo, La Paz in Bolivia with mail code 31141 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Zongo",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31141"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Tarrabui, La Paz in Bolivia with mail code 30245 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tarrabui",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30245"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Carapapapa, La Paz in Bolivia with mail code 31142 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Carapapapa",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31142"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Juncalito, La Paz in Bolivia with mail code 30246 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Juncalito",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30246"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Quime, La Paz in Bolivia with mail code 31143 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Quime",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31143"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Iral, La Paz in Bolivia with mail code 30247 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Iral",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30247"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Palomar, La Paz in Bolivia with mail code 31144 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Palomar",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31144"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Tiquipaya, La Paz in Bolivia with mail code 30111 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tiquipaya",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30111"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Calamarca, La Paz in Bolivia with mail code 30248 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Calamarca",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30248"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Zongo, La Paz in Bolivia with mail code 31145 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Zongo",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31145"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Tarrabui, La Paz in Bolivia with mail code 30249 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tarrabui",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30249"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Carapapapa, La Paz in Bolivia with mail code 31146 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Carapapapa",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31146"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Juncalito, La Paz in Bolivia with mail code 30250 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Juncalito",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30250"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Quime, La Paz in Bolivia with mail code 31147 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Quime",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31147"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Iral, La Paz in Bolivia with mail code 30251 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Iral",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30251"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Palomar, La Paz in Bolivia with mail code 31148 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Palomar",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31148"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Tiquipaya, La Paz in Bolivia with mail code 30112 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tiquipaya",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30112"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Calamarca, La Paz in Bolivia with mail code 30252 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Calamarca",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30252"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Zongo, La Paz in Bolivia with mail code 31149 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Zongo",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31149"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Tarrabui, La Paz in Bolivia with mail code 30253 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tarrabui",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30253"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Carapapapa, La Paz in Bolivia with mail code 31150 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Carapapapa",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31150"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Juncalito, La Paz in Bolivia with mail code 30254 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Juncalito",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30254"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Quime, La Paz in Bolivia with mail code 31151 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Quime",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31151"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Iral, La Paz in Bolivia with mail code 30255 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Iral",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30255"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Palomar, La Paz in Bolivia with mail code 31152 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Palomar",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31152"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Tiquipaya, La Paz in Bolivia with mail code 30113 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tiquipaya",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30113"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Calamarca, La Paz in Bolivia with mail code 30256 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Calamarca",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30256"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Zongo, La Paz in Bolivia with mail code 31153 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Zongo",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31153"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Tarrabui, La Paz in Bolivia with mail code 30257 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tarrabui",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30257"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Carapapapa, La Paz in Bolivia with mail code 31154 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Carapapapa",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31154"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Juncalito, La Paz in Bolivia with mail code 30258 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Juncalito",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30258"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Quime, La Paz in Bolivia with mail code 31155 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Quime",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31155"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Iral, La Paz in Bolivia with mail code 30259 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Iral",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30259"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Palomar, La Paz in Bolivia with mail code 31156 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Palomar",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31156"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Tiquipaya, La Paz in Bolivia with mail code 30114 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tiquipaya",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30114"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Calamarca, La Paz in Bolivia with mail code 30260 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Calamarca",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30260"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Zongo, La Paz in Bolivia with mail code 31157 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Zongo",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31157"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Tarrabui, La Paz in Bolivia with mail code 30261 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tarrabui",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30261"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Carapapapa, La Paz in Bolivia with mail code 31158 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Carapapapa",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31158"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Juncalito, La Paz in Bolivia with mail code 30262 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Juncalito",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30262"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Quime, La Paz in Bolivia with mail code 31159 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Quime",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31159"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Iral, La Paz in Bolivia with mail code 30263 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Iral",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30263"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Palomar, La Paz in Bolivia with mail code 31160 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Palomar",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31160"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Tiquipaya, La Paz in Bolivia with mail code 30115 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tiquipaya",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30115"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Calamarca, La Paz in Bolivia with mail code 30264 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Calamarca",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30264"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Zongo, La Paz in Bolivia with mail code 31161 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Zongo",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31161"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Tarrabui, La Paz in Bolivia with mail code 30265 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tarrabui",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30265"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Carapapapa, La Paz in Bolivia with mail code 31162 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Carapapapa",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31162"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Juncalito, La Paz in Bolivia with mail code 30266 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Juncalito",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30266"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Quime, La Paz in Bolivia with mail code 31163 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Quime",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31163"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Iral, La Paz in Bolivia with mail code 30267 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Iral",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30267"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Palomar, La Paz in Bolivia with mail code 31164 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Palomar",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31164"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Tiquipaya, La Paz in Bolivia with mail code 30116 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tiquipaya",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30116"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Calamarca, La Paz in Bolivia with mail code 30268 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Calamarca",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30268"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Zongo, La Paz in Bolivia with mail code 31165 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Zongo",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31165"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Tarrabui, La Paz in Bolivia with mail code 30269 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tarrabui",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30269"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Carapapapa, La Paz in Bolivia with mail code 31166 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Carapapapa",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31166"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Juncalito, La Paz in Bolivia with mail code 30270 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Juncalito",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30270"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Quime, La Paz in Bolivia with mail code 31167 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Quime",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31167"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Iral, La Paz in Bolivia with mail code 30271 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Iral",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30271"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Palomar, La Paz in Bolivia with mail code 31168 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Palomar",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31168"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Tiquipaya, La Paz in Bolivia with mail code 30117 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tiquipaya",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30117"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Calamarca, La Paz in Bolivia with mail code 30272 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Calamarca",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30272"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Zongo, La Paz in Bolivia with mail code 31169 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Zongo",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31169"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Tarrabui, La Paz in Bolivia with mail code 30273 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tarrabui",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30273"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Carapapapa, La Paz in Bolivia with mail code 31170 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Carapapapa",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31170"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Juncalito, La Paz in Bolivia with mail code 30274 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Juncalito",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30274"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Quime, La Paz in Bolivia with mail code 31171 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Quime",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31171"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Iral, La Paz in Bolivia with mail code 30275 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Iral",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30275"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Palomar, La Paz in Bolivia with mail code 31172 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Palomar",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31172"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Tiquipaya, La Paz in Bolivia with mail code 30118 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tiquipaya",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30118"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Calamarca, La Paz in Bolivia with mail code 30276 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Calamarca",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30276"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Zongo, La Paz in Bolivia with mail code 31173 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Zongo",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31173"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Tarrabui, La Paz in Bolivia with mail code 30277 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tarrabui",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30277"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Carapapapa, La Paz in Bolivia with mail code 31174 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Carapapapa",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31174"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Juncalito, La Paz in Bolivia with mail code 30278 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Juncalito",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30278"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Quime, La Paz in Bolivia with mail code 31175 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Quime",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31175"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Iral, La Paz in Bolivia with mail code 30279 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Iral",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30279"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Palomar, La Paz in Bolivia with mail code 31176 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Palomar",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31176"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Tiquipaya, La Paz in Bolivia with mail code 30119 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tiquipaya",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30119"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Calamarca, La Paz in Bolivia with mail code 30280 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Calamarca",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30280"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Zongo, La Paz in Bolivia with mail code 31177 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Zongo",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31177"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Tarrabui, La Paz in Bolivia with mail code 30281 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tarrabui",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30281"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Carapapapa, La Paz in Bolivia with mail code 31178 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Carapapapa",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31178"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Juncalito, La Paz in Bolivia with mail code 30282 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Juncalito",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30282"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Quime, La Paz in Bolivia with mail code 31179 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Quime",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31179"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Iral, La Paz in Bolivia with mail code 30283 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Iral",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30283"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Palomar, La Paz in Bolivia with mail code 31180 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Palomar",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31180"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Tiquipaya, La Paz in Bolivia with mail code 30120 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tiquipaya",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30120"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Calamarca, La Paz in Bolivia with mail code 30284 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Calamarca",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30284"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Zongo, La Paz in Bolivia with mail code 31181 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Zongo",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31181"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Tarrabui, La Paz in Bolivia with mail code 30285 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tarrabui",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30285"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Carapapapa, La Paz in Bolivia with mail code 31182 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Carapapapa",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31182"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Juncalito, La Paz in Bolivia with mail code 30286 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Juncalito",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30286"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Quime, La Paz in Bolivia with mail code 31183 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Quime",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31183"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Iral, La Paz in Bolivia with mail code 30287 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Iral",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30287"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Palomar, La Paz in Bolivia with mail code 31184 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Palomar",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31184"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Tiquipaya, La Paz in Bolivia with mail code 30121 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tiquipaya",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30121"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Calamarca, La Paz in Bolivia with mail code 30288 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Calamarca",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30288"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Zongo, La Paz in Bolivia with mail code 31185 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Zongo",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31185"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Tarrabui, La Paz in Bolivia with mail code 30289 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tarrabui",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30289"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Carapapapa, La Paz in Bolivia with mail code 31186 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Carapapapa",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31186"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Juncalito, La Paz in Bolivia with mail code 30290 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Juncalito",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30290"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Quime, La Paz in Bolivia with mail code 31187 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Quime",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31187"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Iral, La Paz in Bolivia with mail code 30291 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Iral",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "30291"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Palomar, La Paz in Bolivia with mail code 31188 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Palomar",
+                    "state": "La Paz",
+                    "country": "Bolivia",
+                    "mail_code": "31188"
+                }
+            }
+        }
+    ]
+}
