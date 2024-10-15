@@ -1,0 +1,494 @@
+{
+    "queries": [
+        {
+            "query": "What is the result of 0.123 raising 4 to the power of -2.456?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "0.123",
+                    "exponent": "-2.456"
+                }
+            }
+        },
+        {
+            "query": "Calculate the value of 9.876 raised to the power of 3.213",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "9.876",
+                    "exponent": "3.213"
+                }
+            }
+        },
+        {
+            "query": "Find the result of -0.567 raising -5.432 to the power of 2.123",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-0.567",
+                    "exponent": "2.123"
+                }
+            }
+        },
+        {
+            "query": "What is the value of 1.234 raised to the power of 9.876?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "1.234",
+                    "exponent": "9.876"
+                }
+            }
+        },
+        {
+            "query": "Calculate the result of -3.456 raising 2.123 to the power of -8.987",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-3.456",
+                    "exponent": "-8.987"
+                }
+            }
+        },
+        {
+            "query": "Find the value of 5.432 raised to the power of 6.789",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "5.432",
+                    "exponent": "6.789"
+                }
+            }
+        },
+        {
+            "query": "What is the result of -2.123 raising -9.876 to the power of 3.213?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-2.123",
+                    "exponent": "3.213"
+                }
+            }
+        },
+        {
+            "query": "Calculate the value of 8.987 raised to the power of -4.567",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "8.987",
+                    "exponent": "-4.567"
+                }
+            }
+        },
+        {
+            "query": "Find the result of 6.789 raising 1.234 to the power of 2.123",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "6.789",
+                    "exponent": "2.123"
+                }
+            }
+        },
+        {
+            "query": "What is the value of -9.876 raised to the power of 8.987?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-9.876",
+                    "exponent": "8.987"
+                }
+            }
+        },
+        {
+            "query": "Calculate the result of 4.567 raising -3.456 to the power of 6.789",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "4.567",
+                    "exponent": "6.789"
+                }
+            }
+        },
+        {
+            "query": "Find the value of 2.123 raised to the power of -5.432",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "2.123",
+                    "exponent": "-5.432"
+                }
+            }
+        },
+        {
+            "query": "What is the result of -6.789 raising 8.987 to the power of 3.213?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-6.789",
+                    "exponent": "3.213"
+                }
+            }
+        },
+        {
+            "query": "Calculate the value of -1.234 raised to the power of 9.876",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-1.234",
+                    "exponent": "9.876"
+                }
+            }
+        },
+        {
+            "query": "Find the result of 3.456 raising -2.123 to the power of 4.567",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "3.456",
+                    "exponent": "4.567"
+                }
+            }
+        },
+        {
+            "query": "What is the value of 9.876 raised to the power of -6.789?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "9.876",
+                    "exponent": "-6.789"
+                }
+            }
+        },
+        {
+            "query": "Calculate the result of 5.432 raising 4.567 to the power of 2.123",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "5.432",
+                    "exponent": "2.123"
+                }
+            }
+        },
+        {
+            "query": "Find the value of -8.987 raised to the power of 1.234",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-8.987",
+                    "exponent": "1.234"
+                }
+            }
+        },
+        {
+            "query": "What is the result of 6.789 raising -3.456 to the power of -9.876?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "6.789",
+                    "exponent": "-9.876"
+                }
+            }
+        },
+        {
+            "query": "Calculate the value of -4.567 raised to the power of 5.432 ?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-4.567",
+                    "exponent": "5.432"
+                }
+            }
+        },
+        {
+            "query": "Find the result of 1.234 raising 9.876 to the power of -2.123",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "1.234",
+                    "exponent": "-2.123"
+                }
+            }
+        },
+        {
+            "query": "What is the value of 3.456 raised to the power of -8.987 ?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "3.456",
+                    "exponent": "-8.987"
+                }
+            }
+        },
+        {
+            "query": "Calculate the result of -6.789 raising 2.123 to the power of 4.567",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-6.789",
+                    "exponent": "4.567"
+                }
+            }
+        },
+        {
+            "query": "Find the value of 9.876 raised to the power of -1.234",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "9.876",
+                    "exponent": "-1.234"
+                }
+            }
+        },
+        {
+            "query": "What is the result of 4.567 raising 6.789 to the power of 3.213?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "4.567",
+                    "exponent": "3.213"
+                }
+            }
+        },
+        {
+            "query": "Calculate the value of -8.987 raised to the power of 1.234",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-8.987",
+                    "exponent": "1.234"
+                }
+            }
+        },
+        {
+            "query": "Find the result of 2.123 raising -9.876 to the power of -5.432",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "2.123",
+                    "exponent": "-5.432"
+                }
+            }
+        },
+        {
+            "query": "What is the value of 1.234 raised to the power of 8.987 ?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "1.234",
+                    "exponent": "8.987"
+                }
+            }
+        },
+        {
+            "query": "Calculate the result of -3.456 raising 5.432 to the power of -2.123",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-3.456",
+                    "exponent": "-2.123"
+                }
+            }
+        },
+        {
+            "query": "Find the value of 6.789 raised to the power of 4.567 ?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "6.789",
+                    "exponent": "4.567"
+                }
+            }
+        },
+        {
+            "query": "What is the result of -5.432 raising 3.456 to the power of -1.234?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-5.432",
+                    "exponent": "-1.234"
+                }
+            }
+        },
+        {
+            "query": "Calculate the value of 8.987 raised to the power of 2.123",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "8.987",
+                    "exponent": "2.123"
+                }
+            }
+        },
+        {
+            "query": "Find the result of 9.876 raising -4.567 to the power of 6.789",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "9.876",
+                    "exponent": "6.789"
+                }
+            }
+        },
+        {
+            "query": "What is the value of -2.123 raised to the power of 8.987?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-2.123",
+                    "exponent": "8.987"
+                }
+            }
+        },
+        {
+            "query": "Calculate the result of 3.456 raising -1.234 to the power of 5.432",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "3.456",
+                    "exponent": "5.432"
+                }
+            }
+        },
+        {
+            "query": "Find the value of 4.567 raised to the power of -9.876?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "4.567",
+                    "exponent": "-9.876"
+                }
+            }
+        },
+        {
+            "query": "What is the result of -6.789 raising 8.987 to the power of 1.234?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-6.789",
+                    "exponent": "1.234"
+                }
+            }
+        },
+        {
+            "query": "Calculate the value of 5.432 raised to the power of -3.456",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "5.432",
+                    "exponent": "-3.456"
+                }
+            }
+        },
+        {
+            "query": "Find the result of 1.234 raising 4.567 to the power of -6.789",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "1.234",
+                    "exponent": "-6.789"
+                }
+            }
+        },
+        {
+            "query": "What is the value of -8.987 raised to the power of 2.123?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-8.987",
+                    "exponent": "2.123"
+                }
+            }
+        },
+        {
+            "query": "Calculate the result of 9.876 raising 6.789 to the power of -4.567",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "9.876",
+                    "exponent": "-4.567"
+                }
+            }
+        },
+        {
+            "query": "Find the value of 2.123 raised to the power of 1.234?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "2.123",
+                    "exponent": "1.234"
+                }
+            }
+        },
+        {
+            "query": "What is the result of -4.567 raising 9.876 to the power of -8.987?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-4.567",
+                    "exponent": "-8.987"
+                }
+            }
+        },
+        {
+            "query": "Calculate the value of 6.789 raised to the power of 3.456",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "6.789",
+                    "exponent": "3.456"
+                }
+            }
+        },
+        {
+            "query": "Find the result of 8.987 raising -5.432 to the power of 9.876",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "8.987",
+                    "exponent": "9.876"
+                }
+            }
+        },
+        {
+            "query": "What is the value of 1.234 raised to the power of -5.432?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "1.234",
+                    "exponent": "-5.432"
+                }
+            }
+        },
+        {
+            "query": "Calculate the result of -3.456 raising 8.987 to the power of 2.123",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-3.456",
+                    "exponent": "2.123"
+                }
+            }
+        },
+        {
+            "query": "Find the value of 4.567 raised to the power of -6.789?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "4.567",
+                    "exponent": "-6.789"
+                }
+            }
+        },
+        {
+            "query": "What is the result of 5.432 raised to the power of 1.234?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "5.432",
+                    "exponent": "1.234"
+                }
+            }
+        }
+    ]
+}

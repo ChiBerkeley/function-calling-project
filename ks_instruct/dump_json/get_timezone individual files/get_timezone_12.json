@@ -1,7 +1,7 @@
 {
     "queries": [
         {
-            "query": "What time zone is Sidi Bouzid in?",
+            "query": "What time zone is Sidi Bouzid, Kasserine, Tunisia, with the postal code 2740 in?",
             "answer": {
                 "function": "get_timezone",
                 "arguments": {
@@ -13,31 +13,31 @@
             }
         },
         {
-            "query": "What time zone is Utsunomiya in?",
+            "query": "What time zone is Utsunomiya, Tochigi, Japan, with the postal code 320-0011 in?",
             "answer": {
                 "function": "get_timezone",
                 "arguments": {
                     "city": "Utsunomiya",
-                    "state": "",
+                    "state": "Tochigi",
                     "country": "Japan",
                     "mail_code": "320-0011"
                 }
             }
         },
         {
-            "query": "What time zone is Kostanay in?",
+            "query": "What time zone is Kostanay, Kostanay, Kazakhstan, with the postal code 11100 in?",
             "answer": {
                 "function": "get_timezone",
                 "arguments": {
                     "city": "Kostanay",
-                    "state": "",
+                    "state": "Kostanay",
                     "country": "Kazakhstan",
                     "mail_code": "11100"
                 }
             }
         },
         {
-            "query": "What time zone is Caxias do Sul in?",
+            "query": "What time zone is Caxias do Sul, Rio Grande do Sul, Brazil, with the postal code 95010-000 in?",
             "answer": {
                 "function": "get_timezone",
                 "arguments": {
@@ -49,31 +49,31 @@
             }
         },
         {
-            "query": "What time zone is L'viv in?",
+            "query": "What time zone is L'viv, Lviv, Ukraine, with the postal code 79000 in?",
             "answer": {
                 "function": "get_timezone",
                 "arguments": {
                     "city": "L'viv",
-                    "state": "",
+                    "state": "Lviv",
                     "country": "Ukraine",
                     "mail_code": "79000"
                 }
             }
         },
         {
-            "query": "What time zone is Al 'Ayn in?",
+            "query": "What time zone is Al 'Ayn, Abu Dhabi, United Arab Emirates, with the postal code 1410 in?",
             "answer": {
                 "function": "get_timezone",
                 "arguments": {
                     "city": "Al 'Ayn",
-                    "state": "",
+                    "state": "Abu Dhabi",
                     "country": "United Arab Emirates",
                     "mail_code": "1410"
                 }
             }
         },
         {
-            "query": "What time zone is Yerevan in?",
+            "query": "What time zone is Yerevan, Armenia, with the postal code 375009 in?",
             "answer": {
                 "function": "get_timezone",
                 "arguments": {
@@ -85,19 +85,19 @@
             }
         },
         {
-            "query": "What time zone is Quito in?",
+            "query": "What time zone is Quito, Pichincha, Ecuador, with the postal code 170450 in?",
             "answer": {
                 "function": "get_timezone",
                 "arguments": {
                     "city": "Quito",
-                    "state": "",
+                    "state": "Pichincha",
                     "country": "Ecuador",
                     "mail_code": "170450"
                 }
             }
         },
         {
-            "query": "What time zone is Minsk in?",
+            "query": "What time zone is Minsk, Belarus, with the postal code 220009 in?",
             "answer": {
                 "function": "get_timezone",
                 "arguments": {
@@ -109,7 +109,7 @@
             }
         },
         {
-            "query": "What time zone is Pontianak in?",
+            "query": "What time zone is Pontianak, West Kalimantan, Indonesia, with the postal code 78118 in?",
             "answer": {
                 "function": "get_timezone",
                 "arguments": {
@@ -121,7 +121,7 @@
             }
         },
         {
-            "query": "What time zone is Taichung in?",
+            "query": "What time zone is Taichung, Taiwan, with the postal code 400000 in?",
             "answer": {
                 "function": "get_timezone",
                 "arguments": {
@@ -133,12 +133,12 @@
             }
         },
         {
-            "query": "What time zone is Sapporo in?",
+            "query": "What time zone is Sapporo, Hokkaido, Japan, with the postal code 060-8067 in?",
             "answer": {
                 "function": "get_timezone",
                 "arguments": {
                     "city": "Sapporo",
-                    "state": "",
+                    "state": "Hokkaido",
                     "country": "Japan",
                     "mail_code": "060-8067"
                 }

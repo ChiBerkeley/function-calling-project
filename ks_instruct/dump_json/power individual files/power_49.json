@@ -1,0 +1,494 @@
+{
+    "queries": [
+        {
+            "query": "What is 5 to the power of -3",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "5",
+                    "exponent": "-3"
+                }
+            }
+        },
+        {
+            "query": "What is 9 to the power of 2",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "9",
+                    "exponent": "2"
+                }
+            }
+        },
+        {
+            "query": "Calculate 4 to the power of -1",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "4",
+                    "exponent": "-1"
+                }
+            }
+        },
+        {
+            "query": "What is the result of -8 to the power of 3",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-8",
+                    "exponent": "3"
+                }
+            }
+        },
+        {
+            "query": "What is 6 to the power of -5",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "6",
+                    "exponent": "-5"
+                }
+            }
+        },
+        {
+            "query": "Calculate 7 to the power of 4",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "7",
+                    "exponent": "4"
+                }
+            }
+        },
+        {
+            "query": "What is -3 to the power of -2",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-3",
+                    "exponent": "-2"
+                }
+            }
+        },
+        {
+            "query": "Calculate 1 to the power of -6",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "1",
+                    "exponent": "-6"
+                }
+            }
+        },
+        {
+            "query": "What is 8 to the power of 1",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "8",
+                    "exponent": "1"
+                }
+            }
+        },
+        {
+            "query": "Calculate -4 to the power of 3",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-4",
+                    "exponent": "3"
+                }
+            }
+        },
+        {
+            "query": "What is 9 to the power of -2",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "9",
+                    "exponent": "-2"
+                }
+            }
+        },
+        {
+            "query": "Calculate 6 to the power of -1",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "6",
+                    "exponent": "-1"
+                }
+            }
+        },
+        {
+            "query": "What is -7 to the power of 2",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-7",
+                    "exponent": "2"
+                }
+            }
+        },
+        {
+            "query": "Calculate 5 to the power of 4",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "5",
+                    "exponent": "4"
+                }
+            }
+        },
+        {
+            "query": "What is -8 to the power of -1",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-8",
+                    "exponent": "-1"
+                }
+            }
+        },
+        {
+            "query": "Calculate 9 to the power of -4",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "9",
+                    "exponent": "-4"
+                }
+            }
+        },
+        {
+            "query": "What is 7 to the power of -6",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "7",
+                    "exponent": "-6"
+                }
+            }
+        },
+        {
+            "query": "Calculate -6 to the power of 3",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-6",
+                    "exponent": "3"
+                }
+            }
+        },
+        {
+            "query": "What is 4 to the power of -5",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "4",
+                    "exponent": "-5"
+                }
+            }
+        },
+        {
+            "query": "Calculate -9 to the power of -2",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-9",
+                    "exponent": "-2"
+                }
+            }
+        },
+        {
+            "query": "What is 8 to the power of -3",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "8",
+                    "exponent": "-3"
+                }
+            }
+        },
+        {
+            "query": "Calculate 1 to the power of 6",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "1",
+                    "exponent": "6"
+                }
+            }
+        },
+        {
+            "query": "What is -5 to the power of 2",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-5",
+                    "exponent": "2"
+                }
+            }
+        },
+        {
+            "query": "Calculate 7 to the power of -1",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "7",
+                    "exponent": "-1"
+                }
+            }
+        },
+        {
+            "query": "What is 9 to the power of 3",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "9",
+                    "exponent": "3"
+                }
+            }
+        },
+        {
+            "query": "Calculate -6 to the power of -4",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-6",
+                    "exponent": "-4"
+                }
+            }
+        },
+        {
+            "query": "What is 5 to the power of 1",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "5",
+                    "exponent": "1"
+                }
+            }
+        },
+        {
+            "query": "Calculate -8 to the power of 2",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-8",
+                    "exponent": "2"
+                }
+            }
+        },
+        {
+            "query": "What is -4 to the power of -1",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-4",
+                    "exponent": "-1"
+                }
+            }
+        },
+        {
+            "query": "Calculate 9 to the power of 5",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "9",
+                    "exponent": "5"
+                }
+            }
+        },
+        {
+            "query": "What is 8 to the power of -2",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "8",
+                    "exponent": "-2"
+                }
+            }
+        },
+        {
+            "query": "Calculate 7 to the power of 3",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "7",
+                    "exponent": "3"
+                }
+            }
+        },
+        {
+            "query": "What is -9 to the power of -6",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-9",
+                    "exponent": "-6"
+                }
+            }
+        },
+        {
+            "query": "Calculate 4 to the power of 5",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "4",
+                    "exponent": "5"
+                }
+            }
+        },
+        {
+            "query": "What is 6 to the power of -3",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "6",
+                    "exponent": "-3"
+                }
+            }
+        },
+        {
+            "query": "Calculate -7 to the power of -2",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-7",
+                    "exponent": "-2"
+                }
+            }
+        },
+        {
+            "query": "What is 1 to the power of 5",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "1",
+                    "exponent": "5"
+                }
+            }
+        },
+        {
+            "query": "Calculate -9 to the power of 4",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-9",
+                    "exponent": "4"
+                }
+            }
+        },
+        {
+            "query": "What is 8 to the power of 3",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "8",
+                    "exponent": "3"
+                }
+            }
+        },
+        {
+            "query": "Calculate -5 to the power of -1",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-5",
+                    "exponent": "-1"
+                }
+            }
+        },
+        {
+            "query": "What is 9 to the power of -1",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "9",
+                    "exponent": "-1"
+                }
+            }
+        },
+        {
+            "query": "Calculate 6 to the power of 2",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "6",
+                    "exponent": "2"
+                }
+            }
+        },
+        {
+            "query": "What is -4 to the power of 3",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-4",
+                    "exponent": "3"
+                }
+            }
+        },
+        {
+            "query": "Calculate 7 to the power of 5",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "7",
+                    "exponent": "5"
+                }
+            }
+        },
+        {
+            "query": "What is 8 to the power of 1",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "8",
+                    "exponent": "1"
+                }
+            }
+        },
+        {
+            "query": "Calculate -6 to the power of -2",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-6",
+                    "exponent": "-2"
+                }
+            }
+        },
+        {
+            "query": "What is 5 to the power of -3",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "5",
+                    "exponent": "-3"
+                }
+            }
+        },
+        {
+            "query": "Calculate -9 to the power of 2",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-9",
+                    "exponent": "2"
+                }
+            }
+        },
+        {
+            "query": "What is 4 to the power of 1",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "4",
+                    "exponent": "1"
+                }
+            }
+        }
+    ]
+}

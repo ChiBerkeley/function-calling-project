@@ -1,0 +1,434 @@
+{
+    "queries": [
+        {
+            "query": "What is the result of 4 raised to the power of -2.123",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "4.0",
+                    "exponent": "-2.123"
+                }
+            }
+        },
+        {
+            "query": "Calculate the value of 9 raised to the power of 1.456",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "9.0",
+                    "exponent": "1.456"
+                }
+            }
+        },
+        {
+            "query": "What is the result of -3 raised to the power of 2.789?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-3.0",
+                    "exponent": "2.789"
+                }
+            }
+        },
+        {
+            "query": "Calculate the value of 1 raised to the power of -4.321",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "1.0",
+                    "exponent": "-4.321"
+                }
+            }
+        },
+        {
+            "query": "What is the result of 2.5 raised to the power of 3.142?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "2.5",
+                    "exponent": "3.142"
+                }
+            }
+        },
+        {
+            "query": "Calculate the value of -0.75 raised to the power of -1.234",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-0.75",
+                    "exponent": "-1.234"
+                }
+            }
+        },
+        {
+            "query": "What is the result of 6 raised to the power of 2.876?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "6.0",
+                    "exponent": "2.876"
+                }
+            }
+        },
+        {
+            "query": "Calculate the value of -9.5 raised to the power of 4.321",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-9.5",
+                    "exponent": "4.321"
+                }
+            }
+        },
+        {
+            "query": "What is the result of 0 raised to the power of -3.141?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "0.0",
+                    "exponent": "-3.141"
+                }
+            }
+        },
+        {
+            "query": "Calculate the value of 8 raised to the power of 1.234",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "8.0",
+                    "exponent": "1.234"
+                }
+            }
+        },
+        {
+            "query": "What is the result of -2 raised to the power of 3.142?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-2.0",
+                    "exponent": "3.142"
+                }
+            }
+        },
+        {
+            "query": "Calculate the value of 5 raised to the power of -4.321",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "5.0",
+                    "exponent": "-4.321"
+                }
+            }
+        },
+        {
+            "query": "What is the result of 9 raised to the power of 2.789?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "9.0",
+                    "exponent": "2.789"
+                }
+            }
+        },
+        {
+            "query": "Calculate the value of -1 raised to the power of 3.142",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-1.0",
+                    "exponent": "3.142"
+                }
+            }
+        },
+        {
+            "query": "What is the result of 7 raised to the power of -2.123?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "7.0",
+                    "exponent": "-2.123"
+                }
+            }
+        },
+        {
+            "query": "Calculate the value of 3 raised to the power of 4.321",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "3.0",
+                    "exponent": "4.321"
+                }
+            }
+        },
+        {
+            "query": "What is the result of -5 raised to the power of -1.456?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-5.0",
+                    "exponent": "-1.456"
+                }
+            }
+        },
+        {
+            "query": "Calculate the value of 2 raised to the power of -3.141",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "2.0",
+                    "exponent": "-3.141"
+                }
+            }
+        },
+        {
+            "query": "What is the result of -6 raised to the power of 1.234?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-6.0",
+                    "exponent": "1.234"
+                }
+            }
+        },
+        {
+            "query": "Calculate the value of 4 raised to the power of 2.789",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "4.0",
+                    "exponent": "2.789"
+                }
+            }
+        },
+        {
+            "query": "What is the result of -9 raised to the power of -3.142?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-9.0",
+                    "exponent": "-3.142"
+                }
+            }
+        },
+        {
+            "query": "Calculate the value of 1 raised to the power of 2.123",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "1.0",
+                    "exponent": "2.123"
+                }
+            }
+        },
+        {
+            "query": "What is the result of -7 raised to the power of 4.321?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-7.0",
+                    "exponent": "4.321"
+                }
+            }
+        },
+        {
+            "query": "Calculate the value of 6 raised to the power of -1.456",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "6.0",
+                    "exponent": "-1.456"
+                }
+            }
+        },
+        {
+            "query": "What is the result of 8 raised to the power of -2.789?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "8.0",
+                    "exponent": "-2.789"
+                }
+            }
+        },
+        {
+            "query": "Calculate the value of 3 raised to the power of -1.234",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "3.0",
+                    "exponent": "-1.234"
+                }
+            }
+        },
+        {
+            "query": "What is the result of -4 raised to the power of 2.123?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-4.0",
+                    "exponent": "2.123"
+                }
+            }
+        },
+        {
+            "query": "Calculate the value of 5 raised to the power of 1.456",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "5.0",
+                    "exponent": "1.456"
+                }
+            }
+        },
+        {
+            "query": "What is the result of -2 raised to the power of -3.141?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-2.0",
+                    "exponent": "-3.141"
+                }
+            }
+        },
+        {
+            "query": "Calculate the value of 9 raised to the power of 4.321",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "9.0",
+                    "exponent": "4.321"
+                }
+            }
+        },
+        {
+            "query": "What is the result of -1 raised to the power of 2.789?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-1.0",
+                    "exponent": "2.789"
+                }
+            }
+        },
+        {
+            "query": "Calculate the value of 7 raised to the power of -3.142",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "7.0",
+                    "exponent": "-3.142"
+                }
+            }
+        },
+        {
+            "query": "What is the result of 6 raised to the power of -1.456?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "6.0",
+                    "exponent": "-1.456"
+                }
+            }
+        },
+        {
+            "query": "Calculate the value of 4 raised to the power of 3.142",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "4.0",
+                    "exponent": "3.142"
+                }
+            }
+        },
+        {
+            "query": "What is the result of -8 raised to the power of 2.123?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-8.0",
+                    "exponent": "2.123"
+                }
+            }
+        },
+        {
+            "query": "Calculate the value of 3 raised to the power of 1.456",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "3.0",
+                    "exponent": "1.456"
+                }
+            }
+        },
+        {
+            "query": "What is the result of -5 raised to the power of -2.789?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-5.0",
+                    "exponent": "-2.789"
+                }
+            }
+        },
+        {
+            "query": "Calculate the value of 2 raised to the power of 4.321",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "2.0",
+                    "exponent": "4.321"
+                }
+            }
+        },
+        {
+            "query": "What is the result of -6 raised to the power of 1.234?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-6.0",
+                    "exponent": "1.234"
+                }
+            }
+        },
+        {
+            "query": "Calculate the value of 9 raised to the power of -3.141",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "9.0",
+                    "exponent": "-3.141"
+                }
+            }
+        },
+        {
+            "query": "What is the result of -7 raised to the power of 2.123?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-7.0",
+                    "exponent": "2.123"
+                }
+            }
+        },
+        {
+            "query": "Calculate the value of 8 raised to the power of -1.456",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "8.0",
+                    "exponent": "-1.456"
+                }
+            }
+        },
+        {
+            "query": "What is the result of 5 raised to the power of -2.789?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "5.0",
+                    "exponent": "-2.789"
+                }
+            }
+        }
+    ]
+}

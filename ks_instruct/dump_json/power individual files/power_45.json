@@ -1,0 +1,454 @@
+{
+    "queries": [
+        {
+            "query": "What is the result of 4.125 raised to -2.75",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "4.125",
+                    "exponent": "-2.75"
+                }
+            }
+        },
+        {
+            "query": "How do you calculate 9.25 squared",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "9.25",
+                    "exponent": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the value of -0.625 raised to 3.5",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-0.625",
+                    "exponent": "3.5"
+                }
+            }
+        },
+        {
+            "query": "Calculate 7.875 cubed",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "7.875",
+                    "exponent": "3"
+                }
+            }
+        },
+        {
+            "query": "What is the result of -4.125 raised to 1.25",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-4.125",
+                    "exponent": "1.25"
+                }
+            }
+        },
+        {
+            "query": "How do you calculate 9.75 to the power of -1.5",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "9.75",
+                    "exponent": "-1.5"
+                }
+            }
+        },
+        {
+            "query": "What is the value of 0.625 raised to -3.25",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "0.625",
+                    "exponent": "-3.25"
+                }
+            }
+        },
+        {
+            "query": "Calculate the power of 7.875 to the power of 2.75",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "7.875",
+                    "exponent": "2.75"
+                }
+            }
+        },
+        {
+            "query": "What is the result of -9.25 raised to 1.5",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-9.25",
+                    "exponent": "1.5"
+                }
+            }
+        },
+        {
+            "query": "How do you calculate 4.125 squared",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "4.125",
+                    "exponent": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the value of 9.75 to the power of -3.25",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "9.75",
+                    "exponent": "-3.25"
+                }
+            }
+        },
+        {
+            "query": "Calculate the power of -0.625 raised to 2.5",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-0.625",
+                    "exponent": "2.5"
+                }
+            }
+        },
+        {
+            "query": "What is the result of 7.875 squared",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "7.875",
+                    "exponent": "2"
+                }
+            }
+        },
+        {
+            "query": "How do you calculate -9.25 to the power of 3.75",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-9.25",
+                    "exponent": "3.75"
+                }
+            }
+        },
+        {
+            "query": "What is the value of 4.125 raised to -1.5",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "4.125",
+                    "exponent": "-1.5"
+                }
+            }
+        },
+        {
+            "query": "Calculate the power of -9.75 cubed",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-9.75",
+                    "exponent": "3"
+                }
+            }
+        },
+        {
+            "query": "What is the result of 0.625 raised to 1.25",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "0.625",
+                    "exponent": "1.25"
+                }
+            }
+        },
+        {
+            "query": "How do you calculate -7.875 squared",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-7.875",
+                    "exponent": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the value of 9.75 raised to 3.5",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "9.75",
+                    "exponent": "3.5"
+                }
+            }
+        },
+        {
+            "query": "Calculate the power of -4.125 cubed",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-4.125",
+                    "exponent": "3"
+                }
+            }
+        },
+        {
+            "query": "What is the result of 7.875 raised to -2.75",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "7.875",
+                    "exponent": "-2.75"
+                }
+            }
+        },
+        {
+            "query": "How do you calculate 9.25 to the power of 1.5",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "9.25",
+                    "exponent": "1.5"
+                }
+            }
+        },
+        {
+            "query": "What is the value of -0.625 raised to -3.75",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-0.625",
+                    "exponent": "-3.75"
+                }
+            }
+        },
+        {
+            "query": "Calculate the power of 9.75 cubed",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "9.75",
+                    "exponent": "3"
+                }
+            }
+        },
+        {
+            "query": "What is the result of -7.875 raised to 2.5",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-7.875",
+                    "exponent": "2.5"
+                }
+            }
+        },
+        {
+            "query": "How do you calculate 4.125 to the power of -3.25",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "4.125",
+                    "exponent": "-3.25"
+                }
+            }
+        },
+        {
+            "query": "What is the value of 0.625 raised to -1.5",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "0.625",
+                    "exponent": "-1.5"
+                }
+            }
+        },
+        {
+            "query": "Calculate the power of -9.75 cubed",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-9.75",
+                    "exponent": "3"
+                }
+            }
+        },
+        {
+            "query": "What is the result of 7.875 to the power of -1.5",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "7.875",
+                    "exponent": "-1.5"
+                }
+            }
+        },
+        {
+            "query": "How do you calculate -9.25 cubed",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-9.25",
+                    "exponent": "3"
+                }
+            }
+        },
+        {
+            "query": "What is the value of 9.75 raised to 2.75",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "9.75",
+                    "exponent": "2.75"
+                }
+            }
+        },
+        {
+            "query": "Calculate the power of -0.625 cubed",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-0.625",
+                    "exponent": "3"
+                }
+            }
+        },
+        {
+            "query": "What is the result of 4.125 raised to 3.5",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "4.125",
+                    "exponent": "3.5"
+                }
+            }
+        },
+        {
+            "query": "How do you calculate -7.875 cubed",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-7.875",
+                    "exponent": "3"
+                }
+            }
+        },
+        {
+            "query": "What is the value of 0.625 squared",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "0.625",
+                    "exponent": "2"
+                }
+            }
+        },
+        {
+            "query": "Calculate the power of -9.75 cubed",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-9.75",
+                    "exponent": "3"
+                }
+            }
+        },
+        {
+            "query": "What is the result of 7.875 raised to -1.5",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "7.875",
+                    "exponent": "-1.5"
+                }
+            }
+        },
+        {
+            "query": "How do you calculate -9.25 cubed",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-9.25",
+                    "exponent": "3"
+                }
+            }
+        },
+        {
+            "query": "What is the value of 4.125 to the power of -2.75",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "4.125",
+                    "exponent": "-2.75"
+                }
+            }
+        },
+        {
+            "query": "Calculate the power of 9.75 cubed",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "9.75",
+                    "exponent": "3"
+                }
+            }
+        },
+        {
+            "query": "What is the result of -0.625 raised to -1.5",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-0.625",
+                    "exponent": "-1.5"
+                }
+            }
+        },
+        {
+            "query": "How do you calculate 7.875 cubed",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "7.875",
+                    "exponent": "3"
+                }
+            }
+        },
+        {
+            "query": "What is the value of -9.25 to the power of -2.75",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-9.25",
+                    "exponent": "-2.75"
+                }
+            }
+        },
+        {
+            "query": "Calculate the power of 0.625 cubed",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "0.625",
+                    "exponent": "3"
+                }
+            }
+        },
+        {
+            "query": "What is the result of -7.875 raised to 1.5",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-7.875",
+                    "exponent": "1.5"
+                }
+            }
+        }
+    ]
+}

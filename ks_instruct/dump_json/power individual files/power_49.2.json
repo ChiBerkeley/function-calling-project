@@ -1,0 +1,444 @@
+{
+    "queries": [
+        {
+            "query": "What is 4 squared",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "4",
+                    "exponent": "2"
+                }
+            }
+        },
+        {
+            "query": "Calculate -3 to the power of 0",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-3",
+                    "exponent": "0"
+                }
+            }
+        },
+        {
+            "query": "What is 5 to the power of -1",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "5",
+                    "exponent": "-1"
+                }
+            }
+        },
+        {
+            "query": "What is e raised to the power of pi",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "2.718281828459045",
+                    "exponent": "3.141592653589793"
+                }
+            }
+        },
+        {
+            "query": "Calculate 9 cubed",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "9",
+                    "exponent": "3"
+                }
+            }
+        },
+        {
+            "query": "What is the value of -0.5 raised to the power of -2",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-0.5",
+                    "exponent": "-2"
+                }
+            }
+        },
+        {
+            "query": "What is i raised to the power of -4",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "1j",
+                    "exponent": "-4"
+                }
+            }
+        },
+        {
+            "query": "Calculate 3.141592653589793 to the power of e",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "3.141592653589793",
+                    "exponent": "2.718281828459045"
+                }
+            }
+        },
+        {
+            "query": "Calculate pi cubed",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "3.141592653589793",
+                    "exponent": "3"
+                }
+            }
+        },
+        {
+            "query": "What is -0.5 raised to the power of 3",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-0.5",
+                    "exponent": "3"
+                }
+            }
+        },
+        {
+            "query": "What is 9 raised to the power of -0.5",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "9",
+                    "exponent": "-0.5"
+                }
+            }
+        },
+        {
+            "query": "Calculate pi to the power of e",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "3.141592653589793",
+                    "exponent": "2.718281828459045"
+                }
+            }
+        },
+        {
+            "query": "What is 7 raised to the power of -4",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "7",
+                    "exponent": "-4"
+                }
+            }
+        },
+        {
+            "query": "Calculate i cubed",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "1j",
+                    "exponent": "3"
+                }
+            }
+        },
+        {
+            "query": "What is -9 raised to the power of 0.5",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-9",
+                    "exponent": "0.5"
+                }
+            }
+        },
+        {
+            "query": "Calculate e to the power of pi",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "2.718281828459045",
+                    "exponent": "3.141592653589793"
+                }
+            }
+        },
+        {
+            "query": "What is 5 raised to the power of -1",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "5",
+                    "exponent": "-1"
+                }
+            }
+        },
+        {
+            "query": "Calculate pi squared",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "3.141592653589793",
+                    "exponent": "2"
+                }
+            }
+        },
+        {
+            "query": "What is 0 raised to the power of -7",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "0",
+                    "exponent": "-7"
+                }
+            }
+        },
+        {
+            "query": "Calculate i squared",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "1j",
+                    "exponent": "2"
+                }
+            }
+        },
+        {
+            "query": "What is -3 raised to the power of 0.5",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-3",
+                    "exponent": "0.5"
+                }
+            }
+        },
+        {
+            "query": "Calculate e cubed",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "2.718281828459045",
+                    "exponent": "3"
+                }
+            }
+        },
+        {
+            "query": "What is 7 raised to the power of -0.5",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "7",
+                    "exponent": "-0.5"
+                }
+            }
+        },
+        {
+            "query": "Calculate pi squared",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "3.141592653589793",
+                    "exponent": "2"
+                }
+            }
+        },
+        {
+            "query": "What is 9 raised to the power of -0.5",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "9",
+                    "exponent": "-0.5"
+                }
+            }
+        },
+        {
+            "query": "Calculate i cubed",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "1j",
+                    "exponent": "3"
+                }
+            }
+        },
+        {
+            "query": "What is -4 raised to the power of 0",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-4",
+                    "exponent": "0"
+                }
+            }
+        },
+        {
+            "query": "Calculate e squared",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "2.718281828459045",
+                    "exponent": "2"
+                }
+            }
+        },
+        {
+            "query": "What is 5 raised to the power of -3",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "5",
+                    "exponent": "-3"
+                }
+            }
+        },
+        {
+            "query": "Calculate pi cubed",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "3.141592653589793",
+                    "exponent": "3"
+                }
+            }
+        },
+        {
+            "query": "What is -9 raised to the power of 0.5",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-9",
+                    "exponent": "0.5"
+                }
+            }
+        },
+        {
+            "query": "Calculate i squared",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "1j",
+                    "exponent": "2"
+                }
+            }
+        },
+        {
+            "query": "What is 7 raised to the power of -3",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "7",
+                    "exponent": "-3"
+                }
+            }
+        },
+        {
+            "query": "Calculate e cubed",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "2.718281828459045",
+                    "exponent": "3"
+                }
+            }
+        },
+        {
+            "query": "What is 9 raised to the power of -0.5",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "9",
+                    "exponent": "-0.5"
+                }
+            }
+        },
+        {
+            "query": "Calculate pi squared",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "3.141592653589793",
+                    "exponent": "2"
+                }
+            }
+        },
+        {
+            "query": "What is 4 raised to the power of -0.5",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "4",
+                    "exponent": "-0.5"
+                }
+            }
+        },
+        {
+            "query": "Calculate e squared",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "2.718281828459045",
+                    "exponent": "2"
+                }
+            }
+        },
+        {
+            "query": "What is -3 raised to the power of 0.5",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-3",
+                    "exponent": "0.5"
+                }
+            }
+        },
+        {
+            "query": "Calculate pi cubed",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "3.141592653589793",
+                    "exponent": "3"
+                }
+            }
+        },
+        {
+            "query": "What is 9 raised to the power of -0.5",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "9",
+                    "exponent": "-0.5"
+                }
+            }
+        },
+        {
+            "query": "Calculate i cubed",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "1j",
+                    "exponent": "3"
+                }
+            }
+        },
+        {
+            "query": "What is 7 raised to the power of -4",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "7",
+                    "exponent": "-4"
+                }
+            }
+        },
+        {
+            "query": "Calculate e cubed",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "2.718281828459045",
+                    "exponent": "3"
+                }
+            }
+        }
+    ]
+}
