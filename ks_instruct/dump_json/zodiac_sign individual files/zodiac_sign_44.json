@@ -1,0 +1,400 @@
+{
+    "queries": [
+        {
+            "query": "What is my zodiac sign if I was born on February 13th, 2015",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2015-02-13"
+                }
+            }
+        },
+        {
+            "query": "What zodiac sign would someone have who was born on July 27th, 1983",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1983-07-27"
+                }
+            }
+        },
+        {
+            "query": "What is the zodiac sign for a person born on December 11th, 2009",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2009-12-11"
+                }
+            }
+        },
+        {
+            "query": "For what month and day would someone be an Aries if they were born on March 22nd, 1992",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1992-03-22"
+                }
+            }
+        },
+        {
+            "query": "What zodiac sign is a person who was born on May 1st, 1977",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1977-05-01"
+                }
+            }
+        },
+        {
+            "query": "If someone was born on August 25th, 1989, what would their zodiac sign be?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1989-08-25"
+                }
+            }
+        },
+        {
+            "query": "What is the zodiac sign for a person who was born on November 18th, 1994",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1994-11-18"
+                }
+            }
+        },
+        {
+            "query": "For what date would someone be a Cancer if they were born on June 10th, 2006",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2006-06-10"
+                }
+            }
+        },
+        {
+            "query": "What is the zodiac sign for a person who was born on January 25th, 1985",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1985-01-25"
+                }
+            }
+        },
+        {
+            "query": "If someone was born on October 3rd, 1991, what would their zodiac sign be?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1991-10-03"
+                }
+            }
+        },
+        {
+            "query": "What zodiac sign is a person who was born on September 14th, 1974",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1974-09-14"
+                }
+            }
+        },
+        {
+            "query": "For what date would someone be a Scorpio if they were born on November 2nd, 2003",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2003-11-02"
+                }
+            }
+        },
+        {
+            "query": "What is the zodiac sign for a person who was born on March 9th, 1998",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1998-03-09"
+                }
+            }
+        },
+        {
+            "query": "If someone was born on May 23rd, 1981, what would their zodiac sign be?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1981-05-23"
+                }
+            }
+        },
+        {
+            "query": "What zodiac sign is a person who was born on August 12th, 2008",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2008-08-12"
+                }
+            }
+        },
+        {
+            "query": "For what month and day would someone be an Aquarius if they were born on January 29th, 1995",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1995-01-29"
+                }
+            }
+        },
+        {
+            "query": "What zodiac sign is a person who was born on June 17th, 1979",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1979-06-17"
+                }
+            }
+        },
+        {
+            "query": "If someone was born on February 27th, 1987, what would their zodiac sign be?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1987-02-27"
+                }
+            }
+        },
+        {
+            "query": "What is the zodiac sign for a person who was born on September 18th, 1996",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1996-09-18"
+                }
+            }
+        },
+        {
+            "query": "For what date would someone be a Taurus if they were born on April 22nd, 2002",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2002-04-22"
+                }
+            }
+        },
+        {
+            "query": "What zodiac sign is a person who was born on October 20th, 1976",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1976-10-20"
+                }
+            }
+        },
+        {
+            "query": "If someone was born on July 15th, 1993, what would their zodiac sign be?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1993-07-15"
+                }
+            }
+        },
+        {
+            "query": "What is the zodiac sign for a person who was born on November 22nd, 1984",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1984-11-22"
+                }
+            }
+        },
+        {
+            "query": "For what month and day would someone be a Gemini if they were born on May 27th, 2005",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2005-05-27"
+                }
+            }
+        },
+        {
+            "query": "What zodiac sign is a person who was born on January 11th, 1999",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1999-01-11"
+                }
+            }
+        },
+        {
+            "query": "If someone was born on August 29th, 2004, what would their zodiac sign be?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2004-08-29"
+                }
+            }
+        },
+        {
+            "query": "What is the zodiac sign for a person who was born on April 15th, 1978",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1978-04-15"
+                }
+            }
+        },
+        {
+            "query": "For what date would someone be a Capricorn if they were born on December 30th, 1990",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1990-12-30"
+                }
+            }
+        },
+        {
+            "query": "What zodiac sign is a person who was born on June 29th, 1986",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1986-06-29"
+                }
+            }
+        },
+        {
+            "query": "If someone was born on March 25th, 2007, what would their zodiac sign be?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2007-03-25"
+                }
+            }
+        },
+        {
+            "query": "What is the zodiac sign for a person who was born on September 22nd, 1989",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1989-09-22"
+                }
+            }
+        },
+        {
+            "query": "For what month and day would someone be an Aries if they were born on April 4th, 2001",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2001-04-04"
+                }
+            }
+        },
+        {
+            "query": "What zodiac sign is a person who was born on May 12th, 1997",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1997-05-12"
+                }
+            }
+        },
+        {
+            "query": "If someone was born on October 27th, 1975, what would their zodiac sign be?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1975-10-27"
+                }
+            }
+        },
+        {
+            "query": "What is the zodiac sign for a person who was born on July 21st, 1983",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1983-07-21"
+                }
+            }
+        },
+        {
+            "query": "For what date would someone be an Aquarius if they were born on February 14th, 1998",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1998-02-14"
+                }
+            }
+        },
+        {
+            "query": "What zodiac sign is a person who was born on November 5th, 2009",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2009-11-05"
+                }
+            }
+        },
+        {
+            "query": "If someone was born on August 6th, 1972, what would their zodiac sign be?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1972-08-06"
+                }
+            }
+        },
+        {
+            "query": "What is the zodiac sign for a person who was born on January 25th, 2003",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2003-01-25"
+                }
+            }
+        },
+        {
+            "query": "For what month and day would someone be a Taurus if they were born on March 20th, 1994",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1994-03-20"
+                }
+            }
+        },
+        {
+            "query": "What zodiac sign is a person who was born on September 7th, 1988",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1988-09-07"
+                }
+            }
+        },
+        {
+            "query": "If someone was born on April 29th, 1973, what would their zodiac sign be?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1973-04-29"
+                }
+            }
+        },
+        {
+            "query": "What is the zodiac sign for a person who was born on June 5th, 1992",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1992-06-05"
+                }
+            }
+        },
+        {
+            "query": "For what date would someone be an Aquarius if they were born on December 9th, 2006",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2006-12-09"
+                }
+            }
+        }
+    ]
+}

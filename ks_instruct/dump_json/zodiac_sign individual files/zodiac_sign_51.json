@@ -1,0 +1,463 @@
+{
+    "queries": [
+        {
+            "query": "What is the zodiac sign of someone born on January 32, 2025",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2025-01-32"
+                }
+            }
+        },
+        {
+            "query": "Which zodiac sign belongs to a person born on December 31, -99",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "-99-12-31"
+                }
+            }
+        },
+        {
+            "query": "What is the zodiac sign of someone with birthdate July 15, 2001",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2001-07-15"
+                }
+            }
+        },
+        {
+            "query": "For what month and day was someone born on February 29, 1996",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1996-02-29"
+                }
+            }
+        },
+        {
+            "query": "What zodiac sign belongs to a person with the birthdate October 12, 2018",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2018-10-12"
+                }
+            }
+        },
+        {
+            "query": "Which zodiac sign is assigned to someone born on March 1, -2000",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "-2000-03-01"
+                }
+            }
+        },
+        {
+            "query": "What is the zodiac sign of someone with birthdate August 24, 1999",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1999-08-24"
+                }
+            }
+        },
+        {
+            "query": "For what month and day was someone born on May 31, 2000",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2000-05-31"
+                }
+            }
+        },
+        {
+            "query": "What zodiac sign belongs to a person with the birthdate January 30, 2019",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2019-01-30"
+                }
+            }
+        },
+        {
+            "query": "Which zodiac sign is assigned to someone born on June 15, -1995",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "-1995-06-15"
+                }
+            }
+        },
+        {
+            "query": "What is the zodiac sign of someone with birthdate November 14, 2002",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2002-11-14"
+                }
+            }
+        },
+        {
+            "query": "For what month and day was someone born on September 22, -1980",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "-1980-09-22"
+                }
+            }
+        },
+        {
+            "query": "What zodiac sign belongs to a person with the birthdate April 5, 2017",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2017-04-05"
+                }
+            }
+        },
+        {
+            "query": "Which zodiac sign is assigned to someone born on October 25, 1998",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1998-10-25"
+                }
+            }
+        },
+        {
+            "query": "What is the zodiac sign of someone with birthdate March 22, 2004",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2004-03-22"
+                }
+            }
+        },
+        {
+            "query": "For what month and day was someone born on July 8, -1960",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "-1960-07-08"
+                }
+            }
+        },
+        {
+            "query": "What zodiac sign belongs to a person with the birthdate June 28, 2013",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2013-06-28"
+                }
+            }
+        },
+        {
+            "query": "Which zodiac sign is assigned to someone born on August 19, -1985",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "-1985-08-19"
+                }
+            }
+        },
+        {
+            "query": "What is the zodiac sign of someone with birthdate December 17, 2008",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2008-12-17"
+                }
+            }
+        },
+        {
+            "query": "For what month and day was someone born on April 11, -1975",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "-1975-04-11"
+                }
+            }
+        },
+        {
+            "query": "What zodiac sign belongs to a person with the birthdate September 6, 2012",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2012-09-06"
+                }
+            }
+        },
+        {
+            "query": "Which zodiac sign is assigned to someone born on January 9, -1991",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "-1991-01-09"
+                }
+            }
+        },
+        {
+            "query": "What is the zodiac sign of someone with birthdate May 7, 2006",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2006-05-07"
+                }
+            }
+        },
+        {
+            "query": "For what month and day was someone born on February 27, -1970",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "-1970-02-27"
+                }
+            }
+        },
+        {
+            "query": "What zodiac sign belongs to a person with the birthdate November 24, 1997",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1997-11-24"
+                }
+            }
+        },
+        {
+            "query": "Which zodiac sign is assigned to someone born on March 25, -1982",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "-1982-03-25"
+                }
+            }
+        },
+        {
+            "query": "What is the zodiac sign of someone with birthdate July 21, 2007",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2007-07-21"
+                }
+            }
+        },
+        {
+            "query": "For what month and day was someone born on October 9, -1992",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "-1992-10-09"
+                }
+            }
+        },
+        {
+            "query": "What zodiac sign belongs to a person with the birthdate August 11, 2015",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2015-08-11"
+                }
+            }
+        },
+        {
+            "query": "Which zodiac sign is assigned to someone born on January 6, -1984",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "-1984-01-06"
+                }
+            }
+        },
+        {
+            "query": "What is the zodiac sign of someone with birthdate April 20, 2003",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2003-04-20"
+                }
+            }
+        },
+        {
+            "query": "For what month and day was someone born on June 18, -1965",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "-1965-06-18"
+                }
+            }
+        },
+        {
+            "query": "What zodiac sign belongs to a person with the birthdate September 14, 2011",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2011-09-14"
+                }
+            }
+        },
+        {
+            "query": "Which zodiac sign is assigned to someone born on November 10, -1976",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "-1976-11-10"
+                }
+            }
+        },
+        {
+            "query": "What is the zodiac sign of someone with birthdate May 26, 2005",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2005-05-26"
+                }
+            }
+        },
+        {
+            "query": "For what month and day was someone born on March 9, -1981",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "-1981-03-09"
+                }
+            }
+        },
+        {
+            "query": "What zodiac sign belongs to a person with the birthdate July 24, 2009",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2009-07-24"
+                }
+            }
+        },
+        {
+            "query": "Which zodiac sign is assigned to someone born on February 4, -1995",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "-1995-02-04"
+                }
+            }
+        },
+        {
+            "query": "What is the zodiac sign of someone with birthdate December 29, 2009",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2009-12-29"
+                }
+            }
+        },
+        {
+            "query": "For what month and day was someone born on January 3, -1965",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "-1965-01-03"
+                }
+            }
+        },
+        {
+            "query": "What zodiac sign belongs to a person with the birthdate September 23, 2014",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2014-09-23"
+                }
+            }
+        },
+        {
+            "query": "Which zodiac sign is assigned to someone born on August 25, -1979",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "-1979-08-25"
+                }
+            }
+        },
+        {
+            "query": "What is the zodiac sign of someone with birthdate May 31, 2001",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2001-05-31"
+                }
+            }
+        },
+        {
+            "query": "For what month and day was someone born on June 2, -1989",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "-1989-06-02"
+                }
+            }
+        },
+        {
+            "query": "What zodiac sign belongs to a person with the birthdate October 13, 2005",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2005-10-13"
+                }
+            }
+        },
+        {
+            "query": "Which zodiac sign is assigned to someone born on April 17, -1996",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "-1996-04-17"
+                }
+            }
+        },
+        {
+            "query": "What is the zodiac sign of someone with birthdate July 14, 2003",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2003-07-14"
+                }
+            }
+        },
+        {
+            "query": "For what month and day was someone born on May 2, -1968",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "-1968-05-02"
+                }
+            }
+        },
+        {
+            "query": "What zodiac sign belongs to a person with the birthdate November 22, 2010",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2010-11-22"
+                }
+            }
+        },
+        {
+            "query": "Which zodiac sign is assigned to someone born on August 31, -1971",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "-1971-08-31"
+                }
+            }
+        },
+        {
+            "query": "What is the zodiac sign of someone with birthdate March 12, 2007",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2007-03-12"
+                }
+            }
+        }
+    ]
+}

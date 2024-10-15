@@ -1,0 +1,400 @@
+{
+    "queries": [
+        {
+            "query": "What is my zodiac sign?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1995-08-12"
+                }
+            }
+        },
+        {
+            "query": "What was the zodiac sign of Albert Einstein?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1879-03-14"
+                }
+            }
+        },
+        {
+            "query": "What is my friend's zodiac sign if her birthday is 2012-01-25?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2012-01-25"
+                }
+            }
+        },
+        {
+            "query": "What was the zodiac sign of Ada Lovelace?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1815-12-10"
+                }
+            }
+        },
+        {
+            "query": "What is my zodiac sign if I was born in 2003?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2003-09-15"
+                }
+            }
+        },
+        {
+            "query": "What was the zodiac sign of Charles Darwin?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1809-02-12"
+                }
+            }
+        },
+        {
+            "query": "What is my zodiac sign if my birthday is 1999-11-22?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1999-11-22"
+                }
+            }
+        },
+        {
+            "query": "What was the zodiac sign of Marie Curie?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1867-11-07"
+                }
+            }
+        },
+        {
+            "query": "What is my zodiac sign if I was born on 2015-05-03?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2015-05-03"
+                }
+            }
+        },
+        {
+            "query": "What was the zodiac sign of Alexander Graham Bell?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1847-03-03"
+                }
+            }
+        },
+        {
+            "query": "What is my zodiac sign if my birthday is 2001-07-27?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2001-07-27"
+                }
+            }
+        },
+        {
+            "query": "What was the zodiac sign of Florence Nightingale?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1820-05-12"
+                }
+            }
+        },
+        {
+            "query": "What is my zodiac sign if I was born in 1998?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1998-04-19"
+                }
+            }
+        },
+        {
+            "query": "What was the zodiac sign of Thomas Edison?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1847-02-11"
+                }
+            }
+        },
+        {
+            "query": "What is my zodiac sign if my birthday is 2002-12-24?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2002-12-24"
+                }
+            }
+        },
+        {
+            "query": "What was the zodiac sign of Jane Austen?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1775-12-16"
+                }
+            }
+        },
+        {
+            "query": "What is my zodiac sign if I was born on 2018-08-25?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2018-08-25"
+                }
+            }
+        },
+        {
+            "query": "What was the zodiac sign of William Shakespeare?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1564-04-23"
+                }
+            }
+        },
+        {
+            "query": "What is my zodiac sign if my birthday is 2005-06-17?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2005-06-17"
+                }
+            }
+        },
+        {
+            "query": "What was the zodiac sign of Cleopatra?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "-69-04-01"
+                }
+            }
+        },
+        {
+            "query": "What is my zodiac sign if I was born in 1994?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1994-10-13"
+                }
+            }
+        },
+        {
+            "query": "What was the zodiac sign of Galileo Galilei?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1564-02-15"
+                }
+            }
+        },
+        {
+            "query": "What is my zodiac sign if my birthday is 2009-03-31?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2009-03-31"
+                }
+            }
+        },
+        {
+            "query": "What was the zodiac sign of Isaac Newton?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1642-01-04"
+                }
+            }
+        },
+        {
+            "query": "What is my zodiac sign if I was born on 2014-09-02?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2014-09-02"
+                }
+            }
+        },
+        {
+            "query": "What was the zodiac sign of Socrates?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "-469-05-10"
+                }
+            }
+        },
+        {
+            "query": "What is my zodiac sign if my birthday is 2007-01-26?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2007-01-26"
+                }
+            }
+        },
+        {
+            "query": "What was the zodiac sign of Leonardo da Vinci?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1452-04-15"
+                }
+            }
+        },
+        {
+            "query": "What is my zodiac sign if I was born in 1996?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1996-08-05"
+                }
+            }
+        },
+        {
+            "query": "What was the zodiac sign of Michelangelo?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1475-03-06"
+                }
+            }
+        },
+        {
+            "query": "What is my zodiac sign if my birthday is 2004-11-14?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2004-11-14"
+                }
+            }
+        },
+        {
+            "query": "What was the zodiac sign of Wolfgang Amadeus Mozart?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1756-01-27"
+                }
+            }
+        },
+        {
+            "query": "What is my zodiac sign if I was born on 2019-06-21?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2019-06-21"
+                }
+            }
+        },
+        {
+            "query": "What was the zodiac sign of Vincent van Gogh?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1853-03-30"
+                }
+            }
+        },
+        {
+            "query": "What is my zodiac sign if my birthday is 2008-04-25?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2008-04-25"
+                }
+            }
+        },
+        {
+            "query": "What was the zodiac sign of Napoleon Bonaparte?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1769-08-15"
+                }
+            }
+        },
+        {
+            "query": "What is my zodiac sign if I was born in 1997?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1997-02-20"
+                }
+            }
+        },
+        {
+            "query": "What was the zodiac sign of Charles Dickens?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1812-02-07"
+                }
+            }
+        },
+        {
+            "query": "What is my zodiac sign if my birthday is 2006-10-23?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2006-10-23"
+                }
+            }
+        },
+        {
+            "query": "What was the zodiac sign of Johannes Kepler?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1571-12-27"
+                }
+            }
+        },
+        {
+            "query": "What is my zodiac sign if I was born on 2013-05-12?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2013-05-12"
+                }
+            }
+        },
+        {
+            "query": "What was the zodiac sign of Martin Luther King Jr.",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1929-01-15"
+                }
+            }
+        },
+        {
+            "query": "What is my zodiac sign if my birthday is 2000-07-09?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2000-07-09"
+                }
+            }
+        },
+        {
+            "query": "What was the zodiac sign of George Washington?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1732-02-22"
+                }
+            }
+        }
+    ]
+}
