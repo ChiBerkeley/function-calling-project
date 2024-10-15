@@ -1,0 +1,378 @@
+{
+    "queries": [
+        {
+            "query": "What is the total cost of a trip from Paris to London with a distance of 350 miles, fuel efficiency of 25 mpg, and fuel cost per liter of $2.50?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "350",
+                    "fuel_efficiency": "25",
+                    "fuel_cost_per_liter": "2.5"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from New York to Los Angeles with a distance of 2700 miles, fuel efficiency of 30 mpg, and fuel cost per liter of $3.00?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "2700",
+                    "fuel_efficiency": "30",
+                    "fuel_cost_per_liter": "3"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Paris to Rome with a distance of 750 miles, fuel efficiency of 20 mpg, and fuel cost per liter of $2.00?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "750",
+                    "fuel_efficiency": "20",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Tokyo to Seoul with a distance of 550 miles, fuel efficiency of 25 mpg, and fuel cost per liter of $1.80?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "550",
+                    "fuel_efficiency": "25",
+                    "fuel_cost_per_liter": "1.8"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Sydney to Melbourne with a distance of 700 miles, fuel efficiency of 30 mpg, and fuel cost per liter of $2.20?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "700",
+                    "fuel_efficiency": "30",
+                    "fuel_cost_per_liter": "2.2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Beijing to Shanghai with a distance of 300 miles, fuel efficiency of 25 mpg, and fuel cost per liter of $1.50?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "300",
+                    "fuel_efficiency": "25",
+                    "fuel_cost_per_liter": "1.5"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Mumbai to Delhi with a distance of 1200 miles, fuel efficiency of 20 mpg, and fuel cost per liter of $2.50?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "1200",
+                    "fuel_efficiency": "20",
+                    "fuel_cost_per_liter": "2.5"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Rio de Janeiro to Buenos Aires with a distance of 2400 miles, fuel efficiency of 25 mpg, and fuel cost per liter of $3.00?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "2400",
+                    "fuel_efficiency": "25",
+                    "fuel_cost_per_liter": "3"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Moscow to St. Petersburg with a distance of 500 miles, fuel efficiency of 20 mpg, and fuel cost per liter of $1.80?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "20",
+                    "fuel_cost_per_liter": "1.8"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Cairo to Alexandria with a distance of 200 miles, fuel efficiency of 25 mpg, and fuel cost per liter of $2.00?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "200",
+                    "fuel_efficiency": "25",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Dubai to Abu Dhabi with a distance of 120 miles, fuel efficiency of 20 mpg, and fuel cost per liter of $1.50?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "120",
+                    "fuel_efficiency": "20",
+                    "fuel_cost_per_liter": "1.5"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Istanbul to Ankara with a distance of 500 miles, fuel efficiency of 25 mpg, and fuel cost per liter of $2.00?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "25",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Bangkok to Chiang Mai with a distance of 570 miles, fuel efficiency of 20 mpg, and fuel cost per liter of $1.80?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "570",
+                    "fuel_efficiency": "20",
+                    "fuel_cost_per_liter": "1.8"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Jakarta to Surabaya with a distance of 600 miles, fuel efficiency of 25 mpg, and fuel cost per liter of $2.50?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "25",
+                    "fuel_cost_per_liter": "2.5"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Lima to Cuzco with a distance of 400 miles, fuel efficiency of 20 mpg, and fuel cost per liter of $1.50?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "400",
+                    "fuel_efficiency": "20",
+                    "fuel_cost_per_liter": "1.5"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Addis Ababa to Dire Dawa with a distance of 500 miles, fuel efficiency of 25 mpg, and fuel cost per liter of $2.00?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "25",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Ouagadougou to Bobo-Dioulasso with a distance of 300 miles, fuel efficiency of 20 mpg, and fuel cost per liter of $1.80?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "300",
+                    "fuel_efficiency": "20",
+                    "fuel_cost_per_liter": "1.8"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Abuja to Kano with a distance of 500 miles, fuel efficiency of 25 mpg, and fuel cost per liter of $2.50?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "25",
+                    "fuel_cost_per_liter": "2.5"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Mogadishu to Hargeisa with a distance of 700 miles, fuel efficiency of 20 mpg, and fuel cost per liter of $3.00?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "700",
+                    "fuel_efficiency": "20",
+                    "fuel_cost_per_liter": "3"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Tunis to Sfax with a distance of 260 miles, fuel efficiency of 25 mpg, and fuel cost per liter of $2.00?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "260",
+                    "fuel_efficiency": "25",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Juba to Yambio with a distance of 600 miles, fuel efficiency of 20 mpg, and fuel cost per liter of $1.50?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "20",
+                    "fuel_cost_per_liter": "1.5"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Khartoum to Kassala with a distance of 500 miles, fuel efficiency of 25 mpg, and fuel cost per liter of $2.50?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "25",
+                    "fuel_cost_per_liter": "2.5"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Bissau to Gab\u00fa with a distance of 200 miles, fuel efficiency of 20 mpg, and fuel cost per liter of $1.80?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "200",
+                    "fuel_efficiency": "20",
+                    "fuel_cost_per_liter": "1.8"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Dakar to Kaolack with a distance of 150 miles, fuel efficiency of 25 mpg, and fuel cost per liter of $2.00?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "150",
+                    "fuel_efficiency": "25",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Maputo to Beira with a distance of 400 miles, fuel efficiency of 20 mpg, and fuel cost per liter of $1.50?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "400",
+                    "fuel_efficiency": "20",
+                    "fuel_cost_per_liter": "1.5"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Libreville to Port-Gentil with a distance of 200 miles, fuel efficiency of 25 mpg, and fuel cost per liter of $2.00?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "200",
+                    "fuel_efficiency": "25",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Brazzaville to Pointe-Noire with a distance of 100 miles, fuel efficiency of 20 mpg, and fuel cost per liter of $1.80?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "100",
+                    "fuel_efficiency": "20",
+                    "fuel_cost_per_liter": "1.8"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Bangui to Carnot with a distance of 500 miles, fuel efficiency of 25 mpg, and fuel cost per liter of $2.50?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "25",
+                    "fuel_cost_per_liter": "2.5"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Conakry to Kamsar with a distance of 300 miles, fuel efficiency of 20 mpg, and fuel cost per liter of $1.50?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "300",
+                    "fuel_efficiency": "20",
+                    "fuel_cost_per_liter": "1.5"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Monrovia to Buchanan with a distance of 120 miles, fuel efficiency of 25 mpg, and fuel cost per liter of $2.00?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "120",
+                    "fuel_efficiency": "25",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Accra to Kumasi with a distance of 200 miles, fuel efficiency of 20 mpg, and fuel cost per liter of $1.80?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "200",
+                    "fuel_efficiency": "20",
+                    "fuel_cost_per_liter": "1.8"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Abidjan to Daloa with a distance of 220 miles, fuel efficiency of 25 mpg, and fuel cost per liter of $2.00?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "220",
+                    "fuel_efficiency": "25",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Ouagadougou to Bobo-Dioulasso with a distance of 200 miles, fuel efficiency of 20 mpg, and fuel cost per liter of $1.50?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "200",
+                    "fuel_efficiency": "20",
+                    "fuel_cost_per_liter": "1.5"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Cotonou to Port-Gentil with a distance of 500 miles, fuel efficiency of 25 mpg, and fuel cost per liter of $2.00?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "25",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        }
+    ]
+}

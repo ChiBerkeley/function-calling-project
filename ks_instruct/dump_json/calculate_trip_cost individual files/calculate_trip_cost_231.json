@@ -1,0 +1,2545 @@
+{
+    "queries": [
+        {
+            "query": "What is the cost of a trip from Paris to London with fuel efficiency of 12 km/l and fuel cost of $1.50 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "1000",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "1.5"
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive from New York to Los Angeles with a fuel efficiency of 15 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "4000",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Tokyo to Seoul with fuel efficiency of 10 km/l and fuel cost of $1.25 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "1.25"
+                }
+            }
+        },
+        {
+            "query": "Calculate the total cost of a trip from Sydney to Melbourne with fuel efficiency of 12 km/l and fuel cost of $1 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "700",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from New Delhi to Mumbai with fuel efficiency of 8 km/l and fuel cost of $1.75 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "1500",
+                    "fuel_efficiency": "8",
+                    "fuel_cost_per_liter": "1.75"
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive from Paris to Rome with fuel efficiency of 10 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "1200",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Berlin to Prague with fuel efficiency of 15 km/l and fuel cost of $1.25 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "1.25"
+                }
+            }
+        },
+        {
+            "query": "Calculate the total cost of a trip from Dubai to Abu Dhabi with fuel efficiency of 12 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "200",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Beijing to Shanghai with fuel efficiency of 10 km/l and fuel cost of $1.5 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "1000",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "1.5"
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive from Istanbul to Athens with fuel efficiency of 15 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Bangkok to Chiang Mai with fuel efficiency of 12 km/l and fuel cost of $1.25 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "700",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "1.25"
+                }
+            }
+        },
+        {
+            "query": "Calculate the total cost of a trip from Cairo to Alexandria with fuel efficiency of 10 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "200",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Moscow to St. Petersburg with fuel efficiency of 12 km/l and fuel cost of $1 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive from Mumbai to Pune with fuel efficiency of 15 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "100",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Paris to Barcelona with fuel efficiency of 10 km/l and fuel cost of $1.75 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "800",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "1.75"
+                }
+            }
+        },
+        {
+            "query": "Calculate the total cost of a trip from Seoul to Busan with fuel efficiency of 12 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "300",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Tokyo to Osaka with fuel efficiency of 15 km/l and fuel cost of $1.25 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "1.25"
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive from Istanbul to Izmir with fuel efficiency of 10 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "400",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Bangkok to Phuket with fuel efficiency of 12 km/l and fuel cost of $1 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "800",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "Calculate the total cost of a trip from Delhi to Agra with fuel efficiency of 15 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "200",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Paris to Amsterdam with fuel efficiency of 10 km/l and fuel cost of $1.75 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "1.75"
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive from Cairo to Luxor with fuel efficiency of 12 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "400",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Istanbul to Antalya with fuel efficiency of 15 km/l and fuel cost of $1.25 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "1.25"
+                }
+            }
+        },
+        {
+            "query": "Calculate the total cost of a trip from Delhi to Jaipur with fuel efficiency of 10 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "300",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Moscow to Kiev with fuel efficiency of 12 km/l and fuel cost of $1 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "800",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive from Mumbai to Ahmedabad with fuel efficiency of 15 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "200",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Bangkok to Hanoi with fuel efficiency of 10 km/l and fuel cost of $1.75 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "1.75"
+                }
+            }
+        },
+        {
+            "query": "Calculate the total cost of a trip from Seoul to Jeju with fuel efficiency of 12 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "300",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Tokyo to Nagoya with fuel efficiency of 15 km/l and fuel cost of $1.25 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "400",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "1.25"
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive from Istanbul to Edirne with fuel efficiency of 10 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Paris to Lyon with fuel efficiency of 12 km/l and fuel cost of $1 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "300",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "Calculate the total cost of a trip from Moscow to Nizhny Novgorod with fuel efficiency of 15 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "200",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Delhi to Chandigarh with fuel efficiency of 10 km/l and fuel cost of $1.75 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "400",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "1.75"
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive from Istanbul to Trabzon with fuel efficiency of 12 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Paris to Nice with fuel efficiency of 15 km/l and fuel cost of $1.25 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "1.25"
+                }
+            }
+        },
+        {
+            "query": "Calculate the total cost of a trip from Cairo to Aswan with fuel efficiency of 10 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "300",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Delhi to Guwahati with fuel efficiency of 12 km/l and fuel cost of $1 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "400",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive from Istanbul to Konya with fuel efficiency of 15 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Tokyo to Fukuoka with fuel efficiency of 10 km/l and fuel cost of $1.75 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "1.75"
+                }
+            }
+        },
+        {
+            "query": "Calculate the total cost of a trip from Moscow to Samara with fuel efficiency of 12 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "300",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Delhi to Agra with fuel efficiency of 15 km/l and fuel cost of $1.25 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "400",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "1.25"
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive from Istanbul to Gaziantep with fuel efficiency of 10 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Paris to Toulouse with fuel efficiency of 12 km/l and fuel cost of $1 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "Calculate the total cost of a trip from Moscow to Kaliningrad with fuel efficiency of 15 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "300",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Delhi to Bhopal with fuel efficiency of 10 km/l and fuel cost of $1.75 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "400",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "1.75"
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive from Istanbul to Sivas with fuel efficiency of 12 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Tokyo to Sapporo with fuel efficiency of 15 km/l and fuel cost of $1.25 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "1.25"
+                }
+            }
+        },
+        {
+            "query": "Calculate the total cost of a trip from Moscow to Volgograd with fuel efficiency of 10 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "300",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Delhi to Indore with fuel efficiency of 12 km/l and fuel cost of $1 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "400",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive from Istanbul to Kayseri with fuel efficiency of 15 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Tokyo to Nagoya with fuel efficiency of 10 km/l and fuel cost of $1.75 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "1.75"
+                }
+            }
+        },
+        {
+            "query": "Calculate the total cost of a trip from Moscow to Nizhny Novgorod with fuel efficiency of 12 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "300",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Delhi to Jaipur with fuel efficiency of 15 km/l and fuel cost of $1.25 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "400",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "1.25"
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive from Istanbul to Ercan with fuel efficiency of 10 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Tokyo to Hiroshima with fuel efficiency of 12 km/l and fuel cost of $1 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "Calculate the total cost of a trip from Moscow to St. Petersburg with fuel efficiency of 15 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "300",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Delhi to Vadodara with fuel efficiency of 10 km/l and fuel cost of $1.75 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "400",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "1.75"
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive from Istanbul to Bingol with fuel efficiency of 12 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Tokyo to Osaka with fuel efficiency of 15 km/l and fuel cost of $1.25 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "1.25"
+                }
+            }
+        },
+        {
+            "query": "Calculate the total cost of a trip from Moscow to Novosibirsk with fuel efficiency of 10 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "300",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Delhi to Ahmedabad with fuel efficiency of 12 km/l and fuel cost of $1 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "400",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive from Istanbul to Malatya with fuel efficiency of 15 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Tokyo to Aomori with fuel efficiency of 10 km/l and fuel cost of $1.75 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "1.75"
+                }
+            }
+        },
+        {
+            "query": "Calculate the total cost of a trip from Moscow to Vladivostok with fuel efficiency of 12 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "300",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Delhi to Bhopal with fuel efficiency of 15 km/l and fuel cost of $1.25 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "400",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "1.25"
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive from Istanbul to Edirne with fuel efficiency of 10 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Tokyo to Fukuoka with fuel efficiency of 12 km/l and fuel cost of $1 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "Calculate the total cost of a trip from Moscow to Yekaterinburg with fuel efficiency of 15 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "300",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Delhi to Indore with fuel efficiency of 10 km/l and fuel cost of $1.75 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "400",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "1.75"
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive from Istanbul to Canakkale with fuel efficiency of 12 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Tokyo to Sapporo with fuel efficiency of 15 km/l and fuel cost of $1.25 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "1.25"
+                }
+            }
+        },
+        {
+            "query": "Calculate the total cost of a trip from Moscow to Arkhangelsk with fuel efficiency of 10 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "300",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Delhi to Surat with fuel efficiency of 12 km/l and fuel cost of $1 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "400",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive from Istanbul to Kars with fuel efficiency of 15 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Tokyo to Okayama with fuel efficiency of 10 km/l and fuel cost of $1.75 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "1.75"
+                }
+            }
+        },
+        {
+            "query": "Calculate the total cost of a trip from Moscow to Rostov-on-Don with fuel efficiency of 12 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "300",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Delhi to Rajkot with fuel efficiency of 15 km/l and fuel cost of $1.25 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "400",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "1.25"
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive from Istanbul to Tunceli with fuel efficiency of 10 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Tokyo to Shizuoka with fuel efficiency of 12 km/l and fuel cost of $1 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "Calculate the total cost of a trip from Moscow to Kemerovo with fuel efficiency of 15 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "300",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Delhi to Agra with fuel efficiency of 10 km/l and fuel cost of $1.75 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "400",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "1.75"
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive from Istanbul to Elazig with fuel efficiency of 12 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Tokyo to Kagoshima with fuel efficiency of 15 km/l and fuel cost of $1.25 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "1.25"
+                }
+            }
+        },
+        {
+            "query": "Calculate the total cost of a trip from Moscow to Novosibirsk with fuel efficiency of 10 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "300",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Delhi to Kanpur with fuel efficiency of 12 km/l and fuel cost of $1 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "400",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive from Istanbul to Sivas with fuel efficiency of 15 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Tokyo to Miyazaki with fuel efficiency of 10 km/l and fuel cost of $1.75 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "1.75"
+                }
+            }
+        },
+        {
+            "query": "Calculate the total cost of a trip from Moscow to Samara with fuel efficiency of 12 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "300",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Delhi to Varanasi with fuel efficiency of 15 km/l and fuel cost of $1.25 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "400",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "1.25"
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive from Istanbul to Mugla with fuel efficiency of 10 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Tokyo to Fukuoka with fuel efficiency of 12 km/l and fuel cost of $1 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "Calculate the total cost of a trip from Moscow to Omsk with fuel efficiency of 15 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "300",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Delhi to Ludhiana with fuel efficiency of 10 km/l and fuel cost of $1.75 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "400",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "1.75"
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive from Istanbul to Bilecik with fuel efficiency of 12 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Tokyo to Aomori with fuel efficiency of 15 km/l and fuel cost of $1.25 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "1.25"
+                }
+            }
+        },
+        {
+            "query": "Calculate the total cost of a trip from Moscow to Tyumen with fuel efficiency of 10 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "300",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Delhi to Jaipur with fuel efficiency of 12 km/l and fuel cost of $1 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "400",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive from Istanbul to Karaman with fuel efficiency of 15 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Tokyo to Sapporo with fuel efficiency of 10 km/l and fuel cost of $1.75 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "1.75"
+                }
+            }
+        },
+        {
+            "query": "Calculate the total cost of a trip from Moscow to Rostov-on-Don with fuel efficiency of 12 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "300",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Delhi to Jodhpur with fuel efficiency of 15 km/l and fuel cost of $1.25 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "400",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "1.25"
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive from Istanbul to Gaziantep with fuel efficiency of 10 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Tokyo to Kochi with fuel efficiency of 12 km/l and fuel cost of $1 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "Calculate the total cost of a trip from Moscow to Voronezh with fuel efficiency of 15 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "300",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Delhi to Amritsar with fuel efficiency of 10 km/l and fuel cost of $1.75 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "400",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "1.75"
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive from Istanbul to Corum with fuel efficiency of 12 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Tokyo to Ishikawa with fuel efficiency of 15 km/l and fuel cost of $1.25 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "1.25"
+                }
+            }
+        },
+        {
+            "query": "Calculate the total cost of a trip from Moscow to Krasnodar with fuel efficiency of 10 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "300",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Delhi to Coimbatore with fuel efficiency of 12 km/l and fuel cost of $1 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "400",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive from Istanbul to Eskisehir with fuel efficiency of 15 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Tokyo to Niigata with fuel efficiency of 10 km/l and fuel cost of $1.75 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "1.75"
+                }
+            }
+        },
+        {
+            "query": "Calculate the total cost of a trip from Moscow to Saratov with fuel efficiency of 12 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "300",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Delhi to Mysore with fuel efficiency of 15 km/l and fuel cost of $1.25 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "400",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "1.25"
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive from Istanbul to Sivas with fuel efficiency of 10 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Tokyo to Nagano with fuel efficiency of 12 km/l and fuel cost of $1 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "Calculate the total cost of a trip from Moscow to Tver with fuel efficiency of 15 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "300",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Delhi to Visakhapatnam with fuel efficiency of 10 km/l and fuel cost of $1.75 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "400",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "1.75"
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive from Istanbul to Mugla with fuel efficiency of 12 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Tokyo to Shiga with fuel efficiency of 15 km/l and fuel cost of $1.25 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "1.25"
+                }
+            }
+        },
+        {
+            "query": "Calculate the total cost of a trip from Moscow to Ryazan with fuel efficiency of 10 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "300",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Delhi to Surat with fuel efficiency of 12 km/l and fuel cost of $1 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "400",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive from Istanbul to Denizli with fuel efficiency of 15 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Tokyo to Fukuoka with fuel efficiency of 10 km/l and fuel cost of $1.75 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "1.75"
+                }
+            }
+        },
+        {
+            "query": "Calculate the total cost of a trip from Moscow to Novosibirsk with fuel efficiency of 12 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "300",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Delhi to Bhopal with fuel efficiency of 15 km/l and fuel cost of $1.25 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "400",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "1.25"
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive from Istanbul to Balikesir with fuel efficiency of 10 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Tokyo to Ibaraki with fuel efficiency of 12 km/l and fuel cost of $1 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "Calculate the total cost of a trip from Moscow to Penza with fuel efficiency of 15 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "300",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Delhi to Tiruppur with fuel efficiency of 10 km/l and fuel cost of $1.75 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "400",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "1.75"
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive from Istanbul to Nigde with fuel efficiency of 12 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Tokyo to Chiba with fuel efficiency of 15 km/l and fuel cost of $1.25 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "1.25"
+                }
+            }
+        },
+        {
+            "query": "Calculate the total cost of a trip from Moscow to Smolensk with fuel efficiency of 10 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "300",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Delhi to Amritsar with fuel efficiency of 12 km/l and fuel cost of $1 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "400",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive from Istanbul to U\u015fak with fuel efficiency of 15 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Tokyo to Gunma with fuel efficiency of 10 km/l and fuel cost of $1.75 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "1.75"
+                }
+            }
+        },
+        {
+            "query": "Calculate the total cost of a trip from Moscow to Tambov with fuel efficiency of 12 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "300",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Delhi to Patna with fuel efficiency of 15 km/l and fuel cost of $1.25 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "400",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "1.25"
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive from Istanbul to Konya with fuel efficiency of 10 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Tokyo to Mie with fuel efficiency of 12 km/l and fuel cost of $1 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "Calculate the total cost of a trip from Moscow to Kaluga with fuel efficiency of 15 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "300",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Delhi to Kanpur with fuel efficiency of 10 km/l and fuel cost of $1.75 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "400",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "1.75"
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive from Istanbul to Sivas with fuel efficiency of 12 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Tokyo to Wakayama with fuel efficiency of 15 km/l and fuel cost of $1.25 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "1.25"
+                }
+            }
+        },
+        {
+            "query": "Calculate the total cost of a trip from Moscow to Kostroma with fuel efficiency of 10 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "300",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Delhi to Ludhiana with fuel efficiency of 12 km/l and fuel cost of $1 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "400",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive from Istanbul to Elaz\u0131\u011f with fuel efficiency of 15 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Tokyo to Ishikawa with fuel efficiency of 10 km/l and fuel cost of $1.75 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "1.75"
+                }
+            }
+        },
+        {
+            "query": "Calculate the total cost of a trip from Moscow to Ryazan with fuel efficiency of 12 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "300",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Delhi to Gorakhpur with fuel efficiency of 15 km/l and fuel cost of $1.25 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "400",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "1.25"
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive from Istanbul to Malatya with fuel efficiency of 10 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Tokyo to Shiga with fuel efficiency of 12 km/l and fuel cost of $1 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "Calculate the total cost of a trip from Moscow to Tver with fuel efficiency of 15 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "300",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Delhi to Varanasi with fuel efficiency of 10 km/l and fuel cost of $1.75 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "400",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "1.75"
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive from Istanbul to Ad\u0131yaman with fuel efficiency of 12 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Tokyo to Aichi with fuel efficiency of 15 km/l and fuel cost of $1.25 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "1.25"
+                }
+            }
+        },
+        {
+            "query": "Calculate the total cost of a trip from Moscow to Vladimir with fuel efficiency of 10 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "300",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Delhi to Agra with fuel efficiency of 12 km/l and fuel cost of $1 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "400",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive from Istanbul to Kahramanmara\u015f with fuel efficiency of 15 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Tokyo to Okayama with fuel efficiency of 10 km/l and fuel cost of $1.75 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "1.75"
+                }
+            }
+        },
+        {
+            "query": "Calculate the total cost of a trip from Moscow to Oryol with fuel efficiency of 12 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "300",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Delhi to Bareilly with fuel efficiency of 15 km/l and fuel cost of $1.25 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "400",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "1.25"
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive from Istanbul to Siirt with fuel efficiency of 10 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Tokyo to Hiroshima with fuel efficiency of 12 km/l and fuel cost of $1 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "Calculate the total cost of a trip from Moscow to Lipetsk with fuel efficiency of 15 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "300",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Delhi to Dehradun with fuel efficiency of 10 km/l and fuel cost of $1.75 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "400",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "1.75"
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive from Istanbul to \u015eanl\u0131urfa with fuel efficiency of 12 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Tokyo to Mie with fuel efficiency of 15 km/l and fuel cost of $1.25 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "1.25"
+                }
+            }
+        },
+        {
+            "query": "Calculate the total cost of a trip from Moscow to Kostroma with fuel efficiency of 10 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "300",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Delhi to Aligarh with fuel efficiency of 12 km/l and fuel cost of $1 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "400",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive from Istanbul to Gaziantep with fuel efficiency of 15 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Tokyo to Gifu with fuel efficiency of 10 km/l and fuel cost of $1.75 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "1.75"
+                }
+            }
+        },
+        {
+            "query": "Calculate the total cost of a trip from Moscow to Bryansk with fuel efficiency of 12 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "300",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Delhi to Meerut with fuel efficiency of 15 km/l and fuel cost of $1.25 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "400",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "1.25"
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive from Istanbul to Ardahan with fuel efficiency of 10 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Tokyo to Ibaraki with fuel efficiency of 12 km/l and fuel cost of $1 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "Calculate the total cost of a trip from Moscow to Vladimir with fuel efficiency of 15 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "300",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Delhi to Mathura with fuel efficiency of 10 km/l and fuel cost of $1.75 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "400",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "1.75"
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive from Istanbul to I\u011fd\u0131r with fuel efficiency of 12 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Tokyo to Fukuoka with fuel efficiency of 15 km/l and fuel cost of $1.25 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "1.25"
+                }
+            }
+        },
+        {
+            "query": "Calculate the total cost of a trip from Moscow to Smolensk with fuel efficiency of 10 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "300",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Delhi to Saharanpur with fuel efficiency of 12 km/l and fuel cost of $1 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "400",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive from Istanbul to Kars with fuel efficiency of 15 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Tokyo to Saitama with fuel efficiency of 10 km/l and fuel cost of $1.75 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "1.75"
+                }
+            }
+        },
+        {
+            "query": "Calculate the total cost of a trip from Moscow to Tambov with fuel efficiency of 12 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "300",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Delhi to Ghaziabad with fuel efficiency of 15 km/l and fuel cost of $1.25 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "400",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "1.25"
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive from Istanbul to Hakkari with fuel efficiency of 10 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Tokyo to Kanagawa with fuel efficiency of 12 km/l and fuel cost of $1 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "Calculate the total cost of a trip from Moscow to Lipetsk with fuel efficiency of 15 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "300",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Delhi to Moradabad with fuel efficiency of 10 km/l and fuel cost of $1.75 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "400",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "1.75"
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive from Istanbul to Siirt with fuel efficiency of 12 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Tokyo to Nagano with fuel efficiency of 15 km/l and fuel cost of $1.25 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "1.25"
+                }
+            }
+        },
+        {
+            "query": "Calculate the total cost of a trip from Moscow to Bryansk with fuel efficiency of 10 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "300",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Delhi to Muzaffarnagar with fuel efficiency of 12 km/l and fuel cost of $1 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "400",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive from Istanbul to Tunceli with fuel efficiency of 15 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Tokyo to Tochigi with fuel efficiency of 10 km/l and fuel cost of $1.75 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "1.75"
+                }
+            }
+        },
+        {
+            "query": "Calculate the total cost of a trip from Moscow to Kaluga with fuel efficiency of 15 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "300",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Delhi to Bijnor with fuel efficiency of 12 km/l and fuel cost of $1.25 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "400",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "1.25"
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive from Istanbul to Siirt with fuel efficiency of 10 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Tokyo to Chiba with fuel efficiency of 15 km/l and fuel cost of $1 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "Calculate the total cost of a trip from Moscow to Arkhangelsk with fuel efficiency of 12 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "300",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Delhi to Aligarh with fuel efficiency of 10 km/l and fuel cost of $1.75 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "400",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "1.75"
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive from Istanbul to Artvin with fuel efficiency of 15 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Tokyo to Saitama with fuel efficiency of 12 km/l and fuel cost of $1 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "Calculate the total cost of a trip from Moscow to Ivanovo with fuel efficiency of 10 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "300",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Delhi to Saharanpur with fuel efficiency of 15 km/l and fuel cost of $1.25 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "400",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "1.25"
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive from Istanbul to I\u011fd\u0131r with fuel efficiency of 12 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Tokyo to Gifu with fuel efficiency of 10 km/l and fuel cost of $1 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "Calculate the total cost of a trip from Moscow to Kostroma with fuel efficiency of 15 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "300",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Delhi to Firozabad with fuel efficiency of 12 km/l and fuel cost of $1.75 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "400",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "1.75"
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive from Istanbul to Duzce with fuel efficiency of 10 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Tokyo to Shizuoka with fuel efficiency of 15 km/l and fuel cost of $1 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "Calculate the total cost of a trip from Moscow to Vladimir with fuel efficiency of 12 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "300",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Delhi to Bareilly with fuel efficiency of 10 km/l and fuel cost of $1.75 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "400",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "1.75"
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive from Istanbul to Karaman with fuel efficiency of 15 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Tokyo to Mie with fuel efficiency of 12 km/l and fuel cost of $1 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "Calculate the total cost of a trip from Moscow to Kursk with fuel efficiency of 10 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "300",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Delhi to Mathura with fuel efficiency of 15 km/l and fuel cost of $1.25 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "400",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "1.25"
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive from Istanbul to Sivas with fuel efficiency of 12 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Tokyo to Shiga with fuel efficiency of 10 km/l and fuel cost of $1 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "Calculate the total cost of a trip from Moscow to Leningrad with fuel efficiency of 15 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "300",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Delhi to Ghaziabad with fuel efficiency of 12 km/l and fuel cost of $1.75 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "400",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "1.75"
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive from Istanbul to Tunceli with fuel efficiency of 10 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Tokyo to Aichi with fuel efficiency of 15 km/l and fuel cost of $1 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "Calculate the total cost of a trip from Moscow to Tver with fuel efficiency of 12 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "300",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Delhi to Muzaffarnagar with fuel efficiency of 10 km/l and fuel cost of $1.75 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "400",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "1.75"
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive from Istanbul to \u00c7orum with fuel efficiency of 15 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Tokyo to Hyogo with fuel efficiency of 12 km/l and fuel cost of $1 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "Calculate the total cost of a trip from Moscow to Voronezh with fuel efficiency of 10 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "300",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Delhi to Bijnor with fuel efficiency of 15 km/l and fuel cost of $1.25 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "400",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "1.25"
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive from Istanbul to Erzurum with fuel efficiency of 12 km/l and fuel cost of $2 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip from Tokyo to Fukuoka with fuel efficiency of 10 km/l and fuel cost of $1 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        }
+    ]
+}

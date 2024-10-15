@@ -1,0 +1,378 @@
+{
+    "queries": [
+        {
+            "query": "What is the cost of a trip from New York to Los Angeles with a distance of 3934.5 miles, fuel efficiency of 25 miles per gallon, and fuel cost of $2.75 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "3934.5",
+                    "fuel_efficiency": "25",
+                    "fuel_cost_per_liter": "2.75"
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive 1177 kilometers with a fuel efficiency of 10 liters per 100 kilometers and a fuel price of $1.99?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "1177",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "1.99"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost for a trip with a distance of 0 miles, fuel efficiency of 50 miles per gallon, and fuel cost of $3.49?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "0",
+                    "fuel_efficiency": "50",
+                    "fuel_cost_per_liter": "3.49"
+                }
+            }
+        },
+        {
+            "query": "Calculate the trip cost for a 2000 km journey with fuel efficiency of 8 liters per 100 kilometers and fuel price of $2.29?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "2000",
+                    "fuel_efficiency": "8",
+                    "fuel_cost_per_liter": "2.29"
+                }
+            }
+        },
+        {
+            "query": "What is the cost to drive 456 miles with a fuel efficiency of 20 miles per gallon and fuel price of $3.19?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "456",
+                    "fuel_efficiency": "20",
+                    "fuel_cost_per_liter": "3.19"
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive 1200 kilometers with a fuel efficiency of 12 liters per 100 kilometers and a fuel price of $1.99?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "1200",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "1.99"
+                }
+            }
+        },
+        {
+            "query": "What is the cost for a trip with a distance of 100 miles, fuel efficiency of 25 miles per gallon, and fuel cost of $2.49?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "100",
+                    "fuel_efficiency": "25",
+                    "fuel_cost_per_liter": "2.49"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost for a trip with a distance of 0 miles, fuel efficiency of 30 miles per gallon, and fuel cost of $1.99?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "0",
+                    "fuel_efficiency": "30",
+                    "fuel_cost_per_liter": "1.99"
+                }
+            }
+        },
+        {
+            "query": "Calculate the trip cost for a 500 km journey with fuel efficiency of 6 liters per 100 kilometers and fuel price of $2.49?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "6",
+                    "fuel_cost_per_liter": "2.49"
+                }
+            }
+        },
+        {
+            "query": "What is the cost to drive 300 miles with a fuel efficiency of 20 miles per gallon and fuel price of $3.19?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "300",
+                    "fuel_efficiency": "20",
+                    "fuel_cost_per_liter": "3.19"
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive 1800 kilometers with a fuel efficiency of 9 liters per 100 kilometers and a fuel price of $2.29?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "1800",
+                    "fuel_efficiency": "9",
+                    "fuel_cost_per_liter": "2.29"
+                }
+            }
+        },
+        {
+            "query": "What is the cost for a trip with a distance of 120 miles, fuel efficiency of 25 miles per gallon, and fuel cost of $3.49?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "120",
+                    "fuel_efficiency": "25",
+                    "fuel_cost_per_liter": "3.49"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost for a trip with a distance of 0 miles, fuel efficiency of 15 miles per gallon, and fuel cost of $1.99?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "0",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "1.99"
+                }
+            }
+        },
+        {
+            "query": "Calculate the trip cost for a 250 km journey with fuel efficiency of 5 liters per 100 kilometers and fuel price of $2.75?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "250",
+                    "fuel_efficiency": "5",
+                    "fuel_cost_per_liter": "2.75"
+                }
+            }
+        },
+        {
+            "query": "What is the cost to drive 540 miles with a fuel efficiency of 20 miles per gallon and fuel price of $3.19?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "540",
+                    "fuel_efficiency": "20",
+                    "fuel_cost_per_liter": "3.19"
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive 1500 kilometers with a fuel efficiency of 11 liters per 100 kilometers and a fuel price of $2.29?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "1500",
+                    "fuel_efficiency": "11",
+                    "fuel_cost_per_liter": "2.29"
+                }
+            }
+        },
+        {
+            "query": "What is the cost for a trip with a distance of 200 miles, fuel efficiency of 30 miles per gallon, and fuel cost of $3.49?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "200",
+                    "fuel_efficiency": "30",
+                    "fuel_cost_per_liter": "3.49"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost for a trip with a distance of 0 miles, fuel efficiency of 35 miles per gallon, and fuel cost of $2.75?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "0",
+                    "fuel_efficiency": "35",
+                    "fuel_cost_per_liter": "2.75"
+                }
+            }
+        },
+        {
+            "query": "Calculate the trip cost for a 700 km journey with fuel efficiency of 7 liters per 100 kilometers and fuel price of $1.99?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "700",
+                    "fuel_efficiency": "7",
+                    "fuel_cost_per_liter": "1.99"
+                }
+            }
+        },
+        {
+            "query": "What is the cost to drive 900 miles with a fuel efficiency of 25 miles per gallon and fuel price of $2.49?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "900",
+                    "fuel_efficiency": "25",
+                    "fuel_cost_per_liter": "2.49"
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive 2200 kilometers with a fuel efficiency of 10 liters per 100 kilometers and a fuel price of $3.19?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "2200",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "3.19"
+                }
+            }
+        },
+        {
+            "query": "What is the cost for a trip with a distance of 400 miles, fuel efficiency of 20 miles per gallon, and fuel cost of $1.99?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "400",
+                    "fuel_efficiency": "20",
+                    "fuel_cost_per_liter": "1.99"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost for a trip with a distance of 0 miles, fuel efficiency of 10 miles per gallon, and fuel cost of $2.49?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "0",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "2.49"
+                }
+            }
+        },
+        {
+            "query": "Calculate the trip cost for a 300 km journey with fuel efficiency of 4 liters per 100 kilometers and fuel price of $3.19?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "300",
+                    "fuel_efficiency": "4",
+                    "fuel_cost_per_liter": "3.19"
+                }
+            }
+        },
+        {
+            "query": "What is the cost to drive 600 miles with a fuel efficiency of 25 miles per gallon and fuel price of $2.29?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "25",
+                    "fuel_cost_per_liter": "2.29"
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive 800 kilometers with a fuel efficiency of 8 liters per 100 kilometers and a fuel price of $1.99?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "800",
+                    "fuel_efficiency": "8",
+                    "fuel_cost_per_liter": "1.99"
+                }
+            }
+        },
+        {
+            "query": "What is the cost for a trip with a distance of 250 miles, fuel efficiency of 30 miles per gallon, and fuel cost of $3.49?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "250",
+                    "fuel_efficiency": "30",
+                    "fuel_cost_per_liter": "3.49"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost for a trip with a distance of 0 miles, fuel efficiency of 12 miles per gallon, and fuel cost of $2.75?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "0",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "2.75"
+                }
+            }
+        },
+        {
+            "query": "Calculate the trip cost for a 200 km journey with fuel efficiency of 3 liters per 100 kilometers and fuel price of $1.99?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "200",
+                    "fuel_efficiency": "3",
+                    "fuel_cost_per_liter": "1.99"
+                }
+            }
+        },
+        {
+            "query": "What is the cost to drive 1200 miles with a fuel efficiency of 25 miles per gallon and fuel price of $2.49?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "1200",
+                    "fuel_efficiency": "25",
+                    "fuel_cost_per_liter": "2.49"
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive 150 kilometers with a fuel efficiency of 5 liters per 100 kilometers and a fuel price of $3.19?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "150",
+                    "fuel_efficiency": "5",
+                    "fuel_cost_per_liter": "3.19"
+                }
+            }
+        },
+        {
+            "query": "What is the cost for a trip with a distance of 100 miles, fuel efficiency of 20 miles per gallon, and fuel cost of $2.29?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "100",
+                    "fuel_efficiency": "20",
+                    "fuel_cost_per_liter": "2.29"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost for a trip with a distance of 0 miles, fuel efficiency of 9 miles per gallon, and fuel cost of $1.99?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "0",
+                    "fuel_efficiency": "9",
+                    "fuel_cost_per_liter": "1.99"
+                }
+            }
+        },
+        {
+            "query": "Calculate the trip cost for a 180 km journey with fuel efficiency of 2 liters per 100 kilometers and fuel price of $2.75?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "180",
+                    "fuel_efficiency": "2",
+                    "fuel_cost_per_liter": "2.75"
+                }
+            }
+        }
+    ]
+}

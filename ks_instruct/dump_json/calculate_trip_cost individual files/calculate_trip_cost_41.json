@@ -1,0 +1,455 @@
+{
+    "queries": [
+        {
+            "query": "What is the total cost of a trip that travels 123.45 miles with fuel efficiency of 12.5 liters per mile and fuel cost per liter is $2.50",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "123.45",
+                    "fuel_efficiency": "12.5",
+                    "fuel_cost_per_liter": "2.50"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip that travels 56.78 miles with fuel efficiency of 20 liters per mile and fuel cost per liter is $1.25",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "56.78",
+                    "fuel_efficiency": "20",
+                    "fuel_cost_per_liter": "1.25"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip that travels 98 miles with fuel efficiency of 10 liters per mile and fuel cost per liter is $2.00",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "98",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "2.00"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip that travels 45 miles with fuel efficiency of 15 liters per mile and fuel cost per liter is $1.75",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "45",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "1.75"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip that travels 1000 miles with fuel efficiency of 25 liters per mile and fuel cost per liter is $2.50",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "1000",
+                    "fuel_efficiency": "25",
+                    "fuel_cost_per_liter": "2.50"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip that travels 78 miles with fuel efficiency of 18 liters per mile and fuel cost per liter is $1.50",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "78",
+                    "fuel_efficiency": "18",
+                    "fuel_cost_per_liter": "1.50"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip that travels 34 miles with fuel efficiency of 8 liters per mile and fuel cost per liter is $2.25",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "34",
+                    "fuel_efficiency": "8",
+                    "fuel_cost_per_liter": "2.25"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip that travels 250 miles with fuel efficiency of 12 liters per mile and fuel cost per liter is $1.75",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "250",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "1.75"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip that travels 90 miles with fuel efficiency of 9 liters per mile and fuel cost per liter is $2.00",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "90",
+                    "fuel_efficiency": "9",
+                    "fuel_cost_per_liter": "2.00"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip that travels 50 miles with fuel efficiency of 11 liters per mile and fuel cost per liter is $1.25",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "50",
+                    "fuel_efficiency": "11",
+                    "fuel_cost_per_liter": "1.25"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip that travels 150 miles with fuel efficiency of 14 liters per mile and fuel cost per liter is $2.25",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "150",
+                    "fuel_efficiency": "14",
+                    "fuel_cost_per_liter": "2.25"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip that travels 67 miles with fuel efficiency of 16 liters per mile and fuel cost per liter is $1.50",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "67",
+                    "fuel_efficiency": "16",
+                    "fuel_cost_per_liter": "1.50"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip that travels 75 miles with fuel efficiency of 13 liters per mile and fuel cost per liter is $2.00",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "75",
+                    "fuel_efficiency": "13",
+                    "fuel_cost_per_liter": "2.00"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip that travels 120 miles with fuel efficiency of 10 liters per mile and fuel cost per liter is $1.75",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "120",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "1.75"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip that travels 200 miles with fuel efficiency of 15 liters per mile and fuel cost per liter is $2.25",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "200",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "2.25"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip that travels 55 miles with fuel efficiency of 9 liters per mile and fuel cost per liter is $1.50",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "55",
+                    "fuel_efficiency": "9",
+                    "fuel_cost_per_liter": "1.50"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip that travels 85 miles with fuel efficiency of 12 liters per mile and fuel cost per liter is $2.00",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "85",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "2.00"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip that travels 175 miles with fuel efficiency of 8 liters per mile and fuel cost per liter is $1.75",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "175",
+                    "fuel_efficiency": "8",
+                    "fuel_cost_per_liter": "1.75"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip that travels 35 miles with fuel efficiency of 14 liters per mile and fuel cost per liter is $2.25",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "35",
+                    "fuel_efficiency": "14",
+                    "fuel_cost_per_liter": "2.25"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip that travels 92 miles with fuel efficiency of 11 liters per mile and fuel cost per liter is $1.50",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "92",
+                    "fuel_efficiency": "11",
+                    "fuel_cost_per_liter": "1.50"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip that travels 70 miles with fuel efficiency of 13 liters per mile and fuel cost per liter is $2.00",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "70",
+                    "fuel_efficiency": "13",
+                    "fuel_cost_per_liter": "2.00"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip that travels 125 miles with fuel efficiency of 12 liters per mile and fuel cost per liter is $1.75",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "125",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "1.75"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip that travels 45 miles with fuel efficiency of 10 liters per mile and fuel cost per liter is $2.25",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "45",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "2.25"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip that travels 60 miles with fuel efficiency of 9 liters per mile and fuel cost per liter is $1.50",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "60",
+                    "fuel_efficiency": "9",
+                    "fuel_cost_per_liter": "1.50"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip that travels 80 miles with fuel efficiency of 14 liters per mile and fuel cost per liter is $2.00",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "80",
+                    "fuel_efficiency": "14",
+                    "fuel_cost_per_liter": "2.00"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip that travels 95 miles with fuel efficiency of 13 liters per mile and fuel cost per liter is $1.75",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "95",
+                    "fuel_efficiency": "13",
+                    "fuel_cost_per_liter": "1.75"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip that travels 50 miles with fuel efficiency of 12 liters per mile and fuel cost per liter is $2.25",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "50",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "2.25"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip that travels 40 miles with fuel efficiency of 11 liters per mile and fuel cost per liter is $1.50",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "40",
+                    "fuel_efficiency": "11",
+                    "fuel_cost_per_liter": "1.50"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip that travels 120 miles with fuel efficiency of 15 liters per mile and fuel cost per liter is $2.00",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "120",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "2.00"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip that travels 130 miles with fuel efficiency of 14 liters per mile and fuel cost per liter is $1.75",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "130",
+                    "fuel_efficiency": "14",
+                    "fuel_cost_per_liter": "1.75"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip that travels 55 miles with fuel efficiency of 13 liters per mile and fuel cost per liter is $2.25",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "55",
+                    "fuel_efficiency": "13",
+                    "fuel_cost_per_liter": "2.25"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip that travels 65 miles with fuel efficiency of 12 liters per mile and fuel cost per liter is $1.50",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "65",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "1.50"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip that travels 90 miles with fuel efficiency of 10 liters per mile and fuel cost per liter is $2.00",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "90",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "2.00"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip that travels 85 miles with fuel efficiency of 9 liters per mile and fuel cost per liter is $1.75",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "85",
+                    "fuel_efficiency": "9",
+                    "fuel_cost_per_liter": "1.75"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip that travels 70 miles with fuel efficiency of 14 liters per mile and fuel cost per liter is $2.25",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "70",
+                    "fuel_efficiency": "14",
+                    "fuel_cost_per_liter": "2.25"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip that travels 75 miles with fuel efficiency of 13 liters per mile and fuel cost per liter is $1.50",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "75",
+                    "fuel_efficiency": "13",
+                    "fuel_cost_per_liter": "1.50"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip that travels 80 miles with fuel efficiency of 12 liters per mile and fuel cost per liter is $2.00",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "80",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "2.00"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip that travels 95 miles with fuel efficiency of 11 liters per mile and fuel cost per liter is $1.75",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "95",
+                    "fuel_efficiency": "11",
+                    "fuel_cost_per_liter": "1.75"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip that travels 100 miles with fuel efficiency of 10 liters per mile and fuel cost per liter is $2.25",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "100",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "2.25"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip that travels 110 miles with fuel efficiency of 9 liters per mile and fuel cost per liter is $1.50",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "110",
+                    "fuel_efficiency": "9",
+                    "fuel_cost_per_liter": "1.50"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip that travels 115 miles with fuel efficiency of 8 liters per mile and fuel cost per liter is $2.00",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "115",
+                    "fuel_efficiency": "8",
+                    "fuel_cost_per_liter": "2.00"
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,686 @@
+{
+    "queries": [
+        {
+            "query": "What is the total cost of a trip with distance 500 km, fuel efficiency 10 km/L, and fuel cost $1.5 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": 500.0,
+                    "fuel_efficiency": 10.0,
+                    "fuel_cost_per_liter": 1.5
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive 250 miles with a car that gets 20 mpg and gas costs $2.75 per gallon?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": 250.0,
+                    "fuel_efficiency": 20.0,
+                    "fuel_cost_per_liter": 2.75
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 375 km, fuel efficiency 15 km/L, and fuel cost $1.9 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": 375.0,
+                    "fuel_efficiency": 15.0,
+                    "fuel_cost_per_liter": 1.9
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive 150 miles with a car that gets 12 mpg and gas costs $3.25 per gallon?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": 150.0,
+                    "fuel_efficiency": 12.0,
+                    "fuel_cost_per_liter": 3.25
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 625 km, fuel efficiency 25 km/L, and fuel cost $1.65 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": 625.0,
+                    "fuel_efficiency": 25.0,
+                    "fuel_cost_per_liter": 1.65
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive 200 miles with a car that gets 18 mpg and gas costs $2.95 per gallon?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": 200.0,
+                    "fuel_efficiency": 18.0,
+                    "fuel_cost_per_liter": 2.95
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 50 km, fuel efficiency 5 km/L, and fuel cost $1.25 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": 50.0,
+                    "fuel_efficiency": 5.0,
+                    "fuel_cost_per_liter": 1.25
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive 300 miles with a car that gets 15 mpg and gas costs $3.45 per gallon?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": 300.0,
+                    "fuel_efficiency": 15.0,
+                    "fuel_cost_per_liter": 3.45
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 675 km, fuel efficiency 30 km/L, and fuel cost $1.85 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": 675.0,
+                    "fuel_efficiency": 30.0,
+                    "fuel_cost_per_liter": 1.85
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive 175 miles with a car that gets 10 mpg and gas costs $2.75 per gallon?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": 175.0,
+                    "fuel_efficiency": 10.0,
+                    "fuel_cost_per_liter": 2.75
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 550 km, fuel efficiency 20 km/L, and fuel cost $1.95 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": 550.0,
+                    "fuel_efficiency": 20.0,
+                    "fuel_cost_per_liter": 1.95
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive 225 miles with a car that gets 8 mpg and gas costs $3.55 per gallon?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": 225.0,
+                    "fuel_efficiency": 8.0,
+                    "fuel_cost_per_liter": 3.55
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 450 km, fuel efficiency 15 km/L, and fuel cost $1.75 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": 450.0,
+                    "fuel_efficiency": 15.0,
+                    "fuel_cost_per_liter": 1.75
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive 275 miles with a car that gets 14 mpg and gas costs $2.95 per gallon?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": 275.0,
+                    "fuel_efficiency": 14.0,
+                    "fuel_cost_per_liter": 2.95
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 700 km, fuel efficiency 25 km/L, and fuel cost $1.65 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": 700.0,
+                    "fuel_efficiency": 25.0,
+                    "fuel_cost_per_liter": 1.65
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive 325 miles with a car that gets 16 mpg and gas costs $3.45 per gallon?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": 325.0,
+                    "fuel_efficiency": 16.0,
+                    "fuel_cost_per_liter": 3.45
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 475 km, fuel efficiency 20 km/L, and fuel cost $1.85 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": 475.0,
+                    "fuel_efficiency": 20.0,
+                    "fuel_cost_per_liter": 1.85
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive 200 miles with a car that gets 15 mpg and gas costs $2.75 per gallon?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": 200.0,
+                    "fuel_efficiency": 15.0,
+                    "fuel_cost_per_liter": 2.75
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 625 km, fuel efficiency 10 km/L, and fuel cost $1.65 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": 625.0,
+                    "fuel_efficiency": 10.0,
+                    "fuel_cost_per_liter": 1.65
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive 225 miles with a car that gets 20 mpg and gas costs $3.25 per gallon?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": 225.0,
+                    "fuel_efficiency": 20.0,
+                    "fuel_cost_per_liter": 3.25
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 450 km, fuel efficiency 5 km/L, and fuel cost $1.75 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": 450.0,
+                    "fuel_efficiency": 5.0,
+                    "fuel_cost_per_liter": 1.75
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive 325 miles with a car that gets 14 mpg and gas costs $2.95 per gallon?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": 325.0,
+                    "fuel_efficiency": 14.0,
+                    "fuel_cost_per_liter": 2.95
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 575 km, fuel efficiency 25 km/L, and fuel cost $1.85 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": 575.0,
+                    "fuel_efficiency": 25.0,
+                    "fuel_cost_per_liter": 1.85
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive 225 miles with a car that gets 16 mpg and gas costs $3.55 per gallon?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": 225.0,
+                    "fuel_efficiency": 16.0,
+                    "fuel_cost_per_liter": 3.55
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 700 km, fuel efficiency 30 km/L, and fuel cost $1.65 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": 700.0,
+                    "fuel_efficiency": 30.0,
+                    "fuel_cost_per_liter": 1.65
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive 475 miles with a car that gets 12 mpg and gas costs $3.45 per gallon?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": 475.0,
+                    "fuel_efficiency": 12.0,
+                    "fuel_cost_per_liter": 3.45
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 550 km, fuel efficiency 15 km/L, and fuel cost $1.95 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": 550.0,
+                    "fuel_efficiency": 15.0,
+                    "fuel_cost_per_liter": 1.95
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive 275 miles with a car that gets 18 mpg and gas costs $2.95 per gallon?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": 275.0,
+                    "fuel_efficiency": 18.0,
+                    "fuel_cost_per_liter": 2.95
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 325 km, fuel efficiency 20 km/L, and fuel cost $1.75 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": 325.0,
+                    "fuel_efficiency": 20.0,
+                    "fuel_cost_per_liter": 1.75
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive 475 miles with a car that gets 10 mpg and gas costs $3.25 per gallon?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": 475.0,
+                    "fuel_efficiency": 10.0,
+                    "fuel_cost_per_liter": 3.25
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 625 km, fuel efficiency 5 km/L, and fuel cost $1.85 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": 625.0,
+                    "fuel_efficiency": 5.0,
+                    "fuel_cost_per_liter": 1.85
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive 225 miles with a car that gets 22 mpg and gas costs $3.55 per gallon?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": 225.0,
+                    "fuel_efficiency": 22.0,
+                    "fuel_cost_per_liter": 3.55
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 575 km, fuel efficiency 25 km/L, and fuel cost $1.65 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": 575.0,
+                    "fuel_efficiency": 25.0,
+                    "fuel_cost_per_liter": 1.65
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive 475 miles with a car that gets 16 mpg and gas costs $2.95 per gallon?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": 475.0,
+                    "fuel_efficiency": 16.0,
+                    "fuel_cost_per_liter": 2.95
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 700 km, fuel efficiency 10 km/L, and fuel cost $1.85 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": 700.0,
+                    "fuel_efficiency": 10.0,
+                    "fuel_cost_per_liter": 1.85
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive 325 miles with a car that gets 14 mpg and gas costs $3.45 per gallon?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": 325.0,
+                    "fuel_efficiency": 14.0,
+                    "fuel_cost_per_liter": 3.45
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 225 km, fuel efficiency 18 km/L, and fuel cost $1.75 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": 225.0,
+                    "fuel_efficiency": 18.0,
+                    "fuel_cost_per_liter": 1.75
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive 550 miles with a car that gets 12 mpg and gas costs $3.25 per gallon?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": 550.0,
+                    "fuel_efficiency": 12.0,
+                    "fuel_cost_per_liter": 3.25
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 475 km, fuel efficiency 22 km/L, and fuel cost $1.65 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": 475.0,
+                    "fuel_efficiency": 22.0,
+                    "fuel_cost_per_liter": 1.65
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive 575 miles with a car that gets 20 mpg and gas costs $2.95 per gallon?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": 575.0,
+                    "fuel_efficiency": 20.0,
+                    "fuel_cost_per_liter": 2.95
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 325 km, fuel efficiency 25 km/L, and fuel cost $1.95 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": 325.0,
+                    "fuel_efficiency": 25.0,
+                    "fuel_cost_per_liter": 1.95
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive 225 miles with a car that gets 15 mpg and gas costs $3.55 per gallon?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": 225.0,
+                    "fuel_efficiency": 15.0,
+                    "fuel_cost_per_liter": 3.55
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 575 km, fuel efficiency 10 km/L, and fuel cost $1.75 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": 575.0,
+                    "fuel_efficiency": 10.0,
+                    "fuel_cost_per_liter": 1.75
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive 475 miles with a car that gets 18 mpg and gas costs $3.45 per gallon?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": 475.0,
+                    "fuel_efficiency": 18.0,
+                    "fuel_cost_per_liter": 3.45
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 700 km, fuel efficiency 5 km/L, and fuel cost $1.85 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": 700.0,
+                    "fuel_efficiency": 5.0,
+                    "fuel_cost_per_liter": 1.85
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive 325 miles with a car that gets 22 mpg and gas costs $2.95 per gallon?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": 325.0,
+                    "fuel_efficiency": 22.0,
+                    "fuel_cost_per_liter": 2.95
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 550 km, fuel efficiency 18 km/L, and fuel cost $1.65 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": 550.0,
+                    "fuel_efficiency": 18.0,
+                    "fuel_cost_per_liter": 1.65
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive 225 miles with a car that gets 12 mpg and gas costs $3.25 per gallon?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": 225.0,
+                    "fuel_efficiency": 12.0,
+                    "fuel_cost_per_liter": 3.25
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 475 km, fuel efficiency 20 km/L, and fuel cost $1.95 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": 475.0,
+                    "fuel_efficiency": 20.0,
+                    "fuel_cost_per_liter": 1.95
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive 575 miles with a car that gets 15 mpg and gas costs $3.45 per gallon?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": 575.0,
+                    "fuel_efficiency": 15.0,
+                    "fuel_cost_per_liter": 3.45
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 325 km, fuel efficiency 12 km/L, and fuel cost $1.75 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": 325.0,
+                    "fuel_efficiency": 12.0,
+                    "fuel_cost_per_liter": 1.75
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive 225 miles with a car that gets 20 mpg and gas costs $3.55 per gallon?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": 225.0,
+                    "fuel_efficiency": 20.0,
+                    "fuel_cost_per_liter": 3.55
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 550 km, fuel efficiency 15 km/L, and fuel cost $1.65 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": 550.0,
+                    "fuel_efficiency": 15.0,
+                    "fuel_cost_per_liter": 1.65
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive 475 miles with a car that gets 18 mpg and gas costs $2.95 per gallon?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": 475.0,
+                    "fuel_efficiency": 18.0,
+                    "fuel_cost_per_liter": 2.95
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 700 km, fuel efficiency 25 km/L, and fuel cost $1.85 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": 700.0,
+                    "fuel_efficiency": 25.0,
+                    "fuel_cost_per_liter": 1.85
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive 325 miles with a car that gets 15 mpg and gas costs $3.55 per gallon?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": 325.0,
+                    "fuel_efficiency": 15.0,
+                    "fuel_cost_per_liter": 3.55
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 575 km, fuel efficiency 12 km/L, and fuel cost $1.65 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": 575.0,
+                    "fuel_efficiency": 12.0,
+                    "fuel_cost_per_liter": 1.65
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive 475 miles with a car that gets 22 mpg and gas costs $3.25 per gallon?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": 475.0,
+                    "fuel_efficiency": 22.0,
+                    "fuel_cost_per_liter": 3.25
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 550 km, fuel efficiency 20 km/L, and fuel cost $1.95 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": 550.0,
+                    "fuel_efficiency": 20.0,
+                    "fuel_cost_per_liter": 1.95
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive 225 miles with a car that gets 25 mpg and gas costs $3.45 per gallon?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": 225.0,
+                    "fuel_efficiency": 25.0,
+                    "fuel_cost_per_liter": 3.45
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 325 km, fuel efficiency 18 km/L, and fuel cost $1.75 per liter?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": 325.0,
+                    "fuel_efficiency": 18.0,
+                    "fuel_cost_per_liter": 1.75
+                }
+            }
+        },
+        {
+            "query": "How much will it cost to drive 575 miles with a car that gets 15 mpg and gas costs $3.25 per gallon?",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": 575.0,
+                    "fuel_efficiency": 15.0,
+                    "fuel_cost_per_liter": 3.25
+                }
+            }
+        }
+    ]
+}

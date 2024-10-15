@@ -1,0 +1,466 @@
+{
+    "queries": [
+        {
+            "query": "What is the total cost of a trip with distance 500 km, fuel efficiency 8 liters per 100 km, and fuel cost $2.5 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "8",
+                    "fuel_cost_per_liter": "2.5"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 250 km, fuel efficiency 6 liters per 100 km, and fuel cost $1.8 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "250",
+                    "fuel_efficiency": "6",
+                    "fuel_cost_per_liter": "1.8"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 1000 km, fuel efficiency 10 liters per 100 km, and fuel cost $3.2 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "1000",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "3.2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 750 km, fuel efficiency 9 liters per 100 km, and fuel cost $2.8 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "750",
+                    "fuel_efficiency": "9",
+                    "fuel_cost_per_liter": "2.8"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 200 km, fuel efficiency 5 liters per 100 km, and fuel cost $1.5 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "200",
+                    "fuel_efficiency": "5",
+                    "fuel_cost_per_liter": "1.5"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 1250 km, fuel efficiency 12 liters per 100 km, and fuel cost $3.5 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "1250",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "3.5"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 500 km, fuel efficiency 8 liters per 100 km, and fuel cost $2.1 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "8",
+                    "fuel_cost_per_liter": "2.1"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 1000 km, fuel efficiency 10 liters per 100 km, and fuel cost $3.9 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "1000",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "3.9"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 250 km, fuel efficiency 6 liters per 100 km, and fuel cost $2.5 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "250",
+                    "fuel_efficiency": "6",
+                    "fuel_cost_per_liter": "2.5"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 750 km, fuel efficiency 9 liters per 100 km, and fuel cost $3.1 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "750",
+                    "fuel_efficiency": "9",
+                    "fuel_cost_per_liter": "3.1"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 200 km, fuel efficiency 5 liters per 100 km, and fuel cost $2.8 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "200",
+                    "fuel_efficiency": "5",
+                    "fuel_cost_per_liter": "2.8"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 1250 km, fuel efficiency 12 liters per 100 km, and fuel cost $3.6 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "1250",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "3.6"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 500 km, fuel efficiency 8 liters per 100 km, and fuel cost $2.5 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "8",
+                    "fuel_cost_per_liter": "2.5"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 1000 km, fuel efficiency 10 liters per 100 km, and fuel cost $3.7 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "1000",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "3.7"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 250 km, fuel efficiency 6 liters per 100 km, and fuel cost $1.9 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "250",
+                    "fuel_efficiency": "6",
+                    "fuel_cost_per_liter": "1.9"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 750 km, fuel efficiency 9 liters per 100 km, and fuel cost $3.4 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "750",
+                    "fuel_efficiency": "9",
+                    "fuel_cost_per_liter": "3.4"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 200 km, fuel efficiency 5 liters per 100 km, and fuel cost $2.1 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "200",
+                    "fuel_efficiency": "5",
+                    "fuel_cost_per_liter": "2.1"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 1250 km, fuel efficiency 12 liters per 100 km, and fuel cost $3.8 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "1250",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "3.8"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 500 km, fuel efficiency 8 liters per 100 km, and fuel cost $2.4 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "8",
+                    "fuel_cost_per_liter": "2.4"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 1000 km, fuel efficiency 10 liters per 100 km, and fuel cost $3.9 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "1000",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "3.9"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 250 km, fuel efficiency 6 liters per 100 km, and fuel cost $1.8 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "250",
+                    "fuel_efficiency": "6",
+                    "fuel_cost_per_liter": "1.8"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 750 km, fuel efficiency 9 liters per 100 km, and fuel cost $3.2 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "750",
+                    "fuel_efficiency": "9",
+                    "fuel_cost_per_liter": "3.2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 200 km, fuel efficiency 5 liters per 100 km, and fuel cost $2.8 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "200",
+                    "fuel_efficiency": "5",
+                    "fuel_cost_per_liter": "2.8"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 1250 km, fuel efficiency 12 liters per 100 km, and fuel cost $3.4 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "1250",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "3.4"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 500 km, fuel efficiency 8 liters per 100 km, and fuel cost $2.6 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "8",
+                    "fuel_cost_per_liter": "2.6"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 1000 km, fuel efficiency 10 liters per 100 km, and fuel cost $3.5 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "1000",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "3.5"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 250 km, fuel efficiency 6 liters per 100 km, and fuel cost $2.1 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "250",
+                    "fuel_efficiency": "6",
+                    "fuel_cost_per_liter": "2.1"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 750 km, fuel efficiency 9 liters per 100 km, and fuel cost $3.8 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "750",
+                    "fuel_efficiency": "9",
+                    "fuel_cost_per_liter": "3.8"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 200 km, fuel efficiency 5 liters per 100 km, and fuel cost $2.5 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "200",
+                    "fuel_efficiency": "5",
+                    "fuel_cost_per_liter": "2.5"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 1250 km, fuel efficiency 12 liters per 100 km, and fuel cost $3.6 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "1250",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "3.6"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 500 km, fuel efficiency 8 liters per 100 km, and fuel cost $2.9 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "8",
+                    "fuel_cost_per_liter": "2.9"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 1000 km, fuel efficiency 10 liters per 100 km, and fuel cost $3.6 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "1000",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "3.6"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 250 km, fuel efficiency 6 liters per 100 km, and fuel cost $1.7 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "250",
+                    "fuel_efficiency": "6",
+                    "fuel_cost_per_liter": "1.7"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 750 km, fuel efficiency 9 liters per 100 km, and fuel cost $3.4 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "750",
+                    "fuel_efficiency": "9",
+                    "fuel_cost_per_liter": "3.4"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 200 km, fuel efficiency 5 liters per 100 km, and fuel cost $2.8 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "200",
+                    "fuel_efficiency": "5",
+                    "fuel_cost_per_liter": "2.8"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 1250 km, fuel efficiency 12 liters per 100 km, and fuel cost $3.7 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "1250",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "3.7"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 500 km, fuel efficiency 8 liters per 100 km, and fuel cost $2.4 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "8",
+                    "fuel_cost_per_liter": "2.4"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 1000 km, fuel efficiency 10 liters per 100 km, and fuel cost $3.1 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "1000",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "3.1"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 250 km, fuel efficiency 6 liters per 100 km, and fuel cost $2.5 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "250",
+                    "fuel_efficiency": "6",
+                    "fuel_cost_per_liter": "2.5"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 750 km, fuel efficiency 9 liters per 100 km, and fuel cost $3.3 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "750",
+                    "fuel_efficiency": "9",
+                    "fuel_cost_per_liter": "3.3"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 200 km, fuel efficiency 5 liters per 100 km, and fuel cost $2.7 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "200",
+                    "fuel_efficiency": "5",
+                    "fuel_cost_per_liter": "2.7"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 1250 km, fuel efficiency 12 liters per 100 km, and fuel cost $3.9 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "1250",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "3.9"
+                }
+            }
+        }
+    ]
+}
