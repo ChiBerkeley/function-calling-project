@@ -1,0 +1,1600 @@
+{
+    "queries": [
+        {
+            "query": "What is my BMI when I weigh 43 kg and am 130 cm tall as a female at the age of 71",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "43",
+                    "height": "130",
+                    "age": "71",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 51 kg and am 180 cm tall as a male at the age of 42",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "51",
+                    "height": "180",
+                    "age": "42",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 93 kg and am 160 cm tall as other at the age of 19",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "93",
+                    "height": "160",
+                    "age": "19",
+                    "gender": "other"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 67 kg and am 140 cm tall as male at the age of 85",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "67",
+                    "height": "140",
+                    "age": "85",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 39 kg and am 170 cm tall as other at the age of 58",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "39",
+                    "height": "170",
+                    "age": "58",
+                    "gender": "other"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 49 kg and am 150 cm tall as female at the age of 33",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "49",
+                    "height": "150",
+                    "age": "33",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 79 kg and am 120 cm tall as male at the age of 22",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "79",
+                    "height": "120",
+                    "age": "22",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 29 kg and am 190 cm tall as female at the age of 46",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "29",
+                    "height": "190",
+                    "age": "46",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 59 kg and am 160 cm tall as other at the age of 91",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "59",
+                    "height": "160",
+                    "age": "91",
+                    "gender": "other"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 47 kg and am 130 cm tall as male at the age of 65",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "47",
+                    "height": "130",
+                    "age": "65",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 75 kg and am 170 cm tall as female at the age of 39",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "75",
+                    "height": "170",
+                    "age": "39",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 53 kg and am 140 cm tall as other at the age of 48",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "53",
+                    "height": "140",
+                    "age": "48",
+                    "gender": "other"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 63 kg and am 150 cm tall as male at the age of 29",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "63",
+                    "height": "150",
+                    "age": "29",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 71 kg and am 180 cm tall as female at the age of 14",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "71",
+                    "height": "180",
+                    "age": "14",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 81 kg and am 160 cm tall as other at the age of 70",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "81",
+                    "height": "160",
+                    "age": "70",
+                    "gender": "other"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 55 kg and am 170 cm tall as male at the age of 82",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "55",
+                    "height": "170",
+                    "age": "82",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 49 kg and am 190 cm tall as female at the age of 53",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "49",
+                    "height": "190",
+                    "age": "53",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 67 kg and am 140 cm tall as other at the age of 24",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "67",
+                    "height": "140",
+                    "age": "24",
+                    "gender": "other"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 75 kg and am 130 cm tall as male at the age of 60",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "75",
+                    "height": "130",
+                    "age": "60",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 59 kg and am 160 cm tall as female at the age of 41",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "59",
+                    "height": "160",
+                    "age": "41",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 79 kg and am 150 cm tall as other at the age of 67",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "79",
+                    "height": "150",
+                    "age": "67",
+                    "gender": "other"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 29 kg and am 170 cm tall as male at the age of 49",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "29",
+                    "height": "170",
+                    "age": "49",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 43 kg and am 140 cm tall as female at the age of 15",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "43",
+                    "height": "140",
+                    "age": "15",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 71 kg and am 180 cm tall as other at the age of 51",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "71",
+                    "height": "180",
+                    "age": "51",
+                    "gender": "other"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 55 kg and am 130 cm tall as male at the age of 76",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "55",
+                    "height": "130",
+                    "age": "76",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 51 kg and am 160 cm tall as female at the age of 88",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "51",
+                    "height": "160",
+                    "age": "88",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 49 kg and am 140 cm tall as other at the age of 62",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "49",
+                    "height": "140",
+                    "age": "62",
+                    "gender": "other"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 79 kg and am 170 cm tall as male at the age of 58",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "79",
+                    "height": "170",
+                    "age": "58",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 63 kg and am 150 cm tall as female at the age of 23",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "63",
+                    "height": "150",
+                    "age": "23",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 53 kg and am 160 cm tall as other at the age of 95",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "53",
+                    "height": "160",
+                    "age": "95",
+                    "gender": "other"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 43 kg and am 140 cm tall as male at the age of 37",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "43",
+                    "height": "140",
+                    "age": "37",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 71 kg and am 180 cm tall as female at the age of 79",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "71",
+                    "height": "180",
+                    "age": "79",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 67 kg and am 160 cm tall as other at the age of 68",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "67",
+                    "height": "160",
+                    "age": "68",
+                    "gender": "other"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 55 kg and am 130 cm tall as male at the age of 83",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "55",
+                    "height": "130",
+                    "age": "83",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 75 kg and am 140 cm tall as female at the age of 52",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "75",
+                    "height": "140",
+                    "age": "52",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 63 kg and am 170 cm tall as other at the age of 44",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "63",
+                    "height": "170",
+                    "age": "44",
+                    "gender": "other"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 79 kg and am 150 cm tall as male at the age of 25",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "79",
+                    "height": "150",
+                    "age": "25",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 51 kg and am 160 cm tall as female at the age of 67",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "51",
+                    "height": "160",
+                    "age": "67",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 49 kg and am 140 cm tall as other at the age of 90",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "49",
+                    "height": "140",
+                    "age": "90",
+                    "gender": "other"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 71 kg and am 180 cm tall as male at the age of 48",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "71",
+                    "height": "180",
+                    "age": "48",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 63 kg and am 140 cm tall as female at the age of 80",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "63",
+                    "height": "140",
+                    "age": "80",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 55 kg and am 160 cm tall as other at the age of 71",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "55",
+                    "height": "160",
+                    "age": "71",
+                    "gender": "other"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 49 kg and am 140 cm tall as male at the age of 94",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "49",
+                    "height": "140",
+                    "age": "94",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 79 kg and am 170 cm tall as female at the age of 59",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "79",
+                    "height": "170",
+                    "age": "59",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 67 kg and am 150 cm tall as other at the age of 42",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "67",
+                    "height": "150",
+                    "age": "42",
+                    "gender": "other"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 51 kg and am 160 cm tall as male at the age of 86",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "51",
+                    "height": "160",
+                    "age": "86",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 63 kg and am 140 cm tall as female at the age of 91",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "63",
+                    "height": "140",
+                    "age": "91",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 55 kg and am 160 cm tall as other at the age of 49",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "55",
+                    "height": "160",
+                    "age": "49",
+                    "gender": "other"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 71 kg and am 140 cm tall as male at the age of 97",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "71",
+                    "height": "140",
+                    "age": "97",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 79 kg and am 170 cm tall as female at the age of 47",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "79",
+                    "height": "170",
+                    "age": "47",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 63 kg and am 150 cm tall as other at the age of 69",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "63",
+                    "height": "150",
+                    "age": "69",
+                    "gender": "other"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 51 kg and am 160 cm tall as male at the age of 60",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "51",
+                    "height": "160",
+                    "age": "60",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 67 kg and am 140 cm tall as female at the age of 73",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "67",
+                    "height": "140",
+                    "age": "73",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 55 kg and am 160 cm tall as other at the age of 45",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "55",
+                    "height": "160",
+                    "age": "45",
+                    "gender": "other"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 49 kg and am 140 cm tall as male at the age of 75",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "49",
+                    "height": "140",
+                    "age": "75",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 79 kg and am 150 cm tall as female at the age of 89",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "79",
+                    "height": "150",
+                    "age": "89",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 71 kg and am 140 cm tall as other at the age of 82",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "71",
+                    "height": "140",
+                    "age": "82",
+                    "gender": "other"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 51 kg and am 160 cm tall as male at the age of 93",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "51",
+                    "height": "160",
+                    "age": "93",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 63 kg and am 150 cm tall as female at the age of 55",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "63",
+                    "height": "150",
+                    "age": "55",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 55 kg and am 140 cm tall as other at the age of 51",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "55",
+                    "height": "140",
+                    "age": "51",
+                    "gender": "other"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 49 kg and am 160 cm tall as male at the age of 98",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "49",
+                    "height": "160",
+                    "age": "98",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 79 kg and am 140 cm tall as female at the age of 83",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "79",
+                    "height": "140",
+                    "age": "83",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 71 kg and am 150 cm tall as other at the age of 88",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "71",
+                    "height": "150",
+                    "age": "88",
+                    "gender": "other"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 51 kg and am 140 cm tall as male at the age of 99",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "51",
+                    "height": "140",
+                    "age": "99",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 63 kg and am 160 cm tall as female at the age of 49",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "63",
+                    "height": "160",
+                    "age": "49",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 55 kg and am 140 cm tall as other at the age of 13",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "55",
+                    "height": "140",
+                    "age": "13",
+                    "gender": "other"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 49 kg and am 160 cm tall as male at the age of 14",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "49",
+                    "height": "160",
+                    "age": "14",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 79 kg and am 140 cm tall as female at the age of 15",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "79",
+                    "height": "140",
+                    "age": "15",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 71 kg and am 160 cm tall as other at the age of 16",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "71",
+                    "height": "160",
+                    "age": "16",
+                    "gender": "other"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 51 kg and am 140 cm tall as male at the age of 17",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "51",
+                    "height": "140",
+                    "age": "17",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 63 kg and am 160 cm tall as female at the age of 18",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "63",
+                    "height": "160",
+                    "age": "18",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 55 kg and am 140 cm tall as other at the age of 19",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "55",
+                    "height": "140",
+                    "age": "19",
+                    "gender": "other"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 49 kg and am 160 cm tall as male at the age of 20",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "49",
+                    "height": "160",
+                    "age": "20",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 79 kg and am 140 cm tall as female at the age of 21",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "79",
+                    "height": "140",
+                    "age": "21",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 71 kg and am 160 cm tall as other at the age of 22",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "71",
+                    "height": "160",
+                    "age": "22",
+                    "gender": "other"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 51 kg and am 140 cm tall as male at the age of 23",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "51",
+                    "height": "140",
+                    "age": "23",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 63 kg and am 160 cm tall as female at the age of 24",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "63",
+                    "height": "160",
+                    "age": "24",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 55 kg and am 140 cm tall as other at the age of 25",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "55",
+                    "height": "140",
+                    "age": "25",
+                    "gender": "other"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 49 kg and am 160 cm tall as male at the age of 26",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "49",
+                    "height": "160",
+                    "age": "26",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 79 kg and am 140 cm tall as female at the age of 27",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "79",
+                    "height": "140",
+                    "age": "27",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 71 kg and am 160 cm tall as other at the age of 28",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "71",
+                    "height": "160",
+                    "age": "28",
+                    "gender": "other"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 51 kg and am 140 cm tall as male at the age of 29",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "51",
+                    "height": "140",
+                    "age": "29",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 63 kg and am 160 cm tall as female at the age of 30",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "63",
+                    "height": "160",
+                    "age": "30",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 55 kg and am 140 cm tall as other at the age of 31",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "55",
+                    "height": "140",
+                    "age": "31",
+                    "gender": "other"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 49 kg and am 160 cm tall as male at the age of 32",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "49",
+                    "height": "160",
+                    "age": "32",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 79 kg and am 140 cm tall as female at the age of 33",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "79",
+                    "height": "140",
+                    "age": "33",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 71 kg and am 160 cm tall as other at the age of 34",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "71",
+                    "height": "160",
+                    "age": "34",
+                    "gender": "other"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 51 kg and am 140 cm tall as male at the age of 35",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "51",
+                    "height": "140",
+                    "age": "35",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 63 kg and am 160 cm tall as female at the age of 36",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "63",
+                    "height": "160",
+                    "age": "36",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 55 kg and am 140 cm tall as other at the age of 37",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "55",
+                    "height": "140",
+                    "age": "37",
+                    "gender": "other"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 49 kg and am 160 cm tall as male at the age of 38",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "49",
+                    "height": "160",
+                    "age": "38",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 79 kg and am 140 cm tall as female at the age of 39",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "79",
+                    "height": "140",
+                    "age": "39",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 71 kg and am 160 cm tall as other at the age of 40",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "71",
+                    "height": "160",
+                    "age": "40",
+                    "gender": "other"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 51 kg and am 140 cm tall as male at the age of 41",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "51",
+                    "height": "140",
+                    "age": "41",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 63 kg and am 160 cm tall as female at the age of 42",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "63",
+                    "height": "160",
+                    "age": "42",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 55 kg and am 140 cm tall as other at the age of 43",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "55",
+                    "height": "140",
+                    "age": "43",
+                    "gender": "other"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 49 kg and am 160 cm tall as male at the age of 44",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "49",
+                    "height": "160",
+                    "age": "44",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 79 kg and am 140 cm tall as female at the age of 45",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "79",
+                    "height": "140",
+                    "age": "45",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 71 kg and am 160 cm tall as other at the age of 46",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "71",
+                    "height": "160",
+                    "age": "46",
+                    "gender": "other"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 51 kg and am 140 cm tall as male at the age of 47",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "51",
+                    "height": "140",
+                    "age": "47",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 63 kg and am 160 cm tall as female at the age of 48",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "63",
+                    "height": "160",
+                    "age": "48",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 55 kg and am 140 cm tall as other at the age of 49",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "55",
+                    "height": "140",
+                    "age": "49",
+                    "gender": "other"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 49 kg and am 160 cm tall as male at the age of 50",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "49",
+                    "height": "160",
+                    "age": "50",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 79 kg and am 140 cm tall as female at the age of 51",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "79",
+                    "height": "140",
+                    "age": "51",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 71 kg and am 160 cm tall as other at the age of 52",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "71",
+                    "height": "160",
+                    "age": "52",
+                    "gender": "other"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 51 kg and am 140 cm tall as male at the age of 53",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "51",
+                    "height": "140",
+                    "age": "53",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 63 kg and am 160 cm tall as female at the age of 54",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "63",
+                    "height": "160",
+                    "age": "54",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 55 kg and am 140 cm tall as other at the age of 55",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "55",
+                    "height": "140",
+                    "age": "55",
+                    "gender": "other"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 49 kg and am 160 cm tall as male at the age of 56",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "49",
+                    "height": "160",
+                    "age": "56",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 79 kg and am 140 cm tall as female at the age of 57",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "79",
+                    "height": "140",
+                    "age": "57",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 71 kg and am 160 cm tall as other at the age of 58",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "71",
+                    "height": "160",
+                    "age": "58",
+                    "gender": "other"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 51 kg and am 140 cm tall as male at the age of 59",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "51",
+                    "height": "140",
+                    "age": "59",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 63 kg and am 160 cm tall as female at the age of 60",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "63",
+                    "height": "160",
+                    "age": "60",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 55 kg and am 140 cm tall as other at the age of 61",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "55",
+                    "height": "140",
+                    "age": "61",
+                    "gender": "other"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 49 kg and am 160 cm tall as male at the age of 62",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "49",
+                    "height": "160",
+                    "age": "62",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 79 kg and am 140 cm tall as female at the age of 63",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "79",
+                    "height": "140",
+                    "age": "63",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 71 kg and am 160 cm tall as other at the age of 64",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "71",
+                    "height": "160",
+                    "age": "64",
+                    "gender": "other"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 51 kg and am 140 cm tall as male at the age of 65",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "51",
+                    "height": "140",
+                    "age": "65",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 63 kg and am 160 cm tall as female at the age of 66",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "63",
+                    "height": "160",
+                    "age": "66",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 55 kg and am 140 cm tall as other at the age of 67",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "55",
+                    "height": "140",
+                    "age": "67",
+                    "gender": "other"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 49 kg and am 160 cm tall as male at the age of 68",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "49",
+                    "height": "160",
+                    "age": "68",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 79 kg and am 140 cm tall as female at the age of 69",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "79",
+                    "height": "140",
+                    "age": "69",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 71 kg and am 160 cm tall as other at the age of 70",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "71",
+                    "height": "160",
+                    "age": "70",
+                    "gender": "other"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 51 kg and am 140 cm tall as male at the age of 71",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "51",
+                    "height": "140",
+                    "age": "71",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 63 kg and am 160 cm tall as female at the age of 72",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "63",
+                    "height": "160",
+                    "age": "72",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 55 kg and am 140 cm tall as other at the age of 73",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "55",
+                    "height": "140",
+                    "age": "73",
+                    "gender": "other"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 49 kg and am 160 cm tall as male at the age of 74",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "49",
+                    "height": "160",
+                    "age": "74",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 79 kg and am 140 cm tall as female at the age of 75",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "79",
+                    "height": "140",
+                    "age": "75",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 71 kg and am 160 cm tall as other at the age of 76",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "71",
+                    "height": "160",
+                    "age": "76",
+                    "gender": "other"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 51 kg and am 140 cm tall as male at the age of 77",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "51",
+                    "height": "140",
+                    "age": "77",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 63 kg and am 160 cm tall as female at the age of 78",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "63",
+                    "height": "160",
+                    "age": "78",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 55 kg and am 140 cm tall as other at the age of 79",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "55",
+                    "height": "140",
+                    "age": "79",
+                    "gender": "other"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 49 kg and am 160 cm tall as male at the age of 80",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "49",
+                    "height": "160",
+                    "age": "80",
+                    "gender": "male"
+                }
+            }
+        }
+    ]
+}
