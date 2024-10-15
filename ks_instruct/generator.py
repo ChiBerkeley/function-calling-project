@@ -34,7 +34,10 @@ examples = [
     {"example": """{{"query": "What is the weather in Paris", "answer": {{"function": "get_weather", "arguments": {{"city": "Paris"}}}}}}"""},
     {"example": """{{"query": "What is the weather in London", "answer": {{"function": "get_weather", "arguments": {{"city": "London"}}}}}}"""},
     {"example": """{{"query": "Translate "Good morning"" to French, "answer": {{"function": "translate", "arguments": {{"text": "Good morning", "target_language": "French"}}}}}}"""},
-    {"example": """{{"query": "What is the area of a square with length 1 and width 2 when rounded to the nearest int", "answer": {{"function": "calculate_area", "arguments": {{"length": "1", "width": "2", "round_result": "True"}}}}}}"""},
+    {"example": """{{"query": "What is the area of a square with length 1 and width 2 when rounded to the nearest whole number", "answer": {{"function": "calculate_area", "arguments": {{"length": "1", "width": "2", "round_result": "True"}}}}}}"""},
+    {"example": """{{"query": "What time zone is Agra, Uttar Pradesh in India with the mail code 282001 in?", "answer": {{"function": "get_timezone", "arguments": {{"city": "Agra", "state": "Uttar Pradesh", "country": "India", "mail_code": "282001"}}}}}}"""},
+    {"example": """{{"query": "What is the timezone for Oakland, California USA 94611?", "answer": {{"function": "get_timezone", "arguments": {{"city": "Oakland", "state": "California", "country": "United States", "mail_code": "94611"}}}}}}"""},
+    {"example": """{{"query": "What is my BMI when I weigh 75 kg and am 170 cm tall as a male at the age of 55", "answer": {{"function": "calculate_bmi", "arguments": {{"weight": "75", "height": "170", "age": "55", "gender": "male"}}}}}}"""}
 ]
 
 
@@ -66,8 +69,22 @@ def generate_synthetic_data(runs=1):
         # Example count is more accurate for lower numbers. 600 only generated 90 examples. The LLM can only generate about 90 examples at a time and runs out of tokens (on prem MBP 16" M1 Max 64GB RAM)
         # subject="queries for function that counts specific given letter; it takes two arguments one is a word and the other is a single letter",
         # extra="the arguments must be chosen at random. Make it a made up word. Don't use the same argument twice. Don't make chit-chat and don't have an introduction. Generate 50 examples",
-        subject="queries for function that calculates an area of a square or rectangle; it takes 3 arguments length: float, width: float, round_result: bool",
-        extra="the arguments must be chosen at random. Make all the legnths be floats to the hundreth decimal. Don't make chit-chat and don't have an introduction. Generate 40 examples",
+        # subject="queries for function that calculates an area of a square or rectangle; it takes 3 arguments length: float, width: float, round_result: bool",
+        # extra="the arguments must be chosen at random. Make all the legnths be floats to the thousandths decimal. Don't make chit-chat and don't have an introduction. Generate 60 examples",
+        # subject="queries for function that returns the timezone of a given city in the world; it takes four arguments city: str, state: str, country: str, mail_code: str",
+        # extra="the arguments must be chosen at random. The four arguments must be in the query. Add some variance to the queries. Choose cities from Japan. Don't make chit-chat and don't have an introduction. Generate 60 examples",
+        # subject = "queries for function that returns the capital of a given country; it takes one argument country: str",
+        # extra = "the arguments must be chosen at random. Choose European countries you wouldn't normally choose. Don't make chit-chat and don't have an introduction. Generate 60 examples",
+        # subject = "queries for the zodiac_sign function that returns the zodiac sign for a given birthdate; it takes one argument birthday: str in the format 'YYYY-MM-DD'",
+        # extra = "the arguments must be chosen at random. Choose birthdays you wouldn't normally choose. Don't make chit-chat and don't have an introduction. Generate 60 examples",
+        # subject = "queries for the power function that calculates the power of a base raised to an exponent and returns the result; it takes two arguments base: float, exponent: float",
+        # extra = "the arguments must be chosen at random, including both positive and negative floats with 3 decimal places or greater for the base and exponent. Don't make chit-chat and don't have an introduction. Generate 60 examples",
+        # subject = "queries for the get_weather_info function that returns the current time in PST, along with weather and temperature for a given city; it takes one argument city: str",
+        # extra = "the arguments must be chosen at random. Choose cities that you wouldn't normally choose. The queries must be interesting. Don't make chit-chat and don't have an introduction. Generate 60 examples",
+        # subject = "queries for the calculate_trip_cost function that calculates the total cost of a trip based on distance, fuel efficiency, and fuel cost; it takes three arguments distance: float, fuel_efficiency: float, fuel_cost_per_liter: float",
+        # extra = "the arguments must be chosen at random and they MUST be the correct type. Include a mix of numbers. Don't make chit-chat and don't have an introduction. Generate 60 examples",
+        subject = "queries for the calculate_bmi function that calculates BMI and returns the BMI category and health recommendations; it takes four arguments weight: float, height: float, age: int, gender: 'male', 'female', 'other'",
+        extra = "make the queries very unique and interesting. all four arguments MUST be in the query. the arguments must be chosen at random. Include a mix of valid numbers, with various ages and genders. Don't make chit-chat and don't have an introduction. Generate 50 examples",
         runs=runs,
     )
     end_time = time.time()
@@ -113,5 +130,5 @@ for json_str in json_strings:
 
 combined_json = json.dumps({"queries": parsed_json_objects}, indent=4)
 
-with open('ks_instruct/dump_json/calculate_area/calculate_area.json', 'w') as json_file:
+with open('ks_instruct/dump_json/calculate_bmi individual files/calculate_bmi.json', 'w') as json_file:
     json_file.write(combined_json)
