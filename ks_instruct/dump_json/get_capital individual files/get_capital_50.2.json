@@ -1,0 +1,454 @@
+{
+    "queries": [
+        {
+            "query": "What is the capital of Moldova",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Moldova"
+                }
+            }
+        },
+        {
+            "query": "Which city is the capital of North Macedonia",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "North Macedonia"
+                }
+            }
+        },
+        {
+            "query": "What city serves as the capital of Albania",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Albania"
+                }
+            }
+        },
+        {
+            "query": "Find out what is the capital of Belarus",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Belarus"
+                }
+            }
+        },
+        {
+            "query": "What city is the capital of Kosovo",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Kosovo"
+                }
+            }
+        },
+        {
+            "query": "Which town serves as the capital of Montenegro",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Montenegro"
+                }
+            }
+        },
+        {
+            "query": "Find out what is the capital of Bosnia and Herzegovina",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Bosnia and Herzegovina"
+                }
+            }
+        },
+        {
+            "query": "What city serves as the capital of Georgia",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Georgia"
+                }
+            }
+        },
+        {
+            "query": "Which town is the capital of Azerbaijan",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Azerbaijan"
+                }
+            }
+        },
+        {
+            "query": "Find out what city is the capital of Armenia",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Armenia"
+                }
+            }
+        },
+        {
+            "query": "What is the capital of Ukraine",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Ukraine"
+                }
+            }
+        },
+        {
+            "query": "Which city serves as the capital of Russia",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Russia"
+                }
+            }
+        },
+        {
+            "query": "What town is the capital of Turkey",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Turkey"
+                }
+            }
+        },
+        {
+            "query": "Find out what city serves as the capital of Moldova",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Moldova"
+                }
+            }
+        },
+        {
+            "query": "What is the capital of North Macedonia",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "North Macedonia"
+                }
+            }
+        },
+        {
+            "query": "Which city serves as the capital of Albania",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Albania"
+                }
+            }
+        },
+        {
+            "query": "What town is the capital of Belarus",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Belarus"
+                }
+            }
+        },
+        {
+            "query": "Find out what city serves as the capital of Kosovo",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Kosovo"
+                }
+            }
+        },
+        {
+            "query": "Which town is the capital of Montenegro",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Montenegro"
+                }
+            }
+        },
+        {
+            "query": "What city serves as the capital of Bosnia and Herzegovina",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Bosnia and Herzegovina"
+                }
+            }
+        },
+        {
+            "query": "Find out what town is the capital of Georgia",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Georgia"
+                }
+            }
+        },
+        {
+            "query": "What is the capital of Azerbaijan",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Azerbaijan"
+                }
+            }
+        },
+        {
+            "query": "Which city serves as the capital of Armenia",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Armenia"
+                }
+            }
+        },
+        {
+            "query": "What town is the capital of Ukraine",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Ukraine"
+                }
+            }
+        },
+        {
+            "query": "Find out what city serves as the capital of Russia",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Russia"
+                }
+            }
+        },
+        {
+            "query": "Which town is the capital of Turkey",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Turkey"
+                }
+            }
+        },
+        {
+            "query": "What city serves as the capital of Moldova",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Moldova"
+                }
+            }
+        },
+        {
+            "query": "Find out what town is the capital of North Macedonia",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "North Macedonia"
+                }
+            }
+        },
+        {
+            "query": "What is the capital of Albania",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Albania"
+                }
+            }
+        },
+        {
+            "query": "Which city serves as the capital of Belarus",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Belarus"
+                }
+            }
+        },
+        {
+            "query": "What town is the capital of Kosovo",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Kosovo"
+                }
+            }
+        },
+        {
+            "query": "Find out what city serves as the capital of Montenegro",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Montenegro"
+                }
+            }
+        },
+        {
+            "query": "Which town is the capital of Bosnia and Herzegovina",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Bosnia and Herzegovina"
+                }
+            }
+        },
+        {
+            "query": "What city serves as the capital of Georgia",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Georgia"
+                }
+            }
+        },
+        {
+            "query": "Find out what town is the capital of Azerbaijan",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Azerbaijan"
+                }
+            }
+        },
+        {
+            "query": "What is the capital of Armenia",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Armenia"
+                }
+            }
+        },
+        {
+            "query": "Which city serves as the capital of Ukraine",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Ukraine"
+                }
+            }
+        },
+        {
+            "query": "What town is the capital of Russia",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Russia"
+                }
+            }
+        },
+        {
+            "query": "Find out what city serves as the capital of Turkey",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Turkey"
+                }
+            }
+        },
+        {
+            "query": "Which town is the capital of Moldova",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Moldova"
+                }
+            }
+        },
+        {
+            "query": "What city serves as the capital of North Macedonia",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "North Macedonia"
+                }
+            }
+        },
+        {
+            "query": "Find out what town is the capital of Albania",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Albania"
+                }
+            }
+        },
+        {
+            "query": "What is the capital of Belarus",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Belarus"
+                }
+            }
+        },
+        {
+            "query": "Which city serves as the capital of Kosovo",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Kosovo"
+                }
+            }
+        },
+        {
+            "query": "What town is the capital of Montenegro",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Montenegro"
+                }
+            }
+        },
+        {
+            "query": "Find out what city serves as the capital of Bosnia and Herzegovina",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Bosnia and Herzegovina"
+                }
+            }
+        },
+        {
+            "query": "Which town is the capital of Georgia",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Georgia"
+                }
+            }
+        },
+        {
+            "query": "What city serves as the capital of Azerbaijan",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Azerbaijan"
+                }
+            }
+        },
+        {
+            "query": "Find out what town is the capital of Armenia",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Armenia"
+                }
+            }
+        },
+        {
+            "query": "What is the capital of Ukraine",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Ukraine"
+                }
+            }
+        }
+    ]
+}

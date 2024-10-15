@@ -1,0 +1,454 @@
+{
+    "queries": [
+        {
+            "query": "What is the capital of Moldova",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Moldova"
+                }
+            }
+        },
+        {
+            "query": "In what city is the president of San Marino based?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "San Marino"
+                }
+            }
+        },
+        {
+            "query": "What is the capital of Albania",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Albania"
+                }
+            }
+        },
+        {
+            "query": "Where does the president of Kosovo reside?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Kosovo"
+                }
+            }
+        },
+        {
+            "query": "What is the capital city of North Macedonia",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "North Macedonia"
+                }
+            }
+        },
+        {
+            "query": "In what city does the president of Montenegro reside?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Montenegro"
+                }
+            }
+        },
+        {
+            "query": "What is the capital of Bulgaria",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Bulgaria"
+                }
+            }
+        },
+        {
+            "query": "Where is the president of Bosnia and Herzegovina based?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Bosnia and Herzegovina"
+                }
+            }
+        },
+        {
+            "query": "What is the capital city of Serbia",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Serbia"
+                }
+            }
+        },
+        {
+            "query": "In what city does the president of Belarus reside?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Belarus"
+                }
+            }
+        },
+        {
+            "query": "What is the capital of Ukraine",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Ukraine"
+                }
+            }
+        },
+        {
+            "query": "Where does the president of Poland reside?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Poland"
+                }
+            }
+        },
+        {
+            "query": "What is the capital city of Lithuania",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Lithuania"
+                }
+            }
+        },
+        {
+            "query": "In what city does the president of Estonia reside?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Estonia"
+                }
+            }
+        },
+        {
+            "query": "What is the capital of Latvia",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Latvia"
+                }
+            }
+        },
+        {
+            "query": "Where does the president of Czech Republic reside?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Czech Republic"
+                }
+            }
+        },
+        {
+            "query": "What is the capital city of Slovakia",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Slovakia"
+                }
+            }
+        },
+        {
+            "query": "In what city does the president of Hungary reside?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Hungary"
+                }
+            }
+        },
+        {
+            "query": "What is the capital of Romania",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Romania"
+                }
+            }
+        },
+        {
+            "query": "Where does the president of Greece reside?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Greece"
+                }
+            }
+        },
+        {
+            "query": "What is the capital city of Cyprus",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Cyprus"
+                }
+            }
+        },
+        {
+            "query": "In what city does the president of Malta reside?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Malta"
+                }
+            }
+        },
+        {
+            "query": "What is the capital of Portugal",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Portugal"
+                }
+            }
+        },
+        {
+            "query": "Where does the president of Spain reside?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Spain"
+                }
+            }
+        },
+        {
+            "query": "What is the capital city of Italy",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Italy"
+                }
+            }
+        },
+        {
+            "query": "In what city does the president of Andorra reside?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Andorra"
+                }
+            }
+        },
+        {
+            "query": "What is the capital of Liechtenstein",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Liechtenstein"
+                }
+            }
+        },
+        {
+            "query": "Where does the president of Switzerland reside?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Switzerland"
+                }
+            }
+        },
+        {
+            "query": "What is the capital city of Monaco",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Monaco"
+                }
+            }
+        },
+        {
+            "query": "In what city does the president of France reside?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "France"
+                }
+            }
+        },
+        {
+            "query": "What is the capital of Ireland",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Ireland"
+                }
+            }
+        },
+        {
+            "query": "Where does the president of United Kingdom reside?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "United Kingdom"
+                }
+            }
+        },
+        {
+            "query": "What is the capital city of Norway",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Norway"
+                }
+            }
+        },
+        {
+            "query": "In what city does the president of Denmark reside?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Denmark"
+                }
+            }
+        },
+        {
+            "query": "What is the capital of Iceland",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Iceland"
+                }
+            }
+        },
+        {
+            "query": "Where does the president of Sweden reside?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Sweden"
+                }
+            }
+        },
+        {
+            "query": "What is the capital city of Finland",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Finland"
+                }
+            }
+        },
+        {
+            "query": "In what city does the president of Estonia reside?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Estonia"
+                }
+            }
+        },
+        {
+            "query": "What is the capital of Lithuania",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Lithuania"
+                }
+            }
+        },
+        {
+            "query": "Where does the president of Latvia reside?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Latvia"
+                }
+            }
+        },
+        {
+            "query": "What is the capital city of Belarus",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Belarus"
+                }
+            }
+        },
+        {
+            "query": "In what city does the president of Moldova reside?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Moldova"
+                }
+            }
+        },
+        {
+            "query": "What is the capital of Georgia",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Georgia"
+                }
+            }
+        },
+        {
+            "query": "Where does the president of Armenia reside?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Armenia"
+                }
+            }
+        },
+        {
+            "query": "What is the capital city of Azerbaijan",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Azerbaijan"
+                }
+            }
+        },
+        {
+            "query": "In what city does the president of Russia reside?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Russia"
+                }
+            }
+        },
+        {
+            "query": "What is the capital of Turkey",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Turkey"
+                }
+            }
+        },
+        {
+            "query": "Where does the president of Kazakhstan reside?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Kazakhstan"
+                }
+            }
+        },
+        {
+            "query": "What is the capital city of Kyrgyzstan",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Kyrgyzstan"
+                }
+            }
+        },
+        {
+            "query": "In what city does the president of Uzbekistan reside?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Uzbekistan"
+                }
+            }
+        }
+    ]
+}

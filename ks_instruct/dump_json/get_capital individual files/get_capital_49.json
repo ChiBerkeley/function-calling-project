@@ -1,0 +1,445 @@
+{
+    "queries": [
+        {
+            "query": "What is the capital of Moldova",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Moldova"
+                }
+            }
+        },
+        {
+            "query": "What city serves as the capital of Namibia",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Namibia"
+                }
+            }
+        },
+        {
+            "query": "In what country is the capital city Ouagadougou",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Burkina Faso"
+                }
+            }
+        },
+        {
+            "query": "What is the capital of Djibouti",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Djibouti"
+                }
+            }
+        },
+        {
+            "query": "What city is the capital of Tajikistan",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Tajikistan"
+                }
+            }
+        },
+        {
+            "query": "In what country is the capital city Dili",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "East Timor"
+                }
+            }
+        },
+        {
+            "query": "What city serves as the capital of Botswana",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Botswana"
+                }
+            }
+        },
+        {
+            "query": "What is the capital of Kiribati",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Kiribati"
+                }
+            }
+        },
+        {
+            "query": "In what country is the capital city N'Djamena",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Chad"
+                }
+            }
+        },
+        {
+            "query": "What city serves as the capital of Turkmenistan",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Turkmenistan"
+                }
+            }
+        },
+        {
+            "query": "In what country is the capital city Funafuti",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Tuvalu"
+                }
+            }
+        },
+        {
+            "query": "What city serves as the capital of Solomon Islands",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Solomon Islands"
+                }
+            }
+        },
+        {
+            "query": "In what country is the capital city Honiara",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Solomon Islands"
+                }
+            }
+        },
+        {
+            "query": "What city serves as the capital of Vanuatu",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Vanuatu"
+                }
+            }
+        },
+        {
+            "query": "In what country is the capital city Port Moresby",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Papua New Guinea"
+                }
+            }
+        },
+        {
+            "query": "What city serves as the capital of Nauru",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Nauru"
+                }
+            }
+        },
+        {
+            "query": "In what country is the capital city Majuro",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Marshall Islands"
+                }
+            }
+        },
+        {
+            "query": "What city serves as the capital of Palau",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Palau"
+                }
+            }
+        },
+        {
+            "query": "In what country is the capital city Funafuti",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Tuvalu"
+                }
+            }
+        },
+        {
+            "query": "What city serves as the capital of Maldives",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Maldives"
+                }
+            }
+        },
+        {
+            "query": "In what country is the capital city Mal\u00e9",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Maldives"
+                }
+            }
+        },
+        {
+            "query": "What city serves as the capital of Suriname",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Suriname"
+                }
+            }
+        },
+        {
+            "query": "In what country is the capital city Paramaribo",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Suriname"
+                }
+            }
+        },
+        {
+            "query": "What city serves as the capital of Saint Kitts and Nevis",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Saint Kitts and Nevis"
+                }
+            }
+        },
+        {
+            "query": "In what country is the capital city Basseterre",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Saint Kitts and Nevis"
+                }
+            }
+        },
+        {
+            "query": "What city serves as the capital of Saint Vincent and the Grenadines",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Saint Vincent and the Grenadines"
+                }
+            }
+        },
+        {
+            "query": "In what country is the capital city Kingstown",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Saint Vincent and the Grenadines"
+                }
+            }
+        },
+        {
+            "query": "What city serves as the capital of Belize",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Belize"
+                }
+            }
+        },
+        {
+            "query": "In what country is the capital city Belmopan",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Belize"
+                }
+            }
+        },
+        {
+            "query": "What city serves as the capital of Guyana",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Guyana"
+                }
+            }
+        },
+        {
+            "query": "In what country is the capital city Georgetown",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Guyana"
+                }
+            }
+        },
+        {
+            "query": "What city serves as the capital of Antigua and Barbuda",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Antigua and Barbuda"
+                }
+            }
+        },
+        {
+            "query": "In what country is the capital city St. John's",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Antigua and Barbuda"
+                }
+            }
+        },
+        {
+            "query": "What city serves as the capital of The Bahamas",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "The Bahamas"
+                }
+            }
+        },
+        {
+            "query": "In what country is the capital city Nassau",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "The Bahamas"
+                }
+            }
+        },
+        {
+            "query": "What city serves as the capital of Dominica",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Dominica"
+                }
+            }
+        },
+        {
+            "query": "In what country is the capital city Roseau",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Dominica"
+                }
+            }
+        },
+        {
+            "query": "What city serves as the capital of Saint Lucia",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Saint Lucia"
+                }
+            }
+        },
+        {
+            "query": "In what country is the capital city Castries",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Saint Lucia"
+                }
+            }
+        },
+        {
+            "query": "What city serves as the capital of Grenada",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Grenada"
+                }
+            }
+        },
+        {
+            "query": "In what country is the capital city St. George's",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Grenada"
+                }
+            }
+        },
+        {
+            "query": "What city serves as the capital of Barbados",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Barbados"
+                }
+            }
+        },
+        {
+            "query": "In what country is the capital city Bridgetown",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Barbados"
+                }
+            }
+        },
+        {
+            "query": "What city serves as the capital of Cuba",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Cuba"
+                }
+            }
+        },
+        {
+            "query": "In what country is the capital city Havana",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Cuba"
+                }
+            }
+        },
+        {
+            "query": "What city serves as the capital of Trinidad and Tobago",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Trinidad and Tobago"
+                }
+            }
+        },
+        {
+            "query": "In what country is the capital city Port of Spain",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Trinidad and Tobago"
+                }
+            }
+        },
+        {
+            "query": "What city serves as the capital of Jamaica",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Jamaica"
+                }
+            }
+        },
+        {
+            "query": "In what country is the capital city Kingston",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Jamaica"
+                }
+            }
+        }
+    ]
+}

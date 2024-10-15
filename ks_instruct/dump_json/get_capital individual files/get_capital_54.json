@@ -1,0 +1,490 @@
+{
+    "queries": [
+        {
+            "query": "What is the capital of Kiribati",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Kiribati"
+                }
+            }
+        },
+        {
+            "query": "Capital of what country is Bishkek?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Kyrgyzstan"
+                }
+            }
+        },
+        {
+            "query": "What city is the capital of Lesotho",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Lesotho"
+                }
+            }
+        },
+        {
+            "query": "Capital of what country is Suva?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Fiji"
+                }
+            }
+        },
+        {
+            "query": "What city is the capital of Djibouti",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Djibouti"
+                }
+            }
+        },
+        {
+            "query": "Capital of what country is Ngerulmud?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Palau"
+                }
+            }
+        },
+        {
+            "query": "What city is the capital of Tuvalu",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Tuvalu"
+                }
+            }
+        },
+        {
+            "query": "Capital of what country is Malabo?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Equatorial Guinea"
+                }
+            }
+        },
+        {
+            "query": "What city is the capital of Nauru",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Nauru"
+                }
+            }
+        },
+        {
+            "query": "Capital of what country is Majuro?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Marshall Islands"
+                }
+            }
+        },
+        {
+            "query": "What city is the capital of Saint Helena, Ascension and Tristan da Cunha",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Saint Helena, Ascension and Tristan da Cunha"
+                }
+            }
+        },
+        {
+            "query": "Capital of what country is Tarawa?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Kiribati"
+                }
+            }
+        },
+        {
+            "query": "What city is the capital of Brunei",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Brunei"
+                }
+            }
+        },
+        {
+            "query": "Capital of what country is Funafuti?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Tuvalu"
+                }
+            }
+        },
+        {
+            "query": "What city is the capital of Saint Kitts and Nevis",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Saint Kitts and Nevis"
+                }
+            }
+        },
+        {
+            "query": "Capital of what country is Sittwe?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Myanmar (Burma)"
+                }
+            }
+        },
+        {
+            "query": "What city is the capital of The Bahamas",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "The Bahamas"
+                }
+            }
+        },
+        {
+            "query": "Capital of what country is Chisinau?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Moldova"
+                }
+            }
+        },
+        {
+            "query": "What city is the capital of Guinea-Bissau",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Guinea-Bissau"
+                }
+            }
+        },
+        {
+            "query": "Capital of what country is Yerevan?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Armenia"
+                }
+            }
+        },
+        {
+            "query": "What city is the capital of Marshall Islands",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Marshall Islands"
+                }
+            }
+        },
+        {
+            "query": "Capital of what country is Majuro?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Marshall Islands"
+                }
+            }
+        },
+        {
+            "query": "What city is the capital of Nauru",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Nauru"
+                }
+            }
+        },
+        {
+            "query": "Capital of what country is Palikir?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Micronesia"
+                }
+            }
+        },
+        {
+            "query": "What city is the capital of Kiribati",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Kiribati"
+                }
+            }
+        },
+        {
+            "query": "Capital of what country is Hanoi?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Vietnam"
+                }
+            }
+        },
+        {
+            "query": "What city is the capital of Papua New Guinea",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Papua New Guinea"
+                }
+            }
+        },
+        {
+            "query": "Capital of what country is Port Moresby?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Papua New Guinea"
+                }
+            }
+        },
+        {
+            "query": "What city is the capital of Myanmar (Burma)",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Myanmar (Burma)"
+                }
+            }
+        },
+        {
+            "query": "Capital of what country is Naypyidaw?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Myanmar (Burma)"
+                }
+            }
+        },
+        {
+            "query": "What city is the capital of Saint Lucia",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Saint Lucia"
+                }
+            }
+        },
+        {
+            "query": "Capital of what country is Castries?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Saint Lucia"
+                }
+            }
+        },
+        {
+            "query": "What city is the capital of The Gambia",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "The Gambia"
+                }
+            }
+        },
+        {
+            "query": "Capital of what country is Banjul?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "The Gambia"
+                }
+            }
+        },
+        {
+            "query": "What city is the capital of Maldives",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Maldives"
+                }
+            }
+        },
+        {
+            "query": "Capital of what country is Mal\u00e9?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Maldives"
+                }
+            }
+        },
+        {
+            "query": "What city is the capital of Belize",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Belize"
+                }
+            }
+        },
+        {
+            "query": "Capital of what country is Belmopan?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Belize"
+                }
+            }
+        },
+        {
+            "query": "What city is the capital of Lesotho",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Lesotho"
+                }
+            }
+        },
+        {
+            "query": "Capital of what country is Maseru?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Lesotho"
+                }
+            }
+        },
+        {
+            "query": "What city is the capital of Guinea-Bissau",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Guinea-Bissau"
+                }
+            }
+        },
+        {
+            "query": "Capital of what country is Bissau?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Guinea-Bissau"
+                }
+            }
+        },
+        {
+            "query": "What city is the capital of Equatorial Guinea",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Equatorial Guinea"
+                }
+            }
+        },
+        {
+            "query": "Capital of what country is Malabo?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Equatorial Guinea"
+                }
+            }
+        },
+        {
+            "query": "What city is the capital of Nauru",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Nauru"
+                }
+            }
+        },
+        {
+            "query": "Capital of what country is Yaren District?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Nauru"
+                }
+            }
+        },
+        {
+            "query": "What city is the capital of Comoros",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Comoros"
+                }
+            }
+        },
+        {
+            "query": "Capital of what country is Moroni?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Comoros"
+                }
+            }
+        },
+        {
+            "query": "What city is the capital of Djibouti",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Djibouti"
+                }
+            }
+        },
+        {
+            "query": "Capital of what country is Djibouti City?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Djibouti"
+                }
+            }
+        },
+        {
+            "query": "What city is the capital of Timor-Leste",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Timor-Leste"
+                }
+            }
+        },
+        {
+            "query": "Capital of what country is Dili?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Timor-Leste"
+                }
+            }
+        },
+        {
+            "query": "What city is the capital of S\u00e3o Tom\u00e9 and Principe",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "S\u00e3o Tom\u00e9 and Principe"
+                }
+            }
+        },
+        {
+            "query": "Capital of what country is S\u00e3o Tom\u00e9?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "S\u00e3o Tom\u00e9 and Principe"
+                }
+            }
+        }
+    ]
+}
