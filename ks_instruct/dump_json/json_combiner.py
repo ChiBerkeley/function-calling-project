@@ -9,7 +9,7 @@ import os
 from glob import glob
 
 # Directory where JSON files are located
-json_dir = 'ks_instruct/dump_json/word_count'
+json_dir = 'ks_instruct/dump_json/calculate_bmi individual files'
 
 # Set to store unique queries
 unique_queries = set()
@@ -36,7 +36,7 @@ for json_file in glob(os.path.join(json_dir, '*.json')):
 
 # Output the final result to a new file
 output_data = {"queries": final_queries}
-output_file = 'output.json'
+output_file = 'ks_instruct/dump_json/calculate_bmi.json'
 with open(output_file, 'w') as f:
     json.dump(output_data, f, indent=4)
 
