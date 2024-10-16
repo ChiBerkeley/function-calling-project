@@ -42,7 +42,7 @@ class AWSBedrock(DeepEvalBaseLLM):
 
 retry_config = Config(
     retries = {
-        'max_attempts': 10,  # Customize the number of retry attempts
+        'max_attempts': 20,  # Customize the number of retry attempts
         'mode': 'adaptive'   # Or 'adaptive' for dynamically adjusting retries
     }
 )
@@ -67,7 +67,7 @@ def call_function(info: dict):
 
 def generate_response(query_output, llm):
     messages = [
-    ("system", f"You are a bot and you should reply to the user based on the function calling return. The return is {query_output["output"]}"),
+    ("system", f"You are a bot and you should reply to the user based on the function calling return. The return is {query_output['output']}"),
     ("user", query_output["query"])]
     response = llm.invoke(messages)
     query_output["response"] = response.content
@@ -81,6 +81,27 @@ aws_bedrock = AWSBedrock(model=llm)
 
 # get metric
 def get_relevancy(generated_data):
+    try:
+        query_output = call_function(generated_data)
+        query_response = generate_response(query_output, llm)
+        metric = AnswerRelevancyMetric(
+            threshold=0.3,
+            model=aws_bedrock,
+            include_reason=False # can be changed to false later
+            )
+        
+        test_case = LLMTestCase(
+            input=query_response["query"],
+            actual_output= query_response["response"])
+        
+        metric.measure(test_case)
+        
+        return metric.score
+    
+    except Exception:
+        return None
+    
+def get_relevancy_batch(generated_data):
     try:
         query_output = call_function(generated_data)
         query_response = generate_response(query_output, llm)
