@@ -1,0 +1,436 @@
+{
+    "queries": [
+        {
+            "query": "What's the current time in PST for a gloomy day in Juneau, Alaska",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Juneau"
+                }
+            }
+        },
+        {
+            "query": "Is it sunny today in PST in Santa Fe, New Mexico?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Santa Fe"
+                }
+            }
+        },
+        {
+            "query": "What's the weather forecast for a rainy day in Fairbanks, Alaska in PST",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Fairbanks"
+                }
+            }
+        },
+        {
+            "query": "Will it be cloudy today in PST in Prescott, Arizona?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Prescott"
+                }
+            }
+        },
+        {
+            "query": "What's the current time and weather like in PST for a sunny day in Bangor, Maine",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Bangor"
+                }
+            }
+        },
+        {
+            "query": "Is it snowy today in PST in Anchorage, Alaska?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Anchorage"
+                }
+            }
+        },
+        {
+            "query": "What's the weather forecast for a cloudy day in PST in Juneau, Alaska",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Juneau"
+                }
+            }
+        },
+        {
+            "query": "Will it be sunny today in PST in Santa Fe, New Mexico?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Santa Fe"
+                }
+            }
+        },
+        {
+            "query": "What's the current time and weather like in PST for a rainy day in Fairbanks, Alaska",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Fairbanks"
+                }
+            }
+        },
+        {
+            "query": "Is it cloudy today in PST in Bangor, Maine?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Bangor"
+                }
+            }
+        },
+        {
+            "query": "What's the weather forecast for a sunny day in PST in Anchorage, Alaska",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Anchorage"
+                }
+            }
+        },
+        {
+            "query": "Will it be snowy today in PST in Prescott, Arizona?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Prescott"
+                }
+            }
+        },
+        {
+            "query": "What's the current time and weather like in PST for a cloudy day in Bangor, Maine",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Bangor"
+                }
+            }
+        },
+        {
+            "query": "Is it rainy today in PST in Santa Fe, New Mexico?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Santa Fe"
+                }
+            }
+        },
+        {
+            "query": "What's the weather forecast for a sunny day in PST in Juneau, Alaska",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Juneau"
+                }
+            }
+        },
+        {
+            "query": "Will it be cloudy today in PST in Fairbanks, Alaska?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Fairbanks"
+                }
+            }
+        },
+        {
+            "query": "What's the current time and weather like in PST for a snowy day in Anchorage, Alaska",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Anchorage"
+                }
+            }
+        },
+        {
+            "query": "Is it sunny today in PST in Prescott, Arizona?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Prescott"
+                }
+            }
+        },
+        {
+            "query": "What's the weather forecast for a rainy day in PST in Bangor, Maine",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Bangor"
+                }
+            }
+        },
+        {
+            "query": "Will it be cloudy today in PST in Santa Fe, New Mexico?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Santa Fe"
+                }
+            }
+        },
+        {
+            "query": "What's the current time and weather like in PST for a sunny day in Fairbanks, Alaska",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Fairbanks"
+                }
+            }
+        },
+        {
+            "query": "Is it snowy today in PST in Juneau, Alaska?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Juneau"
+                }
+            }
+        },
+        {
+            "query": "What's the weather forecast for a cloudy day in PST in Anchorage, Alaska",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Anchorage"
+                }
+            }
+        },
+        {
+            "query": "Will it be rainy today in PST in Prescott, Arizona?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Prescott"
+                }
+            }
+        },
+        {
+            "query": "What's the current time and weather like in PST for a cloudy day in Santa Fe, New Mexico",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Santa Fe"
+                }
+            }
+        },
+        {
+            "query": "Is it sunny today in PST in Bangor, Maine?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Bangor"
+                }
+            }
+        },
+        {
+            "query": "What's the weather forecast for a snowy day in PST in Juneau, Alaska",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Juneau"
+                }
+            }
+        },
+        {
+            "query": "Will it be cloudy today in PST in Fairbanks, Alaska?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Fairbanks"
+                }
+            }
+        },
+        {
+            "query": "What's the current time and weather like in PST for a sunny day in Anchorage, Alaska",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Anchorage"
+                }
+            }
+        },
+        {
+            "query": "Is it rainy today in PST in Prescott, Arizona?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Prescott"
+                }
+            }
+        },
+        {
+            "query": "What's the weather forecast for a cloudy day in PST in Santa Fe, New Mexico",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Santa Fe"
+                }
+            }
+        },
+        {
+            "query": "Will it be sunny today in PST in Bangor, Maine?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Bangor"
+                }
+            }
+        },
+        {
+            "query": "What's the current time and weather like in PST for a snowy day in Juneau, Alaska",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Juneau"
+                }
+            }
+        },
+        {
+            "query": "Is it cloudy today in PST in Fairbanks, Alaska?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Fairbanks"
+                }
+            }
+        },
+        {
+            "query": "What's the weather forecast for a sunny day in PST in Anchorage, Alaska",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Anchorage"
+                }
+            }
+        },
+        {
+            "query": "Will it be rainy today in PST in Prescott, Arizona?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Prescott"
+                }
+            }
+        },
+        {
+            "query": "What's the current time and weather like in PST for a cloudy day in Santa Fe, New Mexico",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Santa Fe"
+                }
+            }
+        },
+        {
+            "query": "Is it sunny today in PST in Bangor, Maine?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Bangor"
+                }
+            }
+        },
+        {
+            "query": "What's the weather forecast for a snowy day in PST in Juneau, Alaska",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Juneau"
+                }
+            }
+        },
+        {
+            "query": "Will it be cloudy today in PST in Fairbanks, Alaska?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Fairbanks"
+                }
+            }
+        },
+        {
+            "query": "What's the current time and weather like in PST for a sunny day in Anchorage, Alaska",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Anchorage"
+                }
+            }
+        },
+        {
+            "query": "Is it rainy today in PST in Prescott, Arizona?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Prescott"
+                }
+            }
+        },
+        {
+            "query": "What's the weather forecast for a cloudy day in PST in Santa Fe, New Mexico",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Santa Fe"
+                }
+            }
+        },
+        {
+            "query": "Will it be sunny today in PST in Bangor, Maine?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Bangor"
+                }
+            }
+        },
+        {
+            "query": "What's the current time and weather like in PST for a snowy day in Juneau, Alaska",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Juneau"
+                }
+            }
+        },
+        {
+            "query": "Is it cloudy today in PST in Fairbanks, Alaska?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Fairbanks"
+                }
+            }
+        },
+        {
+            "query": "What's the weather forecast for a sunny day in PST in Anchorage, Alaska",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Anchorage"
+                }
+            }
+        },
+        {
+            "query": "Will it be rainy today in PST in Prescott, Arizona?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Prescott"
+                }
+            }
+        }
+    ]
+}

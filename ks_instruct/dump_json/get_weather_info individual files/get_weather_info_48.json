@@ -1,0 +1,436 @@
+{
+    "queries": [
+        {
+            "query": "What is the current weather in Chongqing",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Chongqing"
+                }
+            }
+        },
+        {
+            "query": "Time in PST and weather for Kathmandu",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Kathmandu"
+                }
+            }
+        },
+        {
+            "query": "Get the current time and weather info in Medellin",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Medellin"
+                }
+            }
+        },
+        {
+            "query": "Weather forecast for the next hour in Lima",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Lima"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather in Accra",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Accra"
+                }
+            }
+        },
+        {
+            "query": "What is the current weather like in Hanoi",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Hanoi"
+                }
+            }
+        },
+        {
+            "query": "Get the time and weather info for Zagreb",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Zagreb"
+                }
+            }
+        },
+        {
+            "query": "What is the current PST time in Guayaquil",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Guayaquil"
+                }
+            }
+        },
+        {
+            "query": "Current weather and time for Beirut",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Beirut"
+                }
+            }
+        },
+        {
+            "query": "Get the current time in PST and weather for Addis Ababa",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Addis Ababa"
+                }
+            }
+        },
+        {
+            "query": "Time and weather forecast for Budapest",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Budapest"
+                }
+            }
+        },
+        {
+            "query": "Current time in PST and weather info for Yangon",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Yangon"
+                }
+            }
+        },
+        {
+            "query": "Weather forecast for the next hour in Muscat",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Muscat"
+                }
+            }
+        },
+        {
+            "query": "Get the current weather info in Jakarta",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Jakarta"
+                }
+            }
+        },
+        {
+            "query": "Current PST time and weather for Kiev",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Kiev"
+                }
+            }
+        },
+        {
+            "query": "Time and weather info for Phnom Penh",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Phnom Penh"
+                }
+            }
+        },
+        {
+            "query": "Weather forecast for the next hour in Sanaa",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Sanaa"
+                }
+            }
+        },
+        {
+            "query": "Current weather info in Tashkent",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Tashkent"
+                }
+            }
+        },
+        {
+            "query": "Get the current time in PST and weather for Dar es Salaam",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Dar es Salaam"
+                }
+            }
+        },
+        {
+            "query": "Time and weather forecast for Baku",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Baku"
+                }
+            }
+        },
+        {
+            "query": "Current time in PST and weather info for Abuja",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Abuja"
+                }
+            }
+        },
+        {
+            "query": "Weather forecast for the next hour in Damascus",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Damascus"
+                }
+            }
+        },
+        {
+            "query": "Get the current weather info in Tripoli",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Tripoli"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather for Skopje",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Skopje"
+                }
+            }
+        },
+        {
+            "query": "Time and weather info for Ashgabat",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Ashgabat"
+                }
+            }
+        },
+        {
+            "query": "Current time in PST and weather forecast for N'Djamena",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "N'Djamena"
+                }
+            }
+        },
+        {
+            "query": "Weather info for the next hour in Podgorica",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Podgorica"
+                }
+            }
+        },
+        {
+            "query": "Get the current time and weather for Yerevan",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Yerevan"
+                }
+            }
+        },
+        {
+            "query": "Current PST time and weather info in Doha",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Doha"
+                }
+            }
+        },
+        {
+            "query": "Time and weather forecast for Tunis",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Tunis"
+                }
+            }
+        },
+        {
+            "query": "Current time in PST and weather info for Khartoum",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Khartoum"
+                }
+            }
+        },
+        {
+            "query": "Weather forecast for the next hour in Cairo",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Cairo"
+                }
+            }
+        },
+        {
+            "query": "Get the current time and weather info in Baghdad",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Baghdad"
+                }
+            }
+        },
+        {
+            "query": "Current PST time and weather for Amman",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Amman"
+                }
+            }
+        },
+        {
+            "query": "Time and weather info for Sana'a",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Sana'a"
+                }
+            }
+        },
+        {
+            "query": "Weather forecast for the next hour in Kuwait City",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Kuwait City"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather info in Riyadh",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Riyadh"
+                }
+            }
+        },
+        {
+            "query": "Get the current weather info in Muscat",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Muscat"
+                }
+            }
+        },
+        {
+            "query": "Current time in PST and weather for Manama",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Manama"
+                }
+            }
+        },
+        {
+            "query": "Time and weather forecast for Abu Dhabi",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Abu Dhabi"
+                }
+            }
+        },
+        {
+            "query": "Current time in PST and weather info in Baghdad",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Baghdad"
+                }
+            }
+        },
+        {
+            "query": "Weather forecast for the next hour in Doha",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Doha"
+                }
+            }
+        },
+        {
+            "query": "Get the current time and weather info in Kuwait City",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Kuwait City"
+                }
+            }
+        },
+        {
+            "query": "Current PST time and weather for Riyadh",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Riyadh"
+                }
+            }
+        },
+        {
+            "query": "Time and weather info for Muscat",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Muscat"
+                }
+            }
+        },
+        {
+            "query": "Current time in PST and weather forecast for Manama",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Manama"
+                }
+            }
+        },
+        {
+            "query": "Weather info for the next hour in Abu Dhabi",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Abu Dhabi"
+                }
+            }
+        },
+        {
+            "query": "Get the current time and weather info in Amman",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Amman"
+                }
+            }
+        }
+    ]
+}

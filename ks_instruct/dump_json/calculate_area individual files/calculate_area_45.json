@@ -1,0 +1,499 @@
+{
+    "queries": [
+        {
+            "query": "What is the area of a rectangle with length 13.45 and width 6.27 when rounded to the nearest whole number",
+            "answer": {
+                "function": "calculate_area",
+                "arguments": {
+                    "length": "13.45",
+                    "width": "6.27",
+                    "round_result": "True"
+                }
+            }
+        },
+        {
+            "query": "Calculate the area of a square with length 8.75 and width 8.75 and round to the nearest tenth",
+            "answer": {
+                "function": "calculate_area",
+                "arguments": {
+                    "length": "8.75",
+                    "width": "8.75",
+                    "round_result": "False"
+                }
+            }
+        },
+        {
+            "query": "What is the area of a rectangle with length 9.93 and width 4.56 when rounded to the nearest whole number",
+            "answer": {
+                "function": "calculate_area",
+                "arguments": {
+                    "length": "9.93",
+                    "width": "4.56",
+                    "round_result": "True"
+                }
+            }
+        },
+        {
+            "query": "Calculate the area of a square with length 5.67 and width 5.67 when rounded to the nearest whole number",
+            "answer": {
+                "function": "calculate_area",
+                "arguments": {
+                    "length": "5.67",
+                    "width": "5.67",
+                    "round_result": "True"
+                }
+            }
+        },
+        {
+            "query": "What is the area of a rectangle with length 2.34 and width 7.89 when rounded to the nearest whole number",
+            "answer": {
+                "function": "calculate_area",
+                "arguments": {
+                    "length": "2.34",
+                    "width": "7.89",
+                    "round_result": "True"
+                }
+            }
+        },
+        {
+            "query": "Calculate the area of a square with length 1.23 and width 1.23 when rounded to the nearest tenth",
+            "answer": {
+                "function": "calculate_area",
+                "arguments": {
+                    "length": "1.23",
+                    "width": "1.23",
+                    "round_result": "False"
+                }
+            }
+        },
+        {
+            "query": "What is the area of a rectangle with length 6.78 and width 3.45 when rounded to the nearest whole number",
+            "answer": {
+                "function": "calculate_area",
+                "arguments": {
+                    "length": "6.78",
+                    "width": "3.45",
+                    "round_result": "True"
+                }
+            }
+        },
+        {
+            "query": "Calculate the area of a square with length 9.56 and width 9.56 when rounded to the nearest whole number",
+            "answer": {
+                "function": "calculate_area",
+                "arguments": {
+                    "length": "9.56",
+                    "width": "9.56",
+                    "round_result": "True"
+                }
+            }
+        },
+        {
+            "query": "What is the area of a rectangle with length 8.99 and width 2.11 when rounded to the nearest whole number",
+            "answer": {
+                "function": "calculate_area",
+                "arguments": {
+                    "length": "8.99",
+                    "width": "2.11",
+                    "round_result": "True"
+                }
+            }
+        },
+        {
+            "query": "Calculate the area of a square with length 4.56 and width 4.56 when rounded to the nearest whole number",
+            "answer": {
+                "function": "calculate_area",
+                "arguments": {
+                    "length": "4.56",
+                    "width": "4.56",
+                    "round_result": "True"
+                }
+            }
+        },
+        {
+            "query": "What is the area of a rectangle with length 7.89 and width 5.67 when rounded to the nearest whole number",
+            "answer": {
+                "function": "calculate_area",
+                "arguments": {
+                    "length": "7.89",
+                    "width": "5.67",
+                    "round_result": "True"
+                }
+            }
+        },
+        {
+            "query": "Calculate the area of a square with length 6.44 and width 6.44 when rounded to the nearest tenth",
+            "answer": {
+                "function": "calculate_area",
+                "arguments": {
+                    "length": "6.44",
+                    "width": "6.44",
+                    "round_result": "False"
+                }
+            }
+        },
+        {
+            "query": "What is the area of a rectangle with length 9.12 and width 8.75 when rounded to the nearest whole number",
+            "answer": {
+                "function": "calculate_area",
+                "arguments": {
+                    "length": "9.12",
+                    "width": "8.75",
+                    "round_result": "True"
+                }
+            }
+        },
+        {
+            "query": "Calculate the area of a square with length 3.45 and width 3.45 when rounded to the nearest whole number",
+            "answer": {
+                "function": "calculate_area",
+                "arguments": {
+                    "length": "3.45",
+                    "width": "3.45",
+                    "round_result": "True"
+                }
+            }
+        },
+        {
+            "query": "What is the area of a rectangle with length 8.25 and width 6.11 when rounded to the nearest whole number",
+            "answer": {
+                "function": "calculate_area",
+                "arguments": {
+                    "length": "8.25",
+                    "width": "6.11",
+                    "round_result": "True"
+                }
+            }
+        },
+        {
+            "query": "Calculate the area of a square with length 5.01 and width 5.01 when rounded to the nearest whole number",
+            "answer": {
+                "function": "calculate_area",
+                "arguments": {
+                    "length": "5.01",
+                    "width": "5.01",
+                    "round_result": "True"
+                }
+            }
+        },
+        {
+            "query": "What is the area of a rectangle with length 7.34 and width 9.56 when rounded to the nearest whole number",
+            "answer": {
+                "function": "calculate_area",
+                "arguments": {
+                    "length": "7.34",
+                    "width": "9.56",
+                    "round_result": "True"
+                }
+            }
+        },
+        {
+            "query": "Calculate the area of a square with length 2.78 and width 2.78 when rounded to the nearest tenth",
+            "answer": {
+                "function": "calculate_area",
+                "arguments": {
+                    "length": "2.78",
+                    "width": "2.78",
+                    "round_result": "False"
+                }
+            }
+        },
+        {
+            "query": "What is the area of a rectangle with length 9.93 and width 5.67 when rounded to the nearest whole number",
+            "answer": {
+                "function": "calculate_area",
+                "arguments": {
+                    "length": "9.93",
+                    "width": "5.67",
+                    "round_result": "True"
+                }
+            }
+        },
+        {
+            "query": "Calculate the area of a square with length 1.91 and width 1.91 when rounded to the nearest whole number",
+            "answer": {
+                "function": "calculate_area",
+                "arguments": {
+                    "length": "1.91",
+                    "width": "1.91",
+                    "round_result": "True"
+                }
+            }
+        },
+        {
+            "query": "What is the area of a rectangle with length 6.22 and width 8.99 when rounded to the nearest whole number",
+            "answer": {
+                "function": "calculate_area",
+                "arguments": {
+                    "length": "6.22",
+                    "width": "8.99",
+                    "round_result": "True"
+                }
+            }
+        },
+        {
+            "query": "Calculate the area of a square with length 4.13 and width 4.13 when rounded to the nearest whole number",
+            "answer": {
+                "function": "calculate_area",
+                "arguments": {
+                    "length": "4.13",
+                    "width": "4.13",
+                    "round_result": "True"
+                }
+            }
+        },
+        {
+            "query": "What is the area of a rectangle with length 8.75 and width 3.45 when rounded to the nearest whole number",
+            "answer": {
+                "function": "calculate_area",
+                "arguments": {
+                    "length": "8.75",
+                    "width": "3.45",
+                    "round_result": "True"
+                }
+            }
+        },
+        {
+            "query": "Calculate the area of a square with length 9.56 and width 9.56 when rounded to the nearest tenth",
+            "answer": {
+                "function": "calculate_area",
+                "arguments": {
+                    "length": "9.56",
+                    "width": "9.56",
+                    "round_result": "False"
+                }
+            }
+        },
+        {
+            "query": "What is the area of a rectangle with length 7.89 and width 2.34 when rounded to the nearest whole number",
+            "answer": {
+                "function": "calculate_area",
+                "arguments": {
+                    "length": "7.89",
+                    "width": "2.34",
+                    "round_result": "True"
+                }
+            }
+        },
+        {
+            "query": "Calculate the area of a square with length 5.67 and width 5.67 when rounded to the nearest whole number",
+            "answer": {
+                "function": "calculate_area",
+                "arguments": {
+                    "length": "5.67",
+                    "width": "5.67",
+                    "round_result": "True"
+                }
+            }
+        },
+        {
+            "query": "What is the area of a rectangle with length 3.91 and width 9.12 when rounded to the nearest whole number",
+            "answer": {
+                "function": "calculate_area",
+                "arguments": {
+                    "length": "3.91",
+                    "width": "9.12",
+                    "round_result": "True"
+                }
+            }
+        },
+        {
+            "query": "Calculate the area of a square with length 2.11 and width 2.11 when rounded to the nearest whole number",
+            "answer": {
+                "function": "calculate_area",
+                "arguments": {
+                    "length": "2.11",
+                    "width": "2.11",
+                    "round_result": "True"
+                }
+            }
+        },
+        {
+            "query": "What is the area of a rectangle with length 9.12 and width 5.01 when rounded to the nearest whole number",
+            "answer": {
+                "function": "calculate_area",
+                "arguments": {
+                    "length": "9.12",
+                    "width": "5.01",
+                    "round_result": "True"
+                }
+            }
+        },
+        {
+            "query": "Calculate the area of a square with length 8.75 and width 8.75 when rounded to the nearest whole number",
+            "answer": {
+                "function": "calculate_area",
+                "arguments": {
+                    "length": "8.75",
+                    "width": "8.75",
+                    "round_result": "True"
+                }
+            }
+        },
+        {
+            "query": "What is the area of a rectangle with length 6.44 and width 3.91 when rounded to the nearest whole number",
+            "answer": {
+                "function": "calculate_area",
+                "arguments": {
+                    "length": "6.44",
+                    "width": "3.91",
+                    "round_result": "True"
+                }
+            }
+        },
+        {
+            "query": "Calculate the area of a square with length 1.34 and width 1.34 when rounded to the nearest tenth",
+            "answer": {
+                "function": "calculate_area",
+                "arguments": {
+                    "length": "1.34",
+                    "width": "1.34",
+                    "round_result": "False"
+                }
+            }
+        },
+        {
+            "query": "What is the area of a rectangle with length 5.67 and width 8.25 when rounded to the nearest whole number",
+            "answer": {
+                "function": "calculate_area",
+                "arguments": {
+                    "length": "5.67",
+                    "width": "8.25",
+                    "round_result": "True"
+                }
+            }
+        },
+        {
+            "query": "Calculate the area of a square with length 9.56 and width 9.56 when rounded to the nearest whole number",
+            "answer": {
+                "function": "calculate_area",
+                "arguments": {
+                    "length": "9.56",
+                    "width": "9.56",
+                    "round_result": "True"
+                }
+            }
+        },
+        {
+            "query": "What is the area of a rectangle with length 3.22 and width 7.89 when rounded to the nearest whole number",
+            "answer": {
+                "function": "calculate_area",
+                "arguments": {
+                    "length": "3.22",
+                    "width": "7.89",
+                    "round_result": "True"
+                }
+            }
+        },
+        {
+            "query": "Calculate the area of a square with length 8.99 and width 8.99 when rounded to the nearest whole number",
+            "answer": {
+                "function": "calculate_area",
+                "arguments": {
+                    "length": "8.99",
+                    "width": "8.99",
+                    "round_result": "True"
+                }
+            }
+        },
+        {
+            "query": "What is the area of a rectangle with length 1.78 and width 9.93 when rounded to the nearest whole number",
+            "answer": {
+                "function": "calculate_area",
+                "arguments": {
+                    "length": "1.78",
+                    "width": "9.93",
+                    "round_result": "True"
+                }
+            }
+        },
+        {
+            "query": "Calculate the area of a square with length 6.11 and width 6.11 when rounded to the nearest whole number",
+            "answer": {
+                "function": "calculate_area",
+                "arguments": {
+                    "length": "6.11",
+                    "width": "6.11",
+                    "round_result": "True"
+                }
+            }
+        },
+        {
+            "query": "What is the area of a rectangle with length 9.56 and width 4.13 when rounded to the nearest whole number",
+            "answer": {
+                "function": "calculate_area",
+                "arguments": {
+                    "length": "9.56",
+                    "width": "4.13",
+                    "round_result": "True"
+                }
+            }
+        },
+        {
+            "query": "Calculate the area of a square with length 7.34 and width 7.34 when rounded to the nearest whole number",
+            "answer": {
+                "function": "calculate_area",
+                "arguments": {
+                    "length": "7.34",
+                    "width": "7.34",
+                    "round_result": "True"
+                }
+            }
+        },
+        {
+            "query": "What is the area of a rectangle with length 2.78 and width 9.12 when rounded to the nearest whole number",
+            "answer": {
+                "function": "calculate_area",
+                "arguments": {
+                    "length": "2.78",
+                    "width": "9.12",
+                    "round_result": "True"
+                }
+            }
+        },
+        {
+            "query": "Calculate the area of a square with length 5.01 and width 5.01 when rounded to the nearest whole number",
+            "answer": {
+                "function": "calculate_area",
+                "arguments": {
+                    "length": "5.01",
+                    "width": "5.01",
+                    "round_result": "True"
+                }
+            }
+        },
+        {
+            "query": "What is the area of a rectangle with length 9.93 and width 6.44 when rounded to the nearest whole number",
+            "answer": {
+                "function": "calculate_area",
+                "arguments": {
+                    "length": "9.93",
+                    "width": "6.44",
+                    "round_result": "True"
+                }
+            }
+        },
+        {
+            "query": "Calculate the area of a square with length 8.25 and width 8.25 when rounded to the nearest whole number",
+            "answer": {
+                "function": "calculate_area",
+                "arguments": {
+                    "length": "8.25",
+                    "width": "8.25",
+                    "round_result": "True"
+                }
+            }
+        },
+        {
+            "query": "What is the area of a rectangle with length 7.89 and width 1.34 when rounded to the nearest whole number",
+            "answer": {
+                "function": "calculate_area",
+                "arguments": {
+                    "length": "7.89",
+                    "width": "1.34",
+                    "round_result": "True"
+                }
+            }
+        }
+    ]
+}

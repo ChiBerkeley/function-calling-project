@@ -1,0 +1,373 @@
+{
+    "queries": [
+        {
+            "query": "What is my zodiac sign if I was born on 2003-06-15",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2003-06-15"
+                }
+            }
+        },
+        {
+            "query": "Which constellation do I belong to if I was born on 1999-03-22",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1999-03-22"
+                }
+            }
+        },
+        {
+            "query": "What is the zodiac sign for someone who was born on 2015-12-01",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2015-12-01"
+                }
+            }
+        },
+        {
+            "query": "I want to know my zodiac sign if I was born on 1987-09-05",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1987-09-05"
+                }
+            }
+        },
+        {
+            "query": "What is the constellation for a person who was born on 2001-04-10",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2001-04-10"
+                }
+            }
+        },
+        {
+            "query": "I am curious about my zodiac sign if I was born on 2012-11-25",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2012-11-25"
+                }
+            }
+        },
+        {
+            "query": "What zodiac sign do I have if I was born on 1994-07-14",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1994-07-14"
+                }
+            }
+        },
+        {
+            "query": "I want to know my zodiac sign for someone who was born on 2008-01-02",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2008-01-02"
+                }
+            }
+        },
+        {
+            "query": "What is the constellation for a person who was born on 1996-05-18",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1996-05-18"
+                }
+            }
+        },
+        {
+            "query": "I am curious about my zodiac sign if I was born on 2005-03-11",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2005-03-11"
+                }
+            }
+        },
+        {
+            "query": "What is the zodiac sign for someone who was born on 2018-08-24",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2018-08-24"
+                }
+            }
+        },
+        {
+            "query": "I want to know my zodiac sign if I was born on 1995-10-27",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1995-10-27"
+                }
+            }
+        },
+        {
+            "query": "What is the constellation for a person who was born on 2009-12-15",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2009-12-15"
+                }
+            }
+        },
+        {
+            "query": "I am curious about my zodiac sign if I was born on 2014-06-07",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2014-06-07"
+                }
+            }
+        },
+        {
+            "query": "What zodiac sign do I have if I was born on 2006-02-20",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2006-02-20"
+                }
+            }
+        },
+        {
+            "query": "I want to know my zodiac sign for someone who was born on 2011-09-13",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2011-09-13"
+                }
+            }
+        },
+        {
+            "query": "What is the constellation for a person who was born on 1989-04-25",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1989-04-25"
+                }
+            }
+        },
+        {
+            "query": "I am curious about my zodiac sign if I was born on 1993-11-02",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1993-11-02"
+                }
+            }
+        },
+        {
+            "query": "What is the zodiac sign for someone who was born on 2004-08-01",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2004-08-01"
+                }
+            }
+        },
+        {
+            "query": "I want to know my zodiac sign if I was born on 2016-03-16",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2016-03-16"
+                }
+            }
+        },
+        {
+            "query": "What is the constellation for a person who was born on 1985-10-09",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1985-10-09"
+                }
+            }
+        },
+        {
+            "query": "I am curious about my zodiac sign if I was born on 2002-06-28",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2002-06-28"
+                }
+            }
+        },
+        {
+            "query": "What zodiac sign do I have if I was born on 2010-01-05",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2010-01-05"
+                }
+            }
+        },
+        {
+            "query": "I want to know my zodiac sign for someone who was born on 1992-04-17",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1992-04-17"
+                }
+            }
+        },
+        {
+            "query": "What is the constellation for a person who was born on 2007-12-23",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2007-12-23"
+                }
+            }
+        },
+        {
+            "query": "I am curious about my zodiac sign if I was born on 2013-09-06",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2013-09-06"
+                }
+            }
+        },
+        {
+            "query": "What is the zodiac sign for someone who was born on 1984-07-21",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1984-07-21"
+                }
+            }
+        },
+        {
+            "query": "I want to know my zodiac sign if I was born on 2000-03-05",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2000-03-05"
+                }
+            }
+        },
+        {
+            "query": "What is the constellation for a person who was born on 1997-02-12",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1997-02-12"
+                }
+            }
+        },
+        {
+            "query": "I am curious about my zodiac sign if I was born on 2019-05-29",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2019-05-29"
+                }
+            }
+        },
+        {
+            "query": "What zodiac sign do I have if I was born on 1986-09-26",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1986-09-26"
+                }
+            }
+        },
+        {
+            "query": "I want to know my zodiac sign for someone who was born on 2003-11-19",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2003-11-19"
+                }
+            }
+        },
+        {
+            "query": "What is the constellation for a person who was born on 1998-08-15",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1998-08-15"
+                }
+            }
+        },
+        {
+            "query": "I am curious about my zodiac sign if I was born on 2017-04-02",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2017-04-02"
+                }
+            }
+        },
+        {
+            "query": "What is the zodiac sign for someone who was born on 1988-03-22",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1988-03-22"
+                }
+            }
+        },
+        {
+            "query": "I want to know my zodiac sign if I was born on 1994-12-11",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1994-12-11"
+                }
+            }
+        },
+        {
+            "query": "What is the constellation for a person who was born on 2015-10-04",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2015-10-04"
+                }
+            }
+        },
+        {
+            "query": "I am curious about my zodiac sign if I was born on 1982-07-14",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1982-07-14"
+                }
+            }
+        },
+        {
+            "query": "What zodiac sign do I have if I was born on 2001-02-19",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2001-02-19"
+                }
+            }
+        },
+        {
+            "query": "I want to know my zodiac sign for someone who was born on 1983-05-18",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1983-05-18"
+                }
+            }
+        },
+        {
+            "query": "What is the constellation for a person who was born on 1991-01-06",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1991-01-06"
+                }
+            }
+        }
+    ]
+}

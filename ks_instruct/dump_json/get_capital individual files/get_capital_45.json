@@ -1,0 +1,409 @@
+{
+    "queries": [
+        {
+            "query": "What is the capital of Greece",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Greece"
+                }
+            }
+        },
+        {
+            "query": "What city serves as the capital of Portugal?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Portugal"
+                }
+            }
+        },
+        {
+            "query": "Find the capital of Belgium",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Belgium"
+                }
+            }
+        },
+        {
+            "query": "What is the name of the capital of Denmark?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Denmark"
+                }
+            }
+        },
+        {
+            "query": "Identify the capital of France",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "France"
+                }
+            }
+        },
+        {
+            "query": "What city is the capital of Spain?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Spain"
+                }
+            }
+        },
+        {
+            "query": "Find the capital of Ireland",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Ireland"
+                }
+            }
+        },
+        {
+            "query": "What is the name of the capital of Italy?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Italy"
+                }
+            }
+        },
+        {
+            "query": "Identify the capital of Cyprus",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Cyprus"
+                }
+            }
+        },
+        {
+            "query": "What city serves as the capital of Greece?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Greece"
+                }
+            }
+        },
+        {
+            "query": "Find the capital of Portugal",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Portugal"
+                }
+            }
+        },
+        {
+            "query": "What is the name of the capital of Belgium?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Belgium"
+                }
+            }
+        },
+        {
+            "query": "Identify the capital of Denmark",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Denmark"
+                }
+            }
+        },
+        {
+            "query": "What city is the capital of France?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "France"
+                }
+            }
+        },
+        {
+            "query": "Find the capital of Spain",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Spain"
+                }
+            }
+        },
+        {
+            "query": "What is the name of the capital of Ireland?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Ireland"
+                }
+            }
+        },
+        {
+            "query": "Identify the capital of Italy",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Italy"
+                }
+            }
+        },
+        {
+            "query": "What city serves as the capital of Cyprus?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Cyprus"
+                }
+            }
+        },
+        {
+            "query": "Find the capital of Greece",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Greece"
+                }
+            }
+        },
+        {
+            "query": "What is the name of the capital of Portugal?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Portugal"
+                }
+            }
+        },
+        {
+            "query": "Identify the capital of Belgium",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Belgium"
+                }
+            }
+        },
+        {
+            "query": "What city is the capital of Denmark?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Denmark"
+                }
+            }
+        },
+        {
+            "query": "Find the capital of France",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "France"
+                }
+            }
+        },
+        {
+            "query": "What is the name of the capital of Spain?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Spain"
+                }
+            }
+        },
+        {
+            "query": "Identify the capital of Ireland",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Ireland"
+                }
+            }
+        },
+        {
+            "query": "What city serves as the capital of Italy?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Italy"
+                }
+            }
+        },
+        {
+            "query": "Find the capital of Cyprus",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Cyprus"
+                }
+            }
+        },
+        {
+            "query": "What is the name of the capital of Greece?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Greece"
+                }
+            }
+        },
+        {
+            "query": "Identify the capital of Portugal",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Portugal"
+                }
+            }
+        },
+        {
+            "query": "What city is the capital of Belgium?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Belgium"
+                }
+            }
+        },
+        {
+            "query": "Find the capital of Denmark",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Denmark"
+                }
+            }
+        },
+        {
+            "query": "What is the name of the capital of France?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "France"
+                }
+            }
+        },
+        {
+            "query": "Identify the capital of Spain",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Spain"
+                }
+            }
+        },
+        {
+            "query": "What city serves as the capital of Ireland?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Ireland"
+                }
+            }
+        },
+        {
+            "query": "Find the capital of Italy",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Italy"
+                }
+            }
+        },
+        {
+            "query": "What is the name of the capital of Cyprus?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Cyprus"
+                }
+            }
+        },
+        {
+            "query": "Identify the capital of Greece",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Greece"
+                }
+            }
+        },
+        {
+            "query": "What city is the capital of Portugal?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Portugal"
+                }
+            }
+        },
+        {
+            "query": "Find the capital of Belgium",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Belgium"
+                }
+            }
+        },
+        {
+            "query": "What is the name of the capital of Denmark?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Denmark"
+                }
+            }
+        },
+        {
+            "query": "Identify the capital of France",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "France"
+                }
+            }
+        },
+        {
+            "query": "What city serves as the capital of Spain?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Spain"
+                }
+            }
+        },
+        {
+            "query": "Find the capital of Ireland",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Ireland"
+                }
+            }
+        },
+        {
+            "query": "What is the name of the capital of Italy?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Italy"
+                }
+            }
+        },
+        {
+            "query": "Identify the capital of Cyprus",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Cyprus"
+                }
+            }
+        }
+    ]
+}

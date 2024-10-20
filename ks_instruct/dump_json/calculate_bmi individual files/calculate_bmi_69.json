@@ -1,0 +1,832 @@
+{
+    "queries": [
+        {
+            "query": "What is my BMI when I weigh 85 kg as a female at the age of 28 and am 165 cm tall",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "85",
+                    "height": "165",
+                    "age": "28",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "If I'm 60 years old, weigh 90 kg, how does that affect my BMI as a male at the height of 180 cm",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "90",
+                    "height": "180",
+                    "age": "60",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What would be my BMI if I'm 75 years old, weigh 65 kg as a female at the height of 160 cm",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "65",
+                    "height": "160",
+                    "age": "75",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "If I'm 40 years old, weigh 80 kg as a male at the height of 175 cm, what's my BMI and health recommendations",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "80",
+                    "height": "175",
+                    "age": "40",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 70 kg as a female at the age of 22 and am 155 cm tall but had a recent injury that left me with limited mobility",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "70",
+                    "height": "155",
+                    "age": "22",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "If I'm 50 years old, weigh 95 kg as a male at the height of 185 cm but have been experiencing fatigue due to chronic illness, what's my BMI and health recommendations",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "95",
+                    "height": "185",
+                    "age": "50",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What is the effect of being 65 years old on my BMI if I weigh 60 kg as a female at the height of 150 cm",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "60",
+                    "height": "150",
+                    "age": "65",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "If I'm 45 years old, weigh 85 kg as a male at the height of 170 cm and have been working out regularly, what's my BMI and health recommendations",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "85",
+                    "height": "170",
+                    "age": "45",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What is the impact of being 55 years old on my BMI if I weigh 70 kg as a female at the height of 155 cm",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "70",
+                    "height": "155",
+                    "age": "55",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "If I'm 35 years old, weigh 80 kg as a male at the height of 175 cm but have been experiencing pain due to arthritis in my joints, what's my BMI and health recommendations",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "80",
+                    "height": "175",
+                    "age": "35",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What is the effect of weighing 65 kg as a female at the age of 20 and being 160 cm tall on my BMI if I have been experiencing stress due to work pressure",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "65",
+                    "height": "160",
+                    "age": "20",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "If I'm 60 years old, weigh 95 kg as a male at the height of 185 cm and have been smoking for over a decade, what's my BMI and health recommendations",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "95",
+                    "height": "185",
+                    "age": "60",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What would be the impact of being 40 years old on my BMI if I weigh 75 kg as a female at the height of 165 cm and have been experiencing chronic fatigue syndrome",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "75",
+                    "height": "165",
+                    "age": "40",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "If I'm 55 years old, weigh 80 kg as a male at the height of 175 cm but have been experiencing numbness in my limbs due to nerve damage, what's my BMI and health recommendations",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "80",
+                    "height": "175",
+                    "age": "55",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What is the effect of weighing 60 kg as a female at the age of 18 and being 150 cm tall on my BMI if I have been experiencing anxiety due to social media pressure",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "60",
+                    "height": "150",
+                    "age": "18",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "If I'm 45 years old, weigh 85 kg as a male at the height of 170 cm and have been experiencing chronic pain in my back due to spinal injury, what's my BMI and health recommendations",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "85",
+                    "height": "170",
+                    "age": "45",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What would be the impact of being 65 years old on my BMI if I weigh 70 kg as a female at the height of 155 cm and have been experiencing memory loss due to aging",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "70",
+                    "height": "155",
+                    "age": "65",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "If I'm 35 years old, weigh 80 kg as a male at the height of 175 cm but have been experiencing tremors due to neurological disorder, what's my BMI and health recommendations",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "80",
+                    "height": "175",
+                    "age": "35",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What is the effect of being 55 years old on my BMI if I weigh 75 kg as a female at the height of 165 cm and have been experiencing digestive issues due to irritable bowel syndrome",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "75",
+                    "height": "165",
+                    "age": "55",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "If I'm 60 years old, weigh 95 kg as a male at the height of 185 cm and have been experiencing muscle weakness due to myasthenia gravis, what's my BMI and health recommendations",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "95",
+                    "height": "185",
+                    "age": "60",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What would be the impact of weighing 65 kg as a female at the age of 22 and being 160 cm tall on my BMI if I have been experiencing stress due to work pressure",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "65",
+                    "height": "160",
+                    "age": "22",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "If I'm 40 years old, weigh 75 kg as a male at the height of 165 cm but have been experiencing numbness in my face due to trigeminal neuralgia, what's my BMI and health recommendations",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "75",
+                    "height": "165",
+                    "age": "40",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What is the effect of weighing 70 kg as a female at the age of 19 and being 155 cm tall on my BMI if I have been experiencing anxiety due to social media pressure",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "70",
+                    "height": "155",
+                    "age": "19",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "If I'm 45 years old, weigh 85 kg as a male at the height of 170 cm and have been experiencing chronic pain in my joints due to rheumatoid arthritis, what's my BMI and health recommendations",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "85",
+                    "height": "170",
+                    "age": "45",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What would be the impact of being 50 years old on my BMI if I weigh 75 kg as a female at the height of 165 cm and have been experiencing memory loss due to aging",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "75",
+                    "height": "165",
+                    "age": "50",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "If I'm 35 years old, weigh 80 kg as a male at the height of 175 cm but have been experiencing muscle weakness due to myasthenia gravis, what's my BMI and health recommendations",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "80",
+                    "height": "175",
+                    "age": "35",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What is the effect of weighing 60 kg as a female at the age of 17 and being 150 cm tall on my BMI if I have been experiencing stress due to work pressure",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "60",
+                    "height": "150",
+                    "age": "17",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "If I'm 45 years old, weigh 85 kg as a male at the height of 170 cm and have been experiencing numbness in my limbs due to nerve damage, what's my BMI and health recommendations",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "85",
+                    "height": "170",
+                    "age": "45",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What would be the impact of being 55 years old on my BMI if I weigh 70 kg as a female at the height of 155 cm and have been experiencing digestive issues due to irritable bowel syndrome",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "70",
+                    "height": "155",
+                    "age": "55",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "If I'm 60 years old, weigh 95 kg as a male at the height of 185 cm but have been experiencing tremors due to neurological disorder, what's my BMI and health recommendations",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "95",
+                    "height": "185",
+                    "age": "60",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What is the effect of weighing 65 kg as a female at the age of 21 and being 160 cm tall on my BMI if I have been experiencing anxiety due to social media pressure",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "65",
+                    "height": "160",
+                    "age": "21",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "If I'm 40 years old, weigh 75 kg as a male at the height of 165 cm and have been experiencing muscle weakness due to myasthenia gravis, what's my BMI and health recommendations",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "75",
+                    "height": "165",
+                    "age": "40",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What would be the impact of weighing 70 kg as a female at the age of 18 and being 155 cm tall on my BMI if I have been experiencing stress due to work pressure",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "70",
+                    "height": "155",
+                    "age": "18",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "If I'm 45 years old, weigh 85 kg as a male at the height of 170 cm but have been experiencing numbness in my face due to trigeminal neuralgia, what's my BMI and health recommendations",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "85",
+                    "height": "170",
+                    "age": "45",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What is the effect of weighing 60 kg as a female at the age of 16 and being 150 cm tall on my BMI if I have been experiencing anxiety due to social media pressure",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "60",
+                    "height": "150",
+                    "age": "16",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "If I'm 50 years old, weigh 75 kg as a male at the height of 165 cm and have been experiencing digestive issues due to irritable bowel syndrome, what's my BMI and health recommendations",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "75",
+                    "height": "165",
+                    "age": "50",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What would be the impact of being 35 years old on my BMI if I weigh 80 kg as a female at the height of 175 cm and have been experiencing muscle weakness due to myasthenia gravis",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "80",
+                    "height": "175",
+                    "age": "35",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "If I'm 55 years old, weigh 70 kg as a male at the height of 155 cm but have been experiencing tremors due to neurological disorder, what's my BMI and health recommendations",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "70",
+                    "height": "155",
+                    "age": "55",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What is the effect of weighing 65 kg as a female at the age of 23 and being 160 cm tall on my BMI if I have been experiencing stress due to work pressure",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "65",
+                    "height": "160",
+                    "age": "23",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "If I'm 45 years old, weigh 85 kg as a male at the height of 170 cm and have been experiencing numbness in my face due to trigeminal neuralgia, what's my BMI and health recommendations",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "85",
+                    "height": "170",
+                    "age": "45",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What would be the impact of weighing 70 kg as a female at the age of 20 and being 155 cm tall on my BMI if I have been experiencing anxiety due to social media pressure",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "70",
+                    "height": "155",
+                    "age": "20",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "If I'm 40 years old, weigh 75 kg as a male at the height of 165 cm but have been experiencing muscle weakness due to myasthenia gravis, what's my BMI and health recommendations",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "75",
+                    "height": "165",
+                    "age": "40",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What is the effect of weighing 60 kg as a female at the age of 15 and being 150 cm tall on my BMI if I have been experiencing stress due to work pressure",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "60",
+                    "height": "150",
+                    "age": "15",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "If I'm 50 years old, weigh 75 kg as a male at the height of 165 cm and have been experiencing numbness in my face due to trigeminal neuralgia, what's my BMI and health recommendations",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "75",
+                    "height": "165",
+                    "age": "50",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What would be the impact of weighing 70 kg as a female at the age of 17 and being 155 cm tall on my BMI if I have been experiencing anxiety due to social media pressure",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "70",
+                    "height": "155",
+                    "age": "17",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "If I'm 55 years old, weigh 70 kg as a male at the height of 155 cm but have been experiencing muscle weakness due to myasthenia gravis, what's my BMI and health recommendations",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "70",
+                    "height": "155",
+                    "age": "55",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What is the effect of weighing 65 kg as a female at the age of 19 and being 160 cm tall on my BMI if I have been experiencing stress due to work pressure",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "65",
+                    "height": "160",
+                    "age": "19",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "If I'm 45 years old, weigh 85 kg as a male at the height of 170 cm and have been experiencing numbness in my face due to trigeminal neuralgia, what's my BMI and health recommendations",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "85",
+                    "height": "170",
+                    "age": "45",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What would be the impact of weighing 70 kg as a female at the age of 21 and being 155 cm tall on my BMI if I have been experiencing anxiety due to social media pressure",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "70",
+                    "height": "155",
+                    "age": "21",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "If I'm 40 years old, weigh 75 kg as a male at the height of 165 cm but have been experiencing muscle weakness due to myasthenia gravis, what's my BMI and health recommendations",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "75",
+                    "height": "165",
+                    "age": "40",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What is the effect of weighing 60 kg as a female at the age of 14 and being 150 cm tall on my BMI if I have been experiencing stress due to work pressure",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "60",
+                    "height": "150",
+                    "age": "14",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "If I'm 50 years old, weigh 75 kg as a male at the height of 165 cm and have been experiencing numbness in my face due to trigeminal neuralgia, what's my BMI and health recommendations",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "75",
+                    "height": "165",
+                    "age": "50",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What would be the impact of weighing 70 kg as a female at the age of 22 and being 155 cm tall on my BMI if I have been experiencing anxiety due to social media pressure",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "70",
+                    "height": "155",
+                    "age": "22",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "If I'm 55 years old, weigh 70 kg as a male at the height of 155 cm but have been experiencing muscle weakness due to myasthenia gravis, what's my BMI and health recommendations",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "70",
+                    "height": "155",
+                    "age": "55",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What is the effect of weighing 65 kg as a female at the age of 13 and being 160 cm tall on my BMI if I have been experiencing stress due to work pressure",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "65",
+                    "height": "160",
+                    "age": "13",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "If I'm 45 years old, weigh 85 kg as a male at the height of 170 cm and have been experiencing numbness in my face due to trigeminal neuralgia, what's my BMI and health recommendations",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "85",
+                    "height": "170",
+                    "age": "45",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What would be the impact of weighing 70 kg as a female at the age of 15 and being 155 cm tall on my BMI if I have been experiencing anxiety due to social media pressure",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "70",
+                    "height": "155",
+                    "age": "15",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "If I'm 40 years old, weigh 75 kg as a male at the height of 165 cm but have been experiencing muscle weakness due to myasthenia gravis, what's my BMI and health recommendations",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "75",
+                    "height": "165",
+                    "age": "40",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What is the effect of weighing 60 kg as a female at the age of 12 and being 150 cm tall on my BMI if I have been experiencing stress due to work pressure",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "60",
+                    "height": "150",
+                    "age": "12",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "If I'm 50 years old, weigh 75 kg as a male at the height of 165 cm and have been experiencing numbness in my face due to trigeminal neuralgia, what's my BMI and health recommendations",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "75",
+                    "height": "165",
+                    "age": "50",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What would be the impact of weighing 70 kg as a female at the age of 16 and being 155 cm tall on my BMI if I have been experiencing anxiety due to social media pressure",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "70",
+                    "height": "155",
+                    "age": "16",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "If I'm 55 years old, weigh 70 kg as a male at the height of 155 cm but have been experiencing muscle weakness due to myasthenia gravis, what's my BMI and health recommendations",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "70",
+                    "height": "155",
+                    "age": "55",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What is the effect of weighing 65 kg as a female at the age of 11 and being 160 cm tall on my BMI if I have been experiencing stress due to work pressure",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "65",
+                    "height": "160",
+                    "age": "11",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "If I'm 45 years old, weigh 85 kg as a male at the height of 170 cm and have been experiencing numbness in my face due to trigeminal neuralgia, what's my BMI and health recommendations",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "85",
+                    "height": "170",
+                    "age": "45",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What would be the impact of weighing 70 kg as a female at the age of 18 and being 155 cm tall on my BMI if I have been experiencing anxiety due to social media pressure",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "70",
+                    "height": "155",
+                    "age": "18",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "If I'm 40 years old, weigh 75 kg as a male at the height of 165 cm but have been experiencing muscle weakness due to myasthenia gravis, what's my BMI and health recommendations",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "75",
+                    "height": "165",
+                    "age": "40",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What is the effect of weighing 60 kg as a female at the age of 10 and being 150 cm tall on my BMI if I have been experiencing stress due to work pressure",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "60",
+                    "height": "150",
+                    "age": "10",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "If I'm 50 years old, weigh 75 kg as a male at the height of 165 cm and have been experiencing numbness in my face due to trigeminal neuralgia, what's my BMI and health recommendations",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "75",
+                    "height": "165",
+                    "age": "50",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What would be the impact of weighing 70 kg as a female at the age of 14 and being 155 cm tall on my BMI if I have been experiencing anxiety due to social media pressure",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "70",
+                    "height": "155",
+                    "age": "14",
+                    "gender": "female"
+                }
+            }
+        }
+    ]
+}

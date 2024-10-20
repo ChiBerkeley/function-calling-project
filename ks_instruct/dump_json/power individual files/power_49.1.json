@@ -1,0 +1,494 @@
+{
+    "queries": [
+        {
+            "query": "What is the result of 2 raised to the power of -3",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "2",
+                    "exponent": "-3"
+                }
+            }
+        },
+        {
+            "query": "What is the value of e squared?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "e",
+                    "exponent": "2"
+                }
+            }
+        },
+        {
+            "query": "Calculate 0.5 raised to the power of pi",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "0.5",
+                    "exponent": "pi"
+                }
+            }
+        },
+        {
+            "query": "What is the result of -4 raised to the power of 1/3?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-4",
+                    "exponent": "1/3"
+                }
+            }
+        },
+        {
+            "query": "What is the value of e squared minus 7",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "e",
+                    "exponent": "2"
+                }
+            }
+        },
+        {
+            "query": "Calculate the power of -9 raised to the exponent -5",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-9",
+                    "exponent": "-5"
+                }
+            }
+        },
+        {
+            "query": "What is the result of 6 squared?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "6",
+                    "exponent": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the value of pi raised to the power of -8?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "pi",
+                    "exponent": "-8"
+                }
+            }
+        },
+        {
+            "query": "Calculate 3 squared minus 5",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "3",
+                    "exponent": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the result of -7 raised to the power of 1/2?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-7",
+                    "exponent": "1/2"
+                }
+            }
+        },
+        {
+            "query": "Calculate the power of e raised to the exponent pi minus 9",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "e",
+                    "exponent": "pi - 9"
+                }
+            }
+        },
+        {
+            "query": "What is the value of 0.25 squared?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "0.25",
+                    "exponent": "2"
+                }
+            }
+        },
+        {
+            "query": "Calculate the power of pi raised to the exponent 3/4",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "pi",
+                    "exponent": "3/4"
+                }
+            }
+        },
+        {
+            "query": "What is the result of -9 squared minus 6?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-9",
+                    "exponent": "2"
+                }
+            }
+        },
+        {
+            "query": "Calculate 5 raised to the power of pi minus 8",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "5",
+                    "exponent": "pi - 8"
+                }
+            }
+        },
+        {
+            "query": "What is the value of 0.1 squared?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "0.1",
+                    "exponent": "2"
+                }
+            }
+        },
+        {
+            "query": "Calculate the power of e raised to the exponent pi plus 9",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "e",
+                    "exponent": "pi + 9"
+                }
+            }
+        },
+        {
+            "query": "What is the result of -4 squared?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-4",
+                    "exponent": "2"
+                }
+            }
+        },
+        {
+            "query": "Calculate the power of pi raised to the exponent -3/5",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "pi",
+                    "exponent": "-3/5"
+                }
+            }
+        },
+        {
+            "query": "What is the value of 0.75 squared minus 6?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "0.75",
+                    "exponent": "2"
+                }
+            }
+        },
+        {
+            "query": "Calculate the power of e raised to the exponent pi plus 8",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "e",
+                    "exponent": "pi + 8"
+                }
+            }
+        },
+        {
+            "query": "What is the result of -7 raised to the power of -3/4?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-7",
+                    "exponent": "-3/4"
+                }
+            }
+        },
+        {
+            "query": "Calculate the power of pi squared minus 9",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "pi",
+                    "exponent": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the value of -0.5 raised to the power of 1/3?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-0.5",
+                    "exponent": "1/3"
+                }
+            }
+        },
+        {
+            "query": "Calculate the power of e squared plus 7",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "e",
+                    "exponent": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the result of -4 raised to the power of pi minus 9?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-4",
+                    "exponent": "pi - 9"
+                }
+            }
+        },
+        {
+            "query": "Calculate the power of pi squared plus 8",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "pi",
+                    "exponent": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the value of e raised to the power of -4?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "e",
+                    "exponent": "-4"
+                }
+            }
+        },
+        {
+            "query": "Calculate 3 squared plus 9",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "3",
+                    "exponent": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the result of -0.25 raised to the power of pi?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-0.25",
+                    "exponent": "pi"
+                }
+            }
+        },
+        {
+            "query": "Calculate the power of e squared minus 8",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "e",
+                    "exponent": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the value of pi raised to the power of -1/3?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "pi",
+                    "exponent": "-1/3"
+                }
+            }
+        },
+        {
+            "query": "Calculate 6 raised to the power of pi plus 9",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "6",
+                    "exponent": "pi + 9"
+                }
+            }
+        },
+        {
+            "query": "What is the result of -0.75 squared?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-0.75",
+                    "exponent": "2"
+                }
+            }
+        },
+        {
+            "query": "Calculate the power of e raised to the exponent pi minus 8",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "e",
+                    "exponent": "pi - 8"
+                }
+            }
+        },
+        {
+            "query": "What is the value of 0.5 raised to the power of 1/2?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "0.5",
+                    "exponent": "1/2"
+                }
+            }
+        },
+        {
+            "query": "Calculate the power of pi squared plus 9",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "pi",
+                    "exponent": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the result of -3 raised to the power of pi?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-3",
+                    "exponent": "pi"
+                }
+            }
+        },
+        {
+            "query": "Calculate the power of e squared plus 9",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "e",
+                    "exponent": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the value of -0.1 raised to the power of pi minus 8?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-0.1",
+                    "exponent": "pi - 8"
+                }
+            }
+        },
+        {
+            "query": "Calculate the power of e squared plus 8",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "e",
+                    "exponent": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the result of -6 raised to the power of pi?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-6",
+                    "exponent": "pi"
+                }
+            }
+        },
+        {
+            "query": "Calculate the power of e squared minus 9",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "e",
+                    "exponent": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the value of pi raised to the power of -1/5?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "pi",
+                    "exponent": "-1/5"
+                }
+            }
+        },
+        {
+            "query": "Calculate 0.75 squared plus 9",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "0.75",
+                    "exponent": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the result of -3 raised to the power of pi minus 8?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-3",
+                    "exponent": "pi - 8"
+                }
+            }
+        },
+        {
+            "query": "Calculate the power of e squared plus 5",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "e",
+                    "exponent": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the result of -4 raised to the power of pi plus 9?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-4",
+                    "exponent": "pi + 9"
+                }
+            }
+        },
+        {
+            "query": "Calculate the power of e squared minus 7",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "e",
+                    "exponent": "2"
+                }
+            }
+        }
+    ]
+}

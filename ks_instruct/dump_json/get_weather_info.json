@@ -1,0 +1,4684 @@
+{
+    "queries": [
+        {
+            "query": "What's the current weather in Kathmandu?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Kathmandu"
+                }
+            }
+        },
+        {
+            "query": "Is it sunny today in Hanoi Vietnam?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Hanoi"
+                }
+            }
+        },
+        {
+            "query": "Is it raining in Addis Ababa Ethiopia?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Addis Ababa"
+                }
+            }
+        },
+        {
+            "query": "What's the current weather like in Muscat Oman?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Muscat"
+                }
+            }
+        },
+        {
+            "query": "Is it hot today in Maputo Mozambique?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Maputo"
+                }
+            }
+        },
+        {
+            "query": "What's the weather like in Dar es Salaam Tanzania right now",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Dar es Salaam"
+                }
+            }
+        },
+        {
+            "query": "Is it cloudy today in Khartoum Sudan?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Khartoum"
+                }
+            }
+        },
+        {
+            "query": "What's the forecast for Accra Ghana tomorrow evening",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Accra"
+                }
+            }
+        },
+        {
+            "query": "Is it sunny today in Baghdad Iraq?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Baghdad"
+                }
+            }
+        },
+        {
+            "query": "What's the current weather like in Djibouti City Djibouti?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Djibouti City"
+                }
+            }
+        },
+        {
+            "query": "Is it hot today in Kampala Uganda?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Kampala"
+                }
+            }
+        },
+        {
+            "query": "What's the forecast for Bishkek Kyrgyzstan tomorrow morning",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Bishkek"
+                }
+            }
+        },
+        {
+            "query": "Is it raining in Astana Kazakhstan?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Astana"
+                }
+            }
+        },
+        {
+            "query": "What's the current weather like in Tashkent Uzbekistan?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Tashkent"
+                }
+            }
+        },
+        {
+            "query": "Is it cloudy today in Dushanbe Tajikistan?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Dushanbe"
+                }
+            }
+        },
+        {
+            "query": "What's the forecast for Yerevan Armenia tomorrow evening",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Yerevan"
+                }
+            }
+        },
+        {
+            "query": "Is it sunny today in Baku Azerbaijan?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Baku"
+                }
+            }
+        },
+        {
+            "query": "What's the current weather like in Tbilisi Georgia?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Tbilisi"
+                }
+            }
+        },
+        {
+            "query": "Is it hot today in Ashgabat Turkmenistan?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Ashgabat"
+                }
+            }
+        },
+        {
+            "query": "What's the forecast for Kuwait City Kuwait tomorrow morning",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Kuwait City"
+                }
+            }
+        },
+        {
+            "query": "Is it raining in Riyadh Saudi Arabia?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Riyadh"
+                }
+            }
+        },
+        {
+            "query": "What's the current weather like in Manama Bahrain?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Manama"
+                }
+            }
+        },
+        {
+            "query": "Is it cloudy today in Muscat Oman?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Muscat"
+                }
+            }
+        },
+        {
+            "query": "What's the forecast for Abu Dhabi UAE tomorrow evening",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Abu Dhabi"
+                }
+            }
+        },
+        {
+            "query": "Is it sunny today in Amman Jordan?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Amman"
+                }
+            }
+        },
+        {
+            "query": "What's the current weather like in Tel Aviv Israel?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Tel Aviv"
+                }
+            }
+        },
+        {
+            "query": "Is it hot today in Damascus Syria?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Damascus"
+                }
+            }
+        },
+        {
+            "query": "What's the forecast for Beirut Lebanon tomorrow morning",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Beirut"
+                }
+            }
+        },
+        {
+            "query": "Is it raining in Erbil Iraq?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Erbil"
+                }
+            }
+        },
+        {
+            "query": "What's the current weather like in Sana'a Yemen?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Sana'a"
+                }
+            }
+        },
+        {
+            "query": "Is it cloudy today in Baghdad Iraq?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Baghdad"
+                }
+            }
+        },
+        {
+            "query": "What's the forecast for Cairo Egypt tomorrow evening",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Cairo"
+                }
+            }
+        },
+        {
+            "query": "Is it sunny today in Alexandria Egypt?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Alexandria"
+                }
+            }
+        },
+        {
+            "query": "What's the current weather like in Khartoum Sudan?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Khartoum"
+                }
+            }
+        },
+        {
+            "query": "Is it hot today in Mogadishu Somalia?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Mogadishu"
+                }
+            }
+        },
+        {
+            "query": "What's the forecast for Nairobi Kenya tomorrow morning",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Nairobi"
+                }
+            }
+        },
+        {
+            "query": "Is it raining in Kigali Rwanda?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Kigali"
+                }
+            }
+        },
+        {
+            "query": "What's the current weather like in Kampala Uganda?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Kampala"
+                }
+            }
+        },
+        {
+            "query": "Is it cloudy today in Dar es Salaam Tanzania?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Dar es Salaam"
+                }
+            }
+        },
+        {
+            "query": "What's the forecast for Maputo Mozambique tomorrow evening",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Maputo"
+                }
+            }
+        },
+        {
+            "query": "Is it sunny today in Antananarivo Madagascar?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Antananarivo"
+                }
+            }
+        },
+        {
+            "query": "What's the current weather like in Moroni Comoros?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Moroni"
+                }
+            }
+        },
+        {
+            "query": "Is it hot today in Mombasa Kenya?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Mombasa"
+                }
+            }
+        },
+        {
+            "query": "What's the forecast for Zanzibar Tanzania tomorrow morning",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Zanzibar"
+                }
+            }
+        },
+        {
+            "query": "Is it raining in Entebbe Uganda?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Entebbe"
+                }
+            }
+        },
+        {
+            "query": "What's the current weather like in Dodoma Tanzania?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Dodoma"
+                }
+            }
+        },
+        {
+            "query": "Is it cloudy today in Bujumbura Burundi?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Bujumbura"
+                }
+            }
+        },
+        {
+            "query": "What is the weather in Kathmandu",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Kathmandu"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather in Mumbai",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Mumbai"
+                }
+            }
+        },
+        {
+            "query": "What is the current weather in Tokyo",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Tokyo"
+                }
+            }
+        },
+        {
+            "query": "Get the time and temperature in Rio de Janeiro",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Rio de Janeiro"
+                }
+            }
+        },
+        {
+            "query": "Current weather info for Beijing",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Beijing"
+                }
+            }
+        },
+        {
+            "query": "What is the current time and weather in Bangkok",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Bangkok"
+                }
+            }
+        },
+        {
+            "query": "Get weather info for Lima, Peru",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Lima"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather in Moscow",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Moscow"
+                }
+            }
+        },
+        {
+            "query": "What is the current weather info for Nairobi, Kenya",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Nairobi"
+                }
+            }
+        },
+        {
+            "query": "Get time and weather in Cairo, Egypt",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Cairo"
+                }
+            }
+        },
+        {
+            "query": "Current weather info for Hanoi, Vietnam",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Hanoi"
+                }
+            }
+        },
+        {
+            "query": "Get the current time and weather in Santiago, Chile",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Santiago"
+                }
+            }
+        },
+        {
+            "query": "What is the current weather info for Dhaka, Bangladesh",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Dhaka"
+                }
+            }
+        },
+        {
+            "query": "Get time and weather in Bogota, Colombia",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Bogota"
+                }
+            }
+        },
+        {
+            "query": "Current weather info for Jakarta, Indonesia",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Jakarta"
+                }
+            }
+        },
+        {
+            "query": "What is the current time and weather in Budapest, Hungary",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Budapest"
+                }
+            }
+        },
+        {
+            "query": "Get weather info for Tel Aviv, Israel",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Tel Aviv"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather in Warsaw, Poland",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Warsaw"
+                }
+            }
+        },
+        {
+            "query": "What is the current weather info for Abuja, Nigeria",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Abuja"
+                }
+            }
+        },
+        {
+            "query": "Get time and weather in Caracas, Venezuela",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Caracas"
+                }
+            }
+        },
+        {
+            "query": "Current weather info for Accra, Ghana",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Accra"
+                }
+            }
+        },
+        {
+            "query": "What is the current time and weather in Lima, Peru",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Lima"
+                }
+            }
+        },
+        {
+            "query": "Get weather info for Maputo, Mozambique",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Maputo"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather in Chisinau, Moldova",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Chisinau"
+                }
+            }
+        },
+        {
+            "query": "What is the current weather info for Kiev, Ukraine",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Kiev"
+                }
+            }
+        },
+        {
+            "query": "Get time and weather in Skopje, North Macedonia",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Skopje"
+                }
+            }
+        },
+        {
+            "query": "Current weather info for Tirana, Albania",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Tirana"
+                }
+            }
+        },
+        {
+            "query": "What is the current time and weather in Podgorica, Montenegro",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Podgorica"
+                }
+            }
+        },
+        {
+            "query": "Get weather info for Yerevan, Armenia",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Yerevan"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather in Baku, Azerbaijan",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Baku"
+                }
+            }
+        },
+        {
+            "query": "What is the current weather info for Tbilisi, Georgia",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Tbilisi"
+                }
+            }
+        },
+        {
+            "query": "Get time and weather in Ashgabat, Turkmenistan",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Ashgabat"
+                }
+            }
+        },
+        {
+            "query": "Current weather info for Dushanbe, Tajikistan",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Dushanbe"
+                }
+            }
+        },
+        {
+            "query": "What is the current time and weather in Kuwait City, Kuwait",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Kuwait City"
+                }
+            }
+        },
+        {
+            "query": "Get weather info for Muscat, Oman",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Muscat"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather in Amman, Jordan",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Amman"
+                }
+            }
+        },
+        {
+            "query": "What is the current weather info for Riyadh, Saudi Arabia",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Riyadh"
+                }
+            }
+        },
+        {
+            "query": "Get time and weather in Dubai, United Arab Emirates",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Dubai"
+                }
+            }
+        },
+        {
+            "query": "Current weather info for Manama, Bahrain",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Manama"
+                }
+            }
+        },
+        {
+            "query": "What is the current time and weather in Beirut, Lebanon",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Beirut"
+                }
+            }
+        },
+        {
+            "query": "Get weather info for Baghdad, Iraq",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Baghdad"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather in Erbil, Iraq",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Erbil"
+                }
+            }
+        },
+        {
+            "query": "What is the current weather info for Damascus, Syria",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Damascus"
+                }
+            }
+        },
+        {
+            "query": "Get time and weather in Tripoli, Libya",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Tripoli"
+                }
+            }
+        },
+        {
+            "query": "Current weather info for Tunis, Tunisia",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Tunis"
+                }
+            }
+        },
+        {
+            "query": "What is the current time and weather in Cairo, Egypt",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Cairo"
+                }
+            }
+        },
+        {
+            "query": "Get weather info for Algiers, Algeria",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Algiers"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather in Khartoum, Sudan",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Khartoum"
+                }
+            }
+        },
+        {
+            "query": "What is the current weather info for Addis Ababa, Ethiopia",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Addis Ababa"
+                }
+            }
+        },
+        {
+            "query": "Get time and weather in Nairobi, Kenya",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Nairobi"
+                }
+            }
+        },
+        {
+            "query": "Current weather info for Mogadishu, Somalia",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Mogadishu"
+                }
+            }
+        },
+        {
+            "query": "What is the weather forecast in Ulaanbaatar, Mongolia today?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Ulaanbaatar"
+                }
+            }
+        },
+        {
+            "query": "Give me the current time and weather conditions in Kathmandu, Nepal.",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Kathmandu"
+                }
+            }
+        },
+        {
+            "query": "What's the temperature like right now in Taipei, Taiwan?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Taipei"
+                }
+            }
+        },
+        {
+            "query": "Get me the current weather information for Cairo, Egypt.",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Cairo"
+                }
+            }
+        },
+        {
+            "query": "What is the current time and weather in Lima, Peru?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Lima"
+                }
+            }
+        },
+        {
+            "query": "I need to know the current weather conditions in Hanoi, Vietnam.",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Hanoi"
+                }
+            }
+        },
+        {
+            "query": "What's going on with the weather right now in Muscat, Oman?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Muscat"
+                }
+            }
+        },
+        {
+            "query": "Give me the current time and temperature in Bogota, Colombia.",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Bogota"
+                }
+            }
+        },
+        {
+            "query": "I want to know the weather forecast for Chiang Mai, Thailand today.",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Chiang Mai"
+                }
+            }
+        },
+        {
+            "query": "What is the current time and weather like in Dhaka, Bangladesh?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Dhaka"
+                }
+            }
+        },
+        {
+            "query": "I need to know the current temperature in Colombo, Sri Lanka.",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Colombo"
+                }
+            }
+        },
+        {
+            "query": "Get me the current weather information for Riga, Latvia.",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Riga"
+                }
+            }
+        },
+        {
+            "query": "What's the weather like right now in Almaty, Kazakhstan?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Almaty"
+                }
+            }
+        },
+        {
+            "query": "Give me the current time and weather conditions in Tallinn, Estonia.",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Tallinn"
+                }
+            }
+        },
+        {
+            "query": "I want to know the weather forecast for Baku, Azerbaijan today.",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Baku"
+                }
+            }
+        },
+        {
+            "query": "What is the current time and temperature in Yerevan, Armenia?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Yerevan"
+                }
+            }
+        },
+        {
+            "query": "Get me the current weather information for Skopje, North Macedonia.",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Skopje"
+                }
+            }
+        },
+        {
+            "query": "What's going on with the weather right now in Podgorica, Montenegro?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Podgorica"
+                }
+            }
+        },
+        {
+            "query": "I need to know the current temperature in Tirana, Albania.",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Tirana"
+                }
+            }
+        },
+        {
+            "query": "Give me the current time and weather conditions in Sarajevo, Bosnia and Herzegovina.",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Sarajevo"
+                }
+            }
+        },
+        {
+            "query": "What is the current time and weather like in Pristina, Kosovo?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Pristina"
+                }
+            }
+        },
+        {
+            "query": "I want to know the weather forecast for Minsk, Belarus today.",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Minsk"
+                }
+            }
+        },
+        {
+            "query": "Get me the current weather information for Kiev, Ukraine.",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Kiev"
+                }
+            }
+        },
+        {
+            "query": "What's going on with the weather right now in Tbilisi, Georgia?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Tbilisi"
+                }
+            }
+        },
+        {
+            "query": "I need to know the current temperature in Ashgabat, Turkmenistan.",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Ashgabat"
+                }
+            }
+        },
+        {
+            "query": "Give me the current time and weather conditions in Dushanbe, Tajikistan.",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Dushanbe"
+                }
+            }
+        },
+        {
+            "query": "What is the current time and weather like in Bishkek, Kyrgyzstan?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Bishkek"
+                }
+            }
+        },
+        {
+            "query": "I want to know the weather forecast for Nukus, Uzbekistan today.",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Nukus"
+                }
+            }
+        },
+        {
+            "query": "Get me the current weather information for Grozny, Chechnya.",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Grozny"
+                }
+            }
+        },
+        {
+            "query": "What's going on with the weather right now in Nazran, Russia?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Nazran"
+                }
+            }
+        },
+        {
+            "query": "I need to know the current temperature in Vladikavkaz, North Ossetia.",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Vladikavkaz"
+                }
+            }
+        },
+        {
+            "query": "Give me the current time and weather conditions in Novosibirsk, Russia.",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Novosibirsk"
+                }
+            }
+        },
+        {
+            "query": "What is the current time and weather like in Omsk, Russia?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Omsk"
+                }
+            }
+        },
+        {
+            "query": "I want to know the weather forecast for Krasnoyarsk, Russia today.",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Krasnoyarsk"
+                }
+            }
+        },
+        {
+            "query": "Get me the current weather information for Irkutsk, Russia.",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Irkutsk"
+                }
+            }
+        },
+        {
+            "query": "What's going on with the weather right now in Yakutsk, Russia?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Yakutsk"
+                }
+            }
+        },
+        {
+            "query": "I need to know the current temperature in Magadan, Russia.",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Magadan"
+                }
+            }
+        },
+        {
+            "query": "Give me the current time and weather conditions in Petropavlovsk-Kamchatsky, Russia.",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Petropavlovsk-Kamchatsky"
+                }
+            }
+        },
+        {
+            "query": "What is the current time and weather like in Anadyr, Russia?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Anadyr"
+                }
+            }
+        },
+        {
+            "query": "I want to know the weather forecast for Sochi, Russia today.",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Sochi"
+                }
+            }
+        },
+        {
+            "query": "Get me the current weather information for Rostov-on-Don, Russia.",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Rostov-on-Don"
+                }
+            }
+        },
+        {
+            "query": "What's going on with the weather right now in Stavropol, Russia?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Stavropol"
+                }
+            }
+        },
+        {
+            "query": "I need to know the current temperature in Volgograd, Russia.",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Volgograd"
+                }
+            }
+        },
+        {
+            "query": "Give me the current time and weather conditions in Astrakhan, Russia.",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Astrakhan"
+                }
+            }
+        },
+        {
+            "query": "What is the current time and weather like in Makhachkala, Russia?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Makhachkala"
+                }
+            }
+        },
+        {
+            "query": "I want to know the weather forecast for Kaliningrad, Russia today.",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Kaliningrad"
+                }
+            }
+        },
+        {
+            "query": "What is the current weather in a small town called Plovdiv, Bulgaria",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Plovdiv"
+                }
+            }
+        },
+        {
+            "query": "Can you tell me what's the temperature like right now in Guanajuato, Mexico?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Guanajuato"
+                }
+            }
+        },
+        {
+            "query": "What is the time and weather forecast for a city called Krasnodar in Russia?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Krasnodar"
+                }
+            }
+        },
+        {
+            "query": "How's the current weather looking like in a town called Nakhon Phanom, Thailand?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Nakhon Phanom"
+                }
+            }
+        },
+        {
+            "query": "What is the time and weather conditions for a city called Split, Croatia today?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Split"
+                }
+            }
+        },
+        {
+            "query": "I want to know what's the current weather like in a city called Tashkent, Uzbekistan",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Tashkent"
+                }
+            }
+        },
+        {
+            "query": "What is the time and temperature like right now in a town called Cuenca, Ecuador?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Cuenca"
+                }
+            }
+        },
+        {
+            "query": "How's the current weather looking like in a city called Sofia, Bulgaria today?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Sofia"
+                }
+            }
+        },
+        {
+            "query": "What is the time and weather forecast for a town called Vladivostok, Russia?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Vladivostok"
+                }
+            }
+        },
+        {
+            "query": "I want to know what's the current weather like in a city called Bandar Seri Begawan, Brunei today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Bandar Seri Begawan"
+                }
+            }
+        },
+        {
+            "query": "What is the time and temperature like right now in a town called Yerevan, Armenia?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Yerevan"
+                }
+            }
+        },
+        {
+            "query": "Can you tell me what's the weather forecast for today in a city called Astana, Kazakhstan?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Astana"
+                }
+            }
+        },
+        {
+            "query": "What is the time and weather conditions for a town called Thimphu, Bhutan today?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Thimphu"
+                }
+            }
+        },
+        {
+            "query": "I want to know what's the current weather like in a city called Baku, Azerbaijan today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Baku"
+                }
+            }
+        },
+        {
+            "query": "What is the time and temperature like right now in a town called Apia, Samoa?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Apia"
+                }
+            }
+        },
+        {
+            "query": "Can you tell me what's the weather forecast for today in a city called Hanoi, Vietnam?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Hanoi"
+                }
+            }
+        },
+        {
+            "query": "How's the current weather looking like in a town called Ashgabat, Turkmenistan today?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Ashgabat"
+                }
+            }
+        },
+        {
+            "query": "What is the time and weather forecast for a city called Dushanbe, Tajikistan today?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Dushanbe"
+                }
+            }
+        },
+        {
+            "query": "I want to know what's the current weather like in a city called Malabo, Equatorial Guinea today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Malabo"
+                }
+            }
+        },
+        {
+            "query": "What is the time and temperature like right now in a town called Phnom Penh, Cambodia?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Phnom Penh"
+                }
+            }
+        },
+        {
+            "query": "Can you tell me what's the weather forecast for today in a city called Port Moresby, Papua New Guinea?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Port Moresby"
+                }
+            }
+        },
+        {
+            "query": "How's the current weather looking like in a town called Majuro, Marshall Islands today?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Majuro"
+                }
+            }
+        },
+        {
+            "query": "What is the time and weather forecast for a city called Funafuti, Tuvalu today?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Funafuti"
+                }
+            }
+        },
+        {
+            "query": "I want to know what's the current weather like in a city called Nuku'alofa, Tonga today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Nuku'alofa"
+                }
+            }
+        },
+        {
+            "query": "What is the time and temperature like right now in a town called Honiara, Solomon Islands?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Honiara"
+                }
+            }
+        },
+        {
+            "query": "Can you tell me what's the weather forecast for today in a city called Rarotonga, Cook Islands?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Rarotonga"
+                }
+            }
+        },
+        {
+            "query": "How's the current weather looking like in a town called Tarawa, Kiribati today?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Tarawa"
+                }
+            }
+        },
+        {
+            "query": "What is the time and weather forecast for a city called Suva, Fiji today?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Suva"
+                }
+            }
+        },
+        {
+            "query": "I want to know what's the current weather like in a town called Apia, Samoa today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Apia"
+                }
+            }
+        },
+        {
+            "query": "What is the time and temperature like right now in a city called Funafuti, Tuvalu?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Funafuti"
+                }
+            }
+        },
+        {
+            "query": "Can you tell me what's the weather forecast for today in a town called Majuro, Marshall Islands?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Majuro"
+                }
+            }
+        },
+        {
+            "query": "How's the current weather looking like in a city called Tarawa, Kiribati today?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Tarawa"
+                }
+            }
+        },
+        {
+            "query": "What is the time and weather forecast for a city called Rarotonga, Cook Islands today?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Rarotonga"
+                }
+            }
+        },
+        {
+            "query": "I want to know what's the current weather like in a town called Honiara, Solomon Islands today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Honiara"
+                }
+            }
+        },
+        {
+            "query": "What is the time and temperature like right now in a city called Suva, Fiji?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Suva"
+                }
+            }
+        },
+        {
+            "query": "Can you tell me what's the weather forecast for today in a town called Nuku'alofa, Tonga?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Nuku'alofa"
+                }
+            }
+        },
+        {
+            "query": "How's the current weather looking like in a city called Port Moresby, Papua New Guinea today?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Port Moresby"
+                }
+            }
+        },
+        {
+            "query": "What is the time and weather forecast for a city called Phnom Penh, Cambodia today?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Phnom Penh"
+                }
+            }
+        },
+        {
+            "query": "I want to know what's the current weather like in a town called Malabo, Equatorial Guinea today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Malabo"
+                }
+            }
+        },
+        {
+            "query": "What is the time and temperature like right now in a city called Dushanbe, Tajikistan?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Dushanbe"
+                }
+            }
+        },
+        {
+            "query": "Can you tell me what's the weather forecast for today in a town called Ashgabat, Turkmenistan?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Ashgabat"
+                }
+            }
+        },
+        {
+            "query": "How's the current weather looking like in a city called Hanoi, Vietnam today?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Hanoi"
+                }
+            }
+        },
+        {
+            "query": "What is the time and weather forecast for a city called Baku, Azerbaijan today?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Baku"
+                }
+            }
+        },
+        {
+            "query": "I want to know what's the current weather like in a town called Thimphu, Bhutan today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Thimphu"
+                }
+            }
+        },
+        {
+            "query": "What is the time and temperature like right now in a city called Kabul, Afghanistan?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Kabul"
+                }
+            }
+        },
+        {
+            "query": "Can you tell me what's the weather forecast for today in a town called Dhaka, Bangladesh?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Dhaka"
+                }
+            }
+        },
+        {
+            "query": "How's the current weather looking like in a city called Kathmandu, Nepal today?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Kathmandu"
+                }
+            }
+        },
+        {
+            "query": "What is the time and weather forecast for a city called Male, Maldives today?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Male"
+                }
+            }
+        },
+        {
+            "query": "I want to know what's the current weather like in a town called Colombo, Sri Lanka today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Colombo"
+                }
+            }
+        },
+        {
+            "query": "What is the time and temperature like right now in a city called Islamabad, Pakistan?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Islamabad"
+                }
+            }
+        },
+        {
+            "query": "What is the weather in Tokyo",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Tokyo"
+                }
+            }
+        },
+        {
+            "query": "Current weather in Sydney",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Sydney"
+                }
+            }
+        },
+        {
+            "query": "Get current time and weather in Mumbai",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Mumbai"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather in Sao Paulo",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Sao Paulo"
+                }
+            }
+        },
+        {
+            "query": "What is the current time and weather like in Hong Kong",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Hong Kong"
+                }
+            }
+        },
+        {
+            "query": "Get the current time and weather in Singapore",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Singapore"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather in Buenos Aires",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Buenos Aires"
+                }
+            }
+        },
+        {
+            "query": "What is the current time and weather like in Bangkok",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Bangkok"
+                }
+            }
+        },
+        {
+            "query": "Get the current time and weather in Istanbul",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Istanbul"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather in Dubai",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Dubai"
+                }
+            }
+        },
+        {
+            "query": "What is the current time and weather like in Cairo",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Cairo"
+                }
+            }
+        },
+        {
+            "query": "Get the current time and weather in Riyadh",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Riyadh"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather in Tel Aviv",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Tel Aviv"
+                }
+            }
+        },
+        {
+            "query": "What is the current time and weather like in Prague",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Prague"
+                }
+            }
+        },
+        {
+            "query": "Get the current time and weather in Amsterdam",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Amsterdam"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather in Copenhagen",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Copenhagen"
+                }
+            }
+        },
+        {
+            "query": "What is the current time and weather like in Stockholm",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Stockholm"
+                }
+            }
+        },
+        {
+            "query": "Get the current time and weather in Berlin",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Berlin"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather in London",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "London"
+                }
+            }
+        },
+        {
+            "query": "What is the current time and weather like in Paris",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Paris"
+                }
+            }
+        },
+        {
+            "query": "Get the current time and weather in Rome",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Rome"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather in Madrid",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Madrid"
+                }
+            }
+        },
+        {
+            "query": "What is the current time and weather like in Athens",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Athens"
+                }
+            }
+        },
+        {
+            "query": "Get the current time and weather in Zurich",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Zurich"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather in Oslo",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Oslo"
+                }
+            }
+        },
+        {
+            "query": "What is the current time and weather like in Helsinki",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Helsinki"
+                }
+            }
+        },
+        {
+            "query": "Get the current time and weather in Warsaw",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Warsaw"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather in Budapest",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Budapest"
+                }
+            }
+        },
+        {
+            "query": "What is the current time and weather like in Dublin",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Dublin"
+                }
+            }
+        },
+        {
+            "query": "Get the current time and weather in Glasgow",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Glasgow"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather in Edinburgh",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Edinburgh"
+                }
+            }
+        },
+        {
+            "query": "What is the current time and weather like in Bristol",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Bristol"
+                }
+            }
+        },
+        {
+            "query": "Get the current time and weather in Leeds",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Leeds"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather in Manchester",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Manchester"
+                }
+            }
+        },
+        {
+            "query": "What is the current time and weather like in Brighton",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Brighton"
+                }
+            }
+        },
+        {
+            "query": "Get the current time and weather in Liverpool",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Liverpool"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather in Cardiff",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Cardiff"
+                }
+            }
+        },
+        {
+            "query": "What is the current time and weather like in Belfast",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Belfast"
+                }
+            }
+        },
+        {
+            "query": "Get the current time and weather in Newcastle upon Tyne",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Newcastle upon Tyne"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather in Nottingham",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Nottingham"
+                }
+            }
+        },
+        {
+            "query": "What is the current time and weather like in Southampton",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Southampton"
+                }
+            }
+        },
+        {
+            "query": "Get the current time and weather in Sheffield",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Sheffield"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather in Plymouth",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Plymouth"
+                }
+            }
+        },
+        {
+            "query": "What is the current time and weather like in Aberdeen",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Aberdeen"
+                }
+            }
+        },
+        {
+            "query": "Get the current time and weather in Hull",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Hull"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather in Stoke-on-Trent",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Stoke-on-Trent"
+                }
+            }
+        },
+        {
+            "query": "What is the current time and weather like in Wolverhampton",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Wolverhampton"
+                }
+            }
+        },
+        {
+            "query": "Get the current time and weather in Derby",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Derby"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather in York",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "York"
+                }
+            }
+        },
+        {
+            "query": "What is the current time and weather like in Swansea",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Swansea"
+                }
+            }
+        },
+        {
+            "query": "Get the current time and weather in Leicester",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Leicester"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather in Coventry",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Coventry"
+                }
+            }
+        },
+        {
+            "query": "What is the current time and weather like in Bradford",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Bradford"
+                }
+            }
+        },
+        {
+            "query": "What's the current time in PST for a gloomy day in Juneau, Alaska",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Juneau"
+                }
+            }
+        },
+        {
+            "query": "Is it sunny today in PST in Santa Fe, New Mexico?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Santa Fe"
+                }
+            }
+        },
+        {
+            "query": "What's the weather forecast for a rainy day in Fairbanks, Alaska in PST",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Fairbanks"
+                }
+            }
+        },
+        {
+            "query": "Will it be cloudy today in PST in Prescott, Arizona?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Prescott"
+                }
+            }
+        },
+        {
+            "query": "What's the current time and weather like in PST for a sunny day in Bangor, Maine",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Bangor"
+                }
+            }
+        },
+        {
+            "query": "Is it snowy today in PST in Anchorage, Alaska?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Anchorage"
+                }
+            }
+        },
+        {
+            "query": "What's the weather forecast for a cloudy day in PST in Juneau, Alaska",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Juneau"
+                }
+            }
+        },
+        {
+            "query": "Will it be sunny today in PST in Santa Fe, New Mexico?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Santa Fe"
+                }
+            }
+        },
+        {
+            "query": "What's the current time and weather like in PST for a rainy day in Fairbanks, Alaska",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Fairbanks"
+                }
+            }
+        },
+        {
+            "query": "Is it cloudy today in PST in Bangor, Maine?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Bangor"
+                }
+            }
+        },
+        {
+            "query": "What's the weather forecast for a sunny day in PST in Anchorage, Alaska",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Anchorage"
+                }
+            }
+        },
+        {
+            "query": "Will it be snowy today in PST in Prescott, Arizona?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Prescott"
+                }
+            }
+        },
+        {
+            "query": "What's the current time and weather like in PST for a cloudy day in Bangor, Maine",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Bangor"
+                }
+            }
+        },
+        {
+            "query": "Is it rainy today in PST in Santa Fe, New Mexico?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Santa Fe"
+                }
+            }
+        },
+        {
+            "query": "What's the weather forecast for a sunny day in PST in Juneau, Alaska",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Juneau"
+                }
+            }
+        },
+        {
+            "query": "Will it be cloudy today in PST in Fairbanks, Alaska?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Fairbanks"
+                }
+            }
+        },
+        {
+            "query": "What's the current time and weather like in PST for a snowy day in Anchorage, Alaska",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Anchorage"
+                }
+            }
+        },
+        {
+            "query": "Is it sunny today in PST in Prescott, Arizona?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Prescott"
+                }
+            }
+        },
+        {
+            "query": "What's the weather forecast for a rainy day in PST in Bangor, Maine",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Bangor"
+                }
+            }
+        },
+        {
+            "query": "Will it be cloudy today in PST in Santa Fe, New Mexico?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Santa Fe"
+                }
+            }
+        },
+        {
+            "query": "What's the current time and weather like in PST for a sunny day in Fairbanks, Alaska",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Fairbanks"
+                }
+            }
+        },
+        {
+            "query": "Is it snowy today in PST in Juneau, Alaska?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Juneau"
+                }
+            }
+        },
+        {
+            "query": "What's the weather forecast for a cloudy day in PST in Anchorage, Alaska",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Anchorage"
+                }
+            }
+        },
+        {
+            "query": "Will it be rainy today in PST in Prescott, Arizona?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Prescott"
+                }
+            }
+        },
+        {
+            "query": "What's the current time and weather like in PST for a cloudy day in Santa Fe, New Mexico",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Santa Fe"
+                }
+            }
+        },
+        {
+            "query": "Is it sunny today in PST in Bangor, Maine?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Bangor"
+                }
+            }
+        },
+        {
+            "query": "What's the weather forecast for a snowy day in PST in Juneau, Alaska",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Juneau"
+                }
+            }
+        },
+        {
+            "query": "What's the current time and weather like in PST for a sunny day in Anchorage, Alaska",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Anchorage"
+                }
+            }
+        },
+        {
+            "query": "Is it rainy today in PST in Prescott, Arizona?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Prescott"
+                }
+            }
+        },
+        {
+            "query": "What's the weather forecast for a cloudy day in PST in Santa Fe, New Mexico",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Santa Fe"
+                }
+            }
+        },
+        {
+            "query": "Will it be sunny today in PST in Bangor, Maine?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Bangor"
+                }
+            }
+        },
+        {
+            "query": "What's the current time and weather like in PST for a snowy day in Juneau, Alaska",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Juneau"
+                }
+            }
+        },
+        {
+            "query": "Is it cloudy today in PST in Fairbanks, Alaska?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Fairbanks"
+                }
+            }
+        },
+        {
+            "query": "What is the weather in Yangon",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Yangon"
+                }
+            }
+        },
+        {
+            "query": "What is the temperature in Lima today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Lima"
+                }
+            }
+        },
+        {
+            "query": "Get current time and weather info for Hanoi",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Hanoi"
+                }
+            }
+        },
+        {
+            "query": "What is the weather like in Bogota right now",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Bogota"
+                }
+            }
+        },
+        {
+            "query": "Get current time and weather for Kathmandu",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Kathmandu"
+                }
+            }
+        },
+        {
+            "query": "What is the temperature in Maputo today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Maputo"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather info for Dhaka",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Dhaka"
+                }
+            }
+        },
+        {
+            "query": "Get current time and weather in Chisinau",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Chisinau"
+                }
+            }
+        },
+        {
+            "query": "What is the weather like in Ashgabat right now",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Ashgabat"
+                }
+            }
+        },
+        {
+            "query": "Get current time and weather info for Almaty",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Almaty"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather in Tashkent",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Tashkent"
+                }
+            }
+        },
+        {
+            "query": "What is the temperature in Bishkek today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Bishkek"
+                }
+            }
+        },
+        {
+            "query": "Get current time and weather for Astana",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Astana"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather info in Ulaanbaatar",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Ulaanbaatar"
+                }
+            }
+        },
+        {
+            "query": "What is the weather like in Vientiane right now",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Vientiane"
+                }
+            }
+        },
+        {
+            "query": "Get current time and weather for Phnom Penh",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Phnom Penh"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather info in Bangkok",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Bangkok"
+                }
+            }
+        },
+        {
+            "query": "What is the temperature in Kuala Lumpur today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Kuala Lumpur"
+                }
+            }
+        },
+        {
+            "query": "Get current time and weather for Jakarta",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Jakarta"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather info in Manila",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Manila"
+                }
+            }
+        },
+        {
+            "query": "What is the weather like in Hanoi right now",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Hanoi"
+                }
+            }
+        },
+        {
+            "query": "Get current time and weather for Ho Chi Minh City",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Ho Chi Minh City"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather info in Bandar Seri Begawan",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Bandar Seri Begawan"
+                }
+            }
+        },
+        {
+            "query": "What is the temperature in Dili today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Dili"
+                }
+            }
+        },
+        {
+            "query": "Get current time and weather for Port Moresby",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Port Moresby"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather info in Honiara",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Honiara"
+                }
+            }
+        },
+        {
+            "query": "What is the weather like in Funafuti right now",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Funafuti"
+                }
+            }
+        },
+        {
+            "query": "Get current time and weather for Majuro",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Majuro"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather info in Tarawa",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Tarawa"
+                }
+            }
+        },
+        {
+            "query": "What is the temperature in Nuku'alofa today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Nuku'alofa"
+                }
+            }
+        },
+        {
+            "query": "Get current time and weather for Apia",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Apia"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather info in Funafo'ou",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Funafo'ou"
+                }
+            }
+        },
+        {
+            "query": "What is the weather like in Papeete right now",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Papeete"
+                }
+            }
+        },
+        {
+            "query": "Get current time and weather for Noumea",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Noumea"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather info in Port Vila",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Port Vila"
+                }
+            }
+        },
+        {
+            "query": "What is the temperature in Suva today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Suva"
+                }
+            }
+        },
+        {
+            "query": "Get current time and weather for Nadi",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Nadi"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather info in Lautoka",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Lautoka"
+                }
+            }
+        },
+        {
+            "query": "What is the weather like in Kavaratti right now",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Kavaratti"
+                }
+            }
+        },
+        {
+            "query": "Get current time and weather for Mal\u00e9",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Mal\u00e9"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather info in Addu City",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Addu City"
+                }
+            }
+        },
+        {
+            "query": "What is the temperature in Fuvahmuluku today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Fuvahmuluku"
+                }
+            }
+        },
+        {
+            "query": "Get current time and weather for Hithadhoo",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Hithadhoo"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather info in Thinadhoo",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Thinadhoo"
+                }
+            }
+        },
+        {
+            "query": "What is the weather like in Villingili right now",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Villingili"
+                }
+            }
+        },
+        {
+            "query": "Get current time and weather for Marudu",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Marudu"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather info in Malacca City",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Malacca City"
+                }
+            }
+        },
+        {
+            "query": "What is the temperature in Putrajaya today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Putrajaya"
+                }
+            }
+        },
+        {
+            "query": "Get current time and weather for Kuala Lumpur",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Kuala Lumpur"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather info in Kuching",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Kuching"
+                }
+            }
+        },
+        {
+            "query": "What is the weather like in Kota Kinabalu right now",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Kota Kinabalu"
+                }
+            }
+        },
+        {
+            "query": "What is the current weather in Chongqing",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Chongqing"
+                }
+            }
+        },
+        {
+            "query": "Time in PST and weather for Kathmandu",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Kathmandu"
+                }
+            }
+        },
+        {
+            "query": "Get the current time and weather info in Medellin",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Medellin"
+                }
+            }
+        },
+        {
+            "query": "Weather forecast for the next hour in Lima",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Lima"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather in Accra",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Accra"
+                }
+            }
+        },
+        {
+            "query": "What is the current weather like in Hanoi",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Hanoi"
+                }
+            }
+        },
+        {
+            "query": "Get the time and weather info for Zagreb",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Zagreb"
+                }
+            }
+        },
+        {
+            "query": "What is the current PST time in Guayaquil",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Guayaquil"
+                }
+            }
+        },
+        {
+            "query": "Current weather and time for Beirut",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Beirut"
+                }
+            }
+        },
+        {
+            "query": "Get the current time in PST and weather for Addis Ababa",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Addis Ababa"
+                }
+            }
+        },
+        {
+            "query": "Time and weather forecast for Budapest",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Budapest"
+                }
+            }
+        },
+        {
+            "query": "Current time in PST and weather info for Yangon",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Yangon"
+                }
+            }
+        },
+        {
+            "query": "Weather forecast for the next hour in Muscat",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Muscat"
+                }
+            }
+        },
+        {
+            "query": "Get the current weather info in Jakarta",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Jakarta"
+                }
+            }
+        },
+        {
+            "query": "Current PST time and weather for Kiev",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Kiev"
+                }
+            }
+        },
+        {
+            "query": "Time and weather info for Phnom Penh",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Phnom Penh"
+                }
+            }
+        },
+        {
+            "query": "Weather forecast for the next hour in Sanaa",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Sanaa"
+                }
+            }
+        },
+        {
+            "query": "Current weather info in Tashkent",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Tashkent"
+                }
+            }
+        },
+        {
+            "query": "Get the current time in PST and weather for Dar es Salaam",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Dar es Salaam"
+                }
+            }
+        },
+        {
+            "query": "Time and weather forecast for Baku",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Baku"
+                }
+            }
+        },
+        {
+            "query": "Current time in PST and weather info for Abuja",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Abuja"
+                }
+            }
+        },
+        {
+            "query": "Weather forecast for the next hour in Damascus",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Damascus"
+                }
+            }
+        },
+        {
+            "query": "Get the current weather info in Tripoli",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Tripoli"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather for Skopje",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Skopje"
+                }
+            }
+        },
+        {
+            "query": "Time and weather info for Ashgabat",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Ashgabat"
+                }
+            }
+        },
+        {
+            "query": "Current time in PST and weather forecast for N'Djamena",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "N'Djamena"
+                }
+            }
+        },
+        {
+            "query": "Weather info for the next hour in Podgorica",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Podgorica"
+                }
+            }
+        },
+        {
+            "query": "Get the current time and weather for Yerevan",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Yerevan"
+                }
+            }
+        },
+        {
+            "query": "Current PST time and weather info in Doha",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Doha"
+                }
+            }
+        },
+        {
+            "query": "Time and weather forecast for Tunis",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Tunis"
+                }
+            }
+        },
+        {
+            "query": "Current time in PST and weather info for Khartoum",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Khartoum"
+                }
+            }
+        },
+        {
+            "query": "Weather forecast for the next hour in Cairo",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Cairo"
+                }
+            }
+        },
+        {
+            "query": "Get the current time and weather info in Baghdad",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Baghdad"
+                }
+            }
+        },
+        {
+            "query": "Current PST time and weather for Amman",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Amman"
+                }
+            }
+        },
+        {
+            "query": "Time and weather info for Sana'a",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Sana'a"
+                }
+            }
+        },
+        {
+            "query": "Weather forecast for the next hour in Kuwait City",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Kuwait City"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather info in Riyadh",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Riyadh"
+                }
+            }
+        },
+        {
+            "query": "Get the current weather info in Muscat",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Muscat"
+                }
+            }
+        },
+        {
+            "query": "Current time in PST and weather for Manama",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Manama"
+                }
+            }
+        },
+        {
+            "query": "Time and weather forecast for Abu Dhabi",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Abu Dhabi"
+                }
+            }
+        },
+        {
+            "query": "Current time in PST and weather info in Baghdad",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Baghdad"
+                }
+            }
+        },
+        {
+            "query": "Weather forecast for the next hour in Doha",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Doha"
+                }
+            }
+        },
+        {
+            "query": "Get the current time and weather info in Kuwait City",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Kuwait City"
+                }
+            }
+        },
+        {
+            "query": "Current PST time and weather for Riyadh",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Riyadh"
+                }
+            }
+        },
+        {
+            "query": "Time and weather info for Muscat",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Muscat"
+                }
+            }
+        },
+        {
+            "query": "Current time in PST and weather forecast for Manama",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Manama"
+                }
+            }
+        },
+        {
+            "query": "Weather info for the next hour in Abu Dhabi",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Abu Dhabi"
+                }
+            }
+        },
+        {
+            "query": "Get the current time and weather info in Amman",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Amman"
+                }
+            }
+        },
+        {
+            "query": "What is the forecast for a rainy day in Accra, Ghana",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Accra"
+                }
+            }
+        },
+        {
+            "query": "Will it be sunny tomorrow in Phnom Penh, Cambodia?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Phnom Penh"
+                }
+            }
+        },
+        {
+            "query": "What is the weather like right now in Sapporo, Japan",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Sapporo"
+                }
+            }
+        },
+        {
+            "query": "How's the temperature in Lima, Peru today?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Lima"
+                }
+            }
+        },
+        {
+            "query": "What is the current weather situation in Colombo, Sri Lanka?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Colombo"
+                }
+            }
+        },
+        {
+            "query": "Is it going to rain tomorrow in Hanoi, Vietnam?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Hanoi"
+                }
+            }
+        },
+        {
+            "query": "What is the weather forecast for a week from now in Bangkok, Thailand?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Bangkok"
+                }
+            }
+        },
+        {
+            "query": "Will it be cloudy today in Medellin, Colombia?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Medellin"
+                }
+            }
+        },
+        {
+            "query": "What is the current temperature in Abuja, Nigeria?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Abuja"
+                }
+            }
+        },
+        {
+            "query": "Is it going to be hot tomorrow in Dubai, UAE?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Dubai"
+                }
+            }
+        },
+        {
+            "query": "What is the weather situation like right now in Cairo, Egypt?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Cairo"
+                }
+            }
+        },
+        {
+            "query": "Will it be sunny next week in Mumbai, India?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Mumbai"
+                }
+            }
+        },
+        {
+            "query": "What is the current weather like in Addis Ababa, Ethiopia?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Addis Ababa"
+                }
+            }
+        },
+        {
+            "query": "Is it going to rain tomorrow in Caracas, Venezuela?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Caracas"
+                }
+            }
+        },
+        {
+            "query": "What is the weather forecast for a month from now in Kuala Lumpur, Malaysia?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Kuala Lumpur"
+                }
+            }
+        },
+        {
+            "query": "Will it be cloudy today in Algiers, Algeria?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Algiers"
+                }
+            }
+        },
+        {
+            "query": "What is the current temperature in Dhaka, Bangladesh?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Dhaka"
+                }
+            }
+        },
+        {
+            "query": "Is it going to be hot tomorrow in Yaounde, Cameroon?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Yaounde"
+                }
+            }
+        },
+        {
+            "query": "What is the weather situation like right now in Tashkent, Uzbekistan?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Tashkent"
+                }
+            }
+        },
+        {
+            "query": "Will it be sunny next week in Ashgabat, Turkmenistan?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Ashgabat"
+                }
+            }
+        },
+        {
+            "query": "What is the current weather like in Bishkek, Kyrgyzstan?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Bishkek"
+                }
+            }
+        },
+        {
+            "query": "Is it going to rain tomorrow in Samarkand, Uzbekistan?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Samarkand"
+                }
+            }
+        },
+        {
+            "query": "What is the weather forecast for a week from now in Astana, Kazakhstan?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Astana"
+                }
+            }
+        },
+        {
+            "query": "Will it be cloudy today in Minsk, Belarus?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Minsk"
+                }
+            }
+        },
+        {
+            "query": "What is the current temperature in Moscow, Russia?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Moscow"
+                }
+            }
+        },
+        {
+            "query": "Is it going to be hot tomorrow in Kyiv, Ukraine?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Kyiv"
+                }
+            }
+        },
+        {
+            "query": "What is the weather situation like right now in Riga, Latvia?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Riga"
+                }
+            }
+        },
+        {
+            "query": "Will it be sunny next week in Vilnius, Lithuania?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Vilnius"
+                }
+            }
+        },
+        {
+            "query": "What is the current weather like in Tallinn, Estonia?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Tallinn"
+                }
+            }
+        },
+        {
+            "query": "Is it going to rain tomorrow in Stockholm, Sweden?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Stockholm"
+                }
+            }
+        },
+        {
+            "query": "What is the weather forecast for a month from now in Copenhagen, Denmark?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Copenhagen"
+                }
+            }
+        },
+        {
+            "query": "Will it be cloudy today in Oslo, Norway?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Oslo"
+                }
+            }
+        },
+        {
+            "query": "What is the current temperature in Helsinki, Finland?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Helsinki"
+                }
+            }
+        },
+        {
+            "query": "Is it going to be hot tomorrow in Reykjavik, Iceland?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Reykjavik"
+                }
+            }
+        },
+        {
+            "query": "What is the weather situation like right now in Gibraltar, UK?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Gibraltar"
+                }
+            }
+        },
+        {
+            "query": "Will it be sunny next week in Jersey, Channel Islands?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Jersey"
+                }
+            }
+        },
+        {
+            "query": "What is the current weather like in Guernsey, UK?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Guernsey"
+                }
+            }
+        },
+        {
+            "query": "Is it going to rain tomorrow in St. Helier, Jersey?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "St. Helier"
+                }
+            }
+        },
+        {
+            "query": "What is the weather forecast for a week from now in Douglas, Isle of Man?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Douglas"
+                }
+            }
+        },
+        {
+            "query": "Will it be cloudy today in Torshavn, Faroe Islands?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Torshavn"
+                }
+            }
+        },
+        {
+            "query": "What is the current temperature in Nuuk, Greenland?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Nuuk"
+                }
+            }
+        },
+        {
+            "query": "What is the weather situation like right now in Longyearbyen, Svalbard?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Longyearbyen"
+                }
+            }
+        },
+        {
+            "query": "Current time and forecast for Lima",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Lima"
+                }
+            }
+        },
+        {
+            "query": "Get the current weather in Tokyo",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Tokyo"
+                }
+            }
+        },
+        {
+            "query": "What is the time and temperature in Mumbai today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Mumbai"
+                }
+            }
+        },
+        {
+            "query": "Current weather conditions for Bangkok",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Bangkok"
+                }
+            }
+        },
+        {
+            "query": "Get the forecast for Rio de Janeiro",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Rio de Janeiro"
+                }
+            }
+        },
+        {
+            "query": "What is the current time and weather in Moscow",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Moscow"
+                }
+            }
+        },
+        {
+            "query": "Get the temperature and forecast for Cairo",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Cairo"
+                }
+            }
+        },
+        {
+            "query": "Current weather in Delhi today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Delhi"
+                }
+            }
+        },
+        {
+            "query": "What is the forecast for Beijing",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Beijing"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather in Istanbul",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Istanbul"
+                }
+            }
+        },
+        {
+            "query": "Get the forecast for Seoul today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Seoul"
+                }
+            }
+        },
+        {
+            "query": "What is the current time and temperature in Jakarta",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Jakarta"
+                }
+            }
+        },
+        {
+            "query": "Current weather conditions for Hong Kong",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Hong Kong"
+                }
+            }
+        },
+        {
+            "query": "Get the forecast for Dubai today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Dubai"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather in Singapore",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Singapore"
+                }
+            }
+        },
+        {
+            "query": "What is the current temperature in Mumbai today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Mumbai"
+                }
+            }
+        },
+        {
+            "query": "Current weather conditions for Manila today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Manila"
+                }
+            }
+        },
+        {
+            "query": "Get the forecast for Mumbai today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Mumbai"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather in Bangkok today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Bangkok"
+                }
+            }
+        },
+        {
+            "query": "What is the current temperature in Beijing today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Beijing"
+                }
+            }
+        },
+        {
+            "query": "Current weather conditions for Seoul today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Seoul"
+                }
+            }
+        },
+        {
+            "query": "Get the forecast for Delhi today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Delhi"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather in Cairo today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Cairo"
+                }
+            }
+        },
+        {
+            "query": "What is the current temperature in Moscow today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Moscow"
+                }
+            }
+        },
+        {
+            "query": "Current weather conditions for Istanbul today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Istanbul"
+                }
+            }
+        },
+        {
+            "query": "Get the forecast for Manila today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Manila"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather in Hong Kong today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Hong Kong"
+                }
+            }
+        },
+        {
+            "query": "What is the current temperature in Dubai today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Dubai"
+                }
+            }
+        },
+        {
+            "query": "Current weather conditions for Singapore today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Singapore"
+                }
+            }
+        },
+        {
+            "query": "Get the forecast for Jakarta today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Jakarta"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather in Beijing today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Beijing"
+                }
+            }
+        },
+        {
+            "query": "What is the current temperature in Seoul today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Seoul"
+                }
+            }
+        },
+        {
+            "query": "Current weather conditions for Mumbai today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Mumbai"
+                }
+            }
+        },
+        {
+            "query": "Get the forecast for Bangkok today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Bangkok"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather in Delhi today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Delhi"
+                }
+            }
+        },
+        {
+            "query": "What is the current temperature in Cairo today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Cairo"
+                }
+            }
+        },
+        {
+            "query": "Current weather conditions for Dubai today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Dubai"
+                }
+            }
+        },
+        {
+            "query": "Get the forecast for Hong Kong today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Hong Kong"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather in Manila today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Manila"
+                }
+            }
+        },
+        {
+            "query": "What is the current temperature in Singapore today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Singapore"
+                }
+            }
+        },
+        {
+            "query": "Current weather conditions for Jakarta today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Jakarta"
+                }
+            }
+        },
+        {
+            "query": "Get the forecast for Istanbul today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Istanbul"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather in Tokyo today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Tokyo"
+                }
+            }
+        },
+        {
+            "query": "What is the current temperature in Lima today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Lima"
+                }
+            }
+        },
+        {
+            "query": "Current weather conditions for Kathmandu today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Kathmandu"
+                }
+            }
+        },
+        {
+            "query": "Get the forecast for Moscow today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Moscow"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather in Rio de Janeiro today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Rio de Janeiro"
+                }
+            }
+        },
+        {
+            "query": "Current weather conditions for Bangkok today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Bangkok"
+                }
+            }
+        },
+        {
+            "query": "Get the forecast for Beijing today",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Beijing"
+                }
+            }
+        },
+        {
+            "query": "What's the current weather in Green Bay, Wisconsin?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Green Bay"
+                }
+            }
+        },
+        {
+            "query": "Can you tell me about the current time and temperature in Biloxi, Mississippi?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Biloxi"
+                }
+            }
+        },
+        {
+            "query": "What's going on with the weather in Juneau, Alaska today?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Juneau"
+                }
+            }
+        },
+        {
+            "query": "Is it raining in Albuquerque, New Mexico right now?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Albuquerque"
+                }
+            }
+        },
+        {
+            "query": "What's the forecast for Santa Fe, New Mexico?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Santa Fe"
+                }
+            }
+        },
+        {
+            "query": "How's the weather in Spokane, Washington right now?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Spokane"
+                }
+            }
+        },
+        {
+            "query": "What time is it and what's the weather like in Tulsa, Oklahoma?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Tulsa"
+                }
+            }
+        },
+        {
+            "query": "Can you tell me about the current weather in Des Moines, Iowa?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Des Moines"
+                }
+            }
+        },
+        {
+            "query": "Is it sunny in Columbus, Ohio right now?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Columbus"
+                }
+            }
+        },
+        {
+            "query": "What's the current temperature and weather like in Richmond, Virginia?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Richmond"
+                }
+            }
+        },
+        {
+            "query": "Can you give me an update on the weather in Indianapolis, Indiana?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Indianapolis"
+                }
+            }
+        },
+        {
+            "query": "What's happening with the weather in St. Louis, Missouri today?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "St. Louis"
+                }
+            }
+        },
+        {
+            "query": "How's the weather looking for Nashville, Tennessee?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Nashville"
+                }
+            }
+        },
+        {
+            "query": "Is it cloudy in Knoxville, Tennessee right now?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Knoxville"
+                }
+            }
+        },
+        {
+            "query": "Can you tell me about the current weather in Memphis, Tennessee?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Memphis"
+                }
+            }
+        },
+        {
+            "query": "What's going on with the weather in Baton Rouge, Louisiana today?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Baton Rouge"
+                }
+            }
+        },
+        {
+            "query": "Is it raining in Shreveport, Louisiana right now?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Shreveport"
+                }
+            }
+        },
+        {
+            "query": "How's the weather looking for Little Rock, Arkansas?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Little Rock"
+                }
+            }
+        },
+        {
+            "query": "What time is it and what's the weather like in Oklahoma City, Oklahoma?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Oklahoma City"
+                }
+            }
+        },
+        {
+            "query": "Can you give me an update on the weather in Topeka, Kansas?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Topeka"
+                }
+            }
+        },
+        {
+            "query": "What's happening with the weather in Wichita, Kansas today?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Wichita"
+                }
+            }
+        },
+        {
+            "query": "Is it sunny in Springfield, Missouri right now?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Springfield"
+                }
+            }
+        },
+        {
+            "query": "How's the weather looking for Paducah, Kentucky?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Paducah"
+                }
+            }
+        },
+        {
+            "query": "What time is it and what's the weather like in Charleston, West Virginia?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Charleston"
+                }
+            }
+        },
+        {
+            "query": "Can you tell me about the current weather in Morgantown, West Virginia?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Morgantown"
+                }
+            }
+        },
+        {
+            "query": "Is it cloudy in Beckley, West Virginia right now?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Beckley"
+                }
+            }
+        },
+        {
+            "query": "How's the weather looking for Huntington, West Virginia?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Huntington"
+                }
+            }
+        },
+        {
+            "query": "What's going on with the weather in Jonesboro, Arkansas today?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Jonesboro"
+                }
+            }
+        },
+        {
+            "query": "Is it raining in Fayetteville, Arkansas right now?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Fayetteville"
+                }
+            }
+        },
+        {
+            "query": "What time is it and what's the weather like in Fort Smith, Arkansas?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Fort Smith"
+                }
+            }
+        },
+        {
+            "query": "Can you give me an update on the weather in Pine Bluff, Arkansas?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Pine Bluff"
+                }
+            }
+        },
+        {
+            "query": "How's the weather looking for Texarkana, Texas?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Texarkana"
+                }
+            }
+        },
+        {
+            "query": "What's happening with the weather in Amarillo, Texas today?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Amarillo"
+                }
+            }
+        },
+        {
+            "query": "Is it sunny in Lubbock, Texas right now?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Lubbock"
+                }
+            }
+        },
+        {
+            "query": "Can you tell me about the current weather in Abilene, Texas?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Abilene"
+                }
+            }
+        },
+        {
+            "query": "What's going on with the weather in Wichita Falls, Texas today?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Wichita Falls"
+                }
+            }
+        },
+        {
+            "query": "Is it cloudy in Tyler, Texas right now?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Tyler"
+                }
+            }
+        },
+        {
+            "query": "How's the weather looking for Longview, Texas?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Longview"
+                }
+            }
+        },
+        {
+            "query": "What time is it and what's the weather like in Laredo, Texas?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Laredo"
+                }
+            }
+        },
+        {
+            "query": "Can you give me an update on the weather in Brownsville, Texas?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Brownsville"
+                }
+            }
+        },
+        {
+            "query": "What's happening with the weather in Corpus Christi, Texas today?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Corpus Christi"
+                }
+            }
+        },
+        {
+            "query": "Is it sunny in San Antonio, Texas right now?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "San Antonio"
+                }
+            }
+        },
+        {
+            "query": "Can you tell me about the current weather in Dallas, Texas?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Dallas"
+                }
+            }
+        },
+        {
+            "query": "How's the weather looking for Houston, Texas?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Houston"
+                }
+            }
+        },
+        {
+            "query": "What time is it and what's the weather like in Galveston, Texas?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Galveston"
+                }
+            }
+        },
+        {
+            "query": "Can you give me an update on the weather in Austin, Texas?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Austin"
+                }
+            }
+        },
+        {
+            "query": "What's happening with the weather in El Paso, Texas today?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "El Paso"
+                }
+            }
+        },
+        {
+            "query": "Is it cloudy in Odessa, Texas right now?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Odessa"
+                }
+            }
+        },
+        {
+            "query": "How's the weather looking for McAllen, Texas?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "McAllen"
+                }
+            }
+        },
+        {
+            "query": "What time is it and what's the weather like in Harlingen, Texas?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Harlingen"
+                }
+            }
+        }
+    ]
+}

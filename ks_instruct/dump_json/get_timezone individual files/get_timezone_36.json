@@ -1,0 +1,436 @@
+{
+    "queries": [
+        {
+            "query": "What time zone is Honolulu in Hawaii USA 96813?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Honolulu",
+                    "state": "Hawaii",
+                    "country": "United States",
+                    "mail_code": "96813"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Phoenix in Arizona USA 85001?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Phoenix",
+                    "state": "Arizona",
+                    "country": "United States",
+                    "mail_code": "85001"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Los Angeles in California USA 90001?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Los Angeles",
+                    "state": "California",
+                    "country": "United States",
+                    "mail_code": "90001"
+                }
+            }
+        },
+        {
+            "query": "What time zone is New York in New York USA 10001?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "New York",
+                    "state": "New York",
+                    "country": "United States",
+                    "mail_code": "10001"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Miami in Florida USA 33101?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Miami",
+                    "state": "Florida",
+                    "country": "United States",
+                    "mail_code": "33101"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Chicago in Illinois USA 60601?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Chicago",
+                    "state": "Illinois",
+                    "country": "United States",
+                    "mail_code": "60601"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Boston in Massachusetts USA 02101?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Boston",
+                    "state": "Massachusetts",
+                    "country": "United States",
+                    "mail_code": "02101"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Seattle in Washington USA 98101?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Seattle",
+                    "state": "Washington",
+                    "country": "United States",
+                    "mail_code": "98101"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Denver in Colorado USA 80201?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Denver",
+                    "state": "Colorado",
+                    "country": "United States",
+                    "mail_code": "80201"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Dallas in Texas USA 75201?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Dallas",
+                    "state": "Texas",
+                    "country": "United States",
+                    "mail_code": "75201"
+                }
+            }
+        },
+        {
+            "query": "What time zone is San Francisco in California USA 94101?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "San Francisco",
+                    "state": "California",
+                    "country": "United States",
+                    "mail_code": "94101"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Sacramento in California USA 95801?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Sacramento",
+                    "state": "California",
+                    "country": "United States",
+                    "mail_code": "95801"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Portland in Oregon USA 97201?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Portland",
+                    "state": "Oregon",
+                    "country": "United States",
+                    "mail_code": "97201"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Austin in Texas USA 78701?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Austin",
+                    "state": "Texas",
+                    "country": "United States",
+                    "mail_code": "78701"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Columbus in Ohio USA 43201?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Columbus",
+                    "state": "Ohio",
+                    "country": "United States",
+                    "mail_code": "43201"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Charlotte in North Carolina USA 28201?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Charlotte",
+                    "state": "North Carolina",
+                    "country": "United States",
+                    "mail_code": "28201"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Detroit in Michigan USA 48201?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Detroit",
+                    "state": "Michigan",
+                    "country": "United States",
+                    "mail_code": "48201"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Indianapolis in Indiana USA 46201?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Indianapolis",
+                    "state": "Indiana",
+                    "country": "United States",
+                    "mail_code": "46201"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Jacksonville in Florida USA 32201?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Jacksonville",
+                    "state": "Florida",
+                    "country": "United States",
+                    "mail_code": "32201"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Memphis in Tennessee USA 38101?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Memphis",
+                    "state": "Tennessee",
+                    "country": "United States",
+                    "mail_code": "38101"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Milwaukee in Wisconsin USA 53201?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Milwaukee",
+                    "state": "Wisconsin",
+                    "country": "United States",
+                    "mail_code": "53201"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Minneapolis in Minnesota USA 55401?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Minneapolis",
+                    "state": "Minnesota",
+                    "country": "United States",
+                    "mail_code": "55401"
+                }
+            }
+        },
+        {
+            "query": "What time zone is New Orleans in Louisiana USA 70101?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "New Orleans",
+                    "state": "Louisiana",
+                    "country": "United States",
+                    "mail_code": "70101"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Oklahoma City in Oklahoma USA 73101?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Oklahoma City",
+                    "state": "Oklahoma",
+                    "country": "United States",
+                    "mail_code": "73101"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Philadelphia in Pennsylvania USA 19101?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Philadelphia",
+                    "state": "Pennsylvania",
+                    "country": "United States",
+                    "mail_code": "19101"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Phoenix in Arizona USA 85001?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Phoenix",
+                    "state": "Arizona",
+                    "country": "United States",
+                    "mail_code": "85001"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Providence in Rhode Island USA 02901?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Providence",
+                    "state": "Rhode Island",
+                    "country": "United States",
+                    "mail_code": "02901"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Raleigh in North Carolina USA 27601?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Raleigh",
+                    "state": "North Carolina",
+                    "country": "United States",
+                    "mail_code": "27601"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Richmond in Virginia USA 23201?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Richmond",
+                    "state": "Virginia",
+                    "country": "United States",
+                    "mail_code": "23201"
+                }
+            }
+        },
+        {
+            "query": "What time zone is St. Louis in Missouri USA 63101?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "St. Louis",
+                    "state": "Missouri",
+                    "country": "United States",
+                    "mail_code": "63101"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Tampa in Florida USA 33601?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tampa",
+                    "state": "Florida",
+                    "country": "United States",
+                    "mail_code": "33601"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Toledo in Ohio USA 43601?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Toledo",
+                    "state": "Ohio",
+                    "country": "United States",
+                    "mail_code": "43601"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Tucson in Arizona USA 85701?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tucson",
+                    "state": "Arizona",
+                    "country": "United States",
+                    "mail_code": "85701"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Tulsa in Oklahoma USA 74101?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tulsa",
+                    "state": "Oklahoma",
+                    "country": "United States",
+                    "mail_code": "74101"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Washington D.C. in District of Columbia USA 20001?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Washington D.C.",
+                    "state": "District of Columbia",
+                    "country": "United States",
+                    "mail_code": "20001"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Wichita in Kansas USA 67201?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Wichita",
+                    "state": "Kansas",
+                    "country": "United States",
+                    "mail_code": "67201"
+                }
+            }
+        }
+    ]
+}

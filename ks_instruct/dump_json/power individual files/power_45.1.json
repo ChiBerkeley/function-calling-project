@@ -1,0 +1,454 @@
+{
+    "queries": [
+        {
+            "query": "What is the power of -5.123 raised to 2.456",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-5.123",
+                    "exponent": "2.456"
+                }
+            }
+        },
+        {
+            "query": "Calculate 3.111 to the power of -0.789",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "3.111",
+                    "exponent": "-0.789"
+                }
+            }
+        },
+        {
+            "query": "What is the exponentiation of -9.021 raised to 4.392?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-9.021",
+                    "exponent": "4.392"
+                }
+            }
+        },
+        {
+            "query": "Determine the power of 6.954 raised to -3.127",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "6.954",
+                    "exponent": "-3.127"
+                }
+            }
+        },
+        {
+            "query": "Find the result of 8.013 raised to the power of 5.659",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "8.013",
+                    "exponent": "5.659"
+                }
+            }
+        },
+        {
+            "query": "What is the power of -2.457 raised to -9.853?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-2.457",
+                    "exponent": "-9.853"
+                }
+            }
+        },
+        {
+            "query": "Calculate 4.981 to the power of 3.141",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "4.981",
+                    "exponent": "3.141"
+                }
+            }
+        },
+        {
+            "query": "Determine the exponentiation of -1.002 raised to -6.956?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-1.002",
+                    "exponent": "-6.956"
+                }
+            }
+        },
+        {
+            "query": "Find the result of 9.934 raised to the power of -2.471",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "9.934",
+                    "exponent": "-2.471"
+                }
+            }
+        },
+        {
+            "query": "What is the power of 7.059 raised to 8.253?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "7.059",
+                    "exponent": "8.253"
+                }
+            }
+        },
+        {
+            "query": "Calculate -3.047 to the power of 1.019",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-3.047",
+                    "exponent": "1.019"
+                }
+            }
+        },
+        {
+            "query": "What is the exponentiation of -4.968 raised to -7.935?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-4.968",
+                    "exponent": "-7.935"
+                }
+            }
+        },
+        {
+            "query": "Determine the power of 5.996 raised to 6.044",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "5.996",
+                    "exponent": "6.044"
+                }
+            }
+        },
+        {
+            "query": "Find the result of -9.954 to the power of 3.061",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-9.954",
+                    "exponent": "3.061"
+                }
+            }
+        },
+        {
+            "query": "What is the power of 2.494 raised to 8.928?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "2.494",
+                    "exponent": "8.928"
+                }
+            }
+        },
+        {
+            "query": "Calculate -1.008 to the power of -9.939",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-1.008",
+                    "exponent": "-9.939"
+                }
+            }
+        },
+        {
+            "query": "What is the exponentiation of 3.047 raised to 5.931?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "3.047",
+                    "exponent": "5.931"
+                }
+            }
+        },
+        {
+            "query": "Determine the power of -8.954 raised to -3.047",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-8.954",
+                    "exponent": "-3.047"
+                }
+            }
+        },
+        {
+            "query": "Find the result of 9.933 to the power of 1.019",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "9.933",
+                    "exponent": "1.019"
+                }
+            }
+        },
+        {
+            "query": "What is the power of -6.955 raised to 4.047?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-6.955",
+                    "exponent": "4.047"
+                }
+            }
+        },
+        {
+            "query": "Calculate 8.011 to the power of 2.447",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "8.011",
+                    "exponent": "2.447"
+                }
+            }
+        },
+        {
+            "query": "What is the exponentiation of -5.022 raised to -1.019",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-5.022",
+                    "exponent": "-1.019"
+                }
+            }
+        },
+        {
+            "query": "Determine the power of 7.059 raised to -8.253",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "7.059",
+                    "exponent": "-8.253"
+                }
+            }
+        },
+        {
+            "query": "Find the result of -3.047 raised to the power of 9.934",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-3.047",
+                    "exponent": "9.934"
+                }
+            }
+        },
+        {
+            "query": "What is the power of 4.981 raised to 6.956?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "4.981",
+                    "exponent": "6.956"
+                }
+            }
+        },
+        {
+            "query": "Calculate -2.457 to the power of -9.853",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-2.457",
+                    "exponent": "-9.853"
+                }
+            }
+        },
+        {
+            "query": "What is the exponentiation of 1.002 raised to 6.956?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "1.002",
+                    "exponent": "6.956"
+                }
+            }
+        },
+        {
+            "query": "Determine the power of -9.021 raised to -4.392",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-9.021",
+                    "exponent": "-4.392"
+                }
+            }
+        },
+        {
+            "query": "Find the result of 5.123 raised to the power of -2.456",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "5.123",
+                    "exponent": "-2.456"
+                }
+            }
+        },
+        {
+            "query": "What is the power of -8.011 raised to 1.447",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-8.011",
+                    "exponent": "1.447"
+                }
+            }
+        },
+        {
+            "query": "Calculate 6.954 to the power of -3.127",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "6.954",
+                    "exponent": "-3.127"
+                }
+            }
+        },
+        {
+            "query": "What is the exponentiation of 9.934 raised to 2.471",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "9.934",
+                    "exponent": "2.471"
+                }
+            }
+        },
+        {
+            "query": "Determine the power of -4.968 raised to -7.935",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-4.968",
+                    "exponent": "-7.935"
+                }
+            }
+        },
+        {
+            "query": "Find the result of 3.111 raised to the power of 0.789",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "3.111",
+                    "exponent": "0.789"
+                }
+            }
+        },
+        {
+            "query": "What is the power of -1.008 raised to -9.939",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-1.008",
+                    "exponent": "-9.939"
+                }
+            }
+        },
+        {
+            "query": "Calculate 2.494 raised to the power of 8.928",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "2.494",
+                    "exponent": "8.928"
+                }
+            }
+        },
+        {
+            "query": "What is the exponentiation of -3.047 raised to 5.931",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-3.047",
+                    "exponent": "5.931"
+                }
+            }
+        },
+        {
+            "query": "Determine the power of 8.954 raised to -3.047",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "8.954",
+                    "exponent": "-3.047"
+                }
+            }
+        },
+        {
+            "query": "Find the result of -9.933 raised to the power of 1.019",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-9.933",
+                    "exponent": "1.019"
+                }
+            }
+        },
+        {
+            "query": "What is the power of 6.955 raised to 4.047",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "6.955",
+                    "exponent": "4.047"
+                }
+            }
+        },
+        {
+            "query": "Calculate -8.011 raised to the power of 2.447",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-8.011",
+                    "exponent": "2.447"
+                }
+            }
+        },
+        {
+            "query": "What is the exponentiation of -5.022 raised to -1.019",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-5.022",
+                    "exponent": "-1.019"
+                }
+            }
+        },
+        {
+            "query": "Determine the power of 7.059 raised to 8.253",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "7.059",
+                    "exponent": "8.253"
+                }
+            }
+        },
+        {
+            "query": "Find the result of -4.981 raised to the power of 6.956",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-4.981",
+                    "exponent": "6.956"
+                }
+            }
+        },
+        {
+            "query": "What is the power of -2.457 raised to -9.853",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-2.457",
+                    "exponent": "-9.853"
+                }
+            }
+        }
+    ]
+}

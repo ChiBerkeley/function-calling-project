@@ -1,0 +1,444 @@
+{
+    "queries": [
+        {
+            "query": "What is the result of 42 raised to -0.123?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-0.123",
+                    "exponent": "42"
+                }
+            }
+        },
+        {
+            "query": "Calculate 9 squared",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "9.000",
+                    "exponent": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the value of -0.056 raised to 17?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-0.056000",
+                    "exponent": "17"
+                }
+            }
+        },
+        {
+            "query": "Calculate the square root of 3.14159 as the power of -1 and 2.",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "3.141590",
+                    "exponent": "-1"
+                }
+            }
+        },
+        {
+            "query": "What is the result of the power function with base 0.001 and exponent -300?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "0.001000",
+                    "exponent": "-300"
+                }
+            }
+        },
+        {
+            "query": "Calculate 2 raised to the power of 3.14159",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "2.00000",
+                    "exponent": "3.141590"
+                }
+            }
+        },
+        {
+            "query": "What is the value of -0.001 raised to 400?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-0.001000",
+                    "exponent": "400"
+                }
+            }
+        },
+        {
+            "query": "Calculate the power of -1234 with base 1.234 and exponent -2.",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "1.234000",
+                    "exponent": "-2"
+                }
+            }
+        },
+        {
+            "query": "What is the result of 9 raised to -0.001?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "9.00000",
+                    "exponent": "-0.001"
+                }
+            }
+        },
+        {
+            "query": "Calculate the power of 0 with base 0.123 and exponent 45.",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "0.123000",
+                    "exponent": "45"
+                }
+            }
+        },
+        {
+            "query": "What is the value of -0.456 raised to 3?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-0.456000",
+                    "exponent": "3"
+                }
+            }
+        },
+        {
+            "query": "Calculate the power of 1 with base 2 and exponent -100.",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "2.00000",
+                    "exponent": "-100"
+                }
+            }
+        },
+        {
+            "query": "What is the result of the power function with base 0 and exponent 300?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "0.00000",
+                    "exponent": "300"
+                }
+            }
+        },
+        {
+            "query": "Calculate 3 raised to the power of -4",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "3.00000",
+                    "exponent": "-4"
+                }
+            }
+        },
+        {
+            "query": "What is the value of 0.001 raised to 0?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "0.001000",
+                    "exponent": "0"
+                }
+            }
+        },
+        {
+            "query": "Calculate the power of -2 with base 3 and exponent -500.",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "3.00000",
+                    "exponent": "-500"
+                }
+            }
+        },
+        {
+            "query": "What is the result of 1234 raised to 0?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "1234.000",
+                    "exponent": "0"
+                }
+            }
+        },
+        {
+            "query": "Calculate -1 squared",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-1.00000",
+                    "exponent": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the value of 3 raised to 4?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "3.00000",
+                    "exponent": "4"
+                }
+            }
+        },
+        {
+            "query": "Calculate the power of -0.001 with base 1 and exponent 200.",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "1.00000",
+                    "exponent": "200"
+                }
+            }
+        },
+        {
+            "query": "What is the result of -9 raised to -0.123?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-9.00000",
+                    "exponent": "-0.123"
+                }
+            }
+        },
+        {
+            "query": "Calculate 2.5 raised to the power of -3",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "2.50000",
+                    "exponent": "-3"
+                }
+            }
+        },
+        {
+            "query": "What is the value of 0 raised to 10?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "0.00000",
+                    "exponent": "10"
+                }
+            }
+        },
+        {
+            "query": "Calculate -4 raised to the power of 2",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-4.00000",
+                    "exponent": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the result of -0.001 raised to 300?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-0.001000",
+                    "exponent": "300"
+                }
+            }
+        },
+        {
+            "query": "Calculate the power of 9 with base 0 and exponent 5.",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "0.00000",
+                    "exponent": "5"
+                }
+            }
+        },
+        {
+            "query": "What is the value of -3 raised to 0?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-3.00000",
+                    "exponent": "0"
+                }
+            }
+        },
+        {
+            "query": "Calculate 1 raised to the power of -500",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "1.00000",
+                    "exponent": "-500"
+                }
+            }
+        },
+        {
+            "query": "What is the result of 4.5 raised to -0.001?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "4.50000",
+                    "exponent": "-0.001"
+                }
+            }
+        },
+        {
+            "query": "Calculate -2 raised to the power of -4",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-2.00000",
+                    "exponent": "-4"
+                }
+            }
+        },
+        {
+            "query": "What is the value of 0 raised to -10?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "0.00000",
+                    "exponent": "-10"
+                }
+            }
+        },
+        {
+            "query": "Calculate 3.5 squared",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "3.50000",
+                    "exponent": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the result of -0.123 raised to 17?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-0.123000",
+                    "exponent": "17"
+                }
+            }
+        },
+        {
+            "query": "Calculate -1.5 raised to the power of 4",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-1.50000",
+                    "exponent": "4"
+                }
+            }
+        },
+        {
+            "query": "What is the value of 0.123 raised to -3?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "0.123000",
+                    "exponent": "-3"
+                }
+            }
+        },
+        {
+            "query": "Calculate 2 raised to the power of 500",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "2.00000",
+                    "exponent": "500"
+                }
+            }
+        },
+        {
+            "query": "What is the result of -0.001 raised to 10?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-0.001000",
+                    "exponent": "10"
+                }
+            }
+        },
+        {
+            "query": "Calculate -3 raised to the power of 2",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-3.00000",
+                    "exponent": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the value of -9 raised to 0?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-9.00000",
+                    "exponent": "0"
+                }
+            }
+        },
+        {
+            "query": "Calculate 4 raised to the power of -500",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "4.00000",
+                    "exponent": "-500"
+                }
+            }
+        },
+        {
+            "query": "What is the result of 1.5 raised to -0.001?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "1.50000",
+                    "exponent": "-0.001"
+                }
+            }
+        },
+        {
+            "query": "Calculate -4 raised to the power of 3",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-4.00000",
+                    "exponent": "3"
+                }
+            }
+        },
+        {
+            "query": "What is the value of 0.5 raised to -10?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "0.50000",
+                    "exponent": "-10"
+                }
+            }
+        },
+        {
+            "query": "Calculate 2 raised to the power of -4",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "2.00000",
+                    "exponent": "-4"
+                }
+            }
+        }
+    ]
+}

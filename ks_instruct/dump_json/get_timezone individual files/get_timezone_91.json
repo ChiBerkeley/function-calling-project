@@ -1,0 +1,1096 @@
+{
+    "queries": [
+        {
+            "query": "What is the time zone of Wetaskiwin, Alberta",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Wetaskiwin",
+                    "state": "Alberta",
+                    "country": "Canada",
+                    "mail_code": "T9A 2P3"
+                }
+            }
+        },
+        {
+            "query": "In what time zone is Hinton, British Columbia located?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Hinton",
+                    "state": "British Columbia",
+                    "country": "Canada",
+                    "mail_code": "T0E 1C0"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Lethbridge in Alberta Canada with the mail code T1K 7Z5?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Lethbridge",
+                    "state": "Alberta",
+                    "country": "Canada",
+                    "mail_code": "T1K 7Z5"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Whitehorse in Yukon Canada with mail code X1A 2N4?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Whitehorse",
+                    "state": "Yukon",
+                    "country": "Canada",
+                    "mail_code": "X1A 2N4"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Yellowknife in Northwest Territories Canada with the mail code X1A 3T5?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Yellowknife",
+                    "state": "Northwest Territories",
+                    "country": "Canada",
+                    "mail_code": "X1A 3T5"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Iqaluit in Nunavut Canada with mail code X0A 1H0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Iqaluit",
+                    "state": "Nunavut",
+                    "country": "Canada",
+                    "mail_code": "X0A 1H0"
+                }
+            }
+        },
+        {
+            "query": "In what time zone is Churchill in Manitoba Canada located with mail code R0B 0E0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Churchill",
+                    "state": "Manitoba",
+                    "country": "Canada",
+                    "mail_code": "R0B 0E0"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Thompson in Manitoba Canada with the mail code R8N 1N2?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Thompson",
+                    "state": "Manitoba",
+                    "country": "Canada",
+                    "mail_code": "R8N 1N2"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Wabush in Newfoundland and Labrador Canada with mail code A0K 3M0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Wabush",
+                    "state": "Newfoundland and Labrador",
+                    "country": "Canada",
+                    "mail_code": "A0K 3M0"
+                }
+            }
+        },
+        {
+            "query": "In what time zone is Stephenville in Newfoundland and Labrador Canada located with mail code A0E 2L1?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Stephenville",
+                    "state": "Newfoundland and Labrador",
+                    "country": "Canada",
+                    "mail_code": "A0E 2L1"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Happy Valley-Goose Bay in Newfoundland and Labrador Canada with the mail code A0H 1B0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Happy Valley-Goose Bay",
+                    "state": "Newfoundland and Labrador",
+                    "country": "Canada",
+                    "mail_code": "A0H 1B0"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Corner Brook in Newfoundland and Labrador Canada with mail code A2H 6W5?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Corner Brook",
+                    "state": "Newfoundland and Labrador",
+                    "country": "Canada",
+                    "mail_code": "A2H 6W5"
+                }
+            }
+        },
+        {
+            "query": "In what time zone is Port Hope Simpson in Newfoundland and Labrador Canada located with mail code A0M 1T0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Port Hope Simpson",
+                    "state": "Newfoundland and Labrador",
+                    "country": "Canada",
+                    "mail_code": "A0M 1T0"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Red Bay in Newfoundland and Labrador Canada with the mail code A0G 3Z0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Red Bay",
+                    "state": "Newfoundland and Labrador",
+                    "country": "Canada",
+                    "mail_code": "A0G 3Z0"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Port au Choix in Newfoundland and Labrador Canada with mail code A0H 1C0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Port au Choix",
+                    "state": "Newfoundland and Labrador",
+                    "country": "Canada",
+                    "mail_code": "A0H 1C0"
+                }
+            }
+        },
+        {
+            "query": "In what time zone is Grand Falls-Windsor in Newfoundland and Labrador Canada located with mail code A0A 1S0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Grand Falls-Windsor",
+                    "state": "Newfoundland and Labrador",
+                    "country": "Canada",
+                    "mail_code": "A0A 1S0"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Rigolet in Newfoundland and Labrador Canada with the mail code A0H 2K0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Rigolet",
+                    "state": "Newfoundland and Labrador",
+                    "country": "Canada",
+                    "mail_code": "A0H 2K0"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Terra Nova in Newfoundland and Labrador Canada with mail code A0B 1M0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Terra Nova",
+                    "state": "Newfoundland and Labrador",
+                    "country": "Canada",
+                    "mail_code": "A0B 1M0"
+                }
+            }
+        },
+        {
+            "query": "In what time zone is Musgrave Harbour in Newfoundland and Labrador Canada located with mail code A0G 3R0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Musgrave Harbour",
+                    "state": "Newfoundland and Labrador",
+                    "country": "Canada",
+                    "mail_code": "A0G 3R0"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Port Hope Simpson in Newfoundland and Labrador Canada with the mail code A0M 1T0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Port Hope Simpson",
+                    "state": "Newfoundland and Labrador",
+                    "country": "Canada",
+                    "mail_code": "A0M 1T0"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Port Rexton in Newfoundland and Labrador Canada with mail code A0G 3Y0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Port Rexton",
+                    "state": "Newfoundland and Labrador",
+                    "country": "Canada",
+                    "mail_code": "A0G 3Y0"
+                }
+            }
+        },
+        {
+            "query": "In what time zone is Lark Harbour in Newfoundland and Labrador Canada located with mail code A0K 1W0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Lark Harbour",
+                    "state": "Newfoundland and Labrador",
+                    "country": "Canada",
+                    "mail_code": "A0K 1W0"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Cow Head in Newfoundland and Labrador Canada with the mail code A0K 2B0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Cow Head",
+                    "state": "Newfoundland and Labrador",
+                    "country": "Canada",
+                    "mail_code": "A0K 2B0"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Plum Point in Newfoundland and Labrador Canada with mail code A0G 3Z0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Plum Point",
+                    "state": "Newfoundland and Labrador",
+                    "country": "Canada",
+                    "mail_code": "A0G 3Z0"
+                }
+            }
+        },
+        {
+            "query": "In what time zone is Lushes Bight in Newfoundland and Labrador Canada located with mail code A0H 2L0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Lushes Bight",
+                    "state": "Newfoundland and Labrador",
+                    "country": "Canada",
+                    "mail_code": "A0H 2L0"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Cottlesville in Newfoundland and Labrador Canada with the mail code A0G 3M0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Cottlesville",
+                    "state": "Newfoundland and Labrador",
+                    "country": "Canada",
+                    "mail_code": "A0G 3M0"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Greenspond in Newfoundland and Labrador Canada with mail code A0G 2T0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Greenspond",
+                    "state": "Newfoundland and Labrador",
+                    "country": "Canada",
+                    "mail_code": "A0G 2T0"
+                }
+            }
+        },
+        {
+            "query": "In what time zone is Harbour Mille in Newfoundland and Labrador Canada located with mail code A0H 3Z0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Harbour Mille",
+                    "state": "Newfoundland and Labrador",
+                    "country": "Canada",
+                    "mail_code": "A0H 3Z0"
+                }
+            }
+        },
+        {
+            "query": "What timezone is St. Lewis in Newfoundland and Labrador Canada with the mail code A0G 4E0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "St. Lewis",
+                    "state": "Newfoundland and Labrador",
+                    "country": "Canada",
+                    "mail_code": "A0G 4E0"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Red Bay in Newfoundland and Labrador Canada with mail code A0G 3Z0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Red Bay",
+                    "state": "Newfoundland and Labrador",
+                    "country": "Canada",
+                    "mail_code": "A0G 3Z0"
+                }
+            }
+        },
+        {
+            "query": "In what time zone is Port Saunders in Newfoundland and Labrador Canada located with mail code A0H 1W0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Port Saunders",
+                    "state": "Newfoundland and Labrador",
+                    "country": "Canada",
+                    "mail_code": "A0H 1W0"
+                }
+            }
+        },
+        {
+            "query": "What timezone is L'Anse aux Meadows in Newfoundland and Labrador Canada with the mail code A0P 1T0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "L'Anse aux Meadows",
+                    "state": "Newfoundland and Labrador",
+                    "country": "Canada",
+                    "mail_code": "A0P 1T0"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Woody Island in Newfoundland and Labrador Canada with mail code A0G 3Y0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Woody Island",
+                    "state": "Newfoundland and Labrador",
+                    "country": "Canada",
+                    "mail_code": "A0G 3Y0"
+                }
+            }
+        },
+        {
+            "query": "In what time zone is St. Alban's in Newfoundland and Labrador Canada located with mail code A0W 1A0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "St. Alban's",
+                    "state": "Newfoundland and Labrador",
+                    "country": "Canada",
+                    "mail_code": "A0W 1A0"
+                }
+            }
+        },
+        {
+            "query": "What timezone is La Scie in Newfoundland and Labrador Canada with the mail code A0E 2J0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "La Scie",
+                    "state": "Newfoundland and Labrador",
+                    "country": "Canada",
+                    "mail_code": "A0E 2J0"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Bide Arm in Newfoundland and Labrador Canada with mail code A0T 1B0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Bide Arm",
+                    "state": "Newfoundland and Labrador",
+                    "country": "Canada",
+                    "mail_code": "A0T 1B0"
+                }
+            }
+        },
+        {
+            "query": "In what time zone is Cottlesville in Newfoundland and Labrador Canada located with mail code A0G 3M0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Cottlesville",
+                    "state": "Newfoundland and Labrador",
+                    "country": "Canada",
+                    "mail_code": "A0G 3M0"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Greenspond in Newfoundland and Labrador Canada with the mail code A0G 2T0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Greenspond",
+                    "state": "Newfoundland and Labrador",
+                    "country": "Canada",
+                    "mail_code": "A0G 2T0"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Harbour Mille in Newfoundland and Labrador Canada with mail code A0H 3Z0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Harbour Mille",
+                    "state": "Newfoundland and Labrador",
+                    "country": "Canada",
+                    "mail_code": "A0H 3Z0"
+                }
+            }
+        },
+        {
+            "query": "In what time zone is St. Lewis in Newfoundland and Labrador Canada located with mail code A0G 4E0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "St. Lewis",
+                    "state": "Newfoundland and Labrador",
+                    "country": "Canada",
+                    "mail_code": "A0G 4E0"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Red Bay in Newfoundland and Labrador Canada with the mail code A0G 3Z0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Red Bay",
+                    "state": "Newfoundland and Labrador",
+                    "country": "Canada",
+                    "mail_code": "A0G 3Z0"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Port Saunders in Newfoundland and Labrador Canada with mail code A0H 1W0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Port Saunders",
+                    "state": "Newfoundland and Labrador",
+                    "country": "Canada",
+                    "mail_code": "A0H 1W0"
+                }
+            }
+        },
+        {
+            "query": "In what time zone is L'Anse aux Meadows in Newfoundland and Labrador Canada located with mail code A0P 1T0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "L'Anse aux Meadows",
+                    "state": "Newfoundland and Labrador",
+                    "country": "Canada",
+                    "mail_code": "A0P 1T0"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Woody Island in Newfoundland and Labrador Canada with the mail code A0G 3Y0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Woody Island",
+                    "state": "Newfoundland and Labrador",
+                    "country": "Canada",
+                    "mail_code": "A0G 3Y0"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of St. Alban's in Newfoundland and Labrador Canada with mail code A0W 1A0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "St. Alban's",
+                    "state": "Newfoundland and Labrador",
+                    "country": "Canada",
+                    "mail_code": "A0W 1A0"
+                }
+            }
+        },
+        {
+            "query": "In what time zone is La Scie in Newfoundland and Labrador Canada located with mail code A0E 2J0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "La Scie",
+                    "state": "Newfoundland and Labrador",
+                    "country": "Canada",
+                    "mail_code": "A0E 2J0"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Bide Arm in Newfoundland and Labrador Canada with the mail code A0T 1B0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Bide Arm",
+                    "state": "Newfoundland and Labrador",
+                    "country": "Canada",
+                    "mail_code": "A0T 1B0"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Cottlesville in Newfoundland and Labrador Canada with mail code A0G 3M0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Cottlesville",
+                    "state": "Newfoundland and Labrador",
+                    "country": "Canada",
+                    "mail_code": "A0G 3M0"
+                }
+            }
+        },
+        {
+            "query": "In what time zone is Greenspond in Newfoundland and Labrador Canada located with mail code A0G 2T0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Greenspond",
+                    "state": "Newfoundland and Labrador",
+                    "country": "Canada",
+                    "mail_code": "A0G 2T0"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Harbour Mille in Newfoundland and Labrador Canada with the mail code A0H 3Z0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Harbour Mille",
+                    "state": "Newfoundland and Labrador",
+                    "country": "Canada",
+                    "mail_code": "A0H 3Z0"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of St. Lewis in Newfoundland and Labrador Canada with mail code A0G 4E0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "St. Lewis",
+                    "state": "Newfoundland and Labrador",
+                    "country": "Canada",
+                    "mail_code": "A0G 4E0"
+                }
+            }
+        },
+        {
+            "query": "In what time zone is Red Bay in Newfoundland and Labrador Canada located with mail code A0G 3Z0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Red Bay",
+                    "state": "Newfoundland and Labrador",
+                    "country": "Canada",
+                    "mail_code": "A0G 3Z0"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Port Saunders in Newfoundland and Labrador Canada with the mail code A0H 1W0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Port Saunders",
+                    "state": "Newfoundland and Labrador",
+                    "country": "Canada",
+                    "mail_code": "A0H 1W0"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of L'Anse aux Meadows in Newfoundland and Labrador Canada with mail code A0P 1T0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "L'Anse aux Meadows",
+                    "state": "Newfoundland and Labrador",
+                    "country": "Canada",
+                    "mail_code": "A0P 1T0"
+                }
+            }
+        },
+        {
+            "query": "In what time zone is Woody Island in Newfoundland and Labrador Canada located with mail code A0G 3Y0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Woody Island",
+                    "state": "Newfoundland and Labrador",
+                    "country": "Canada",
+                    "mail_code": "A0G 3Y0"
+                }
+            }
+        },
+        {
+            "query": "What timezone is St. Alban's in Newfoundland and Labrador Canada with the mail code A0W 1A0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "St. Alban's",
+                    "state": "Newfoundland and Labrador",
+                    "country": "Canada",
+                    "mail_code": "A0W 1A0"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of La Scie in Newfoundland and Labrador Canada with mail code A0E 2J0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "La Scie",
+                    "state": "Newfoundland and Labrador",
+                    "country": "Canada",
+                    "mail_code": "A0E 2J0"
+                }
+            }
+        },
+        {
+            "query": "In what time zone is Bide Arm in Newfoundland and Labrador Canada located with mail code A0T 1B0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Bide Arm",
+                    "state": "Newfoundland and Labrador",
+                    "country": "Canada",
+                    "mail_code": "A0T 1B0"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Cottlesville in Newfoundland and Labrador Canada with the mail code A0G 3M0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Cottlesville",
+                    "state": "Newfoundland and Labrador",
+                    "country": "Canada",
+                    "mail_code": "A0G 3M0"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Greenspond in Newfoundland and Labrador Canada with mail code A0G 2T0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Greenspond",
+                    "state": "Newfoundland and Labrador",
+                    "country": "Canada",
+                    "mail_code": "A0G 2T0"
+                }
+            }
+        },
+        {
+            "query": "In what time zone is Harbour Mille in Newfoundland and Labrador Canada located with mail code A0H 3Z0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Harbour Mille",
+                    "state": "Newfoundland and Labrador",
+                    "country": "Canada",
+                    "mail_code": "A0H 3Z0"
+                }
+            }
+        },
+        {
+            "query": "What timezone is St. Lewis in Newfoundland and Labrador Canada with the mail code A0G 4E0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "St. Lewis",
+                    "state": "Newfoundland and Labrador",
+                    "country": "Canada",
+                    "mail_code": "A0G 4E0"
+                }
+            }
+        },
+        {
+            "query": "In what time zone is Red Bay in Newfoundland and Labrador Canada located with mail code A0G 3Z0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Red Bay",
+                    "state": "Newfoundland and Labrador",
+                    "country": "Canada",
+                    "mail_code": "A0G 3Z0"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Port Saunders in Newfoundland and Labrador Canada with the mail code A0H 1W0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Port Saunders",
+                    "state": "Newfoundland and Labrador",
+                    "country": "Canada",
+                    "mail_code": "A0H 1W0"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of L'Anse aux Meadows in Newfoundland and Labrador Canada with mail code A0P 1T0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "L'Anse aux Meadows",
+                    "state": "Newfoundland and Labrador",
+                    "country": "Canada",
+                    "mail_code": "A0P 1T0"
+                }
+            }
+        },
+        {
+            "query": "In what time zone is Woody Island in Newfoundland and Labrador Canada located with mail code A0G 3Y0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Woody Island",
+                    "state": "Newfoundland and Labrador",
+                    "country": "Canada",
+                    "mail_code": "A0G 3Y0"
+                }
+            }
+        },
+        {
+            "query": "What timezone is St. Alban's in Newfoundland and Labrador Canada with the mail code A0W 1A0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "St. Alban's",
+                    "state": "Newfoundland and Labrador",
+                    "country": "Canada",
+                    "mail_code": "A0W 1A0"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of La Scie in Newfoundland and Labrador Canada with mail code A0E 2J0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "La Scie",
+                    "state": "Newfoundland and Labrador",
+                    "country": "Canada",
+                    "mail_code": "A0E 2J0"
+                }
+            }
+        },
+        {
+            "query": "In what time zone is Bide Arm in Newfoundland and Labrador Canada located with mail code A0T 1B0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Bide Arm",
+                    "state": "Newfoundland and Labrador",
+                    "country": "Canada",
+                    "mail_code": "A0T 1B0"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Cottlesville in Newfoundland and Labrador Canada with the mail code A0G 3M0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Cottlesville",
+                    "state": "Newfoundland and Labrador",
+                    "country": "Canada",
+                    "mail_code": "A0G 3M0"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Greenspond in Newfoundland and Labrador Canada with mail code A0G 2T0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Greenspond",
+                    "state": "Newfoundland and Labrador",
+                    "country": "Canada",
+                    "mail_code": "A0G 2T0"
+                }
+            }
+        },
+        {
+            "query": "In what time zone is Harbour Mille in Newfoundland and Labrador Canada located with mail code A0H 3Z0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Harbour Mille",
+                    "state": "Newfoundland and Labrador",
+                    "country": "Canada",
+                    "mail_code": "A0H 3Z0"
+                }
+            }
+        },
+        {
+            "query": "What timezone is St. Lewis in Newfoundland and Labrador Canada with the mail code A0G 4E0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "St. Lewis",
+                    "state": "Newfoundland and Labrador",
+                    "country": "Canada",
+                    "mail_code": "A0G 4E0"
+                }
+            }
+        },
+        {
+            "query": "In what time zone is Red Bay in Newfoundland and Labrador Canada located with mail code A0G 3Z0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Red Bay",
+                    "state": "Newfoundland and Labrador",
+                    "country": "Canada",
+                    "mail_code": "A0G 3Z0"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Port Saunders in Newfoundland and Labrador Canada with the mail code A0H 1W0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Port Saunders",
+                    "state": "Newfoundland and Labrador",
+                    "country": "Canada",
+                    "mail_code": "A0H 1W0"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of L'Anse aux Meadows in Newfoundland and Labrador Canada with mail code A0P 1T0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "L'Anse aux Meadows",
+                    "state": "Newfoundland and Labrador",
+                    "country": "Canada",
+                    "mail_code": "A0P 1T0"
+                }
+            }
+        },
+        {
+            "query": "In what time zone is Woody Island in Newfoundland and Labrador Canada located with mail code A0G 3Y0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Woody Island",
+                    "state": "Newfoundland and Labrador",
+                    "country": "Canada",
+                    "mail_code": "A0G 3Y0"
+                }
+            }
+        },
+        {
+            "query": "What timezone is St. Alban's in Newfoundland and Labrador Canada with the mail code A0W 1A0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "St. Alban's",
+                    "state": "Newfoundland and Labrador",
+                    "country": "Canada",
+                    "mail_code": "A0W 1A0"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of La Scie in Newfoundland and Labrador Canada with mail code A0E 2J0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "La Scie",
+                    "state": "Newfoundland and Labrador",
+                    "country": "Canada",
+                    "mail_code": "A0E 2J0"
+                }
+            }
+        },
+        {
+            "query": "In what time zone is Bide Arm in Newfoundland and Labrador Canada located with mail code A0T 1B0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Bide Arm",
+                    "state": "Newfoundland and Labrador",
+                    "country": "Canada",
+                    "mail_code": "A0T 1B0"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Cottlesville in Newfoundland and Labrador Canada with the mail code A0G 3M0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Cottlesville",
+                    "state": "Newfoundland and Labrador",
+                    "country": "Canada",
+                    "mail_code": "A0G 3M0"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Greenspond in Newfoundland and Labrador Canada with mail code A0G 2T0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Greenspond",
+                    "state": "Newfoundland and Labrador",
+                    "country": "Canada",
+                    "mail_code": "A0G 2T0"
+                }
+            }
+        },
+        {
+            "query": "In what time zone is Harbour Mille in Newfoundland and Labrador Canada located with mail code A0H 3Z0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Harbour Mille",
+                    "state": "Newfoundland and Labrador",
+                    "country": "Canada",
+                    "mail_code": "A0H 3Z0"
+                }
+            }
+        },
+        {
+            "query": "What timezone is St. Lewis in Newfoundland and Labrador Canada with the mail code A0G 4E0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "St. Lewis",
+                    "state": "Newfoundland and Labrador",
+                    "country": "Canada",
+                    "mail_code": "A0G 4E0"
+                }
+            }
+        },
+        {
+            "query": "In what time zone is Red Bay in Newfoundland and Labrador Canada located with mail code A0G 3Z0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Red Bay",
+                    "state": "Newfoundland and Labrador",
+                    "country": "Canada",
+                    "mail_code": "A0G 3Z0"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Port Saunders in Newfoundland and Labrador Canada with the mail code A0H 1W0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Port Saunders",
+                    "state": "Newfoundland and Labrador",
+                    "country": "Canada",
+                    "mail_code": "A0H 1W0"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of L'Anse aux Meadows in Newfoundland and Labrador Canada with mail code A0P 1T0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "L'Anse aux Meadows",
+                    "state": "Newfoundland and Labrador",
+                    "country": "Canada",
+                    "mail_code": "A0P 1T0"
+                }
+            }
+        },
+        {
+            "query": "In what time zone is Woody Island in Newfoundland and Labrador Canada located with mail code A0G 3Y0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Woody Island",
+                    "state": "Newfoundland and Labrador",
+                    "country": "Canada",
+                    "mail_code": "A0G 3Y0"
+                }
+            }
+        },
+        {
+            "query": "What timezone is St. Alban's in Newfoundland and Labrador Canada with the mail code A0W 1A0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "St. Alban's",
+                    "state": "Newfoundland and Labrador",
+                    "country": "Canada",
+                    "mail_code": "A0W 1A0"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of La Scie in Newfoundland and Labrador Canada with mail code A0E 2J0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "La Scie",
+                    "state": "Newfoundland and Labrador",
+                    "country": "Canada",
+                    "mail_code": "A0E 2J0"
+                }
+            }
+        },
+        {
+            "query": "In what time zone is Bide Arm in Newfoundland and Labrador Canada located with mail code A0T 1B0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Bide Arm",
+                    "state": "Newfoundland and Labrador",
+                    "country": "Canada",
+                    "mail_code": "A0T 1B0"
+                }
+            }
+        }
+    ]
+}

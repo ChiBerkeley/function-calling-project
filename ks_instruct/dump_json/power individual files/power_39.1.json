@@ -1,0 +1,394 @@
+{
+    "queries": [
+        {
+            "query": "What is the result of 4 raised to -0.123",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-0.123",
+                    "exponent": "4"
+                }
+            }
+        },
+        {
+            "query": "Calculate 9 to the power of 2.456",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "9",
+                    "exponent": "2.456"
+                }
+            }
+        },
+        {
+            "query": "What is the result of -3 raised to 0.789?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-3",
+                    "exponent": "0.789"
+                }
+            }
+        },
+        {
+            "query": "Calculate 5 to the power of -1.234",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "5",
+                    "exponent": "-1.234"
+                }
+            }
+        },
+        {
+            "query": "What is the result of 2 raised to 3.14159?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "2",
+                    "exponent": "3.14159"
+                }
+            }
+        },
+        {
+            "query": "Calculate -4 to the power of -0.5678",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-4",
+                    "exponent": "-0.5678"
+                }
+            }
+        },
+        {
+            "query": "What is the result of 6 raised to 0.987654?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "6",
+                    "exponent": "0.987654"
+                }
+            }
+        },
+        {
+            "query": "Calculate -9 to the power of 4.56789",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-9",
+                    "exponent": "4.56789"
+                }
+            }
+        },
+        {
+            "query": "What is the result of 3 raised to -2.34567?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "3",
+                    "exponent": "-2.34567"
+                }
+            }
+        },
+        {
+            "query": "Calculate 1 to the power of 9.87654321",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "1",
+                    "exponent": "9.87654321"
+                }
+            }
+        },
+        {
+            "query": "What is the result of -6 raised to 5.67890123?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-6",
+                    "exponent": "5.67890123"
+                }
+            }
+        },
+        {
+            "query": "Calculate 4 to the power of 3.14159265359",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "4",
+                    "exponent": "3.14159265359"
+                }
+            }
+        },
+        {
+            "query": "What is the result of -5 raised to -0.987654321?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-5",
+                    "exponent": "-0.987654321"
+                }
+            }
+        },
+        {
+            "query": "Calculate 2 to the power of 9.87654321",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "2",
+                    "exponent": "9.87654321"
+                }
+            }
+        },
+        {
+            "query": "What is the result of -3 raised to 0.123456789?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-3",
+                    "exponent": "0.123456789"
+                }
+            }
+        },
+        {
+            "query": "Calculate 6 to the power of -1.23456789",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "6",
+                    "exponent": "-1.23456789"
+                }
+            }
+        },
+        {
+            "query": "What is the result of 9 raised to 4.567890123?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "9",
+                    "exponent": "4.567890123"
+                }
+            }
+        },
+        {
+            "query": "Calculate -2 to the power of 3.14159265359",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-2",
+                    "exponent": "3.14159265359"
+                }
+            }
+        },
+        {
+            "query": "What is the result of 5 raised to 0.567890123456?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "5",
+                    "exponent": "0.567890123456"
+                }
+            }
+        },
+        {
+            "query": "Calculate -1 to the power of -9.87654321",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-1",
+                    "exponent": "-9.87654321"
+                }
+            }
+        },
+        {
+            "query": "What is the result of 4 raised to -0.123456789012?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "4",
+                    "exponent": "-0.123456789012"
+                }
+            }
+        },
+        {
+            "query": "Calculate 3 to the power of 9.87654321",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "3",
+                    "exponent": "9.87654321"
+                }
+            }
+        },
+        {
+            "query": "What is the result of -6 raised to 4.567890123456?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-6",
+                    "exponent": "4.567890123456"
+                }
+            }
+        },
+        {
+            "query": "Calculate 2 to the power of 3.1415926535897932384626433832795028841971693993751058209749445923078164062862089986280348253421170679",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "2",
+                    "exponent": "3.141592653589793238462643383279502884197169399375105820974944592307816406286208998628034825342117067"
+                }
+            }
+        },
+        {
+            "query": "What is the result of -9 to the power of 0.987654321098765432109876543210987654321?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-9",
+                    "exponent": "0.987654321098765432109876543210987654321"
+                }
+            }
+        },
+        {
+            "query": "Calculate 1 to the power of -4.56789012345678901234567890",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "1",
+                    "exponent": "-4.56789012345678901234567890"
+                }
+            }
+        },
+        {
+            "query": "What is the result of 5 raised to -0.98765432109876543210987654321098765432?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "5",
+                    "exponent": "-0.98765432109876543210987654321098765432"
+                }
+            }
+        },
+        {
+            "query": "Calculate 6 to the power of 9.87654321098765432109876543210987654321",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "6",
+                    "exponent": "9.87654321098765432109876543210987654321"
+                }
+            }
+        },
+        {
+            "query": "What is the result of -3 raised to 4.567890123456789012345678901234567890?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-3",
+                    "exponent": "4.56789012345678901234567890123456789"
+                }
+            }
+        },
+        {
+            "query": "Calculate 2 to the power of 0.9876543210987654321098765432109876543210987654321",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "2",
+                    "exponent": "0.9876543210987654321098765432109876543210987654321"
+                }
+            }
+        },
+        {
+            "query": "What is the result of -4 to the power of 3.1415926535897932384626433832795028841971693993751058209749445923078164062862089986280348253421170679?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-4",
+                    "exponent": "3.141592653589793238462643383279502884197169399375105820974944592307816406286208998628034825342117067"
+                }
+            }
+        },
+        {
+            "query": "Calculate 9 to the power of -0.12345678901234567890123456789012345678901234567890",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "9",
+                    "exponent": "-0.12345678901234567890123456789012345678901234567890"
+                }
+            }
+        },
+        {
+            "query": "What is the result of 3 to the power of 4.567890123456789012345678901234567890?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "3",
+                    "exponent": "4.56789012345678901234567890123456789"
+                }
+            }
+        },
+        {
+            "query": "Calculate -1 to the power of 9.87654321098765432109876543210987654321",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-1",
+                    "exponent": "9.87654321098765432109876543210987654321"
+                }
+            }
+        },
+        {
+            "query": "What is the result of 6 to the power of -0.123456789012345678901234567890123456789?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "6",
+                    "exponent": "-0.123456789012345678901234567890123456789"
+                }
+            }
+        },
+        {
+            "query": "Calculate 4 to the power of 3.1415926535897932384626433832795028841971693993751058209749445923078164062862089986280348253421170668",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "4",
+                    "exponent": "3.141592653589793238462643383279502884197169399375105820974944592307816406286208998628034825342117066"
+                }
+            }
+        },
+        {
+            "query": "What is the result of -2 to the power of 0.98765432109876543210987654321098765432109876543210987654321",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "-2",
+                    "exponent": "0.98765432109876543210987654321098765432109876543210987654321"
+                }
+            }
+        },
+        {
+            "query": "Calculate 5 to the power of -4.567890123456789012345678901234567890?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "5",
+                    "exponent": "-4.56789012345678901234567890123456789"
+                }
+            }
+        },
+        {
+            "query": "What is the result of 1 to the power of -9.87654321098765432109876543210987654321?",
+            "answer": {
+                "function": "power",
+                "arguments": {
+                    "base": "1",
+                    "exponent": "-9.87654321098765432109876543210987654321"
+                }
+            }
+        }
+    ]
+}

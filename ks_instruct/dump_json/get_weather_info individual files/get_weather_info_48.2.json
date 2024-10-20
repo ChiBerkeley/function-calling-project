@@ -1,0 +1,436 @@
+{
+    "queries": [
+        {
+            "query": "What's the current weather in Kathmandu?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Kathmandu"
+                }
+            }
+        },
+        {
+            "query": "Is it sunny today in Hanoi Vietnam?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Hanoi"
+                }
+            }
+        },
+        {
+            "query": "What's the forecast for Lima Peru tomorrow morning",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Lima"
+                }
+            }
+        },
+        {
+            "query": "Is it raining in Addis Ababa Ethiopia?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Addis Ababa"
+                }
+            }
+        },
+        {
+            "query": "What's the current weather like in Muscat Oman?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Muscat"
+                }
+            }
+        },
+        {
+            "query": "Is it hot today in Maputo Mozambique?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Maputo"
+                }
+            }
+        },
+        {
+            "query": "What's the weather like in Dar es Salaam Tanzania right now",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Dar es Salaam"
+                }
+            }
+        },
+        {
+            "query": "Is it cloudy today in Khartoum Sudan?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Khartoum"
+                }
+            }
+        },
+        {
+            "query": "What's the forecast for Accra Ghana tomorrow evening",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Accra"
+                }
+            }
+        },
+        {
+            "query": "Is it sunny today in Baghdad Iraq?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Baghdad"
+                }
+            }
+        },
+        {
+            "query": "What's the current weather like in Djibouti City Djibouti?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Djibouti City"
+                }
+            }
+        },
+        {
+            "query": "Is it hot today in Kampala Uganda?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Kampala"
+                }
+            }
+        },
+        {
+            "query": "What's the forecast for Bishkek Kyrgyzstan tomorrow morning",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Bishkek"
+                }
+            }
+        },
+        {
+            "query": "Is it raining in Astana Kazakhstan?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Astana"
+                }
+            }
+        },
+        {
+            "query": "What's the current weather like in Tashkent Uzbekistan?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Tashkent"
+                }
+            }
+        },
+        {
+            "query": "Is it cloudy today in Dushanbe Tajikistan?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Dushanbe"
+                }
+            }
+        },
+        {
+            "query": "What's the forecast for Yerevan Armenia tomorrow evening",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Yerevan"
+                }
+            }
+        },
+        {
+            "query": "Is it sunny today in Baku Azerbaijan?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Baku"
+                }
+            }
+        },
+        {
+            "query": "What's the current weather like in Tbilisi Georgia?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Tbilisi"
+                }
+            }
+        },
+        {
+            "query": "Is it hot today in Ashgabat Turkmenistan?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Ashgabat"
+                }
+            }
+        },
+        {
+            "query": "What's the forecast for Kuwait City Kuwait tomorrow morning",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Kuwait City"
+                }
+            }
+        },
+        {
+            "query": "Is it raining in Riyadh Saudi Arabia?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Riyadh"
+                }
+            }
+        },
+        {
+            "query": "What's the current weather like in Manama Bahrain?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Manama"
+                }
+            }
+        },
+        {
+            "query": "Is it cloudy today in Muscat Oman?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Muscat"
+                }
+            }
+        },
+        {
+            "query": "What's the forecast for Abu Dhabi UAE tomorrow evening",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Abu Dhabi"
+                }
+            }
+        },
+        {
+            "query": "Is it sunny today in Amman Jordan?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Amman"
+                }
+            }
+        },
+        {
+            "query": "What's the current weather like in Tel Aviv Israel?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Tel Aviv"
+                }
+            }
+        },
+        {
+            "query": "Is it hot today in Damascus Syria?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Damascus"
+                }
+            }
+        },
+        {
+            "query": "What's the forecast for Beirut Lebanon tomorrow morning",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Beirut"
+                }
+            }
+        },
+        {
+            "query": "Is it raining in Erbil Iraq?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Erbil"
+                }
+            }
+        },
+        {
+            "query": "What's the current weather like in Sana'a Yemen?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Sana'a"
+                }
+            }
+        },
+        {
+            "query": "Is it cloudy today in Baghdad Iraq?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Baghdad"
+                }
+            }
+        },
+        {
+            "query": "What's the forecast for Cairo Egypt tomorrow evening",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Cairo"
+                }
+            }
+        },
+        {
+            "query": "Is it sunny today in Alexandria Egypt?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Alexandria"
+                }
+            }
+        },
+        {
+            "query": "What's the current weather like in Khartoum Sudan?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Khartoum"
+                }
+            }
+        },
+        {
+            "query": "Is it hot today in Mogadishu Somalia?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Mogadishu"
+                }
+            }
+        },
+        {
+            "query": "What's the forecast for Nairobi Kenya tomorrow morning",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Nairobi"
+                }
+            }
+        },
+        {
+            "query": "Is it raining in Kigali Rwanda?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Kigali"
+                }
+            }
+        },
+        {
+            "query": "What's the current weather like in Kampala Uganda?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Kampala"
+                }
+            }
+        },
+        {
+            "query": "Is it cloudy today in Dar es Salaam Tanzania?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Dar es Salaam"
+                }
+            }
+        },
+        {
+            "query": "What's the forecast for Maputo Mozambique tomorrow evening",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Maputo"
+                }
+            }
+        },
+        {
+            "query": "Is it sunny today in Antananarivo Madagascar?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Antananarivo"
+                }
+            }
+        },
+        {
+            "query": "What's the current weather like in Moroni Comoros?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Moroni"
+                }
+            }
+        },
+        {
+            "query": "Is it hot today in Mombasa Kenya?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Mombasa"
+                }
+            }
+        },
+        {
+            "query": "What's the forecast for Zanzibar Tanzania tomorrow morning",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Zanzibar"
+                }
+            }
+        },
+        {
+            "query": "Is it raining in Entebbe Uganda?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Entebbe"
+                }
+            }
+        },
+        {
+            "query": "What's the current weather like in Dodoma Tanzania?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Dodoma"
+                }
+            }
+        },
+        {
+            "query": "Is it cloudy today in Bujumbura Burundi?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Bujumbura"
+                }
+            }
+        }
+    ]
+}

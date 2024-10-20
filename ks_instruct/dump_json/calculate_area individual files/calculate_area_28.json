@@ -1,0 +1,312 @@
+{
+    "queries": [
+        {
+            "query": "What is the area of a square with length 5.2 and width 6 when rounded to the nearest int",
+            "answer": {
+                "function": "calculate_area",
+                "arguments": {
+                    "length": "5.2",
+                    "width": "6",
+                    "round_result": "True"
+                }
+            }
+        },
+        {
+            "query": "Calculate the area of a rectangle with dimensions 8 and 3.1, leaving the result as a float",
+            "answer": {
+                "function": "calculate_area",
+                "arguments": {
+                    "length": "8",
+                    "width": "3.1",
+                    "round_result": "False"
+                }
+            }
+        },
+        {
+            "query": "What is the area of a square with length 9 and width 0 when rounded to the nearest int",
+            "answer": {
+                "function": "calculate_area",
+                "arguments": {
+                    "length": "9",
+                    "width": "0",
+                    "round_result": "True"
+                }
+            }
+        },
+        {
+            "query": "Calculate the area of a rectangle with dimensions 7.8 and 2, rounding the result to the nearest int",
+            "answer": {
+                "function": "calculate_area",
+                "arguments": {
+                    "length": "7.8",
+                    "width": "2",
+                    "round_result": "True"
+                }
+            }
+        },
+        {
+            "query": "What is the area of a square with length 3.5 and width 1 when rounded to the nearest int",
+            "answer": {
+                "function": "calculate_area",
+                "arguments": {
+                    "length": "3.5",
+                    "width": "1",
+                    "round_result": "True"
+                }
+            }
+        },
+        {
+            "query": "Calculate the area of a rectangle with dimensions 4.2 and 6.9, leaving the result as a float",
+            "answer": {
+                "function": "calculate_area",
+                "arguments": {
+                    "length": "4.2",
+                    "width": "6.9",
+                    "round_result": "False"
+                }
+            }
+        },
+        {
+            "query": "What is the area of a square with length 0 and width 5 when rounded to the nearest int",
+            "answer": {
+                "function": "calculate_area",
+                "arguments": {
+                    "length": "0",
+                    "width": "5",
+                    "round_result": "True"
+                }
+            }
+        },
+        {
+            "query": "Calculate the area of a rectangle with dimensions 2.1 and 8, rounding the result to the nearest int",
+            "answer": {
+                "function": "calculate_area",
+                "arguments": {
+                    "length": "2.1",
+                    "width": "8",
+                    "round_result": "True"
+                }
+            }
+        },
+        {
+            "query": "What is the area of a square with length 6.9 and width 4 when rounded to the nearest int",
+            "answer": {
+                "function": "calculate_area",
+                "arguments": {
+                    "length": "6.9",
+                    "width": "4",
+                    "round_result": "True"
+                }
+            }
+        },
+        {
+            "query": "Calculate the area of a rectangle with dimensions 5 and 3, leaving the result as a float",
+            "answer": {
+                "function": "calculate_area",
+                "arguments": {
+                    "length": "5",
+                    "width": "3",
+                    "round_result": "False"
+                }
+            }
+        },
+        {
+            "query": "What is the area of a square with length 2.8 and width 9 when rounded to the nearest int",
+            "answer": {
+                "function": "calculate_area",
+                "arguments": {
+                    "length": "2.8",
+                    "width": "9",
+                    "round_result": "True"
+                }
+            }
+        },
+        {
+            "query": "Calculate the area of a rectangle with dimensions 1 and 7.5, rounding the result to the nearest int",
+            "answer": {
+                "function": "calculate_area",
+                "arguments": {
+                    "length": "1",
+                    "width": "7.5",
+                    "round_result": "True"
+                }
+            }
+        },
+        {
+            "query": "What is the area of a square with length 8.6 and width 3 when rounded to the nearest int",
+            "answer": {
+                "function": "calculate_area",
+                "arguments": {
+                    "length": "8.6",
+                    "width": "3",
+                    "round_result": "True"
+                }
+            }
+        },
+        {
+            "query": "Calculate the area of a rectangle with dimensions 9.9 and 2.5, leaving the result as a float",
+            "answer": {
+                "function": "calculate_area",
+                "arguments": {
+                    "length": "9.9",
+                    "width": "2.5",
+                    "round_result": "False"
+                }
+            }
+        },
+        {
+            "query": "What is the area of a square with length 4 and width 6.3 when rounded to the nearest int",
+            "answer": {
+                "function": "calculate_area",
+                "arguments": {
+                    "length": "4",
+                    "width": "6.3",
+                    "round_result": "True"
+                }
+            }
+        },
+        {
+            "query": "Calculate the area of a rectangle with dimensions 7.1 and 9, rounding the result to the nearest int",
+            "answer": {
+                "function": "calculate_area",
+                "arguments": {
+                    "length": "7.1",
+                    "width": "9",
+                    "round_result": "True"
+                }
+            }
+        },
+        {
+            "query": "What is the area of a square with length 3 and width 8.4 when rounded to the nearest int",
+            "answer": {
+                "function": "calculate_area",
+                "arguments": {
+                    "length": "3",
+                    "width": "8.4",
+                    "round_result": "True"
+                }
+            }
+        },
+        {
+            "query": "Calculate the area of a rectangle with dimensions 2.5 and 6, leaving the result as a float",
+            "answer": {
+                "function": "calculate_area",
+                "arguments": {
+                    "length": "2.5",
+                    "width": "6",
+                    "round_result": "False"
+                }
+            }
+        },
+        {
+            "query": "What is the area of a square with length 9 and width 8 when rounded to the nearest int",
+            "answer": {
+                "function": "calculate_area",
+                "arguments": {
+                    "length": "9",
+                    "width": "8",
+                    "round_result": "True"
+                }
+            }
+        },
+        {
+            "query": "Calculate the area of a rectangle with dimensions 5.6 and 3, rounding the result to the nearest int",
+            "answer": {
+                "function": "calculate_area",
+                "arguments": {
+                    "length": "5.6",
+                    "width": "3",
+                    "round_result": "True"
+                }
+            }
+        },
+        {
+            "query": "What is the area of a square with length 1 and width 7 when rounded to the nearest int",
+            "answer": {
+                "function": "calculate_area",
+                "arguments": {
+                    "length": "1",
+                    "width": "7",
+                    "round_result": "True"
+                }
+            }
+        },
+        {
+            "query": "Calculate the area of a rectangle with dimensions 8.9 and 2, leaving the result as a float",
+            "answer": {
+                "function": "calculate_area",
+                "arguments": {
+                    "length": "8.9",
+                    "width": "2",
+                    "round_result": "False"
+                }
+            }
+        },
+        {
+            "query": "What is the area of a square with length 7 and width 4.6 when rounded to the nearest int",
+            "answer": {
+                "function": "calculate_area",
+                "arguments": {
+                    "length": "7",
+                    "width": "4.6",
+                    "round_result": "True"
+                }
+            }
+        },
+        {
+            "query": "Calculate the area of a rectangle with dimensions 3.9 and 8, rounding the result to the nearest int",
+            "answer": {
+                "function": "calculate_area",
+                "arguments": {
+                    "length": "3.9",
+                    "width": "8",
+                    "round_result": "True"
+                }
+            }
+        },
+        {
+            "query": "What is the area of a square with length 6 and width 5 when rounded to the nearest int",
+            "answer": {
+                "function": "calculate_area",
+                "arguments": {
+                    "length": "6",
+                    "width": "5",
+                    "round_result": "True"
+                }
+            }
+        },
+        {
+            "query": "Calculate the area of a rectangle with dimensions 9.3 and 4, leaving the result as a float",
+            "answer": {
+                "function": "calculate_area",
+                "arguments": {
+                    "length": "9.3",
+                    "width": "4",
+                    "round_result": "False"
+                }
+            }
+        },
+        {
+            "query": "What is the area of a square with length 8.1 and width 6 when rounded to the nearest int",
+            "answer": {
+                "function": "calculate_area",
+                "arguments": {
+                    "length": "8.1",
+                    "width": "6",
+                    "round_result": "True"
+                }
+            }
+        },
+        {
+            "query": "Calculate the area of a rectangle with dimensions 7 and 2.5, rounding the result to the nearest int",
+            "answer": {
+                "function": "calculate_area",
+                "arguments": {
+                    "length": "7",
+                    "width": "2.5",
+                    "round_result": "True"
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,384 @@
+{
+    "queries": [
+        {
+            "query": "How many As are in the word 'Elephant'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Elephant",
+                    "letter": "A"
+                }
+            }
+        },
+        {
+            "query": "What is the count of Es in 'Computer'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Computer",
+                    "letter": "E"
+                }
+            }
+        },
+        {
+            "query": "How many Ts are in the word 'Listen'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Listen",
+                    "letter": "T"
+                }
+            }
+        },
+        {
+            "query": "Count the number of As in 'Radar'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Radar",
+                    "letter": "A"
+                }
+            }
+        },
+        {
+            "query": "How many Os are in the word 'Mood'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Mood",
+                    "letter": "O"
+                }
+            }
+        },
+        {
+            "query": "What is the count of Es in 'Seeds'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Seeds",
+                    "letter": "E"
+                }
+            }
+        },
+        {
+            "query": "How many Us are in the word 'Sudoku'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Sudoku",
+                    "letter": "U"
+                }
+            }
+        },
+        {
+            "query": "Count the number of Is in 'Island'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Island",
+                    "letter": "I"
+                }
+            }
+        },
+        {
+            "query": "What is the count of As in 'Alpha'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Alpha",
+                    "letter": "A"
+                }
+            }
+        },
+        {
+            "query": "How many Os are in the word 'Dodo'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Dodo",
+                    "letter": "O"
+                }
+            }
+        },
+        {
+            "query": "Count the number of Ts in 'Tutu'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Tutu",
+                    "letter": "T"
+                }
+            }
+        },
+        {
+            "query": "What is the count of Es in 'Gnome'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Gnome",
+                    "letter": "E"
+                }
+            }
+        },
+        {
+            "query": "How many As are in the word 'Beta'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Beta",
+                    "letter": "A"
+                }
+            }
+        },
+        {
+            "query": "Count the number of Os in 'Tomato'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Tomato",
+                    "letter": "O"
+                }
+            }
+        },
+        {
+            "query": "What is the count of Is in 'Rhythm'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Rhythm",
+                    "letter": "I"
+                }
+            }
+        },
+        {
+            "query": "How many Us are in the word 'Census'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Census",
+                    "letter": "U"
+                }
+            }
+        },
+        {
+            "query": "Count the number of Ts in 'Splat'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Splat",
+                    "letter": "T"
+                }
+            }
+        },
+        {
+            "query": "What is the count of As in 'Aroma'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Aroma",
+                    "letter": "A"
+                }
+            }
+        },
+        {
+            "query": "How many Es are in the word 'House'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "House",
+                    "letter": "E"
+                }
+            }
+        },
+        {
+            "query": "Count the number of Os in 'Coffee'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Coffee",
+                    "letter": "O"
+                }
+            }
+        },
+        {
+            "query": "What is the count of Us in 'Fuzzy'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Fuzzy",
+                    "letter": "U"
+                }
+            }
+        },
+        {
+            "query": "How many Is are in the word 'Silly'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Silly",
+                    "letter": "I"
+                }
+            }
+        },
+        {
+            "query": "Count the number of Ts in 'Bettie'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Bettie",
+                    "letter": "T"
+                }
+            }
+        },
+        {
+            "query": "What is the count of Es in 'Kettle'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Kettle",
+                    "letter": "E"
+                }
+            }
+        },
+        {
+            "query": "How many As are in the word 'Gaza'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Gaza",
+                    "letter": "A"
+                }
+            }
+        },
+        {
+            "query": "Count the number of Os in 'Dollo'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Dollo",
+                    "letter": "O"
+                }
+            }
+        },
+        {
+            "query": "What is the count of Us in 'Rusty'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Rusty",
+                    "letter": "U"
+                }
+            }
+        },
+        {
+            "query": "How many Is are in the word 'Crisis'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Crisis",
+                    "letter": "I"
+                }
+            }
+        },
+        {
+            "query": "Count the number of Ts in 'Witty'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Witty",
+                    "letter": "T"
+                }
+            }
+        },
+        {
+            "query": "What is the count of Es in 'Fence'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Fence",
+                    "letter": "E"
+                }
+            }
+        },
+        {
+            "query": "How many As are in the word 'Alma'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Alma",
+                    "letter": "A"
+                }
+            }
+        },
+        {
+            "query": "Count the number of Os in 'Gordo'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Gordo",
+                    "letter": "O"
+                }
+            }
+        },
+        {
+            "query": "What is the count of Us in 'Hurry'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Hurry",
+                    "letter": "U"
+                }
+            }
+        },
+        {
+            "query": "How many Is are in the word 'Tricky'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Tricky",
+                    "letter": "I"
+                }
+            }
+        },
+        {
+            "query": "Count the number of Ts in 'Silly'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Silly",
+                    "letter": "T"
+                }
+            }
+        },
+        {
+            "query": "What is the count of Es in 'Bumble'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Bumble",
+                    "letter": "E"
+                }
+            }
+        },
+        {
+            "query": "How many As are in the word 'Drama'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Drama",
+                    "letter": "A"
+                }
+            }
+        },
+        {
+            "query": "Count the number of Os in 'Gigolo'",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Gigolo",
+                    "letter": "O"
+                }
+            }
+        }
+    ]
+}

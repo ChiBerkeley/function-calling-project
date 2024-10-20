@@ -1,0 +1,454 @@
+{
+    "queries": [
+        {
+            "query": "What is the capital of Palau",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Palau"
+                }
+            }
+        },
+        {
+            "query": "What city serves as the capital for Mongolia?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Mongolia"
+                }
+            }
+        },
+        {
+            "query": "Find the capital of Bhutan.",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Bhutan"
+                }
+            }
+        },
+        {
+            "query": "What is the capital of Vanuatu?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Vanuatu"
+                }
+            }
+        },
+        {
+            "query": "Which city is the capital of Djibouti?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Djibouti"
+                }
+            }
+        },
+        {
+            "query": "What town serves as the capital for the Falkland Islands?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Falkland Islands"
+                }
+            }
+        },
+        {
+            "query": "Find the capital of Montenegro.",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Montenegro"
+                }
+            }
+        },
+        {
+            "query": "What city is the capital of Lesotho?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Lesotho"
+                }
+            }
+        },
+        {
+            "query": "Which city serves as the capital for Saint Vincent and the Grenadines?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Saint Vincent and the Grenadines"
+                }
+            }
+        },
+        {
+            "query": "What is the capital of Tuvalu?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Tuvalu"
+                }
+            }
+        },
+        {
+            "query": "Find the capital of Guinea-Bissau.",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Guinea-Bissau"
+                }
+            }
+        },
+        {
+            "query": "What town is the capital of Grenada?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Grenada"
+                }
+            }
+        },
+        {
+            "query": "Which city serves as the capital for Dominica?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Dominica"
+                }
+            }
+        },
+        {
+            "query": "What is the capital of Suriname?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Suriname"
+                }
+            }
+        },
+        {
+            "query": "Find the capital of Nauru.",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Nauru"
+                }
+            }
+        },
+        {
+            "query": "What city is the capital of Guinea?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Guinea"
+                }
+            }
+        },
+        {
+            "query": "Which town serves as the capital for Saint Lucia?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Saint Lucia"
+                }
+            }
+        },
+        {
+            "query": "What is the capital of The Gambia?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "The Gambia"
+                }
+            }
+        },
+        {
+            "query": "Find the capital of Cape Verde.",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Cape Verde"
+                }
+            }
+        },
+        {
+            "query": "What city is the capital of Swaziland?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Swaziland"
+                }
+            }
+        },
+        {
+            "query": "Which city serves as the capital for S\u00e3o Tom\u00e9 and Principe?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "S\u00e3o Tom\u00e9 and Principe"
+                }
+            }
+        },
+        {
+            "query": "What is the capital of Samoa?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Samoa"
+                }
+            }
+        },
+        {
+            "query": "Find the capital of Comoros.",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Comoros"
+                }
+            }
+        },
+        {
+            "query": "What town is the capital of Micronesia?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Micronesia"
+                }
+            }
+        },
+        {
+            "query": "Which city serves as the capital for Kiribati?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Kiribati"
+                }
+            }
+        },
+        {
+            "query": "What is the capital of Togo?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Togo"
+                }
+            }
+        },
+        {
+            "query": "Find the capital of Malawi.",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Malawi"
+                }
+            }
+        },
+        {
+            "query": "What city is the capital of Guyana?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Guyana"
+                }
+            }
+        },
+        {
+            "query": "Which town serves as the capital for Antigua and Barbuda?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Antigua and Barbuda"
+                }
+            }
+        },
+        {
+            "query": "What is the capital of Seychelles?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Seychelles"
+                }
+            }
+        },
+        {
+            "query": "Find the capital of Saint Kitts and Nevis.",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Saint Kitts and Nevis"
+                }
+            }
+        },
+        {
+            "query": "What city is the capital of Botswana?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Botswana"
+                }
+            }
+        },
+        {
+            "query": "Which town serves as the capital for Eswatini?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Eswatini"
+                }
+            }
+        },
+        {
+            "query": "What is the capital of Brunei?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Brunei"
+                }
+            }
+        },
+        {
+            "query": "Find the capital of Solomon Islands.",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Solomon Islands"
+                }
+            }
+        },
+        {
+            "query": "What city is the capital of Mauritania?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Mauritania"
+                }
+            }
+        },
+        {
+            "query": "Which town serves as the capital for Timor-Leste?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Timor-Leste"
+                }
+            }
+        },
+        {
+            "query": "What is the capital of Equatorial Guinea?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Equatorial Guinea"
+                }
+            }
+        },
+        {
+            "query": "Find the capital of Bangladesh.",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Bangladesh"
+                }
+            }
+        },
+        {
+            "query": "What city is the capital of Bhutan?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Bhutan"
+                }
+            }
+        },
+        {
+            "query": "Which town serves as the capital for Afghanistan.",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Afghanistan"
+                }
+            }
+        },
+        {
+            "query": "What is the capital of Papua New Guinea?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Papua New Guinea"
+                }
+            }
+        },
+        {
+            "query": "Find the capital of Tonga.",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Tonga"
+                }
+            }
+        },
+        {
+            "query": "What city is the capital of Central African Republic?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Central African Republic"
+                }
+            }
+        },
+        {
+            "query": "Which town serves as the capital for Maldives.",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Maldives"
+                }
+            }
+        },
+        {
+            "query": "What is the capital of Myanmar?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Myanmar"
+                }
+            }
+        },
+        {
+            "query": "Find the capital of Vanuatu.",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Vanuatu"
+                }
+            }
+        },
+        {
+            "query": "What city is the capital of The Bahamas?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "The Bahamas"
+                }
+            }
+        },
+        {
+            "query": "Which town serves as the capital for Lesotho.",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Lesotho"
+                }
+            }
+        },
+        {
+            "query": "What is the capital of Djibouti?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Djibouti"
+                }
+            }
+        }
+    ]
+}

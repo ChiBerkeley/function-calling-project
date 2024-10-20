@@ -1,0 +1,454 @@
+{
+    "queries": [
+        {
+            "query": "What's the current weather in Green Bay, Wisconsin?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Green Bay"
+                }
+            }
+        },
+        {
+            "query": "Can you tell me about the current time and temperature in Biloxi, Mississippi?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Biloxi"
+                }
+            }
+        },
+        {
+            "query": "What's going on with the weather in Juneau, Alaska today?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Juneau"
+                }
+            }
+        },
+        {
+            "query": "Is it raining in Albuquerque, New Mexico right now?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Albuquerque"
+                }
+            }
+        },
+        {
+            "query": "What's the forecast for Santa Fe, New Mexico?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Santa Fe"
+                }
+            }
+        },
+        {
+            "query": "How's the weather in Spokane, Washington right now?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Spokane"
+                }
+            }
+        },
+        {
+            "query": "What time is it and what's the weather like in Tulsa, Oklahoma?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Tulsa"
+                }
+            }
+        },
+        {
+            "query": "Can you tell me about the current weather in Des Moines, Iowa?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Des Moines"
+                }
+            }
+        },
+        {
+            "query": "Is it sunny in Columbus, Ohio right now?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Columbus"
+                }
+            }
+        },
+        {
+            "query": "What's the current temperature and weather like in Richmond, Virginia?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Richmond"
+                }
+            }
+        },
+        {
+            "query": "Can you give me an update on the weather in Indianapolis, Indiana?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Indianapolis"
+                }
+            }
+        },
+        {
+            "query": "What's happening with the weather in St. Louis, Missouri today?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "St. Louis"
+                }
+            }
+        },
+        {
+            "query": "How's the weather looking for Nashville, Tennessee?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Nashville"
+                }
+            }
+        },
+        {
+            "query": "Is it cloudy in Knoxville, Tennessee right now?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Knoxville"
+                }
+            }
+        },
+        {
+            "query": "Can you tell me about the current weather in Memphis, Tennessee?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Memphis"
+                }
+            }
+        },
+        {
+            "query": "What's going on with the weather in Baton Rouge, Louisiana today?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Baton Rouge"
+                }
+            }
+        },
+        {
+            "query": "Is it raining in Shreveport, Louisiana right now?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Shreveport"
+                }
+            }
+        },
+        {
+            "query": "How's the weather looking for Little Rock, Arkansas?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Little Rock"
+                }
+            }
+        },
+        {
+            "query": "What time is it and what's the weather like in Oklahoma City, Oklahoma?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Oklahoma City"
+                }
+            }
+        },
+        {
+            "query": "Can you give me an update on the weather in Topeka, Kansas?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Topeka"
+                }
+            }
+        },
+        {
+            "query": "What's happening with the weather in Wichita, Kansas today?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Wichita"
+                }
+            }
+        },
+        {
+            "query": "Is it sunny in Springfield, Missouri right now?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Springfield"
+                }
+            }
+        },
+        {
+            "query": "How's the weather looking for Paducah, Kentucky?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Paducah"
+                }
+            }
+        },
+        {
+            "query": "What time is it and what's the weather like in Charleston, West Virginia?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Charleston"
+                }
+            }
+        },
+        {
+            "query": "Can you tell me about the current weather in Morgantown, West Virginia?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Morgantown"
+                }
+            }
+        },
+        {
+            "query": "Is it cloudy in Beckley, West Virginia right now?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Beckley"
+                }
+            }
+        },
+        {
+            "query": "How's the weather looking for Huntington, West Virginia?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Huntington"
+                }
+            }
+        },
+        {
+            "query": "What's going on with the weather in Jonesboro, Arkansas today?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Jonesboro"
+                }
+            }
+        },
+        {
+            "query": "Is it raining in Fayetteville, Arkansas right now?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Fayetteville"
+                }
+            }
+        },
+        {
+            "query": "What time is it and what's the weather like in Fort Smith, Arkansas?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Fort Smith"
+                }
+            }
+        },
+        {
+            "query": "Can you give me an update on the weather in Pine Bluff, Arkansas?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Pine Bluff"
+                }
+            }
+        },
+        {
+            "query": "How's the weather looking for Texarkana, Texas?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Texarkana"
+                }
+            }
+        },
+        {
+            "query": "What's happening with the weather in Amarillo, Texas today?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Amarillo"
+                }
+            }
+        },
+        {
+            "query": "Is it sunny in Lubbock, Texas right now?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Lubbock"
+                }
+            }
+        },
+        {
+            "query": "Can you tell me about the current weather in Abilene, Texas?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Abilene"
+                }
+            }
+        },
+        {
+            "query": "What's going on with the weather in Wichita Falls, Texas today?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Wichita Falls"
+                }
+            }
+        },
+        {
+            "query": "Is it cloudy in Tyler, Texas right now?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Tyler"
+                }
+            }
+        },
+        {
+            "query": "How's the weather looking for Longview, Texas?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Longview"
+                }
+            }
+        },
+        {
+            "query": "What time is it and what's the weather like in Laredo, Texas?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Laredo"
+                }
+            }
+        },
+        {
+            "query": "Can you give me an update on the weather in Brownsville, Texas?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Brownsville"
+                }
+            }
+        },
+        {
+            "query": "What's happening with the weather in Corpus Christi, Texas today?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Corpus Christi"
+                }
+            }
+        },
+        {
+            "query": "Is it sunny in San Antonio, Texas right now?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "San Antonio"
+                }
+            }
+        },
+        {
+            "query": "Can you tell me about the current weather in Dallas, Texas?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Dallas"
+                }
+            }
+        },
+        {
+            "query": "How's the weather looking for Houston, Texas?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Houston"
+                }
+            }
+        },
+        {
+            "query": "What time is it and what's the weather like in Galveston, Texas?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Galveston"
+                }
+            }
+        },
+        {
+            "query": "Can you give me an update on the weather in Austin, Texas?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Austin"
+                }
+            }
+        },
+        {
+            "query": "What's happening with the weather in El Paso, Texas today?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "El Paso"
+                }
+            }
+        },
+        {
+            "query": "Is it cloudy in Odessa, Texas right now?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Odessa"
+                }
+            }
+        },
+        {
+            "query": "How's the weather looking for McAllen, Texas?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "McAllen"
+                }
+            }
+        },
+        {
+            "query": "What time is it and what's the weather like in Harlingen, Texas?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Harlingen"
+                }
+            }
+        }
+    ]
+}

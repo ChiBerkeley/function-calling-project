@@ -1,0 +1,394 @@
+{
+    "queries": [
+        {
+            "query": "Count Ts in Zorb",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Zorb",
+                    "letter": "T"
+                }
+            }
+        },
+        {
+            "query": "Find Ls in Wizzle",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Wizzle",
+                    "letter": "L"
+                }
+            }
+        },
+        {
+            "query": "Letter Count for Y in Zingp",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Zingp",
+                    "letter": "Y"
+                }
+            }
+        },
+        {
+            "query": "Count Xs in Wumplen",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Wumplen",
+                    "letter": "X"
+                }
+            }
+        },
+        {
+            "query": "Letter Frequency in Ploof, T",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Ploof",
+                    "letter": "T"
+                }
+            }
+        },
+        {
+            "query": "How Many Ms in Zinkle?",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Zinkle",
+                    "letter": "M"
+                }
+            }
+        },
+        {
+            "query": "Letter Count for N in Wizzle",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Wizzle",
+                    "letter": "N"
+                }
+            }
+        },
+        {
+            "query": "Ts in Flishy",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Flishy",
+                    "letter": "T"
+                }
+            }
+        },
+        {
+            "query": "Find Ss in Zingp",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Zingp",
+                    "letter": "S"
+                }
+            }
+        },
+        {
+            "query": "Letter Frequency in Ploof, N",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Ploof",
+                    "letter": "N"
+                }
+            }
+        },
+        {
+            "query": "Count Xs in Wumplen",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Wumplen",
+                    "letter": "X"
+                }
+            }
+        },
+        {
+            "query": "How Many Ls in Zorb?",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Zorb",
+                    "letter": "L"
+                }
+            }
+        },
+        {
+            "query": "Ts in Flishy",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Flishy",
+                    "letter": "T"
+                }
+            }
+        },
+        {
+            "query": "Letter Count for Y in Zingp",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Zingp",
+                    "letter": "Y"
+                }
+            }
+        },
+        {
+            "query": "Find M in Wizzle",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Wizzle",
+                    "letter": "M"
+                }
+            }
+        },
+        {
+            "query": "Letter Frequency in Ploof, Y",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Ploof",
+                    "letter": "Y"
+                }
+            }
+        },
+        {
+            "query": "Count Ss in Zinkle?",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Zinkle",
+                    "letter": "S"
+                }
+            }
+        },
+        {
+            "query": "Letter Count for T in Wumplen",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Wumplen",
+                    "letter": "T"
+                }
+            }
+        },
+        {
+            "query": "How Many Xs in Ploof?",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Ploof",
+                    "letter": "X"
+                }
+            }
+        },
+        {
+            "query": "Find Ns in Zorb",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Zorb",
+                    "letter": "N"
+                }
+            }
+        },
+        {
+            "query": "Letter Frequency in Wizzle, X",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Wizzle",
+                    "letter": "X"
+                }
+            }
+        },
+        {
+            "query": "Ts in Zingp",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Zingp",
+                    "letter": "T"
+                }
+            }
+        },
+        {
+            "query": "Letter Count for M in Flishy",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Flishy",
+                    "letter": "M"
+                }
+            }
+        },
+        {
+            "query": "How Many Ls in Wumplen?",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Wumplen",
+                    "letter": "L"
+                }
+            }
+        },
+        {
+            "query": "Find Ys in Zinkle",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Zinkle",
+                    "letter": "Y"
+                }
+            }
+        },
+        {
+            "query": "Letter Frequency in Ploof, M",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Ploof",
+                    "letter": "M"
+                }
+            }
+        },
+        {
+            "query": "Count Ns in Zorb",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Zorb",
+                    "letter": "N"
+                }
+            }
+        },
+        {
+            "query": "Letter Count for X in Wizzle",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Wizzle",
+                    "letter": "X"
+                }
+            }
+        },
+        {
+            "query": "How Many Ss in Flishy?",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Flishy",
+                    "letter": "S"
+                }
+            }
+        },
+        {
+            "query": "Find Ts in Zingp",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Zingp",
+                    "letter": "T"
+                }
+            }
+        },
+        {
+            "query": "Letter Frequency in Wumplen, Y",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Wumplen",
+                    "letter": "Y"
+                }
+            }
+        },
+        {
+            "query": "Count Ls in Zinkle?",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Zinkle",
+                    "letter": "L"
+                }
+            }
+        },
+        {
+            "query": "Letter Count for N in Ploof",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Ploof",
+                    "letter": "N"
+                }
+            }
+        },
+        {
+            "query": "How Many Xs in Zorb?",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Zorb",
+                    "letter": "X"
+                }
+            }
+        },
+        {
+            "query": "Find M in Wizzle",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Wizzle",
+                    "letter": "M"
+                }
+            }
+        },
+        {
+            "query": "Letter Frequency in Zingp, S",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Zingp",
+                    "letter": "S"
+                }
+            }
+        },
+        {
+            "query": "Count Ys in Wumplen",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Wumplen",
+                    "letter": "Y"
+                }
+            }
+        },
+        {
+            "query": "Letter Count for S in Flishy",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Flishy",
+                    "letter": "S"
+                }
+            }
+        },
+        {
+            "query": "How Many Ts in Ploof?",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Ploof",
+                    "letter": "T"
+                }
+            }
+        }
+    ]
+}

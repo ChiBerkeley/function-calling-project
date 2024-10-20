@@ -1,0 +1,1888 @@
+{
+    "queries": [
+        {
+            "query": "What is the timezone of Zvolen, Bansk\u00e1 Bystrica Region in Slovakia with the mail code 96001 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Zvolen",
+                    "state": "Bansk\u00e1 Bystrica Region",
+                    "country": "Slovakia",
+                    "mail_code": "96001"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Pite\u0219ti, Arge\u0219 in Romania with the mail code 110001 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Pite\u0219ti",
+                    "state": "Arge\u0219",
+                    "country": "Romania",
+                    "mail_code": "110001"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Veszpr\u00e9m, Central Transdanubia in Hungary with the mail code 8200 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Veszpr\u00e9m",
+                    "state": "Central Transdanubia",
+                    "country": "Hungary",
+                    "mail_code": "8200"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Oradea, Bihor in Romania with the mail code 410001 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Oradea",
+                    "state": "Bihor",
+                    "country": "Romania",
+                    "mail_code": "410001"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Sibiu, Sibiu County in Romania with the mail code 550121 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Sibiu",
+                    "state": "Sibiu County",
+                    "country": "Romania",
+                    "mail_code": "550121"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Re\u0219i\u021ba, Cara\u0219-Severin in Romania with the mail code 310001 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Re\u0219i\u021ba",
+                    "state": "Cara\u0219-Severin",
+                    "country": "Romania",
+                    "mail_code": "310001"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of T\u00e2rgu Mure\u0219, Mure\u0219 in Romania with the mail code 540131 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "T\u00e2rgu Mure\u0219",
+                    "state": "Mure\u0219",
+                    "country": "Romania",
+                    "mail_code": "540131"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Sf\u00e2ntu Gheorghe, Covasna in Romania with the mail code 520001 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Sf\u00e2ntu Gheorghe",
+                    "state": "Covasna",
+                    "country": "Romania",
+                    "mail_code": "520001"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Ia\u0219i, Ia\u0219i in Romania with the mail code 700000 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Ia\u0219i",
+                    "state": "Ia\u0219i",
+                    "country": "Romania",
+                    "mail_code": "700000"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Alba Iulia, Alba in Romania with the mail code 510001 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Alba Iulia",
+                    "state": "Alba",
+                    "country": "Romania",
+                    "mail_code": "510001"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Ploie\u0219ti, Prahova in Romania with the mail code 100001 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Ploie\u0219ti",
+                    "state": "Prahova",
+                    "country": "Romania",
+                    "mail_code": "100001"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Boto\u0219ani, Boto\u0219ani in Romania with the mail code 720101 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Boto\u0219ani",
+                    "state": "Boto\u0219ani",
+                    "country": "Romania",
+                    "mail_code": "720101"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Sighetu Marma\u021biei, Maramure\u0219 in Romania with the mail code 435500 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Sighetu Marma\u021biei",
+                    "state": "Maramure\u0219",
+                    "country": "Romania",
+                    "mail_code": "435500"
+                }
+            }
+        },
+        {
+            "query": "What timezone is C\u00e2mpia Turzii, Cluj in Romania with the mail code 410001 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "C\u00e2mpia Turzii",
+                    "state": "Cluj",
+                    "country": "Romania",
+                    "mail_code": "410001"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Miercurea Ciuc, Harghita in Romania with the mail code 530135 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Miercurea Ciuc",
+                    "state": "Harghita",
+                    "country": "Romania",
+                    "mail_code": "530135"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Mioveni, Arge\u0219 in Romania with the mail code 115100 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Mioveni",
+                    "state": "Arge\u0219",
+                    "country": "Romania",
+                    "mail_code": "115100"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Bucharest, Bucharest in Romania with the mail code 013111 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Bucharest",
+                    "state": "Bucharest",
+                    "country": "Romania",
+                    "mail_code": "013111"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Satu Mare, Satu Mare in Romania with the mail code 440001 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Satu Mare",
+                    "state": "Satu Mare",
+                    "country": "Romania",
+                    "mail_code": "440001"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Blaj, Alba in Romania with the mail code 515100 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Blaj",
+                    "state": "Alba",
+                    "country": "Romania",
+                    "mail_code": "515100"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Turda, Cluj in Romania with the mail code 401111 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Turda",
+                    "state": "Cluj",
+                    "country": "Romania",
+                    "mail_code": "401111"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Suceava, Suceava in Romania with the mail code 720001 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Suceava",
+                    "state": "Suceava",
+                    "country": "Romania",
+                    "mail_code": "720001"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Vaslui, Vaslui in Romania with the mail code 730101 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Vaslui",
+                    "state": "Vaslui",
+                    "country": "Romania",
+                    "mail_code": "730101"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Re\u0219i\u021ba, Cara\u0219-Severin in Romania with the mail code 310001 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Re\u0219i\u021ba",
+                    "state": "Cara\u0219-Severin",
+                    "country": "Romania",
+                    "mail_code": "310001"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Sf\u00e2ntu Gheorghe, Covasna in Romania with the mail code 525100 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Sf\u00e2ntu Gheorghe",
+                    "state": "Covasna",
+                    "country": "Romania",
+                    "mail_code": "525100"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of T\u00e2rgovi\u0219te, D\u00e2mbovi\u021ba in Romania with the mail code 110001 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "T\u00e2rgovi\u0219te",
+                    "state": "D\u00e2mbovi\u021ba",
+                    "country": "Romania",
+                    "mail_code": "110001"
+                }
+            }
+        },
+        {
+            "query": "What timezone is C\u00e2mpulung Muscel, Arge\u0219 in Romania with the mail code 115100 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "C\u00e2mpulung Muscel",
+                    "state": "Arge\u0219",
+                    "country": "Romania",
+                    "mail_code": "115100"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Pite\u0219ti, Arge\u0219 in Romania with the mail code 110001 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Pite\u0219ti",
+                    "state": "Arge\u0219",
+                    "country": "Romania",
+                    "mail_code": "110001"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Moreni, D\u00e2mbovi\u021ba in Romania with the mail code 130011 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Moreni",
+                    "state": "D\u00e2mbovi\u021ba",
+                    "country": "Romania",
+                    "mail_code": "130011"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Giurgiu, Giurgiu in Romania with the mail code 020001 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Giurgiu",
+                    "state": "Giurgiu",
+                    "country": "Romania",
+                    "mail_code": "020001"
+                }
+            }
+        },
+        {
+            "query": "What timezone is R\u00e2mnicu V\u00e2lcea, V\u00e2lcea in Romania with the mail code 240001 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "R\u00e2mnicu V\u00e2lcea",
+                    "state": "V\u00e2lcea",
+                    "country": "Romania",
+                    "mail_code": "240001"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of T\u00e2rgu Jiu, Gorj in Romania with the mail code 210001 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "T\u00e2rgu Jiu",
+                    "state": "Gorj",
+                    "country": "Romania",
+                    "mail_code": "210001"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Motru, Gorj in Romania with the mail code 215100 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Motru",
+                    "state": "Gorj",
+                    "country": "Romania",
+                    "mail_code": "215100"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of T\u00e2rgu Mure\u0219, Mure\u0219 in Romania with the mail code 540001 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "T\u00e2rgu Mure\u0219",
+                    "state": "Mure\u0219",
+                    "country": "Romania",
+                    "mail_code": "540001"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Sighisoara, Mure\u0219 in Romania with the mail code 530100 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Sighisoara",
+                    "state": "Mure\u0219",
+                    "country": "Romania",
+                    "mail_code": "530100"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Ludu\u0219, Mure\u0219 in Romania with the mail code 545400 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Ludu\u0219",
+                    "state": "Mure\u0219",
+                    "country": "Romania",
+                    "mail_code": "545400"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Reghin, Mure\u0219 in Romania with the mail code 535100 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Reghin",
+                    "state": "Mure\u0219",
+                    "country": "Romania",
+                    "mail_code": "535100"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of C\u00e2mpia Turzii, Cluj in Romania with the mail code 400001 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "C\u00e2mpia Turzii",
+                    "state": "Cluj",
+                    "country": "Romania",
+                    "mail_code": "400001"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Dej, Cluj in Romania with the mail code 401001 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Dej",
+                    "state": "Cluj",
+                    "country": "Romania",
+                    "mail_code": "401001"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Turda, Cluj in Romania with the mail code 401101 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Turda",
+                    "state": "Cluj",
+                    "country": "Romania",
+                    "mail_code": "401101"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Zal\u0103u, S\u0103laj in Romania with the mail code 455100 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Zal\u0103u",
+                    "state": "S\u0103laj",
+                    "country": "Romania",
+                    "mail_code": "455100"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Cehu Silvaniei, S\u0103laj in Romania with the mail code 457101 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Cehu Silvaniei",
+                    "state": "S\u0103laj",
+                    "country": "Romania",
+                    "mail_code": "457101"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Jibou, S\u0103laj in Romania with the mail code 457100 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Jibou",
+                    "state": "S\u0103laj",
+                    "country": "Romania",
+                    "mail_code": "457100"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Satu Mare, Satu Mare in Romania with the mail code 440001 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Satu Mare",
+                    "state": "Satu Mare",
+                    "country": "Romania",
+                    "mail_code": "440001"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Carei, Satu Mare in Romania with the mail code 445100 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Carei",
+                    "state": "Satu Mare",
+                    "country": "Romania",
+                    "mail_code": "445100"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Negre\u0219ti-Oa\u0219, Satu Mare in Romania with the mail code 447101 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Negre\u0219ti-Oa\u0219",
+                    "state": "Satu Mare",
+                    "country": "Romania",
+                    "mail_code": "447101"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Medie\u0219, Satu Mare in Romania with the mail code 445100 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Medie\u0219",
+                    "state": "Satu Mare",
+                    "country": "Romania",
+                    "mail_code": "445100"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of D\u0103b\u00e2ca, Satu Mare in Romania with the mail code 447101 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "D\u0103b\u00e2ca",
+                    "state": "Satu Mare",
+                    "country": "Romania",
+                    "mail_code": "447101"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Cehal, Satu Mare in Romania with the mail code 445100 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Cehal",
+                    "state": "Satu Mare",
+                    "country": "Romania",
+                    "mail_code": "445100"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of T\u0103\u0219nad, Satu Mare in Romania with the mail code 447101 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "T\u0103\u0219nad",
+                    "state": "Satu Mare",
+                    "country": "Romania",
+                    "mail_code": "447101"
+                }
+            }
+        },
+        {
+            "query": "What timezone is Vulcan, Hunedoara in Romania with the mail code 331001 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Vulcan",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "331001"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Densu\u0219, Hunedoara in Romania with the mail code 335301 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Densu\u0219",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "335301"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Or\u0103\u0219tie, Hunedoara in Romania with the mail code 336200 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Or\u0103\u0219tie",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "336200"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Deva, Hunedoara in Romania with the mail code 331100 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Deva",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "331100"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Brad, Hunedoara in Romania with the mail code 335100 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Brad",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "335100"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Lupeni, Hunedoara in Romania with the mail code 335201 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Lupeni",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "335201"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Geaca, Hunedoara in Romania with the mail code 337101 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Geaca",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "337101"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Simeria, Hunedoara in Romania with the mail code 335202 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Simeria",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "335202"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of S\u00e2nt\u0103m\u0103ria de Cege\u0219ti, Hunedoara in Romania with the mail code 337201 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "S\u00e2nt\u0103m\u0103ria de Cege\u0219ti",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "337201"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Uric, Hunedoara in Romania with the mail code 335203 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Uric",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "335203"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Pui, Hunedoara in Romania with the mail code 337102 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Pui",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "337102"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of C\u00e2r\u021bii, Hunedoara in Romania with the mail code 337103 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "C\u00e2r\u021bii",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "337103"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Tome\u0219ti, Hunedoara in Romania with the mail code 337104 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tome\u0219ti",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "337104"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of V\u0103deni, Hunedoara in Romania with the mail code 337105 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "V\u0103deni",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "337105"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Gurasada, Hunedoara in Romania with the mail code 337106 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Gurasada",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "337106"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Pesti\u0219u Mic, Hunedoara in Romania with the mail code 336201 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Pesti\u0219u Mic",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "336201"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Pesti\u0219u Mare, Hunedoara in Romania with the mail code 336202 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Pesti\u0219u Mare",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "336202"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of B\u0103ni\u021ba, Hunedoara in Romania with the mail code 335204 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "B\u0103ni\u021ba",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "335204"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Uric, Hunedoara in Romania with the mail code 335205 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Uric",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "335205"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Teli\u0219or, Hunedoara in Romania with the mail code 335206 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Teli\u0219or",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "335206"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of S\u00e2nt\u0103m\u0103ria de Cege\u0219ti, Hunedoara in Romania with the mail code 337107 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "S\u00e2nt\u0103m\u0103ria de Cege\u0219ti",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "337107"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Ghirolt, Hunedoara in Romania with the mail code 337108 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Ghirolt",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "337108"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of C\u00e2r\u021bi\u0219oara, Hunedoara in Romania with the mail code 336203 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "C\u00e2r\u021bi\u0219oara",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "336203"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of M\u00e2rghita, Hunedoara in Romania with the mail code 337109 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "M\u00e2rghita",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "337109"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Cenade, Hunedoara in Romania with the mail code 336204 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Cenade",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "336204"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Bl\u0103jsorel, Hunedoara in Romania with the mail code 337110 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Bl\u0103jsorel",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "337110"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Uric, Hunedoara in Romania with the mail code 335207 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Uric",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "335207"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of B\u0103ni\u021ba, Hunedoara in Romania with the mail code 335208 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "B\u0103ni\u021ba",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "335208"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Deva, Hunedoara in Romania with the mail code 336205 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Deva",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "336205"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Lupeni, Hunedoara in Romania with the mail code 335209 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Lupeni",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "335209"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of H\u0103\u0219ma\u0219, Hunedoara in Romania with the mail code 336206 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "H\u0103\u0219ma\u0219",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "336206"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Br\u0103de\u021bu, Hunedoara in Romania with the mail code 335210 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Br\u0103de\u021bu",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "335210"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of C\u00e2r\u021bi\u0219or, Hunedoara in Romania with the mail code 336207 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "C\u00e2r\u021bi\u0219or",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "336207"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of B\u0103i\u021ba, Hunedoara in Romania with the mail code 335211 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "B\u0103i\u021ba",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "335211"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of R\u00e2u de Mori, Hunedoara in Romania with the mail code 336208 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "R\u00e2u de Mori",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "336208"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Br\u0103de\u021bu, Hunedoara in Romania with the mail code 335212 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Br\u0103de\u021bu",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "335212"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of C\u00e2r\u021bi\u0219or, Hunedoara in Romania with the mail code 336209 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "C\u00e2r\u021bi\u0219or",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "336209"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of B\u0103i\u021ba, Hunedoara in Romania with the mail code 335213 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "B\u0103i\u021ba",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "335213"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Teli\u0219or, Hunedoara in Romania with the mail code 336210 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Teli\u0219or",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "336210"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Lupeni, Hunedoara in Romania with the mail code 335214 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Lupeni",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "335214"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of H\u0103\u0219ma\u0219, Hunedoara in Romania with the mail code 336211 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "H\u0103\u0219ma\u0219",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "336211"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Br\u0103de\u021bu, Hunedoara in Romania with the mail code 335215 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Br\u0103de\u021bu",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "335215"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of B\u0103i\u021ba, Hunedoara in Romania with the mail code 336212 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "B\u0103i\u021ba",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "336212"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of R\u00e2u de Mori, Hunedoara in Romania with the mail code 335216 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "R\u00e2u de Mori",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "335216"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of C\u00e2r\u021bi\u0219or, Hunedoara in Romania with the mail code 336213 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "C\u00e2r\u021bi\u0219or",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "336213"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Lupeni, Hunedoara in Romania with the mail code 335217 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Lupeni",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "335217"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Teli\u0219or, Hunedoara in Romania with the mail code 336214 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Teli\u0219or",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "336214"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of H\u0103\u0219ma\u0219, Hunedoara in Romania with the mail code 335218 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "H\u0103\u0219ma\u0219",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "335218"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Br\u0103de\u021bu, Hunedoara in Romania with the mail code 336215 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Br\u0103de\u021bu",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "336215"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of B\u0103i\u021ba, Hunedoara in Romania with the mail code 335219 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "B\u0103i\u021ba",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "335219"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of R\u00e2u de Mori, Hunedoara in Romania with the mail code 336216 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "R\u00e2u de Mori",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "336216"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of C\u00e2r\u021bi\u0219or, Hunedoara in Romania with the mail code 335220 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "C\u00e2r\u021bi\u0219or",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "335220"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Lupeni, Hunedoara in Romania with the mail code 336217 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Lupeni",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "336217"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Teli\u0219or, Hunedoara in Romania with the mail code 335221 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Teli\u0219or",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "335221"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of H\u0103\u0219ma\u0219, Hunedoara in Romania with the mail code 336218 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "H\u0103\u0219ma\u0219",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "336218"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Br\u0103de\u021bu, Hunedoara in Romania with the mail code 335222 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Br\u0103de\u021bu",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "335222"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of B\u0103i\u021ba, Hunedoara in Romania with the mail code 336219 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "B\u0103i\u021ba",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "336219"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of R\u00e2u de Mori, Hunedoara in Romania with the mail code 335223 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "R\u00e2u de Mori",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "335223"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of C\u00e2r\u021bi\u0219or, Hunedoara in Romania with the mail code 336220 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "C\u00e2r\u021bi\u0219or",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "336220"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Lupeni, Hunedoara in Romania with the mail code 335224 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Lupeni",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "335224"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Teli\u0219or, Hunedoara in Romania with the mail code 336221 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Teli\u0219or",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "336221"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of H\u0103\u0219ma\u0219, Hunedoara in Romania with the mail code 335225 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "H\u0103\u0219ma\u0219",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "335225"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Br\u0103de\u021bu, Hunedoara in Romania with the mail code 336222 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Br\u0103de\u021bu",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "336222"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of B\u0103i\u021ba, Hunedoara in Romania with the mail code 335226 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "B\u0103i\u021ba",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "335226"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of R\u00e2u de Mori, Hunedoara in Romania with the mail code 336223 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "R\u00e2u de Mori",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "336223"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of C\u00e2r\u021bi\u0219or, Hunedoara in Romania with the mail code 335227 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "C\u00e2r\u021bi\u0219or",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "335227"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Lupeni, Hunedoara in Romania with the mail code 336224 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Lupeni",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "336224"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Teli\u0219or, Hunedoara in Romania with the mail code 335228 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Teli\u0219or",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "335228"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of H\u0103\u0219ma\u0219, Hunedoara in Romania with the mail code 336225 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "H\u0103\u0219ma\u0219",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "336225"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Br\u0103de\u021bu, Hunedoara in Romania with the mail code 335229 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Br\u0103de\u021bu",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "335229"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of B\u0103i\u021ba, Hunedoara in Romania with the mail code 336226 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "B\u0103i\u021ba",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "336226"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of R\u00e2u de Mori, Hunedoara in Romania with the mail code 335230 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "R\u00e2u de Mori",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "335230"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of C\u00e2r\u021bi\u0219or, Hunedoara in Romania with the mail code 336227 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "C\u00e2r\u021bi\u0219or",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "336227"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Lupeni, Hunedoara in Romania with the mail code 335231 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Lupeni",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "335231"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Teli\u0219or, Hunedoara in Romania with the mail code 336228 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Teli\u0219or",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "336228"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of H\u0103\u0219ma\u0219, Hunedoara in Romania with the mail code 335232 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "H\u0103\u0219ma\u0219",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "335232"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Br\u0103de\u021bu, Hunedoara in Romania with the mail code 336229 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Br\u0103de\u021bu",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "336229"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of B\u0103i\u021ba, Hunedoara in Romania with the mail code 335233 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "B\u0103i\u021ba",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "335233"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of R\u00e2u de Mori, Hunedoara in Romania with the mail code 336230 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "R\u00e2u de Mori",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "336230"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of C\u00e2r\u021bi\u0219or, Hunedoara in Romania with the mail code 335234 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "C\u00e2r\u021bi\u0219or",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "335234"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Lupeni, Hunedoara in Romania with the mail code 336231 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Lupeni",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "336231"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Teli\u0219or, Hunedoara in Romania with the mail code 335235 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Teli\u0219or",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "335235"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of H\u0103\u0219ma\u0219, Hunedoara in Romania with the mail code 336232 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "H\u0103\u0219ma\u0219",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "336232"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Br\u0103de\u021bu, Hunedoara in Romania with the mail code 335236 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Br\u0103de\u021bu",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "335236"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of B\u0103i\u021ba, Hunedoara in Romania with the mail code 336233 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "B\u0103i\u021ba",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "336233"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of R\u00e2u de Mori, Hunedoara in Romania with the mail code 335237 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "R\u00e2u de Mori",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "335237"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of C\u00e2r\u021bi\u0219or, Hunedoara in Romania with the mail code 336234 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "C\u00e2r\u021bi\u0219or",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "336234"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Lupeni, Hunedoara in Romania with the mail code 335238 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Lupeni",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "335238"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Teli\u0219or, Hunedoara in Romania with the mail code 336235 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Teli\u0219or",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "336235"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of H\u0103\u0219ma\u0219, Hunedoara in Romania with the mail code 335239 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "H\u0103\u0219ma\u0219",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "335239"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Br\u0103de\u021bu, Hunedoara in Romania with the mail code 336236 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Br\u0103de\u021bu",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "336236"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of B\u0103i\u021ba, Hunedoara in Romania with the mail code 335240 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "B\u0103i\u021ba",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "335240"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of R\u00e2u de Mori, Hunedoara in Romania with the mail code 336237 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "R\u00e2u de Mori",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "336237"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of C\u00e2r\u021bi\u0219or, Hunedoara in Romania with the mail code 335241 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "C\u00e2r\u021bi\u0219or",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "335241"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Lupeni, Hunedoara in Romania with the mail code 336238 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Lupeni",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "336238"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Teli\u0219or, Hunedoara in Romania with the mail code 335242 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Teli\u0219or",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "335242"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of H\u0103\u0219ma\u0219, Hunedoara in Romania with the mail code 336239 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "H\u0103\u0219ma\u0219",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "336239"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Br\u0103de\u021bu, Hunedoara in Romania with the mail code 335243 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Br\u0103de\u021bu",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "335243"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of B\u0103i\u021ba, Hunedoara in Romania with the mail code 336240 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "B\u0103i\u021ba",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "336240"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of R\u00e2u de Mori, Hunedoara in Romania with the mail code 335244 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "R\u00e2u de Mori",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "335244"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of C\u00e2r\u021bi\u0219or, Hunedoara in Romania with the mail code 336241 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "C\u00e2r\u021bi\u0219or",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "336241"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Lupeni, Hunedoara in Romania with the mail code 335245 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Lupeni",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "335245"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Teli\u0219or, Hunedoara in Romania with the mail code 336242 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Teli\u0219or",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "336242"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of H\u0103\u0219ma\u0219, Hunedoara in Romania with the mail code 335246 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "H\u0103\u0219ma\u0219",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "335246"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Br\u0103de\u021bu, Hunedoara in Romania with the mail code 336243 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Br\u0103de\u021bu",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "336243"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of B\u0103i\u021ba, Hunedoara in Romania with the mail code 335247 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "B\u0103i\u021ba",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "335247"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of R\u00e2u de Mori, Hunedoara in Romania with the mail code 336244 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "R\u00e2u de Mori",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "336244"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of C\u00e2r\u021bi\u0219or, Hunedoara in Romania with the mail code 335248 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "C\u00e2r\u021bi\u0219or",
+                    "state": "Hunedoara",
+                    "country": "Romania",
+                    "mail_code": "335248"
+                }
+            }
+        }
+    ]
+}

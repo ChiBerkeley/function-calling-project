@@ -1,0 +1,508 @@
+{
+    "queries": [
+        {
+            "query": "What is the timezone of Cusco, Peru",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Cusco",
+                    "state": "",
+                    "country": "Peru",
+                    "mail_code": ""
+                }
+            }
+        },
+        {
+            "query": "What time zone is Lima, in Peru with the mail code 15074 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Lima",
+                    "state": "",
+                    "country": "Peru",
+                    "mail_code": "15074"
+                }
+            }
+        },
+        {
+            "query": "In what timezone is Manta, Ecuador located and has a zip code of 4500",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Manta",
+                    "state": "",
+                    "country": "Ecuador",
+                    "mail_code": "4500"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Bogota, in Colombia with the mail code 11001 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Bogota",
+                    "state": "",
+                    "country": "Colombia",
+                    "mail_code": "11001"
+                }
+            }
+        },
+        {
+            "query": "In what timezone is Paramaribo, Suriname located and has a zip code of 1002",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Paramaribo",
+                    "state": "",
+                    "country": "Suriname",
+                    "mail_code": "1002"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Montevideo, Uruguay located and has a zip code of 11000",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Montevideo",
+                    "state": "",
+                    "country": "Uruguay",
+                    "mail_code": "11000"
+                }
+            }
+        },
+        {
+            "query": "What timezone does Quito, in Ecuador have with the mail code 170150 and its capital?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Quito",
+                    "state": "",
+                    "country": "Ecuador",
+                    "mail_code": "170150"
+                }
+            }
+        },
+        {
+            "query": "In what timezone is Asuncion, Paraguay located and has a zip code of 1201",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Asuncion",
+                    "state": "",
+                    "country": "Paraguay",
+                    "mail_code": "1201"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Santiago, in Chile with the mail code 8323 and its capital?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Santiago",
+                    "state": "",
+                    "country": "Chile",
+                    "mail_code": "8323"
+                }
+            }
+        },
+        {
+            "query": "In what timezone is La Paz, Bolivia located and has a zip code of 1025",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "La Paz",
+                    "state": "",
+                    "country": "Bolivia",
+                    "mail_code": "1025"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Brasilia, in Brazil with the mail code 70010 and its capital?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Brasilia",
+                    "state": "",
+                    "country": "Brazil",
+                    "mail_code": "70010"
+                }
+            }
+        },
+        {
+            "query": "In what timezone is Iquitos, Peru located and has a zip code of 72004",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Iquitos",
+                    "state": "",
+                    "country": "Peru",
+                    "mail_code": "72004"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Caracas, in Venezuela with the mail code 1007 and its capital?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Caracas",
+                    "state": "",
+                    "country": "Venezuela",
+                    "mail_code": "1007"
+                }
+            }
+        },
+        {
+            "query": "In what timezone is Guayaquil, Ecuador located and has a zip code of 090150",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Guayaquil",
+                    "state": "",
+                    "country": "Ecuador",
+                    "mail_code": "090150"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Montevideo, in Uruguay with the mail code 10000 and its capital?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Montevideo",
+                    "state": "",
+                    "country": "Uruguay",
+                    "mail_code": "10000"
+                }
+            }
+        },
+        {
+            "query": "In what timezone is Quito, in Ecuador has a mail code of 170150 and its capital?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Quito",
+                    "state": "",
+                    "country": "Ecuador",
+                    "mail_code": "170150"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Paramaribo, in Suriname with the mail code 1002 and its capital?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Paramaribo",
+                    "state": "",
+                    "country": "Suriname",
+                    "mail_code": "1002"
+                }
+            }
+        },
+        {
+            "query": "In what timezone is Bogota, Colombia located and has a zip code of 11001",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Bogota",
+                    "state": "",
+                    "country": "Colombia",
+                    "mail_code": "11001"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Manta, in Ecuador with the mail code 4500 and its capital?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Manta",
+                    "state": "",
+                    "country": "Ecuador",
+                    "mail_code": "4500"
+                }
+            }
+        },
+        {
+            "query": "In what timezone is Asuncion, Paraguay located and has a zip code of 1201",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Asuncion",
+                    "state": "",
+                    "country": "Paraguay",
+                    "mail_code": "1201"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Lima, in Peru with the mail code 15074 and its capital?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Lima",
+                    "state": "",
+                    "country": "Peru",
+                    "mail_code": "15074"
+                }
+            }
+        },
+        {
+            "query": "In what timezone is Iquitos, Peru has a mail code of 72004 and its capital?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Iquitos",
+                    "state": "",
+                    "country": "Peru",
+                    "mail_code": "72004"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Cusco, in Peru with the mail code 28000 and its capital?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Cusco",
+                    "state": "",
+                    "country": "Peru",
+                    "mail_code": "28000"
+                }
+            }
+        },
+        {
+            "query": "In what timezone is Santiago, Chile located and has a zip code of 8323",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Santiago",
+                    "state": "",
+                    "country": "Chile",
+                    "mail_code": "8323"
+                }
+            }
+        },
+        {
+            "query": "What time zone is La Paz, in Bolivia with the mail code 1025 and its capital?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "La Paz",
+                    "state": "",
+                    "country": "Bolivia",
+                    "mail_code": "1025"
+                }
+            }
+        },
+        {
+            "query": "In what timezone is Brasilia, Brazil located and has a zip code of 70010",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Brasilia",
+                    "state": "",
+                    "country": "Brazil",
+                    "mail_code": "70010"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Guayaquil, in Ecuador with the mail code 090150 and its capital?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Guayaquil",
+                    "state": "",
+                    "country": "Ecuador",
+                    "mail_code": "090150"
+                }
+            }
+        },
+        {
+            "query": "In what timezone is Guayaquil, Ecuador has a mail code of 090150 and its capital?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Guayaquil",
+                    "state": "",
+                    "country": "Ecuador",
+                    "mail_code": "090150"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Iquitos, in Peru with the mail code 72004 and its capital?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Iquitos",
+                    "state": "",
+                    "country": "Peru",
+                    "mail_code": "72004"
+                }
+            }
+        },
+        {
+            "query": "In what timezone is Caracas, Venezuela located and has a zip code of 1007",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Caracas",
+                    "state": "",
+                    "country": "Venezuela",
+                    "mail_code": "1007"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Manta, in Ecuador with the mail code 4500 and its capital?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Manta",
+                    "state": "",
+                    "country": "Ecuador",
+                    "mail_code": "4500"
+                }
+            }
+        },
+        {
+            "query": "In what timezone is Cusco, Peru located and has a zip code of 28000",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Cusco",
+                    "state": "",
+                    "country": "Peru",
+                    "mail_code": "28000"
+                }
+            }
+        },
+        {
+            "query": "What time zone is La Paz, in Bolivia with the mail code 1025 and its capital?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "La Paz",
+                    "state": "",
+                    "country": "Bolivia",
+                    "mail_code": "1025"
+                }
+            }
+        },
+        {
+            "query": "In what timezone is Paramaribo, Suriname located and has a zip code of 1002",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Paramaribo",
+                    "state": "",
+                    "country": "Suriname",
+                    "mail_code": "1002"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Guayaquil, in Ecuador with the mail code 090150 and its capital?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Guayaquil",
+                    "state": "",
+                    "country": "Ecuador",
+                    "mail_code": "090150"
+                }
+            }
+        },
+        {
+            "query": "In what timezone is Bogota, Colombia has a mail code of 11001 and its capital?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Bogota",
+                    "state": "",
+                    "country": "Colombia",
+                    "mail_code": "11001"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Iquitos, in Peru with the mail code 72004 and its capital?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Iquitos",
+                    "state": "",
+                    "country": "Peru",
+                    "mail_code": "72004"
+                }
+            }
+        },
+        {
+            "query": "In what timezone is Asuncion, Paraguay has a mail code of 1201 and its capital?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Asuncion",
+                    "state": "",
+                    "country": "Paraguay",
+                    "mail_code": "1201"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Caracas, in Venezuela with the mail code 1007 and its capital?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Caracas",
+                    "state": "",
+                    "country": "Venezuela",
+                    "mail_code": "1007"
+                }
+            }
+        },
+        {
+            "query": "In what timezone is Montevideo, Uruguay located and has a zip code of 10000",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Montevideo",
+                    "state": "",
+                    "country": "Uruguay",
+                    "mail_code": "10000"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Quito, in Ecuador with the mail code 170150 and its capital?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Quito",
+                    "state": "",
+                    "country": "Ecuador",
+                    "mail_code": "170150"
+                }
+            }
+        },
+        {
+            "query": "In what timezone is Brasilia, Brazil has a zip code of 70010 and its capital?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Brasilia",
+                    "state": "",
+                    "country": "Brazil",
+                    "mail_code": "70010"
+                }
+            }
+        }
+    ]
+}

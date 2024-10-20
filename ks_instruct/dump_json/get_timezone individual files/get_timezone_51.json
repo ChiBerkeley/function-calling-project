@@ -1,0 +1,616 @@
+{
+    "queries": [
+        {
+            "query": "What timezone is Fukuoka, Japan located in with postal code 8120002",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Fukuoka",
+                    "state": null,
+                    "country": "Japan",
+                    "mail_code": "8120002"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Sapporo, Hokkaido in Japan with zip code 0600001",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Sapporo",
+                    "state": "Hokkaido",
+                    "country": "Japan",
+                    "mail_code": "0600001"
+                }
+            }
+        },
+        {
+            "query": "In which time zone is Tokyo, Japan located with the area code 8130005?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tokyo",
+                    "state": null,
+                    "country": "Japan",
+                    "mail_code": "8130005"
+                }
+            }
+        },
+        {
+            "query": "What timezone does Hiroshima have in Japan with postal code 7390002?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Hiroshima",
+                    "state": null,
+                    "country": "Japan",
+                    "mail_code": "7390002"
+                }
+            }
+        },
+        {
+            "query": "What is the time zone for Nagoya, Aichi in Japan with area code 4510003?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Nagoya",
+                    "state": "Aichi",
+                    "country": "Japan",
+                    "mail_code": "4510003"
+                }
+            }
+        },
+        {
+            "query": "Which time zone is Osaka, Japan located in with the zip code 5420001?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Osaka",
+                    "state": null,
+                    "country": "Japan",
+                    "mail_code": "5420001"
+                }
+            }
+        },
+        {
+            "query": "What timezone does Kobe have in Hyogo, Japan with postal code 6500003?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Kobe",
+                    "state": "Hyogo",
+                    "country": "Japan",
+                    "mail_code": "6500003"
+                }
+            }
+        },
+        {
+            "query": "In which time zone is Kyoto located in Japan with the area code 6000002?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Kyoto",
+                    "state": null,
+                    "country": "Japan",
+                    "mail_code": "6000002"
+                }
+            }
+        },
+        {
+            "query": "What timezone does Sendai have in Miyagi, Japan with postal code 9800001?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Sendai",
+                    "state": "Miyagi",
+                    "country": "Japan",
+                    "mail_code": "9800001"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Fukuoka, Japan located in with the postal code 8120002?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Fukuoka",
+                    "state": null,
+                    "country": "Japan",
+                    "mail_code": "8120002"
+                }
+            }
+        },
+        {
+            "query": "Which time zone is Sapporo, Hokkaido in Japan located in with the zip code 0600001?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Sapporo",
+                    "state": "Hokkaido",
+                    "country": "Japan",
+                    "mail_code": "0600001"
+                }
+            }
+        },
+        {
+            "query": "What timezone does Tokyo have in Japan with the postal code 8130005?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tokyo",
+                    "state": null,
+                    "country": "Japan",
+                    "mail_code": "8130005"
+                }
+            }
+        },
+        {
+            "query": "In which time zone is Hiroshima located in Japan with the area code 7390002?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Hiroshima",
+                    "state": null,
+                    "country": "Japan",
+                    "mail_code": "7390002"
+                }
+            }
+        },
+        {
+            "query": "What timezone does Nagoya have in Aichi, Japan with the area code 4510003?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Nagoya",
+                    "state": "Aichi",
+                    "country": "Japan",
+                    "mail_code": "4510003"
+                }
+            }
+        },
+        {
+            "query": "Which time zone is Osaka located in Japan with the zip code 5420001?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Osaka",
+                    "state": null,
+                    "country": "Japan",
+                    "mail_code": "5420001"
+                }
+            }
+        },
+        {
+            "query": "What timezone does Kobe have in Hyogo, Japan with postal code 6500003?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Kobe",
+                    "state": "Hyogo",
+                    "country": "Japan",
+                    "mail_code": "6500003"
+                }
+            }
+        },
+        {
+            "query": "In which time zone is Kyoto located in Japan with the postal code 6000002?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Kyoto",
+                    "state": null,
+                    "country": "Japan",
+                    "mail_code": "6000002"
+                }
+            }
+        },
+        {
+            "query": "What timezone does Sendai have in Miyagi, Japan with the area code 9800001?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Sendai",
+                    "state": "Miyagi",
+                    "country": "Japan",
+                    "mail_code": "9800001"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Fukuoka located in Japan with the postal code 8120002?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Fukuoka",
+                    "state": null,
+                    "country": "Japan",
+                    "mail_code": "8120002"
+                }
+            }
+        },
+        {
+            "query": "What timezone does Sapporo have in Hokkaido, Japan with the zip code 0600001?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Sapporo",
+                    "state": "Hokkaido",
+                    "country": "Japan",
+                    "mail_code": "0600001"
+                }
+            }
+        },
+        {
+            "query": "In which time zone is Tokyo located in Japan with the postal code 8130005?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tokyo",
+                    "state": null,
+                    "country": "Japan",
+                    "mail_code": "8130005"
+                }
+            }
+        },
+        {
+            "query": "What timezone does Hiroshima have in Japan with the area code 7390002?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Hiroshima",
+                    "state": null,
+                    "country": "Japan",
+                    "mail_code": "7390002"
+                }
+            }
+        },
+        {
+            "query": "Which time zone is Nagoya located in Aichi, Japan with the postal code 4510003?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Nagoya",
+                    "state": "Aichi",
+                    "country": "Japan",
+                    "mail_code": "4510003"
+                }
+            }
+        },
+        {
+            "query": "What timezone does Osaka have in Japan with the zip code 5420001?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Osaka",
+                    "state": null,
+                    "country": "Japan",
+                    "mail_code": "5420001"
+                }
+            }
+        },
+        {
+            "query": "In which time zone is Kobe located in Hyogo, Japan with the postal code 6500003?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Kobe",
+                    "state": "Hyogo",
+                    "country": "Japan",
+                    "mail_code": "6500003"
+                }
+            }
+        },
+        {
+            "query": "What timezone does Kyoto have in Japan with the postal code 6000002?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Kyoto",
+                    "state": null,
+                    "country": "Japan",
+                    "mail_code": "6000002"
+                }
+            }
+        },
+        {
+            "query": "Which time zone is Sendai located in Miyagi, Japan with the area code 9800001?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Sendai",
+                    "state": "Miyagi",
+                    "country": "Japan",
+                    "mail_code": "9800001"
+                }
+            }
+        },
+        {
+            "query": "What timezone does Fukuoka have in Japan with the postal code 8120002?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Fukuoka",
+                    "state": null,
+                    "country": "Japan",
+                    "mail_code": "8120002"
+                }
+            }
+        },
+        {
+            "query": "In which time zone is Sapporo located in Hokkaido, Japan with the zip code 0600001?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Sapporo",
+                    "state": "Hokkaido",
+                    "country": "Japan",
+                    "mail_code": "0600001"
+                }
+            }
+        },
+        {
+            "query": "What timezone does Tokyo have in Japan with the postal code 8130005?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tokyo",
+                    "state": null,
+                    "country": "Japan",
+                    "mail_code": "8130005"
+                }
+            }
+        },
+        {
+            "query": "Which time zone is Hiroshima located in Japan with the area code 7390002?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Hiroshima",
+                    "state": null,
+                    "country": "Japan",
+                    "mail_code": "7390002"
+                }
+            }
+        },
+        {
+            "query": "What timezone does Nagoya have in Aichi, Japan with the area code 4510003?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Nagoya",
+                    "state": "Aichi",
+                    "country": "Japan",
+                    "mail_code": "4510003"
+                }
+            }
+        },
+        {
+            "query": "In which time zone is Osaka located in Japan with the zip code 5420001?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Osaka",
+                    "state": null,
+                    "country": "Japan",
+                    "mail_code": "5420001"
+                }
+            }
+        },
+        {
+            "query": "What timezone does Kobe have in Hyogo, Japan with the postal code 6500003?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Kobe",
+                    "state": "Hyogo",
+                    "country": "Japan",
+                    "mail_code": "6500003"
+                }
+            }
+        },
+        {
+            "query": "Which time zone is Kyoto located in Japan with the area code 6000002?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Kyoto",
+                    "state": null,
+                    "country": "Japan",
+                    "mail_code": "6000002"
+                }
+            }
+        },
+        {
+            "query": "What timezone does Sendai have in Miyagi, Japan with the postal code 9800001?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Sendai",
+                    "state": "Miyagi",
+                    "country": "Japan",
+                    "mail_code": "9800001"
+                }
+            }
+        },
+        {
+            "query": "In which time zone is Fukuoka located in Japan with the area code 8120002?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Fukuoka",
+                    "state": null,
+                    "country": "Japan",
+                    "mail_code": "8120002"
+                }
+            }
+        },
+        {
+            "query": "What timezone does Sapporo have in Hokkaido, Japan with the postal code 0600001?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Sapporo",
+                    "state": "Hokkaido",
+                    "country": "Japan",
+                    "mail_code": "0600001"
+                }
+            }
+        },
+        {
+            "query": "Which time zone is Tokyo located in Japan with the area code 8130005?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tokyo",
+                    "state": null,
+                    "country": "Japan",
+                    "mail_code": "8130005"
+                }
+            }
+        },
+        {
+            "query": "What timezone does Hiroshima have in Japan with the postal code 7390002?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Hiroshima",
+                    "state": null,
+                    "country": "Japan",
+                    "mail_code": "7390002"
+                }
+            }
+        },
+        {
+            "query": "In which time zone is Nagoya located in Japan with the area code 4510003?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Nagoya",
+                    "state": "Aichi",
+                    "country": "Japan",
+                    "mail_code": "4510003"
+                }
+            }
+        },
+        {
+            "query": "What timezone does Osaka have in Japan with the postal code 5420001?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Osaka",
+                    "state": null,
+                    "country": "Japan",
+                    "mail_code": "5420001"
+                }
+            }
+        },
+        {
+            "query": "Which time zone is Kobe located in Japan with the postal code 6500003?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Kobe",
+                    "state": "Hyogo",
+                    "country": "Japan",
+                    "mail_code": "6500003"
+                }
+            }
+        },
+        {
+            "query": "What timezone does Kyoto have in Japan with the area code 6000002?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Kyoto",
+                    "state": null,
+                    "country": "Japan",
+                    "mail_code": "6000002"
+                }
+            }
+        },
+        {
+            "query": "In which time zone is Sendai located in Japan with the postal code 9800001?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Sendai",
+                    "state": "Miyagi",
+                    "country": "Japan",
+                    "mail_code": "9800001"
+                }
+            }
+        },
+        {
+            "query": "What timezone does Fukuoka have in Japan with the postal code 8120002?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Fukuoka",
+                    "state": null,
+                    "country": "Japan",
+                    "mail_code": "8120002"
+                }
+            }
+        },
+        {
+            "query": "Which time zone is Sapporo located in Japan with the postal code 0600001?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Sapporo",
+                    "state": "Hokkaido",
+                    "country": "Japan",
+                    "mail_code": "0600001"
+                }
+            }
+        },
+        {
+            "query": "What timezone does Tokyo have in Japan with the postal code 8130005?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Tokyo",
+                    "state": null,
+                    "country": "Japan",
+                    "mail_code": "8130005"
+                }
+            }
+        },
+        {
+            "query": "In which time zone is Hiroshima located in Japan with the postal code 7390002?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Hiroshima",
+                    "state": null,
+                    "country": "Japan",
+                    "mail_code": "7390002"
+                }
+            }
+        },
+        {
+            "query": "What timezone does Nagoya have in Japan with the postal code 4510003?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Nagoya",
+                    "state": "Aichi",
+                    "country": "Japan",
+                    "mail_code": "4510003"
+                }
+            }
+        },
+        {
+            "query": "Which time zone is Osaka located in Japan with the postal code 5420001?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Osaka",
+                    "state": null,
+                    "country": "Japan",
+                    "mail_code": "5420001"
+                }
+            }
+        }
+    ]
+}

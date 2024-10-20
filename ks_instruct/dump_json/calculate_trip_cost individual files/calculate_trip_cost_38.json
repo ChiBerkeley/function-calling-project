@@ -1,0 +1,422 @@
+{
+    "queries": [
+        {
+            "query": "What is the total cost of a trip that covers a distance of 120 kilometers with a fuel efficiency of 15 liters per 100 kilometers at a fuel cost of 1.50 euros per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "120",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "1.5"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip that covers a distance of 500 kilometers with a fuel efficiency of 20 liters per 100 kilometers at a fuel cost of 2.00 dollars per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "20",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip that covers a distance of 300 kilometers with a fuel efficiency of 12 liters per 100 kilometers at a fuel cost of 1.25 euros per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "300",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "1.25"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip that covers a distance of 75 kilometers with a fuel efficiency of 15 liters per 100 kilometers at a fuel cost of 2.50 dollars per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "75",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "2.5"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip that covers a distance of 900 kilometers with a fuel efficiency of 25 liters per 100 kilometers at a fuel cost of 1.00 euros per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "900",
+                    "fuel_efficiency": "25",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip that covers a distance of 150 kilometers with a fuel efficiency of 18 liters per 100 kilometers at a fuel cost of 2.00 euros per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "150",
+                    "fuel_efficiency": "18",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip that covers a distance of 200 kilometers with a fuel efficiency of 10 liters per 100 kilometers at a fuel cost of 1.75 euros per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "200",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "1.75"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip that covers a distance of 450 kilometers with a fuel efficiency of 22 liters per 100 kilometers at a fuel cost of 2.25 dollars per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "450",
+                    "fuel_efficiency": "22",
+                    "fuel_cost_per_liter": "2.25"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip that covers a distance of 600 kilometers with a fuel efficiency of 20 liters per 100 kilometers at a fuel cost of 1.00 euros per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "20",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip that covers a distance of 350 kilometers with a fuel efficiency of 15 liters per 100 kilometers at a fuel cost of 2.00 euros per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "350",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip that covers a distance of 650 kilometers with a fuel efficiency of 18 liters per 100 kilometers at a fuel cost of 1.50 euros per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "650",
+                    "fuel_efficiency": "18",
+                    "fuel_cost_per_liter": "1.5"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip that covers a distance of 100 kilometers with a fuel efficiency of 12 liters per 100 kilometers at a fuel cost of 2.50 dollars per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "100",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "2.5"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip that covers a distance of 850 kilometers with a fuel efficiency of 20 liters per 100 kilometers at a fuel cost of 1.25 euros per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "850",
+                    "fuel_efficiency": "20",
+                    "fuel_cost_per_liter": "1.25"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip that covers a distance of 250 kilometers with a fuel efficiency of 15 liters per 100 kilometers at a fuel cost of 2.00 euros per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "250",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip that covers a distance of 700 kilometers with a fuel efficiency of 22 liters per 100 kilometers at a fuel cost of 2.00 dollars per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "700",
+                    "fuel_efficiency": "22",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip that covers a distance of 400 kilometers with a fuel efficiency of 18 liters per 100 kilometers at a fuel cost of 1.75 euros per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "400",
+                    "fuel_efficiency": "18",
+                    "fuel_cost_per_liter": "1.75"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip that covers a distance of 550 kilometers with a fuel efficiency of 15 liters per 100 kilometers at a fuel cost of 2.25 dollars per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "550",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "2.25"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip that covers a distance of 450 kilometers with a fuel efficiency of 20 liters per 100 kilometers at a fuel cost of 1.00 euros per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "450",
+                    "fuel_efficiency": "20",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip that covers a distance of 300 kilometers with a fuel efficiency of 22 liters per 100 kilometers at a fuel cost of 2.00 euros per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "300",
+                    "fuel_efficiency": "22",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip that covers a distance of 600 kilometers with a fuel efficiency of 15 liters per 100 kilometers at a fuel cost of 1.50 euros per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "1.5"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip that covers a distance of 750 kilometers with a fuel efficiency of 20 liters per 100 kilometers at a fuel cost of 2.00 euros per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "750",
+                    "fuel_efficiency": "20",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip that covers a distance of 200 kilometers with a fuel efficiency of 12 liters per 100 kilometers at a fuel cost of 2.50 dollars per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "200",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "2.5"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip that covers a distance of 500 kilometers with a fuel efficiency of 15 liters per 100 kilometers at a fuel cost of 1.75 euros per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "1.75"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip that covers a distance of 350 kilometers with a fuel efficiency of 20 liters per 100 kilometers at a fuel cost of 2.00 euros per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "350",
+                    "fuel_efficiency": "20",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip that covers a distance of 700 kilometers with a fuel efficiency of 18 liters per 100 kilometers at a fuel cost of 1.00 euros per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "700",
+                    "fuel_efficiency": "18",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip that covers a distance of 400 kilometers with a fuel efficiency of 22 liters per 100 kilometers at a fuel cost of 2.25 dollars per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "400",
+                    "fuel_efficiency": "22",
+                    "fuel_cost_per_liter": "2.25"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip that covers a distance of 650 kilometers with a fuel efficiency of 15 liters per 100 kilometers at a fuel cost of 1.50 euros per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "650",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "1.5"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip that covers a distance of 500 kilometers with a fuel efficiency of 18 liters per 100 kilometers at a fuel cost of 2.00 euros per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "18",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip that covers a distance of 200 kilometers with a fuel efficiency of 15 liters per 100 kilometers at a fuel cost of 1.75 euros per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "200",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "1.75"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip that covers a distance of 850 kilometers with a fuel efficiency of 18 liters per 100 kilometers at a fuel cost of 2.25 dollars per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "850",
+                    "fuel_efficiency": "18",
+                    "fuel_cost_per_liter": "2.25"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip that covers a distance of 600 kilometers with a fuel efficiency of 22 liters per 100 kilometers at a fuel cost of 1.00 euros per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "22",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip that covers a distance of 300 kilometers with a fuel efficiency of 20 liters per 100 kilometers at a fuel cost of 2.00 euros per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "300",
+                    "fuel_efficiency": "20",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip that covers a distance of 250 kilometers with a fuel efficiency of 15 liters per 100 kilometers at a fuel cost of 1.50 euros per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "250",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "1.5"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip that covers a distance of 700 kilometers with a fuel efficiency of 22 liters per 100 kilometers at a fuel cost of 2.00 euros per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "700",
+                    "fuel_efficiency": "22",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip that covers a distance of 400 kilometers with a fuel efficiency of 18 liters per 100 kilometers at a fuel cost of 1.75 euros per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "400",
+                    "fuel_efficiency": "18",
+                    "fuel_cost_per_liter": "1.75"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip that covers a distance of 450 kilometers with a fuel efficiency of 12 liters per 100 kilometers at a fuel cost of 2.50 euros per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "450",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "2.5"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip that covers a distance of 600 kilometers with a fuel efficiency of 20 liters per 100 kilometers at a fuel cost of 2.00 euros per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "20",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip that covers a distance of 800 kilometers with a fuel efficiency of 15 liters per 100 kilometers at a fuel cost of 1.75 euros per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "800",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "1.75"
+                }
+            }
+        }
+    ]
+}

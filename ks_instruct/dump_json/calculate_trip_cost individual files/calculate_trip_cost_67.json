@@ -1,0 +1,741 @@
+{
+    "queries": [
+        {
+            "query": "What is the total cost of a trip with distance 150, fuel efficiency 25, and fuel cost per liter 2.5",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "150",
+                    "fuel_efficiency": "25",
+                    "fuel_cost_per_liter": "2.5"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 75, fuel efficiency 10, and fuel cost per liter 3.8",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "75",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "3.8"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 200, fuel efficiency 15, and fuel cost per liter 1.2",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "200",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "1.2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 50, fuel efficiency 20, and fuel cost per liter 2.9",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "50",
+                    "fuel_efficiency": "20",
+                    "fuel_cost_per_liter": "2.9"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 300, fuel efficiency 5, and fuel cost per liter 4.1",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "300",
+                    "fuel_efficiency": "5",
+                    "fuel_cost_per_liter": "4.1"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 175, fuel efficiency 12, and fuel cost per liter 3.6",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "175",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "3.6"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 250, fuel efficiency 18, and fuel cost per liter 1.9",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "250",
+                    "fuel_efficiency": "18",
+                    "fuel_cost_per_liter": "1.9"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 225, fuel efficiency 22, and fuel cost per liter 2.7",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "225",
+                    "fuel_efficiency": "22",
+                    "fuel_cost_per_liter": "2.7"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 325, fuel efficiency 6, and fuel cost per liter 4.5",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "325",
+                    "fuel_efficiency": "6",
+                    "fuel_cost_per_liter": "4.5"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 100, fuel efficiency 16, and fuel cost per liter 3.2",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "100",
+                    "fuel_efficiency": "16",
+                    "fuel_cost_per_liter": "3.2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 275, fuel efficiency 8, and fuel cost per liter 1.5",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "275",
+                    "fuel_efficiency": "8",
+                    "fuel_cost_per_liter": "1.5"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 125, fuel efficiency 14, and fuel cost per liter 2.4",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "125",
+                    "fuel_efficiency": "14",
+                    "fuel_cost_per_liter": "2.4"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 450, fuel efficiency 3, and fuel cost per liter 3.1",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "450",
+                    "fuel_efficiency": "3",
+                    "fuel_cost_per_liter": "3.1"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 50, fuel efficiency 9, and fuel cost per liter 4.6",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "50",
+                    "fuel_efficiency": "9",
+                    "fuel_cost_per_liter": "4.6"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 75, fuel efficiency 13, and fuel cost per liter 2.8",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "75",
+                    "fuel_efficiency": "13",
+                    "fuel_cost_per_liter": "2.8"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 225, fuel efficiency 20, and fuel cost per liter 1.6",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "225",
+                    "fuel_efficiency": "20",
+                    "fuel_cost_per_liter": "1.6"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 325, fuel efficiency 4, and fuel cost per liter 3.7",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "325",
+                    "fuel_efficiency": "4",
+                    "fuel_cost_per_liter": "3.7"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 125, fuel efficiency 18, and fuel cost per liter 2.9",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "125",
+                    "fuel_efficiency": "18",
+                    "fuel_cost_per_liter": "2.9"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 175, fuel efficiency 5, and fuel cost per liter 4.3",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "175",
+                    "fuel_efficiency": "5",
+                    "fuel_cost_per_liter": "4.3"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 50, fuel efficiency 11, and fuel cost per liter 1.8",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "50",
+                    "fuel_efficiency": "11",
+                    "fuel_cost_per_liter": "1.8"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 200, fuel efficiency 9, and fuel cost per liter 2.5",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "200",
+                    "fuel_efficiency": "9",
+                    "fuel_cost_per_liter": "2.5"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 275, fuel efficiency 14, and fuel cost per liter 3.8",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "275",
+                    "fuel_efficiency": "14",
+                    "fuel_cost_per_liter": "3.8"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 325, fuel efficiency 16, and fuel cost per liter 2.1",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "325",
+                    "fuel_efficiency": "16",
+                    "fuel_cost_per_liter": "2.1"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 100, fuel efficiency 6, and fuel cost per liter 4.5",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "100",
+                    "fuel_efficiency": "6",
+                    "fuel_cost_per_liter": "4.5"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 450, fuel efficiency 8, and fuel cost per liter 3.9",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "450",
+                    "fuel_efficiency": "8",
+                    "fuel_cost_per_liter": "3.9"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 275, fuel efficiency 12, and fuel cost per liter 1.4",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "275",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "1.4"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 50, fuel efficiency 15, and fuel cost per liter 2.8",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "50",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "2.8"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 225, fuel efficiency 7, and fuel cost per liter 4.1",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "225",
+                    "fuel_efficiency": "7",
+                    "fuel_cost_per_liter": "4.1"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 175, fuel efficiency 10, and fuel cost per liter 3.6",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "175",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "3.6"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 325, fuel efficiency 13, and fuel cost per liter 1.9",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "325",
+                    "fuel_efficiency": "13",
+                    "fuel_cost_per_liter": "1.9"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 125, fuel efficiency 5, and fuel cost per liter 2.4",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "125",
+                    "fuel_efficiency": "5",
+                    "fuel_cost_per_liter": "2.4"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 450, fuel efficiency 9, and fuel cost per liter 3.8",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "450",
+                    "fuel_efficiency": "9",
+                    "fuel_cost_per_liter": "3.8"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 275, fuel efficiency 2, and fuel cost per liter 4.6",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "275",
+                    "fuel_efficiency": "2",
+                    "fuel_cost_per_liter": "4.6"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 100, fuel efficiency 8, and fuel cost per liter 2.9",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "100",
+                    "fuel_efficiency": "8",
+                    "fuel_cost_per_liter": "2.9"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 325, fuel efficiency 11, and fuel cost per liter 1.7",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "325",
+                    "fuel_efficiency": "11",
+                    "fuel_cost_per_liter": "1.7"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 175, fuel efficiency 3, and fuel cost per liter 4.5",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "175",
+                    "fuel_efficiency": "3",
+                    "fuel_cost_per_liter": "4.5"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 450, fuel efficiency 12, and fuel cost per liter 3.2",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "450",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "3.2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 100, fuel efficiency 4, and fuel cost per liter 3.9",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "100",
+                    "fuel_efficiency": "4",
+                    "fuel_cost_per_liter": "3.9"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 325, fuel efficiency 6, and fuel cost per liter 2.1",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "325",
+                    "fuel_efficiency": "6",
+                    "fuel_cost_per_liter": "2.1"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 275, fuel efficiency 9, and fuel cost per liter 4.3",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "275",
+                    "fuel_efficiency": "9",
+                    "fuel_cost_per_liter": "4.3"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 125, fuel efficiency 1, and fuel cost per liter 2.6",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "125",
+                    "fuel_efficiency": "1",
+                    "fuel_cost_per_liter": "2.6"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 450, fuel efficiency 5, and fuel cost per liter 3.4",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "450",
+                    "fuel_efficiency": "5",
+                    "fuel_cost_per_liter": "3.4"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 100, fuel efficiency 13, and fuel cost per liter 2.8",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "100",
+                    "fuel_efficiency": "13",
+                    "fuel_cost_per_liter": "2.8"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 325, fuel efficiency 1, and fuel cost per liter 4.3",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "325",
+                    "fuel_efficiency": "1",
+                    "fuel_cost_per_liter": "4.3"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 275, fuel efficiency 5, and fuel cost per liter 3.7",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "275",
+                    "fuel_efficiency": "5",
+                    "fuel_cost_per_liter": "3.7"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 175, fuel efficiency 6, and fuel cost per liter 2.4",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "175",
+                    "fuel_efficiency": "6",
+                    "fuel_cost_per_liter": "2.4"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 450, fuel efficiency 8, and fuel cost per liter 1.9",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "450",
+                    "fuel_efficiency": "8",
+                    "fuel_cost_per_liter": "1.9"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 325, fuel efficiency 14, and fuel cost per liter 4.6",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "325",
+                    "fuel_efficiency": "14",
+                    "fuel_cost_per_liter": "4.6"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 125, fuel efficiency 9, and fuel cost per liter 3.5",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "125",
+                    "fuel_efficiency": "9",
+                    "fuel_cost_per_liter": "3.5"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 275, fuel efficiency 7, and fuel cost per liter 2.1",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "275",
+                    "fuel_efficiency": "7",
+                    "fuel_cost_per_liter": "2.1"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 450, fuel efficiency 11, and fuel cost per liter 3.9",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "450",
+                    "fuel_efficiency": "11",
+                    "fuel_cost_per_liter": "3.9"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 100, fuel efficiency 2, and fuel cost per liter 4.8",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "100",
+                    "fuel_efficiency": "2",
+                    "fuel_cost_per_liter": "4.8"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 325, fuel efficiency 3, and fuel cost per liter 2.5",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "325",
+                    "fuel_efficiency": "3",
+                    "fuel_cost_per_liter": "2.5"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 275, fuel efficiency 4, and fuel cost per liter 1.8",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "275",
+                    "fuel_efficiency": "4",
+                    "fuel_cost_per_liter": "1.8"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 450, fuel efficiency 10, and fuel cost per liter 2.7",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "450",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "2.7"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 100, fuel efficiency 12, and fuel cost per liter 3.1",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "100",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "3.1"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 325, fuel efficiency 8, and fuel cost per liter 4.2",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "325",
+                    "fuel_efficiency": "8",
+                    "fuel_cost_per_liter": "4.2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 275, fuel efficiency 15, and fuel cost per liter 3.6",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "275",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "3.6"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 450, fuel efficiency 13, and fuel cost per liter 2.4",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "450",
+                    "fuel_efficiency": "13",
+                    "fuel_cost_per_liter": "2.4"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 100, fuel efficiency 5, and fuel cost per liter 3.8",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "100",
+                    "fuel_efficiency": "5",
+                    "fuel_cost_per_liter": "3.8"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 325, fuel efficiency 10, and fuel cost per liter 1.7",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "325",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "1.7"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 275, fuel efficiency 2, and fuel cost per liter 4.9",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "275",
+                    "fuel_efficiency": "2",
+                    "fuel_cost_per_liter": "4.9"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 450, fuel efficiency 6, and fuel cost per liter 3.5",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "450",
+                    "fuel_efficiency": "6",
+                    "fuel_cost_per_liter": "3.5"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 100, fuel efficiency 9, and fuel cost per liter 2.3",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "100",
+                    "fuel_efficiency": "9",
+                    "fuel_cost_per_liter": "2.3"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 325, fuel efficiency 7, and fuel cost per liter 4.1",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "325",
+                    "fuel_efficiency": "7",
+                    "fuel_cost_per_liter": "4.1"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 275, fuel efficiency 12, and fuel cost per liter 3.5",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "275",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "3.5"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 450, fuel efficiency 9, and fuel cost per liter 2.1",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "450",
+                    "fuel_efficiency": "9",
+                    "fuel_cost_per_liter": "2.1"
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,2094 @@
+{
+    "queries": [
+        {
+            "query": "What is the cost of driving 250 miles with fuel efficiency of 10 km/l and fuel cost per liter $1.50",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "250",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "1.5"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 75 miles, fuel efficiency 5 km/l and fuel cost $2.50 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "75",
+                    "fuel_efficiency": "5",
+                    "fuel_cost_per_liter": "2.5"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 500 km with fuel efficiency 12 km/l and fuel cost $1 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 200 miles, fuel efficiency 8 km/l and fuel cost $3.25 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "200",
+                    "fuel_efficiency": "8",
+                    "fuel_cost_per_liter": "3.25"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 300 miles with fuel efficiency 15 km/l and fuel cost $2 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "300",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 1000 km, fuel efficiency 20 km/l and fuel cost $1.25 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "1000",
+                    "fuel_efficiency": "20",
+                    "fuel_cost_per_liter": "1.25"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 50 miles with fuel efficiency 6 km/l and fuel cost $2.75 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "50",
+                    "fuel_efficiency": "6",
+                    "fuel_cost_per_liter": "2.75"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 150 miles, fuel efficiency 9 km/l and fuel cost $1.75 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "150",
+                    "fuel_efficiency": "9",
+                    "fuel_cost_per_liter": "1.75"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 2000 km with fuel efficiency 18 km/l and fuel cost $2.50 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "2000",
+                    "fuel_efficiency": "18",
+                    "fuel_cost_per_liter": "2.5"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 250 miles, fuel efficiency 12 km/l and fuel cost $3 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "250",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "3"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 100 miles with fuel efficiency 7 km/l and fuel cost $2.25 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "100",
+                    "fuel_efficiency": "7",
+                    "fuel_cost_per_liter": "2.25"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 300 miles, fuel efficiency 14 km/l and fuel cost $1.5 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "300",
+                    "fuel_efficiency": "14",
+                    "fuel_cost_per_liter": "1.5"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 4000 km with fuel efficiency 22 km/l and fuel cost $2 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "4000",
+                    "fuel_efficiency": "22",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 150 miles, fuel efficiency 11 km/l and fuel cost $3.25 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "150",
+                    "fuel_efficiency": "11",
+                    "fuel_cost_per_liter": "3.25"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 5000 miles with fuel efficiency 20 km/l and fuel cost $1.75 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "5000",
+                    "fuel_efficiency": "20",
+                    "fuel_cost_per_liter": "1.75"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 100 miles, fuel efficiency 8 km/l and fuel cost $2 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "100",
+                    "fuel_efficiency": "8",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 2000 miles with fuel efficiency 15 km/l and fuel cost $3 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "2000",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "3"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 600 miles, fuel efficiency 10 km/l and fuel cost $2.25 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "2.25"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 300 miles with fuel efficiency 12 km/l and fuel cost $1 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "300",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 250 miles, fuel efficiency 9 km/l and fuel cost $3 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "250",
+                    "fuel_efficiency": "9",
+                    "fuel_cost_per_liter": "3"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 800 miles with fuel efficiency 16 km/l and fuel cost $2 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "800",
+                    "fuel_efficiency": "16",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 400 miles, fuel efficiency 13 km/l and fuel cost $1.75 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "400",
+                    "fuel_efficiency": "13",
+                    "fuel_cost_per_liter": "1.75"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 1000 miles with fuel efficiency 14 km/l and fuel cost $2.5 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "1000",
+                    "fuel_efficiency": "14",
+                    "fuel_cost_per_liter": "2.5"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 150 miles, fuel efficiency 11 km/l and fuel cost $3 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "150",
+                    "fuel_efficiency": "11",
+                    "fuel_cost_per_liter": "3"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 200 miles with fuel efficiency 9 km/l and fuel cost $2.25 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "200",
+                    "fuel_efficiency": "9",
+                    "fuel_cost_per_liter": "2.25"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 500 miles, fuel efficiency 13 km/l and fuel cost $1.5 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "13",
+                    "fuel_cost_per_liter": "1.5"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 3000 miles with fuel efficiency 20 km/l and fuel cost $2 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "3000",
+                    "fuel_efficiency": "20",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 400 miles, fuel efficiency 12 km/l and fuel cost $3 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "400",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "3"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 600 miles with fuel efficiency 15 km/l and fuel cost $2.5 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "2.5"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 200 miles, fuel efficiency 10 km/l and fuel cost $1 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "200",
+                    "fuel_efficiency": "10",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 1500 miles with fuel efficiency 18 km/l and fuel cost $3 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "1500",
+                    "fuel_efficiency": "18",
+                    "fuel_cost_per_liter": "3"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 700 miles, fuel efficiency 16 km/l and fuel cost $2.25 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "700",
+                    "fuel_efficiency": "16",
+                    "fuel_cost_per_liter": "2.25"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 4000 miles with fuel efficiency 22 km/l and fuel cost $1.75 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "4000",
+                    "fuel_efficiency": "22",
+                    "fuel_cost_per_liter": "1.75"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 300 miles, fuel efficiency 14 km/l and fuel cost $2 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "300",
+                    "fuel_efficiency": "14",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 2500 miles with fuel efficiency 20 km/l and fuel cost $3 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "2500",
+                    "fuel_efficiency": "20",
+                    "fuel_cost_per_liter": "3"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 450 miles, fuel efficiency 15 km/l and fuel cost $2.5 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "450",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "2.5"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 100 miles with fuel efficiency 9 km/l and fuel cost $1 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "100",
+                    "fuel_efficiency": "9",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 700 miles, fuel efficiency 19 km/l and fuel cost $2 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "700",
+                    "fuel_efficiency": "19",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 200 miles with fuel efficiency 12 km/l and fuel cost $3 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "200",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "3"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 550 miles, fuel efficiency 17 km/l and fuel cost $2.5 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "550",
+                    "fuel_efficiency": "17",
+                    "fuel_cost_per_liter": "2.5"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 300 miles with fuel efficiency 13 km/l and fuel cost $1 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "300",
+                    "fuel_efficiency": "13",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 1000 miles, fuel efficiency 20 km/l and fuel cost $2.25 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "1000",
+                    "fuel_efficiency": "20",
+                    "fuel_cost_per_liter": "2.25"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 450 miles with fuel efficiency 16 km/l and fuel cost $3 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "450",
+                    "fuel_efficiency": "16",
+                    "fuel_cost_per_liter": "3"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 650 miles, fuel efficiency 19 km/l and fuel cost $2 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "650",
+                    "fuel_efficiency": "19",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 500 miles with fuel efficiency 15 km/l and fuel cost $1.75 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "1.75"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 750 miles, fuel efficiency 18 km/l and fuel cost $2.5 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "750",
+                    "fuel_efficiency": "18",
+                    "fuel_cost_per_liter": "2.5"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 200 miles with fuel efficiency 11 km/l and fuel cost $2 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "200",
+                    "fuel_efficiency": "11",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 400 miles, fuel efficiency 18 km/l and fuel cost $3 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "400",
+                    "fuel_efficiency": "18",
+                    "fuel_cost_per_liter": "3"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 600 miles with fuel efficiency 17 km/l and fuel cost $2.25 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "17",
+                    "fuel_cost_per_liter": "2.25"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 300 miles, fuel efficiency 15 km/l and fuel cost $1 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "300",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 550 miles with fuel efficiency 19 km/l and fuel cost $2 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "550",
+                    "fuel_efficiency": "19",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 700 miles, fuel efficiency 17 km/l and fuel cost $3 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "700",
+                    "fuel_efficiency": "17",
+                    "fuel_cost_per_liter": "3"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 450 miles with fuel efficiency 14 km/l and fuel cost $2.5 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "450",
+                    "fuel_efficiency": "14",
+                    "fuel_cost_per_liter": "2.5"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 1000 miles, fuel efficiency 16 km/l and fuel cost $2 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "1000",
+                    "fuel_efficiency": "16",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 800 miles with fuel efficiency 20 km/l and fuel cost $1 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "800",
+                    "fuel_efficiency": "20",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 700 miles, fuel efficiency 15 km/l and fuel cost $2.25 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "700",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "2.25"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 350 miles with fuel efficiency 13 km/l and fuel cost $3 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "350",
+                    "fuel_efficiency": "13",
+                    "fuel_cost_per_liter": "3"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 900 miles, fuel efficiency 19 km/l and fuel cost $2 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "900",
+                    "fuel_efficiency": "19",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 400 miles with fuel efficiency 16 km/l and fuel cost $1.75 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "400",
+                    "fuel_efficiency": "16",
+                    "fuel_cost_per_liter": "1.75"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 600 miles, fuel efficiency 18 km/l and fuel cost $2.5 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "18",
+                    "fuel_cost_per_liter": "2.5"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 650 miles with fuel efficiency 14 km/l and fuel cost $2 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "650",
+                    "fuel_efficiency": "14",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 500 miles, fuel efficiency 17 km/l and fuel cost $3 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "17",
+                    "fuel_cost_per_liter": "3"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 750 miles with fuel efficiency 15 km/l and fuel cost $2.25 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "750",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "2.25"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 1000 miles, fuel efficiency 13 km/l and fuel cost $1 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "1000",
+                    "fuel_efficiency": "13",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 450 miles with fuel efficiency 18 km/l and fuel cost $2 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "450",
+                    "fuel_efficiency": "18",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 850 miles, fuel efficiency 16 km/l and fuel cost $2.5 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "850",
+                    "fuel_efficiency": "16",
+                    "fuel_cost_per_liter": "2.5"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 600 miles with fuel efficiency 12 km/l and fuel cost $3 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "3"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 400 miles, fuel efficiency 19 km/l and fuel cost $2.25 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "400",
+                    "fuel_efficiency": "19",
+                    "fuel_cost_per_liter": "2.25"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 700 miles with fuel efficiency 11 km/l and fuel cost $1 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "700",
+                    "fuel_efficiency": "11",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 500 miles, fuel efficiency 15 km/l and fuel cost $2 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 900 miles with fuel efficiency 18 km/l and fuel cost $1.75 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "900",
+                    "fuel_efficiency": "18",
+                    "fuel_cost_per_liter": "1.75"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 300 miles, fuel efficiency 15 km/l and fuel cost $2.5 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "300",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "2.5"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 800 miles with fuel efficiency 19 km/l and fuel cost $3 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "800",
+                    "fuel_efficiency": "19",
+                    "fuel_cost_per_liter": "3"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 500 miles, fuel efficiency 12 km/l and fuel cost $2 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 400 miles with fuel efficiency 13 km/l and fuel cost $2.25 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "400",
+                    "fuel_efficiency": "13",
+                    "fuel_cost_per_liter": "2.25"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 700 miles, fuel efficiency 16 km/l and fuel cost $1 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "700",
+                    "fuel_efficiency": "16",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 600 miles with fuel efficiency 17 km/l and fuel cost $2 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "17",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 800 miles, fuel efficiency 14 km/l and fuel cost $2.5 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "800",
+                    "fuel_efficiency": "14",
+                    "fuel_cost_per_liter": "2.5"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 500 miles with fuel efficiency 11 km/l and fuel cost $3 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "11",
+                    "fuel_cost_per_liter": "3"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 900 miles, fuel efficiency 15 km/l and fuel cost $1.75 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "900",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "1.75"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 700 miles with fuel efficiency 13 km/l and fuel cost $2 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "700",
+                    "fuel_efficiency": "13",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 600 miles, fuel efficiency 19 km/l and fuel cost $2.25 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "19",
+                    "fuel_cost_per_liter": "2.25"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 300 miles with fuel efficiency 14 km/l and fuel cost $1 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "300",
+                    "fuel_efficiency": "14",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 400 miles, fuel efficiency 18 km/l and fuel cost $2.5 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "400",
+                    "fuel_efficiency": "18",
+                    "fuel_cost_per_liter": "2.5"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 800 miles with fuel efficiency 12 km/l and fuel cost $2 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "800",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 500 miles, fuel efficiency 14 km/l and fuel cost $3 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "14",
+                    "fuel_cost_per_liter": "3"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 400 miles with fuel efficiency 12 km/l and fuel cost $1.75 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "400",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "1.75"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 700 miles, fuel efficiency 17 km/l and fuel cost $2 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "700",
+                    "fuel_efficiency": "17",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 600 miles with fuel efficiency 16 km/l and fuel cost $2.5 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "16",
+                    "fuel_cost_per_liter": "2.5"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 300 miles, fuel efficiency 13 km/l and fuel cost $1 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "300",
+                    "fuel_efficiency": "13",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 500 miles with fuel efficiency 18 km/l and fuel cost $2.25 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "18",
+                    "fuel_cost_per_liter": "2.25"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 800 miles, fuel efficiency 13 km/l and fuel cost $2 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "800",
+                    "fuel_efficiency": "13",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 700 miles with fuel efficiency 15 km/l and fuel cost $3 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "700",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "3"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 600 miles, fuel efficiency 15 km/l and fuel cost $2.5 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "2.5"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 400 miles with fuel efficiency 16 km/l and fuel cost $1 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "400",
+                    "fuel_efficiency": "16",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 500 miles, fuel efficiency 19 km/l and fuel cost $2 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "19",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 800 miles with fuel efficiency 18 km/l and fuel cost $2.25 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "800",
+                    "fuel_efficiency": "18",
+                    "fuel_cost_per_liter": "2.25"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 700 miles, fuel efficiency 12 km/l and fuel cost $1 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "700",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 600 miles with fuel efficiency 13 km/l and fuel cost $2 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "13",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 300 miles, fuel efficiency 15 km/l and fuel cost $2.5 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "300",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "2.5"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 500 miles with fuel efficiency 17 km/l and fuel cost $1 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "17",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 400 miles, fuel efficiency 15 km/l and fuel cost $2 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "400",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 800 miles with fuel efficiency 14 km/l and fuel cost $3 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "800",
+                    "fuel_efficiency": "14",
+                    "fuel_cost_per_liter": "3"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 600 miles, fuel efficiency 18 km/l and fuel cost $2 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "18",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 700 miles with fuel efficiency 14 km/l and fuel cost $2.5 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "700",
+                    "fuel_efficiency": "14",
+                    "fuel_cost_per_liter": "2.5"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 500 miles, fuel efficiency 13 km/l and fuel cost $1 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "13",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 400 miles with fuel efficiency 15 km/l and fuel cost $2.25 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "400",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "2.25"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 300 miles, fuel efficiency 12 km/l and fuel cost $2 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "300",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 600 miles with fuel efficiency 14 km/l and fuel cost $1 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "14",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 800 miles, fuel efficiency 17 km/l and fuel cost $2.5 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "800",
+                    "fuel_efficiency": "17",
+                    "fuel_cost_per_liter": "2.5"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 500 miles with fuel efficiency 12 km/l and fuel cost $3 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "3"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 700 miles, fuel efficiency 19 km/l and fuel cost $2 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "700",
+                    "fuel_efficiency": "19",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 800 miles with fuel efficiency 15 km/l and fuel cost $1 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "800",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 400 miles, fuel efficiency 18 km/l and fuel cost $2.25 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "400",
+                    "fuel_efficiency": "18",
+                    "fuel_cost_per_liter": "2.25"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 600 miles with fuel efficiency 16 km/l and fuel cost $2 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "16",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 500 miles, fuel efficiency 18 km/l and fuel cost $1 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "18",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 700 miles with fuel efficiency 13 km/l and fuel cost $2.5 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "700",
+                    "fuel_efficiency": "13",
+                    "fuel_cost_per_liter": "2.5"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 300 miles, fuel efficiency 14 km/l and fuel cost $3 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "300",
+                    "fuel_efficiency": "14",
+                    "fuel_cost_per_liter": "3"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 800 miles with fuel efficiency 13 km/l and fuel cost $2 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "800",
+                    "fuel_efficiency": "13",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 600 miles, fuel efficiency 15 km/l and fuel cost $1 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 500 miles with fuel efficiency 16 km/l and fuel cost $2.25 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "16",
+                    "fuel_cost_per_liter": "2.25"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 700 miles, fuel efficiency 15 km/l and fuel cost $2 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "700",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 400 miles with fuel efficiency 12 km/l and fuel cost $2.5 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "400",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "2.5"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 500 miles, fuel efficiency 14 km/l and fuel cost $1 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "14",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 800 miles with fuel efficiency 12 km/l and fuel cost $2 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "800",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 600 miles, fuel efficiency 17 km/l and fuel cost $3 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "17",
+                    "fuel_cost_per_liter": "3"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 700 miles with fuel efficiency 16 km/l and fuel cost $2 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "700",
+                    "fuel_efficiency": "16",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 300 miles, fuel efficiency 13 km/l and fuel cost $1 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "300",
+                    "fuel_efficiency": "13",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 500 miles with fuel efficiency 15 km/l and fuel cost $2.5 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "2.5"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 400 miles, fuel efficiency 19 km/l and fuel cost $2 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "400",
+                    "fuel_efficiency": "19",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 600 miles with fuel efficiency 14 km/l and fuel cost $1 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "14",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 800 miles, fuel efficiency 16 km/l and fuel cost $2.5 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "800",
+                    "fuel_efficiency": "16",
+                    "fuel_cost_per_liter": "2.5"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 700 miles with fuel efficiency 17 km/l and fuel cost $1 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "700",
+                    "fuel_efficiency": "17",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 500 miles, fuel efficiency 13 km/l and fuel cost $3 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "13",
+                    "fuel_cost_per_liter": "3"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 400 miles with fuel efficiency 17 km/l and fuel cost $2 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "400",
+                    "fuel_efficiency": "17",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 600 miles, fuel efficiency 13 km/l and fuel cost $2.5 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "13",
+                    "fuel_cost_per_liter": "2.5"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 800 miles with fuel efficiency 18 km/l and fuel cost $1 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "800",
+                    "fuel_efficiency": "18",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 700 miles, fuel efficiency 14 km/l and fuel cost $2 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "700",
+                    "fuel_efficiency": "14",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 500 miles with fuel efficiency 17 km/l and fuel cost $1 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "17",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 600 miles, fuel efficiency 15 km/l and fuel cost $2 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 400 miles with fuel efficiency 15 km/l and fuel cost $1 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "400",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 700 miles, fuel efficiency 13 km/l and fuel cost $2.5 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "700",
+                    "fuel_efficiency": "13",
+                    "fuel_cost_per_liter": "2.5"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 300 miles with fuel efficiency 15 km/l and fuel cost $2 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "300",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 800 miles, fuel efficiency 14 km/l and fuel cost $1 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "800",
+                    "fuel_efficiency": "14",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 600 miles with fuel efficiency 18 km/l and fuel cost $2 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "18",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 500 miles, fuel efficiency 12 km/l and fuel cost $3 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "3"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 700 miles with fuel efficiency 15 km/l and fuel cost $2 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "700",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 400 miles, fuel efficiency 14 km/l and fuel cost $2.5 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "400",
+                    "fuel_efficiency": "14",
+                    "fuel_cost_per_liter": "2.5"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 500 miles with fuel efficiency 19 km/l and fuel cost $1 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "19",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 600 miles, fuel efficiency 16 km/l and fuel cost $2.5 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "16",
+                    "fuel_cost_per_liter": "2.5"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 800 miles with fuel efficiency 13 km/l and fuel cost $1 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "800",
+                    "fuel_efficiency": "13",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 700 miles, fuel efficiency 15 km/l and fuel cost $2 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "700",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 300 miles with fuel efficiency 12 km/l and fuel cost $2.5 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "300",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "2.5"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 500 miles, fuel efficiency 13 km/l and fuel cost $3 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "13",
+                    "fuel_cost_per_liter": "3"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 400 miles with fuel efficiency 12 km/l and fuel cost $2 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "400",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 600 miles, fuel efficiency 14 km/l and fuel cost $1 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "14",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 700 miles with fuel efficiency 12 km/l and fuel cost $2 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "700",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 800 miles, fuel efficiency 13 km/l and fuel cost $1 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "800",
+                    "fuel_efficiency": "13",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 500 miles with fuel efficiency 14 km/l and fuel cost $2.5 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "14",
+                    "fuel_cost_per_liter": "2.5"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 600 miles, fuel efficiency 13 km/l and fuel cost $2 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "13",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 400 miles with fuel efficiency 16 km/l and fuel cost $2.5 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "400",
+                    "fuel_efficiency": "16",
+                    "fuel_cost_per_liter": "2.5"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 700 miles, fuel efficiency 14 km/l and fuel cost $1 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "700",
+                    "fuel_efficiency": "14",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 600 miles with fuel efficiency 12 km/l and fuel cost $2 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 500 miles, fuel efficiency 15 km/l and fuel cost $1 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 800 miles with fuel efficiency 12 km/l and fuel cost $2 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "800",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 700 miles, fuel efficiency 13 km/l and fuel cost $1 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "700",
+                    "fuel_efficiency": "13",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 500 miles with fuel efficiency 16 km/l and fuel cost $2 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "16",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 600 miles, fuel efficiency 15 km/l and fuel cost $1 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 700 miles with fuel efficiency 14 km/l and fuel cost $2 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "700",
+                    "fuel_efficiency": "14",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 800 miles, fuel efficiency 11 km/l and fuel cost $1 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "800",
+                    "fuel_efficiency": "11",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 400 miles with fuel efficiency 13 km/l and fuel cost $2 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "400",
+                    "fuel_efficiency": "13",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 500 miles, fuel efficiency 12 km/l and fuel cost $1 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 600 miles with fuel efficiency 13 km/l and fuel cost $2 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "13",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 700 miles, fuel efficiency 16 km/l and fuel cost $1 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "700",
+                    "fuel_efficiency": "16",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 500 miles with fuel efficiency 15 km/l and fuel cost $2 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 600 miles, fuel efficiency 12 km/l and fuel cost $1 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 800 miles with fuel efficiency 15 km/l and fuel cost $2 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "800",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 700 miles, fuel efficiency 15 km/l and fuel cost $1 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "700",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 600 miles with fuel efficiency 11 km/l and fuel cost $2 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "11",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 500 miles, fuel efficiency 14 km/l and fuel cost $1 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "14",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 400 miles with fuel efficiency 15 km/l and fuel cost $2 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "400",
+                    "fuel_efficiency": "15",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 600 miles, fuel efficiency 16 km/l and fuel cost $1 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "16",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 700 miles with fuel efficiency 12 km/l and fuel cost $2 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "700",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 800 miles, fuel efficiency 16 km/l and fuel cost $1 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "800",
+                    "fuel_efficiency": "16",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 500 miles with fuel efficiency 13 km/l and fuel cost $2 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "500",
+                    "fuel_efficiency": "13",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 700 miles, fuel efficiency 12 km/l and fuel cost $1 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "700",
+                    "fuel_efficiency": "12",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 600 miles with fuel efficiency 14 km/l and fuel cost $2 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "600",
+                    "fuel_efficiency": "14",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 800 miles, fuel efficiency 13 km/l and fuel cost $1 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "800",
+                    "fuel_efficiency": "13",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        },
+        {
+            "query": "What is the cost of driving 400 miles with fuel efficiency 14 km/l and fuel cost $2 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "400",
+                    "fuel_efficiency": "14",
+                    "fuel_cost_per_liter": "2"
+                }
+            }
+        },
+        {
+            "query": "What is the total cost of a trip with distance 700 miles, fuel efficiency 13 km/l and fuel cost $1 per liter",
+            "answer": {
+                "function": "calculate_trip_cost",
+                "arguments": {
+                    "distance": "700",
+                    "fuel_efficiency": "13",
+                    "fuel_cost_per_liter": "1"
+                }
+            }
+        }
+    ]
+}

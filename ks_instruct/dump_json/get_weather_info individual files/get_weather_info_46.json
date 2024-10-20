@@ -1,0 +1,418 @@
+{
+    "queries": [
+        {
+            "query": "What is the weather forecast in Ulaanbaatar, Mongolia today?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Ulaanbaatar"
+                }
+            }
+        },
+        {
+            "query": "Give me the current time and weather conditions in Kathmandu, Nepal.",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Kathmandu"
+                }
+            }
+        },
+        {
+            "query": "What's the temperature like right now in Taipei, Taiwan?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Taipei"
+                }
+            }
+        },
+        {
+            "query": "Get me the current weather information for Cairo, Egypt.",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Cairo"
+                }
+            }
+        },
+        {
+            "query": "What is the current time and weather in Lima, Peru?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Lima"
+                }
+            }
+        },
+        {
+            "query": "I need to know the current weather conditions in Hanoi, Vietnam.",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Hanoi"
+                }
+            }
+        },
+        {
+            "query": "What's going on with the weather right now in Muscat, Oman?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Muscat"
+                }
+            }
+        },
+        {
+            "query": "Give me the current time and temperature in Bogota, Colombia.",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Bogota"
+                }
+            }
+        },
+        {
+            "query": "I want to know the weather forecast for Chiang Mai, Thailand today.",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Chiang Mai"
+                }
+            }
+        },
+        {
+            "query": "What is the current time and weather like in Dhaka, Bangladesh?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Dhaka"
+                }
+            }
+        },
+        {
+            "query": "I need to know the current temperature in Colombo, Sri Lanka.",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Colombo"
+                }
+            }
+        },
+        {
+            "query": "Get me the current weather information for Riga, Latvia.",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Riga"
+                }
+            }
+        },
+        {
+            "query": "What's the weather like right now in Almaty, Kazakhstan?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Almaty"
+                }
+            }
+        },
+        {
+            "query": "Give me the current time and weather conditions in Tallinn, Estonia.",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Tallinn"
+                }
+            }
+        },
+        {
+            "query": "I want to know the weather forecast for Baku, Azerbaijan today.",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Baku"
+                }
+            }
+        },
+        {
+            "query": "What is the current time and temperature in Yerevan, Armenia?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Yerevan"
+                }
+            }
+        },
+        {
+            "query": "Get me the current weather information for Skopje, North Macedonia.",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Skopje"
+                }
+            }
+        },
+        {
+            "query": "What's going on with the weather right now in Podgorica, Montenegro?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Podgorica"
+                }
+            }
+        },
+        {
+            "query": "I need to know the current temperature in Tirana, Albania.",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Tirana"
+                }
+            }
+        },
+        {
+            "query": "Give me the current time and weather conditions in Sarajevo, Bosnia and Herzegovina.",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Sarajevo"
+                }
+            }
+        },
+        {
+            "query": "What is the current time and weather like in Pristina, Kosovo?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Pristina"
+                }
+            }
+        },
+        {
+            "query": "I want to know the weather forecast for Minsk, Belarus today.",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Minsk"
+                }
+            }
+        },
+        {
+            "query": "Get me the current weather information for Kiev, Ukraine.",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Kiev"
+                }
+            }
+        },
+        {
+            "query": "What's going on with the weather right now in Tbilisi, Georgia?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Tbilisi"
+                }
+            }
+        },
+        {
+            "query": "I need to know the current temperature in Ashgabat, Turkmenistan.",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Ashgabat"
+                }
+            }
+        },
+        {
+            "query": "Give me the current time and weather conditions in Dushanbe, Tajikistan.",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Dushanbe"
+                }
+            }
+        },
+        {
+            "query": "What is the current time and weather like in Bishkek, Kyrgyzstan?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Bishkek"
+                }
+            }
+        },
+        {
+            "query": "I want to know the weather forecast for Nukus, Uzbekistan today.",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Nukus"
+                }
+            }
+        },
+        {
+            "query": "Get me the current weather information for Grozny, Chechnya.",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Grozny"
+                }
+            }
+        },
+        {
+            "query": "What's going on with the weather right now in Nazran, Russia?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Nazran"
+                }
+            }
+        },
+        {
+            "query": "I need to know the current temperature in Vladikavkaz, North Ossetia.",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Vladikavkaz"
+                }
+            }
+        },
+        {
+            "query": "Give me the current time and weather conditions in Novosibirsk, Russia.",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Novosibirsk"
+                }
+            }
+        },
+        {
+            "query": "What is the current time and weather like in Omsk, Russia?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Omsk"
+                }
+            }
+        },
+        {
+            "query": "I want to know the weather forecast for Krasnoyarsk, Russia today.",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Krasnoyarsk"
+                }
+            }
+        },
+        {
+            "query": "Get me the current weather information for Irkutsk, Russia.",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Irkutsk"
+                }
+            }
+        },
+        {
+            "query": "What's going on with the weather right now in Yakutsk, Russia?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Yakutsk"
+                }
+            }
+        },
+        {
+            "query": "I need to know the current temperature in Magadan, Russia.",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Magadan"
+                }
+            }
+        },
+        {
+            "query": "Give me the current time and weather conditions in Petropavlovsk-Kamchatsky, Russia.",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Petropavlovsk-Kamchatsky"
+                }
+            }
+        },
+        {
+            "query": "What is the current time and weather like in Anadyr, Russia?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Anadyr"
+                }
+            }
+        },
+        {
+            "query": "I want to know the weather forecast for Sochi, Russia today.",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Sochi"
+                }
+            }
+        },
+        {
+            "query": "Get me the current weather information for Rostov-on-Don, Russia.",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Rostov-on-Don"
+                }
+            }
+        },
+        {
+            "query": "What's going on with the weather right now in Stavropol, Russia?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Stavropol"
+                }
+            }
+        },
+        {
+            "query": "I need to know the current temperature in Volgograd, Russia.",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Volgograd"
+                }
+            }
+        },
+        {
+            "query": "Give me the current time and weather conditions in Astrakhan, Russia.",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Astrakhan"
+                }
+            }
+        },
+        {
+            "query": "What is the current time and weather like in Makhachkala, Russia?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Makhachkala"
+                }
+            }
+        },
+        {
+            "query": "I want to know the weather forecast for Kaliningrad, Russia today.",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Kaliningrad"
+                }
+            }
+        }
+    ]
+}

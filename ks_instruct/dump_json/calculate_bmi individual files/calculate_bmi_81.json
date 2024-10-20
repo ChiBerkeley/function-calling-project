@@ -1,0 +1,970 @@
+{
+    "queries": [
+        {
+            "query": "What is my BMI when I weigh 82.5 kg as a female at the age of 29",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "82.5",
+                    "height": "165",
+                    "age": "29",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "How can I determine my BMI when I am 180 cm tall and weigh 65 kg as a male?",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "65",
+                    "height": "180",
+                    "age": "42",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What is the BMI category of a person who weighs 90 kg and is 170 cm tall at the age of 25?",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "90",
+                    "height": "170",
+                    "age": "25",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What are my health recommendations when I am 175 cm tall and weigh 78 kg as a female at the age of 38?",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "78",
+                    "height": "175",
+                    "age": "38",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "Can you tell me my BMI when I am 160 cm tall and weigh 55 kg as a male at the age of 19?",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "55",
+                    "height": "160",
+                    "age": "19",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I weigh 85 kg and am 190 cm tall as an other at the age of 35?",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "85",
+                    "height": "190",
+                    "age": "35",
+                    "gender": "other"
+                }
+            }
+        },
+        {
+            "query": "What are my BMI category and health recommendations when I am 180 cm tall and weigh 70 kg as a female at the age of 45?",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "70",
+                    "height": "180",
+                    "age": "45",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "How can I calculate my BMI when I weigh 95 kg and am 165 cm tall as a male at the age of 30?",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "95",
+                    "height": "165",
+                    "age": "30",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI category when I am 175 cm tall and weigh 80 kg as an other at the age of 25?",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "80",
+                    "height": "175",
+                    "age": "25",
+                    "gender": "other"
+                }
+            }
+        },
+        {
+            "query": "Can you tell me my BMI when I weigh 60 kg and am 155 cm tall as a female at the age of 22?",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "60",
+                    "height": "155",
+                    "age": "22",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "What are my health recommendations when I am 185 cm tall and weigh 75 kg as a male at the age of 48?",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "75",
+                    "height": "185",
+                    "age": "48",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I am 170 cm tall and weigh 85 kg as a female at the age of 31?",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "85",
+                    "height": "170",
+                    "age": "31",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI category when I am 165 cm tall and weigh 80 kg as a male at the age of 41?",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "80",
+                    "height": "165",
+                    "age": "41",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "Can you tell me my BMI when I weigh 70 kg and am 175 cm tall as an other at the age of 39?",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "70",
+                    "height": "175",
+                    "age": "39",
+                    "gender": "other"
+                }
+            }
+        },
+        {
+            "query": "What are my BMI category and health recommendations when I am 180 cm tall and weigh 65 kg as a female at the age of 33?",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "65",
+                    "height": "180",
+                    "age": "33",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "How can I determine my BMI when I am 160 cm tall and weigh 90 kg as a male?",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "90",
+                    "height": "160",
+                    "age": "52",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What is the BMI category of a person who weighs 85 kg and is 190 cm tall at the age of 24?",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "85",
+                    "height": "190",
+                    "age": "24",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What are my health recommendations when I am 185 cm tall and weigh 80 kg as a female at the age of 49?",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "80",
+                    "height": "185",
+                    "age": "49",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "Can you tell me my BMI when I am 155 cm tall and weigh 60 kg as a male at the age of 20?",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "60",
+                    "height": "155",
+                    "age": "20",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I am 165 cm tall and weigh 75 kg as a female at the age of 34?",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "75",
+                    "height": "165",
+                    "age": "34",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI category when I am 190 cm tall and weigh 95 kg as an other at the age of 32?",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "95",
+                    "height": "190",
+                    "age": "32",
+                    "gender": "other"
+                }
+            }
+        },
+        {
+            "query": "What are my BMI category and health recommendations when I am 180 cm tall and weigh 80 kg as a male at the age of 44?",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "80",
+                    "height": "180",
+                    "age": "44",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "How can I calculate my BMI when I weigh 70 kg and am 175 cm tall as a female at the age of 38?",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "70",
+                    "height": "175",
+                    "age": "38",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "What is the BMI category of a person who weighs 60 kg and is 155 cm tall at the age of 23?",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "60",
+                    "height": "155",
+                    "age": "23",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What are my health recommendations when I am 185 cm tall and weigh 75 kg as a female at the age of 50?",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "75",
+                    "height": "185",
+                    "age": "50",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "Can you tell me my BMI when I am 170 cm tall and weigh 80 kg as a male at the age of 42?",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "80",
+                    "height": "170",
+                    "age": "42",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I am 165 cm tall and weigh 85 kg as a female at the age of 35?",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "85",
+                    "height": "165",
+                    "age": "35",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI category when I am 190 cm tall and weigh 70 kg as an other at the age of 40?",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "70",
+                    "height": "190",
+                    "age": "40",
+                    "gender": "other"
+                }
+            }
+        },
+        {
+            "query": "What are my BMI category and health recommendations when I am 180 cm tall and weigh 90 kg as a male at the age of 46?",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "90",
+                    "height": "180",
+                    "age": "46",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "How can I determine my BMI when I am 160 cm tall and weigh 75 kg as a female at the age of 26?",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "75",
+                    "height": "160",
+                    "age": "26",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "What is the BMI category of a person who weighs 80 kg and is 175 cm tall at the age of 45?",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "80",
+                    "height": "175",
+                    "age": "45",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What are my health recommendations when I am 185 cm tall and weigh 85 kg as a female at the age of 51?",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "85",
+                    "height": "185",
+                    "age": "51",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "Can you tell me my BMI when I am 155 cm tall and weigh 60 kg as a male at the age of 19?",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "60",
+                    "height": "155",
+                    "age": "19",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I am 170 cm tall and weigh 95 kg as a female at the age of 37?",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "95",
+                    "height": "170",
+                    "age": "37",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI category when I am 165 cm tall and weigh 80 kg as a male at the age of 43?",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "80",
+                    "height": "165",
+                    "age": "43",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What are my BMI category and health recommendations when I am 180 cm tall and weigh 65 kg as a female at the age of 29?",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "65",
+                    "height": "180",
+                    "age": "29",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "How can I calculate my BMI when I weigh 70 kg and am 175 cm tall as a female at the age of 33?",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "70",
+                    "height": "175",
+                    "age": "33",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "What is the BMI category of a person who weighs 60 kg and is 155 cm tall at the age of 24?",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "60",
+                    "height": "155",
+                    "age": "24",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What are my health recommendations when I am 185 cm tall and weigh 75 kg as a female at the age of 39?",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "75",
+                    "height": "185",
+                    "age": "39",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "Can you tell me my BMI when I am 170 cm tall and weigh 90 kg as a male at the age of 47?",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "90",
+                    "height": "170",
+                    "age": "47",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I am 165 cm tall and weigh 85 kg as a female at the age of 41?",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "85",
+                    "height": "165",
+                    "age": "41",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI category when I am 190 cm tall and weigh 70 kg as an other at the age of 35?",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "70",
+                    "height": "190",
+                    "age": "35",
+                    "gender": "other"
+                }
+            }
+        },
+        {
+            "query": "What are my BMI category and health recommendations when I am 180 cm tall and weigh 95 kg as a male at the age of 49?",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "95",
+                    "height": "180",
+                    "age": "49",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "How can I calculate my BMI when I weigh 60 kg and am 155 cm tall as a female at the age of 25?",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "60",
+                    "height": "155",
+                    "age": "25",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "What is the BMI category of a person who weighs 75 kg and is 175 cm tall at the age of 48?",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "75",
+                    "height": "175",
+                    "age": "48",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What are my health recommendations when I am 185 cm tall and weigh 80 kg as a female at the age of 53?",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "80",
+                    "height": "185",
+                    "age": "53",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "Can you tell me my BMI when I am 170 cm tall and weigh 65 kg as a male at the age of 31?",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "65",
+                    "height": "170",
+                    "age": "31",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I am 165 cm tall and weigh 70 kg as a female at the age of 27?",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "70",
+                    "height": "165",
+                    "age": "27",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI category when I am 190 cm tall and weigh 75 kg as an other at the age of 37?",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "75",
+                    "height": "190",
+                    "age": "37",
+                    "gender": "other"
+                }
+            }
+        },
+        {
+            "query": "What are my BMI category and health recommendations when I am 180 cm tall and weigh 85 kg as a male at the age of 55?",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "85",
+                    "height": "180",
+                    "age": "55",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "How can I calculate my BMI when I weigh 60 kg and am 155 cm tall as a female at the age of 21?",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "60",
+                    "height": "155",
+                    "age": "21",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "What is the BMI category of a person who weighs 70 kg and is 175 cm tall at the age of 43?",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "70",
+                    "height": "175",
+                    "age": "43",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What are my health recommendations when I am 185 cm tall and weigh 90 kg as a female at the age of 29?",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "90",
+                    "height": "185",
+                    "age": "29",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "Can you tell me my BMI when I am 170 cm tall and weigh 80 kg as a male at the age of 23?",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "80",
+                    "height": "170",
+                    "age": "23",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I am 165 cm tall and weigh 75 kg as a female at the age of 51?",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "75",
+                    "height": "165",
+                    "age": "51",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI category when I am 190 cm tall and weigh 80 kg as an other at the age of 41?",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "80",
+                    "height": "190",
+                    "age": "41",
+                    "gender": "other"
+                }
+            }
+        },
+        {
+            "query": "What are my BMI category and health recommendations when I am 180 cm tall and weigh 95 kg as a male at the age of 51?",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "95",
+                    "height": "180",
+                    "age": "51",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "How can I calculate my BMI when I weigh 60 kg and am 155 cm tall as a female at the age of 17?",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "60",
+                    "height": "155",
+                    "age": "17",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "What is the BMI category of a person who weighs 70 kg and is 175 cm tall at the age of 49?",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "70",
+                    "height": "175",
+                    "age": "49",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What are my health recommendations when I am 185 cm tall and weigh 85 kg as a female at the age of 47?",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "85",
+                    "height": "185",
+                    "age": "47",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "Can you tell me my BMI when I am 170 cm tall and weigh 70 kg as a male at the age of 45?",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "70",
+                    "height": "170",
+                    "age": "45",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I am 165 cm tall and weigh 80 kg as a female at the age of 59?",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "80",
+                    "height": "165",
+                    "age": "59",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI category when I am 190 cm tall and weigh 75 kg as an other at the age of 51?",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "75",
+                    "height": "190",
+                    "age": "51",
+                    "gender": "other"
+                }
+            }
+        },
+        {
+            "query": "What are my BMI category and health recommendations when I am 180 cm tall and weigh 90 kg as a male at the age of 59?",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "90",
+                    "height": "180",
+                    "age": "59",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "How can I calculate my BMI when I weigh 60 kg and am 155 cm tall as a female at the age of 13?",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "60",
+                    "height": "155",
+                    "age": "13",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "What is the BMI category of a person who weighs 70 kg and is 175 cm tall at the age of 53?",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "70",
+                    "height": "175",
+                    "age": "53",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What are my health recommendations when I am 185 cm tall and weigh 95 kg as a female at the age of 41?",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "95",
+                    "height": "185",
+                    "age": "41",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "Can you tell me my BMI when I am 170 cm tall and weigh 80 kg as a male at the age of 31?",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "80",
+                    "height": "170",
+                    "age": "31",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I am 165 cm tall and weigh 75 kg as a female at the age of 37?",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "75",
+                    "height": "165",
+                    "age": "37",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI category when I am 190 cm tall and weigh 85 kg as an other at the age of 57?",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "85",
+                    "height": "190",
+                    "age": "57",
+                    "gender": "other"
+                }
+            }
+        },
+        {
+            "query": "What are my BMI category and health recommendations when I am 180 cm tall and weigh 95 kg as a male at the age of 37?",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "95",
+                    "height": "180",
+                    "age": "37",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "How can I calculate my BMI when I weigh 60 kg and am 155 cm tall as a female at the age of 9?",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "60",
+                    "height": "155",
+                    "age": "9",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "What is the BMI category of a person who weighs 70 kg and is 175 cm tall at the age of 39?",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "70",
+                    "height": "175",
+                    "age": "39",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What are my health recommendations when I am 185 cm tall and weigh 80 kg as a female at the age of 25?",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "80",
+                    "height": "185",
+                    "age": "25",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "Can you tell me my BMI when I am 170 cm tall and weigh 90 kg as a male at the age of 15?",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "90",
+                    "height": "170",
+                    "age": "15",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI when I am 165 cm tall and weigh 80 kg as a female at the age of 55?",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "80",
+                    "height": "165",
+                    "age": "55",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "What is my BMI category when I am 190 cm tall and weigh 85 kg as an other at the age of 29?",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "85",
+                    "height": "190",
+                    "age": "29",
+                    "gender": "other"
+                }
+            }
+        },
+        {
+            "query": "What are my BMI category and health recommendations when I am 180 cm tall and weigh 70 kg as a male at the age of 49?",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "70",
+                    "height": "180",
+                    "age": "49",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "How can I calculate my BMI when I weigh 60 kg and am 155 cm tall as a female at the age of 5?",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "60",
+                    "height": "155",
+                    "age": "5",
+                    "gender": "female"
+                }
+            }
+        },
+        {
+            "query": "What is the BMI category of a person who weighs 70 kg and is 175 cm tall at the age of 47?",
+            "answer": {
+                "function": "calculate_bmi",
+                "arguments": {
+                    "weight": "70",
+                    "height": "175",
+                    "age": "47",
+                    "gender": "male"
+                }
+            }
+        },
+        {
+            "query": "What are my health recommendations when I am 185 cm tall and weigh 95 kg as a female at the age of 33?,",
+            "answer": {
+                "error": "Invalid input. Please enter your height, weight, and age."
+            }
+        }
+    ]
+}

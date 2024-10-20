@@ -1,0 +1,472 @@
+{
+    "queries": [
+        {
+            "query": "What is the capital of France",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "France"
+                }
+            }
+        },
+        {
+            "query": "Which city is the capital of Portugal?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Portugal"
+                }
+            }
+        },
+        {
+            "query": "Find out the capital of Italy",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Italy"
+                }
+            }
+        },
+        {
+            "query": "What is the capital city of Spain?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Spain"
+                }
+            }
+        },
+        {
+            "query": "Which city serves as the capital of Poland?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Poland"
+                }
+            }
+        },
+        {
+            "query": "Find out the capital of Greece",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Greece"
+                }
+            }
+        },
+        {
+            "query": "What is the capital city of Sweden?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Sweden"
+                }
+            }
+        },
+        {
+            "query": "Which city is the capital of Denmark?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Denmark"
+                }
+            }
+        },
+        {
+            "query": "What is the capital of Ireland?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Ireland"
+                }
+            }
+        },
+        {
+            "query": "Find out the capital city of Finland",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Finland"
+                }
+            }
+        },
+        {
+            "query": "Which city serves as the capital of Cyprus?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Cyprus"
+                }
+            }
+        },
+        {
+            "query": "What is the capital of Lithuania?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Lithuania"
+                }
+            }
+        },
+        {
+            "query": "Find out the capital city of Latvia",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Latvia"
+                }
+            }
+        },
+        {
+            "query": "What is the capital of Estonia?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Estonia"
+                }
+            }
+        },
+        {
+            "query": "Which city is the capital of Malta?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Malta"
+                }
+            }
+        },
+        {
+            "query": "Find out the capital city of Slovenia",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Slovenia"
+                }
+            }
+        },
+        {
+            "query": "What is the capital of Croatia?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Croatia"
+                }
+            }
+        },
+        {
+            "query": "Which city serves as the capital of Czech Republic?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Czech Republic"
+                }
+            }
+        },
+        {
+            "query": "What is the capital city of Hungary",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Hungary"
+                }
+            }
+        },
+        {
+            "query": "Find out the capital of Romania",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Romania"
+                }
+            }
+        },
+        {
+            "query": "Which city is the capital of Bulgaria?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Bulgaria"
+                }
+            }
+        },
+        {
+            "query": "What is the capital of Slovakia",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Slovakia"
+                }
+            }
+        },
+        {
+            "query": "Find out the capital city of Albania",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Albania"
+                }
+            }
+        },
+        {
+            "query": "What is the capital of North Macedonia?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "North Macedonia"
+                }
+            }
+        },
+        {
+            "query": "Which city serves as the capital of Montenegro?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Montenegro"
+                }
+            }
+        },
+        {
+            "query": "What is the capital city of Serbia",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Serbia"
+                }
+            }
+        },
+        {
+            "query": "Find out the capital of Bosnia and Herzegovina",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Bosnia and Herzegovina"
+                }
+            }
+        },
+        {
+            "query": "Which city is the capital of Kosovo?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Kosovo"
+                }
+            }
+        },
+        {
+            "query": "What is the capital of Moldova",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Moldova"
+                }
+            }
+        },
+        {
+            "query": "Find out the capital city of Ukraine",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Ukraine"
+                }
+            }
+        },
+        {
+            "query": "What is the capital of Belarus",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Belarus"
+                }
+            }
+        },
+        {
+            "query": "Which city serves as the capital of Russia?",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Russia"
+                }
+            }
+        },
+        {
+            "query": "Find out the capital city of Turkey",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Turkey"
+                }
+            }
+        },
+        {
+            "query": "What is the capital of Georgia",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Georgia"
+                }
+            }
+        },
+        {
+            "query": "Which city is the capital of Azerbaijan",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Azerbaijan"
+                }
+            }
+        },
+        {
+            "query": "Find out the capital city of Armenia",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Armenia"
+                }
+            }
+        },
+        {
+            "query": "What is the capital of Switzerland",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Switzerland"
+                }
+            }
+        },
+        {
+            "query": "Which city serves as the capital of Austria",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Austria"
+                }
+            }
+        },
+        {
+            "query": "Find out the capital city of Germany",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Germany"
+                }
+            }
+        },
+        {
+            "query": "What is the capital of Belgium",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Belgium"
+                }
+            }
+        },
+        {
+            "query": "Which city is the capital of Netherlands",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Netherlands"
+                }
+            }
+        },
+        {
+            "query": "Find out the capital city of Luxembourg",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Luxembourg"
+                }
+            }
+        },
+        {
+            "query": "What is the capital of United Kingdom",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "United Kingdom"
+                }
+            }
+        },
+        {
+            "query": "Which city serves as the capital of Norway",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Norway"
+                }
+            }
+        },
+        {
+            "query": "Find out the capital city of Iceland",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Iceland"
+                }
+            }
+        },
+        {
+            "query": "What is the capital of Portugal",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Portugal"
+                }
+            }
+        },
+        {
+            "query": "Which city is the capital of Ireland",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Ireland"
+                }
+            }
+        },
+        {
+            "query": "Find out the capital city of Cyprus",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Cyprus"
+                }
+            }
+        },
+        {
+            "query": "What is the capital of Malta",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Malta"
+                }
+            }
+        },
+        {
+            "query": "Which city serves as the capital of Greece",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Greece"
+                }
+            }
+        },
+        {
+            "query": "Find out the capital city of Finland",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Finland"
+                }
+            }
+        },
+        {
+            "query": "What is the capital of Sweden",
+            "answer": {
+                "function": "get_capital",
+                "arguments": {
+                    "country": "Sweden"
+                }
+            }
+        }
+    ]
+}

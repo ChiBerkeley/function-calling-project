@@ -1,0 +1,952 @@
+{
+    "queries": [
+        {
+            "query": "What is the timezone of Iqaluit, Nunavut in Canada with mail code X0A 1H0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Iqaluit",
+                    "state": "Nunavut",
+                    "country": "Canada",
+                    "mail_code": "X0A 1H0"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Whitehorse, Yukon in Canada with mail code Y1A 2C4?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Whitehorse",
+                    "state": "Yukon",
+                    "country": "Canada",
+                    "mail_code": "Y1A 2C4"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Yellowknife, Northwest Territories in Canada with mail code X1A 3T5?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Yellowknife",
+                    "state": "Northwest Territories",
+                    "country": "Canada",
+                    "mail_code": "X1A 3T5"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Inuvik, Northwest Territories in Canada with mail code T9V 2J7?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Inuvik",
+                    "state": "Northwest Territories",
+                    "country": "Canada",
+                    "mail_code": "T9V 2J7"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Cambridge Bay, Nunavut in Canada with mail code X0A 1E0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Cambridge Bay",
+                    "state": "Nunavut",
+                    "country": "Canada",
+                    "mail_code": "X0A 1E0"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Dawson City, Yukon in Canada with mail code Y0B 1A0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Dawson City",
+                    "state": "Yukon",
+                    "country": "Canada",
+                    "mail_code": "Y0B 1A0"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Hay River, Northwest Territories in Canada with mail code X0E 1G2?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Hay River",
+                    "state": "Northwest Territories",
+                    "country": "Canada",
+                    "mail_code": "X0E 1G2"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Haines Junction, Yukon in Canada with mail code Y0W 1G7?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Haines Junction",
+                    "state": "Yukon",
+                    "country": "Canada",
+                    "mail_code": "Y0W 1G7"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Baker Lake, Nunavut in Canada with mail code X0C 1A0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Baker Lake",
+                    "state": "Nunavut",
+                    "country": "Canada",
+                    "mail_code": "X0C 1A0"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Inuvik, Northwest Territories in Canada with mail code T9V 2J7?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Inuvik",
+                    "state": "Northwest Territories",
+                    "country": "Canada",
+                    "mail_code": "T9V 2J7"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Iqaluit, Nunavut in Canada with mail code X0A 1H0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Iqaluit",
+                    "state": "Nunavut",
+                    "country": "Canada",
+                    "mail_code": "X0A 1H0"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Hay River, Northwest Territories in Canada with mail code X0E 1G2?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Hay River",
+                    "state": "Northwest Territories",
+                    "country": "Canada",
+                    "mail_code": "X0E 1G2"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Dawson City, Yukon in Canada with mail code Y0B 1A0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Dawson City",
+                    "state": "Yukon",
+                    "country": "Canada",
+                    "mail_code": "Y0B 1A0"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Cambridge Bay, Nunavut in Canada with mail code X0A 1E0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Cambridge Bay",
+                    "state": "Nunavut",
+                    "country": "Canada",
+                    "mail_code": "X0A 1E0"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Whitehorse, Yukon in Canada with mail code Y1A 2C4?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Whitehorse",
+                    "state": "Yukon",
+                    "country": "Canada",
+                    "mail_code": "Y1A 2C4"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Yellowknife, Northwest Territories in Canada with mail code X1A 3T5?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Yellowknife",
+                    "state": "Northwest Territories",
+                    "country": "Canada",
+                    "mail_code": "X1A 3T5"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Haines Junction, Yukon in Canada with mail code Y0W 1G7?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Haines Junction",
+                    "state": "Yukon",
+                    "country": "Canada",
+                    "mail_code": "Y0W 1G7"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Baker Lake, Nunavut in Canada with mail code X0C 1A0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Baker Lake",
+                    "state": "Nunavut",
+                    "country": "Canada",
+                    "mail_code": "X0C 1A0"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Inuvik, Northwest Territories in Canada with mail code T9V 2J7?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Inuvik",
+                    "state": "Northwest Territories",
+                    "country": "Canada",
+                    "mail_code": "T9V 2J7"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Iqaluit, Nunavut in Canada with mail code X0A 1H0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Iqaluit",
+                    "state": "Nunavut",
+                    "country": "Canada",
+                    "mail_code": "X0A 1H0"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Hay River, Northwest Territories in Canada with mail code X0E 1G2?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Hay River",
+                    "state": "Northwest Territories",
+                    "country": "Canada",
+                    "mail_code": "X0E 1G2"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Dawson City, Yukon in Canada with mail code Y0B 1A0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Dawson City",
+                    "state": "Yukon",
+                    "country": "Canada",
+                    "mail_code": "Y0B 1A0"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Cambridge Bay, Nunavut in Canada with mail code X0A 1E0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Cambridge Bay",
+                    "state": "Nunavut",
+                    "country": "Canada",
+                    "mail_code": "X0A 1E0"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Whitehorse, Yukon in Canada with mail code Y1A 2C4?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Whitehorse",
+                    "state": "Yukon",
+                    "country": "Canada",
+                    "mail_code": "Y1A 2C4"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Yellowknife, Northwest Territories in Canada with mail code X1A 3T5?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Yellowknife",
+                    "state": "Northwest Territories",
+                    "country": "Canada",
+                    "mail_code": "X1A 3T5"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Haines Junction, Yukon in Canada with mail code Y0W 1G7?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Haines Junction",
+                    "state": "Yukon",
+                    "country": "Canada",
+                    "mail_code": "Y0W 1G7"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Baker Lake, Nunavut in Canada with mail code X0C 1A0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Baker Lake",
+                    "state": "Nunavut",
+                    "country": "Canada",
+                    "mail_code": "X0C 1A0"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Inuvik, Northwest Territories in Canada with mail code T9V 2J7?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Inuvik",
+                    "state": "Northwest Territories",
+                    "country": "Canada",
+                    "mail_code": "T9V 2J7"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Iqaluit, Nunavut in Canada with mail code X0A 1H0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Iqaluit",
+                    "state": "Nunavut",
+                    "country": "Canada",
+                    "mail_code": "X0A 1H0"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Hay River, Northwest Territories in Canada with mail code X0E 1G2?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Hay River",
+                    "state": "Northwest Territories",
+                    "country": "Canada",
+                    "mail_code": "X0E 1G2"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Dawson City, Yukon in Canada with mail code Y0B 1A0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Dawson City",
+                    "state": "Yukon",
+                    "country": "Canada",
+                    "mail_code": "Y0B 1A0"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Cambridge Bay, Nunavut in Canada with mail code X0A 1E0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Cambridge Bay",
+                    "state": "Nunavut",
+                    "country": "Canada",
+                    "mail_code": "X0A 1E0"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Whitehorse, Yukon in Canada with mail code Y1A 2C4?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Whitehorse",
+                    "state": "Yukon",
+                    "country": "Canada",
+                    "mail_code": "Y1A 2C4"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Yellowknife, Northwest Territories in Canada with mail code X1A 3T5?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Yellowknife",
+                    "state": "Northwest Territories",
+                    "country": "Canada",
+                    "mail_code": "X1A 3T5"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Haines Junction, Yukon in Canada with mail code Y0W 1G7?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Haines Junction",
+                    "state": "Yukon",
+                    "country": "Canada",
+                    "mail_code": "Y0W 1G7"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Baker Lake, Nunavut in Canada with mail code X0C 1A0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Baker Lake",
+                    "state": "Nunavut",
+                    "country": "Canada",
+                    "mail_code": "X0C 1A0"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Inuvik, Northwest Territories in Canada with mail code T9V 2J7?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Inuvik",
+                    "state": "Northwest Territories",
+                    "country": "Canada",
+                    "mail_code": "T9V 2J7"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Iqaluit, Nunavut in Canada with mail code X0A 1H0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Iqaluit",
+                    "state": "Nunavut",
+                    "country": "Canada",
+                    "mail_code": "X0A 1H0"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Hay River, Northwest Territories in Canada with mail code X0E 1G2?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Hay River",
+                    "state": "Northwest Territories",
+                    "country": "Canada",
+                    "mail_code": "X0E 1G2"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Dawson City, Yukon in Canada with mail code Y0B 1A0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Dawson City",
+                    "state": "Yukon",
+                    "country": "Canada",
+                    "mail_code": "Y0B 1A0"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Cambridge Bay, Nunavut in Canada with mail code X0A 1E0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Cambridge Bay",
+                    "state": "Nunavut",
+                    "country": "Canada",
+                    "mail_code": "X0A 1E0"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Whitehorse, Yukon in Canada with mail code Y1A 2C4?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Whitehorse",
+                    "state": "Yukon",
+                    "country": "Canada",
+                    "mail_code": "Y1A 2C4"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Yellowknife, Northwest Territories in Canada with mail code X1A 3T5?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Yellowknife",
+                    "state": "Northwest Territories",
+                    "country": "Canada",
+                    "mail_code": "X1A 3T5"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Haines Junction, Yukon in Canada with mail code Y0W 1G7?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Haines Junction",
+                    "state": "Yukon",
+                    "country": "Canada",
+                    "mail_code": "Y0W 1G7"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Baker Lake, Nunavut in Canada with mail code X0C 1A0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Baker Lake",
+                    "state": "Nunavut",
+                    "country": "Canada",
+                    "mail_code": "X0C 1A0"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Inuvik, Northwest Territories in Canada with mail code T9V 2J7?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Inuvik",
+                    "state": "Northwest Territories",
+                    "country": "Canada",
+                    "mail_code": "T9V 2J7"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Iqaluit, Nunavut in Canada with mail code X0A 1H0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Iqaluit",
+                    "state": "Nunavut",
+                    "country": "Canada",
+                    "mail_code": "X0A 1H0"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Hay River, Northwest Territories in Canada with mail code X0E 1G2?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Hay River",
+                    "state": "Northwest Territories",
+                    "country": "Canada",
+                    "mail_code": "X0E 1G2"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Dawson City, Yukon in Canada with mail code Y0B 1A0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Dawson City",
+                    "state": "Yukon",
+                    "country": "Canada",
+                    "mail_code": "Y0B 1A0"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Cambridge Bay, Nunavut in Canada with mail code X0A 1E0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Cambridge Bay",
+                    "state": "Nunavut",
+                    "country": "Canada",
+                    "mail_code": "X0A 1E0"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Whitehorse, Yukon in Canada with mail code Y1A 2C4?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Whitehorse",
+                    "state": "Yukon",
+                    "country": "Canada",
+                    "mail_code": "Y1A 2C4"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Yellowknife, Northwest Territories in Canada with mail code X1A 3T5?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Yellowknife",
+                    "state": "Northwest Territories",
+                    "country": "Canada",
+                    "mail_code": "X1A 3T5"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Haines Junction, Yukon in Canada with mail code Y0W 1G7?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Haines Junction",
+                    "state": "Yukon",
+                    "country": "Canada",
+                    "mail_code": "Y0W 1G7"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Baker Lake, Nunavut in Canada with mail code X0C 1A0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Baker Lake",
+                    "state": "Nunavut",
+                    "country": "Canada",
+                    "mail_code": "X0C 1A0"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Inuvik, Northwest Territories in Canada with mail code T9V 2J7?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Inuvik",
+                    "state": "Northwest Territories",
+                    "country": "Canada",
+                    "mail_code": "T9V 2J7"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Iqaluit, Nunavut in Canada with mail code X0A 1H0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Iqaluit",
+                    "state": "Nunavut",
+                    "country": "Canada",
+                    "mail_code": "X0A 1H0"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Hay River, Northwest Territories in Canada with mail code X0E 1G2?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Hay River",
+                    "state": "Northwest Territories",
+                    "country": "Canada",
+                    "mail_code": "X0E 1G2"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Dawson City, Yukon in Canada with mail code Y0B 1A0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Dawson City",
+                    "state": "Yukon",
+                    "country": "Canada",
+                    "mail_code": "Y0B 1A0"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Cambridge Bay, Nunavut in Canada with mail code X0A 1E0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Cambridge Bay",
+                    "state": "Nunavut",
+                    "country": "Canada",
+                    "mail_code": "X0A 1E0"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Whitehorse, Yukon in Canada with mail code Y1A 2C4?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Whitehorse",
+                    "state": "Yukon",
+                    "country": "Canada",
+                    "mail_code": "Y1A 2C4"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Yellowknife, Northwest Territories in Canada with mail code X1A 3T5?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Yellowknife",
+                    "state": "Northwest Territories",
+                    "country": "Canada",
+                    "mail_code": "X1A 3T5"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Haines Junction, Yukon in Canada with mail code Y0W 1G7?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Haines Junction",
+                    "state": "Yukon",
+                    "country": "Canada",
+                    "mail_code": "Y0W 1G7"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Baker Lake, Nunavut in Canada with mail code X0C 1A0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Baker Lake",
+                    "state": "Nunavut",
+                    "country": "Canada",
+                    "mail_code": "X0C 1A0"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Inuvik, Northwest Territories in Canada with mail code T9V 2J7?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Inuvik",
+                    "state": "Northwest Territories",
+                    "country": "Canada",
+                    "mail_code": "T9V 2J7"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Iqaluit, Nunavut in Canada with mail code X0A 1H0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Iqaluit",
+                    "state": "Nunavut",
+                    "country": "Canada",
+                    "mail_code": "X0A 1H0"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Hay River, Northwest Territories in Canada with mail code X0E 1G2?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Hay River",
+                    "state": "Northwest Territories",
+                    "country": "Canada",
+                    "mail_code": "X0E 1G2"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Dawson City, Yukon in Canada with mail code Y0B 1A0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Dawson City",
+                    "state": "Yukon",
+                    "country": "Canada",
+                    "mail_code": "Y0B 1A0"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Cambridge Bay, Nunavut in Canada with mail code X0A 1E0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Cambridge Bay",
+                    "state": "Nunavut",
+                    "country": "Canada",
+                    "mail_code": "X0A 1E0"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Whitehorse, Yukon in Canada with mail code Y1A 2C4?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Whitehorse",
+                    "state": "Yukon",
+                    "country": "Canada",
+                    "mail_code": "Y1A 2C4"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Yellowknife, Northwest Territories in Canada with mail code X1A 3T5?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Yellowknife",
+                    "state": "Northwest Territories",
+                    "country": "Canada",
+                    "mail_code": "X1A 3T5"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Haines Junction, Yukon in Canada with mail code Y0W 1G7?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Haines Junction",
+                    "state": "Yukon",
+                    "country": "Canada",
+                    "mail_code": "Y0W 1G7"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Baker Lake, Nunavut in Canada with mail code X0C 1A0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Baker Lake",
+                    "state": "Nunavut",
+                    "country": "Canada",
+                    "mail_code": "X0C 1A0"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Inuvik, Northwest Territories in Canada with mail code T9V 2J7?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Inuvik",
+                    "state": "Northwest Territories",
+                    "country": "Canada",
+                    "mail_code": "T9V 2J7"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Iqaluit, Nunavut in Canada with mail code X0A 1H0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Iqaluit",
+                    "state": "Nunavut",
+                    "country": "Canada",
+                    "mail_code": "X0A 1H0"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Hay River, Northwest Territories in Canada with mail code X0E 1G2?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Hay River",
+                    "state": "Northwest Territories",
+                    "country": "Canada",
+                    "mail_code": "X0E 1G2"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Dawson City, Yukon in Canada with mail code Y0B 1A0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Dawson City",
+                    "state": "Yukon",
+                    "country": "Canada",
+                    "mail_code": "Y0B 1A0"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Cambridge Bay, Nunavut in Canada with mail code X0A 1E0?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Cambridge Bay",
+                    "state": "Nunavut",
+                    "country": "Canada",
+                    "mail_code": "X0A 1E0"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Whitehorse, Yukon in Canada with mail code Y1A 2C4?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Whitehorse",
+                    "state": "Yukon",
+                    "country": "Canada",
+                    "mail_code": "Y1A 2C4"
+                }
+            }
+        },
+        {
+            "query": "What is the timezone of Yellowknife, Northwest Territories in Canada with mail code X1A 3T5?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Yellowknife",
+                    "state": "Northwest Territories",
+                    "country": "Canada",
+                    "mail_code": "X1A 3T5"
+                }
+            }
+        }
+    ]
+}

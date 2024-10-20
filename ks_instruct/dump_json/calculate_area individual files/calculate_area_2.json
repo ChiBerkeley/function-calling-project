@@ -1,0 +1,26 @@
+{
+    "queries": [
+        {
+            "query": "What is the area of a square with length 5.8 and width 3.9 when rounded",
+            "answer": {
+                "function": "calculate_area",
+                "arguments": {
+                    "length": "5.8",
+                    "width": "3.9",
+                    "round_result": "True"
+                }
+            }
+        },
+        {
+            "query": "Calculate the area of a rectangle with dimensions 2.1 and 4.7, should result be rounded",
+            "answer": {
+                "function": "calculate_area",
+                "arguments": {
+                    "length": "2.1",
+                    "width": "4.7",
+                    "round_result": "True"
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,394 @@
+{
+    "queries": [
+        {
+            "query": "How many 'q's are in Quokka",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Quokka",
+                    "letter": "q"
+                }
+            }
+        },
+        {
+            "query": "What is the total count of 'k's in Krypton",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Krypton",
+                    "letter": "k"
+                }
+            }
+        },
+        {
+            "query": "Find out how many times 'x' appears in Extremist",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Extremist",
+                    "letter": "x"
+                }
+            }
+        },
+        {
+            "query": "What's the count of 'p's in Peculiar",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Peculiar",
+                    "letter": "p"
+                }
+            }
+        },
+        {
+            "query": "How many 'z's are there in Zucchini",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Zucchini",
+                    "letter": "z"
+                }
+            }
+        },
+        {
+            "query": "Total count of 'r's in Raspberry",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Raspberry",
+                    "letter": "r"
+                }
+            }
+        },
+        {
+            "query": "What is the number of 'y's in Yellowstone",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Yellowstone",
+                    "letter": "y"
+                }
+            }
+        },
+        {
+            "query": "Count of 'n's in Narcissus",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Narcissus",
+                    "letter": "n"
+                }
+            }
+        },
+        {
+            "query": "How many 'm's are in Meteorite",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Meteorite",
+                    "letter": "m"
+                }
+            }
+        },
+        {
+            "query": "What is the total count of 'j's in Jester",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Jester",
+                    "letter": "j"
+                }
+            }
+        },
+        {
+            "query": "Count of 'v's in Vacation",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Vacation",
+                    "letter": "v"
+                }
+            }
+        },
+        {
+            "query": "Total count of 'b's in Brilliant",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Brilliant",
+                    "letter": "b"
+                }
+            }
+        },
+        {
+            "query": "How many 's's are there in Sophisticated",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Sophisticated",
+                    "letter": "s"
+                }
+            }
+        },
+        {
+            "query": "What is the count of 'h's in Hypnotic",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Hypnotic",
+                    "letter": "h"
+                }
+            }
+        },
+        {
+            "query": "Count of 'd's in Dynamite",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Dynamite",
+                    "letter": "d"
+                }
+            }
+        },
+        {
+            "query": "Total count of 'g's in Giggle",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Giggle",
+                    "letter": "g"
+                }
+            }
+        },
+        {
+            "query": "How many 'c's are there in Cacophony",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Cacophony",
+                    "letter": "c"
+                }
+            }
+        },
+        {
+            "query": "What is the count of 'f's in Fanciful",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Fanciful",
+                    "letter": "f"
+                }
+            }
+        },
+        {
+            "query": "Count of 'e's in Elegant",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Elegant",
+                    "letter": "e"
+                }
+            }
+        },
+        {
+            "query": "Total count of 't's in Tenacious",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Tenacious",
+                    "letter": "t"
+                }
+            }
+        },
+        {
+            "query": "How many 'a's are there in Audacious",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Audacious",
+                    "letter": "a"
+                }
+            }
+        },
+        {
+            "query": "What is the count of 'i's in Ingenious",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Ingenious",
+                    "letter": "i"
+                }
+            }
+        },
+        {
+            "query": "Count of 'o's in Oscillate",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Oscillate",
+                    "letter": "o"
+                }
+            }
+        },
+        {
+            "query": "Total count of 'u's in Ubiquitous",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Ubiquitous",
+                    "letter": "u"
+                }
+            }
+        },
+        {
+            "query": "How many 'w's are there in Whimsical",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Whimsical",
+                    "letter": "w"
+                }
+            }
+        },
+        {
+            "query": "What is the count of 'l's in Luminary",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Luminary",
+                    "letter": "l"
+                }
+            }
+        },
+        {
+            "query": "Count of 'k's in Kaleidoscope",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Kaleidoscope",
+                    "letter": "k"
+                }
+            }
+        },
+        {
+            "query": "Total count of 'p's in Phenomenon",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Phenomenon",
+                    "letter": "p"
+                }
+            }
+        },
+        {
+            "query": "How many 'm's are there in Meteorological",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Meteorological",
+                    "letter": "m"
+                }
+            }
+        },
+        {
+            "query": "What is the count of 'e's in Exuberant",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Exuberant",
+                    "letter": "e"
+                }
+            }
+        },
+        {
+            "query": "Count of 'n's in Narrate",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Narrate",
+                    "letter": "n"
+                }
+            }
+        },
+        {
+            "query": "Total count of 't's in Tranquil",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Tranquil",
+                    "letter": "t"
+                }
+            }
+        },
+        {
+            "query": "How many 'r's are there in Radiant",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Radiant",
+                    "letter": "r"
+                }
+            }
+        },
+        {
+            "query": "What is the count of 'a's in Aesthetic",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Aesthetic",
+                    "letter": "a"
+                }
+            }
+        },
+        {
+            "query": "Count of 'c's in Catalyst",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Catalyst",
+                    "letter": "c"
+                }
+            }
+        },
+        {
+            "query": "Total count of 'i's in Ingeniousness",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Ingeniousness",
+                    "letter": "i"
+                }
+            }
+        },
+        {
+            "query": "How many 's's are there in Sophistication",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Sophistication",
+                    "letter": "s"
+                }
+            }
+        },
+        {
+            "query": "What is the count of 'h's in Hypnoticly",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Hypnoticly",
+                    "letter": "h"
+                }
+            }
+        },
+        {
+            "query": "Count of 'f's in Fascinate",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Fascinate",
+                    "letter": "f"
+                }
+            }
+        }
+    ]
+}

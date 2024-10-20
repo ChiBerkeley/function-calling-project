@@ -1,0 +1,394 @@
+{
+    "queries": [
+        {
+            "query": "How many x's are in Glarbx",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Glarbx",
+                    "letter": "x"
+                }
+            }
+        },
+        {
+            "query": "What is the count of p's in Zorblort?",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Zorblort",
+                    "letter": "p"
+                }
+            }
+        },
+        {
+            "query": "How many a's are in Xylon?",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Xylon",
+                    "letter": "a"
+                }
+            }
+        },
+        {
+            "query": "Count the number of e's in Valtara",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Valtara",
+                    "letter": "e"
+                }
+            }
+        },
+        {
+            "query": "How many t's are in Gliblon",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Gliblon",
+                    "letter": "t"
+                }
+            }
+        },
+        {
+            "query": "What is the count of r's in Plootz?",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Plootz",
+                    "letter": "r"
+                }
+            }
+        },
+        {
+            "query": "Count the number of i's in Klabox",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Klabox",
+                    "letter": "i"
+                }
+            }
+        },
+        {
+            "query": "How many d's are in Xarlon?",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Xarlon",
+                    "letter": "d"
+                }
+            }
+        },
+        {
+            "query": "What is the count of y's in Morklon",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Morklon",
+                    "letter": "y"
+                }
+            }
+        },
+        {
+            "query": "Count the number of u's in Tivoxa",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Tivoxa",
+                    "letter": "u"
+                }
+            }
+        },
+        {
+            "query": "How many s's are in Vexor?",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Vexor",
+                    "letter": "s"
+                }
+            }
+        },
+        {
+            "query": "What is the count of o's in Niblor",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Niblor",
+                    "letter": "o"
+                }
+            }
+        },
+        {
+            "query": "Count the number of m's in Zinkor",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Zinkor",
+                    "letter": "m"
+                }
+            }
+        },
+        {
+            "query": "How many n's are in Ploxar?",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Ploxar",
+                    "letter": "n"
+                }
+            }
+        },
+        {
+            "query": "What is the count of f's in Gaxor",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Gaxor",
+                    "letter": "f"
+                }
+            }
+        },
+        {
+            "query": "Count the number of l's in Vynor",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Vynor",
+                    "letter": "l"
+                }
+            }
+        },
+        {
+            "query": "How many c's are in Blixon?",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Blixon",
+                    "letter": "c"
+                }
+            }
+        },
+        {
+            "query": "What is the count of k's in Qarlon",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Qarlon",
+                    "letter": "k"
+                }
+            }
+        },
+        {
+            "query": "Count the number of e's in Riklor",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Riklor",
+                    "letter": "e"
+                }
+            }
+        },
+        {
+            "query": "How many g's are in Yorlox",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Yorlox",
+                    "letter": "g"
+                }
+            }
+        },
+        {
+            "query": "What is the count of h's in Tivzax",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Tivzax",
+                    "letter": "h"
+                }
+            }
+        },
+        {
+            "query": "Count the number of j's in Sazork",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Sazork",
+                    "letter": "j"
+                }
+            }
+        },
+        {
+            "query": "How many i's are in Wexorx",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Wexorx",
+                    "letter": "i"
+                }
+            }
+        },
+        {
+            "query": "What is the count of d's in Mirkon?",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Mirkon",
+                    "letter": "d"
+                }
+            }
+        },
+        {
+            "query": "Count the number of k's in Xarlor",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Xarlor",
+                    "letter": "k"
+                }
+            }
+        },
+        {
+            "query": "How many y's are in Blixox",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Blixox",
+                    "letter": "y"
+                }
+            }
+        },
+        {
+            "query": "What is the count of p's in Valtorx",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Valtorx",
+                    "letter": "p"
+                }
+            }
+        },
+        {
+            "query": "Count the number of x's in Tivlox",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Tivlox",
+                    "letter": "x"
+                }
+            }
+        },
+        {
+            "query": "How many o's are in Sazorkx",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Sazorkx",
+                    "letter": "o"
+                }
+            }
+        },
+        {
+            "query": "What is the count of m's in Gliblox",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Gliblox",
+                    "letter": "m"
+                }
+            }
+        },
+        {
+            "query": "Count the number of c's in Riklorx",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Riklorx",
+                    "letter": "c"
+                }
+            }
+        },
+        {
+            "query": "How many n's are in Wexarox",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Wexarox",
+                    "letter": "n"
+                }
+            }
+        },
+        {
+            "query": "What is the count of t's in Ploxorx",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Ploxorx",
+                    "letter": "t"
+                }
+            }
+        },
+        {
+            "query": "Count the number of l's in Xylonx",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Xylonx",
+                    "letter": "l"
+                }
+            }
+        },
+        {
+            "query": "How many e's are in Blixorx",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Blixorx",
+                    "letter": "e"
+                }
+            }
+        },
+        {
+            "query": "What is the count of f's in Sazarkx",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Sazarkx",
+                    "letter": "f"
+                }
+            }
+        },
+        {
+            "query": "Count the number of v's in Mirklox",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Mirklox",
+                    "letter": "v"
+                }
+            }
+        },
+        {
+            "query": "How many r's are in Tivzorx",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Tivzorx",
+                    "letter": "r"
+                }
+            }
+        },
+        {
+            "query": "What is the count of k's in Gliborx",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Gliborx",
+                    "letter": "k"
+                }
+            }
+        }
+    ]
+}

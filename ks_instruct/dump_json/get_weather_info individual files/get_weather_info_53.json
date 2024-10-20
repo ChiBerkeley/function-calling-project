@@ -1,0 +1,481 @@
+{
+    "queries": [
+        {
+            "query": "What is the weather in Tokyo",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Tokyo"
+                }
+            }
+        },
+        {
+            "query": "Current weather in Sydney",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Sydney"
+                }
+            }
+        },
+        {
+            "query": "Get current time and weather in Mumbai",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Mumbai"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather in Sao Paulo",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Sao Paulo"
+                }
+            }
+        },
+        {
+            "query": "What is the current time and weather like in Hong Kong",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Hong Kong"
+                }
+            }
+        },
+        {
+            "query": "Get the current time and weather in Singapore",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Singapore"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather in Buenos Aires",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Buenos Aires"
+                }
+            }
+        },
+        {
+            "query": "What is the current time and weather like in Bangkok",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Bangkok"
+                }
+            }
+        },
+        {
+            "query": "Get the current time and weather in Istanbul",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Istanbul"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather in Dubai",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Dubai"
+                }
+            }
+        },
+        {
+            "query": "What is the current time and weather like in Cairo",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Cairo"
+                }
+            }
+        },
+        {
+            "query": "Get the current time and weather in Riyadh",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Riyadh"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather in Tel Aviv",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Tel Aviv"
+                }
+            }
+        },
+        {
+            "query": "What is the current time and weather like in Prague",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Prague"
+                }
+            }
+        },
+        {
+            "query": "Get the current time and weather in Amsterdam",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Amsterdam"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather in Copenhagen",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Copenhagen"
+                }
+            }
+        },
+        {
+            "query": "What is the current time and weather like in Stockholm",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Stockholm"
+                }
+            }
+        },
+        {
+            "query": "Get the current time and weather in Berlin",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Berlin"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather in London",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "London"
+                }
+            }
+        },
+        {
+            "query": "What is the current time and weather like in Paris",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Paris"
+                }
+            }
+        },
+        {
+            "query": "Get the current time and weather in Rome",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Rome"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather in Madrid",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Madrid"
+                }
+            }
+        },
+        {
+            "query": "What is the current time and weather like in Athens",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Athens"
+                }
+            }
+        },
+        {
+            "query": "Get the current time and weather in Zurich",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Zurich"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather in Oslo",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Oslo"
+                }
+            }
+        },
+        {
+            "query": "What is the current time and weather like in Helsinki",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Helsinki"
+                }
+            }
+        },
+        {
+            "query": "Get the current time and weather in Warsaw",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Warsaw"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather in Budapest",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Budapest"
+                }
+            }
+        },
+        {
+            "query": "What is the current time and weather like in Dublin",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Dublin"
+                }
+            }
+        },
+        {
+            "query": "Get the current time and weather in Glasgow",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Glasgow"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather in Edinburgh",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Edinburgh"
+                }
+            }
+        },
+        {
+            "query": "What is the current time and weather like in Bristol",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Bristol"
+                }
+            }
+        },
+        {
+            "query": "Get the current time and weather in Leeds",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Leeds"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather in Manchester",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Manchester"
+                }
+            }
+        },
+        {
+            "query": "What is the current time and weather like in Brighton",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Brighton"
+                }
+            }
+        },
+        {
+            "query": "Get the current time and weather in Liverpool",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Liverpool"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather in Cardiff",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Cardiff"
+                }
+            }
+        },
+        {
+            "query": "What is the current time and weather like in Belfast",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Belfast"
+                }
+            }
+        },
+        {
+            "query": "Get the current time and weather in Newcastle upon Tyne",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Newcastle upon Tyne"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather in Nottingham",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Nottingham"
+                }
+            }
+        },
+        {
+            "query": "What is the current time and weather like in Southampton",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Southampton"
+                }
+            }
+        },
+        {
+            "query": "Get the current time and weather in Sheffield",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Sheffield"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather in Plymouth",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Plymouth"
+                }
+            }
+        },
+        {
+            "query": "What is the current time and weather like in Aberdeen",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Aberdeen"
+                }
+            }
+        },
+        {
+            "query": "Get the current time and weather in Hull",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Hull"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather in Stoke-on-Trent",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Stoke-on-Trent"
+                }
+            }
+        },
+        {
+            "query": "What is the current time and weather like in Wolverhampton",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Wolverhampton"
+                }
+            }
+        },
+        {
+            "query": "Get the current time and weather in Derby",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Derby"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather in York",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "York"
+                }
+            }
+        },
+        {
+            "query": "What is the current time and weather like in Swansea",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Swansea"
+                }
+            }
+        },
+        {
+            "query": "Get the current time and weather in Leicester",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Leicester"
+                }
+            }
+        },
+        {
+            "query": "Current time and weather in Coventry",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Coventry"
+                }
+            }
+        },
+        {
+            "query": "What is the current time and weather like in Bradford",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Bradford"
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,400 @@
+{
+    "queries": [
+        {
+            "query": "What is my zodiac sign if I was born on 1999-03-15",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1999-03-15"
+                }
+            }
+        },
+        {
+            "query": "What is the sign of someone born on a leap year, February 29th?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2000-02-29"
+                }
+            }
+        },
+        {
+            "query": "If I was born on December 11th, what would be my zodiac sign?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2015-12-11"
+                }
+            }
+        },
+        {
+            "query": "What's the zodiac sign of someone who shares their birthday with me?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1998-01-23"
+                }
+            }
+        },
+        {
+            "query": "If I was born on August 25th, what would be my zodiac sign?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2011-08-25"
+                }
+            }
+        },
+        {
+            "query": "What is the sign of someone born in 1995 on January 15th?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1995-01-15"
+                }
+            }
+        },
+        {
+            "query": "What zodiac sign was I born under if my birthday is July 12th, 1987?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1987-07-12"
+                }
+            }
+        },
+        {
+            "query": "If someone's birthday is June 20th, what would their zodiac sign be?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2003-06-20"
+                }
+            }
+        },
+        {
+            "query": "What is the zodiac sign of someone born on March 28th, 1989?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1989-03-28"
+                }
+            }
+        },
+        {
+            "query": "If I was born on October 5th, what would be my zodiac sign?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2018-10-05"
+                }
+            }
+        },
+        {
+            "query": "What's the zodiac sign of someone who shares their birthday with me, but in a different year?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2001-02-14"
+                }
+            }
+        },
+        {
+            "query": "If I was born on September 2nd, what would be my zodiac sign?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1994-09-02"
+                }
+            }
+        },
+        {
+            "query": "What is the sign of someone born in 1983 on November 22nd?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1983-11-22"
+                }
+            }
+        },
+        {
+            "query": "If I was born on April 9th, what would be my zodiac sign?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2012-04-09"
+                }
+            }
+        },
+        {
+            "query": "What is the zodiac sign of someone who shares their birthday with me in a leap year?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2004-02-29"
+                }
+            }
+        },
+        {
+            "query": "If I was born on May 25th, what would be my zodiac sign?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1992-05-25"
+                }
+            }
+        },
+        {
+            "query": "What is the sign of someone born in 1989 on June 18th?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1989-06-18"
+                }
+            }
+        },
+        {
+            "query": "If I was born on July 4th, what would be my zodiac sign?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2016-07-04"
+                }
+            }
+        },
+        {
+            "query": "What's the zodiac sign of someone who shares their birthday with me in a different year but same month and day?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2002-03-20"
+                }
+            }
+        },
+        {
+            "query": "If I was born on August 9th, what would be my zodiac sign?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1991-08-09"
+                }
+            }
+        },
+        {
+            "query": "What is the sign of someone born in 2006 on December 5th?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2006-12-05"
+                }
+            }
+        },
+        {
+            "query": "If I was born on January 30th, what would be my zodiac sign?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1985-01-30"
+                }
+            }
+        },
+        {
+            "query": "What is the zodiac sign of someone who shares their birthday with me in a different year but same month and day, but in a leap year?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2000-02-29"
+                }
+            }
+        },
+        {
+            "query": "If I was born on February 14th, what would be my zodiac sign?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1996-02-14"
+                }
+            }
+        },
+        {
+            "query": "What's the zodiac sign of someone who shares their birthday with me in a different year but same month and day?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2005-06-20"
+                }
+            }
+        },
+        {
+            "query": "If I was born on March 15th, what would be my zodiac sign?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1988-03-15"
+                }
+            }
+        },
+        {
+            "query": "What is the sign of someone born in 2013 on September 1st?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2013-09-01"
+                }
+            }
+        },
+        {
+            "query": "If I was born on April 12th, what would be my zodiac sign?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1990-04-12"
+                }
+            }
+        },
+        {
+            "query": "What's the zodiac sign of someone who shares their birthday with me in a different year but same month and day, but in a leap year?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2004-02-29"
+                }
+            }
+        },
+        {
+            "query": "If I was born on May 10th, what would be my zodiac sign?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1986-05-10"
+                }
+            }
+        },
+        {
+            "query": "What is the sign of someone born in 1994 on October 3rd?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1994-10-03"
+                }
+            }
+        },
+        {
+            "query": "If I was born on June 15th, what would be my zodiac sign?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2007-06-15"
+                }
+            }
+        },
+        {
+            "query": "What is the zodiac sign of someone who shares their birthday with me in a different year but same month and day?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2014-03-25"
+                }
+            }
+        },
+        {
+            "query": "If I was born on July 20th, what would be my zodiac sign?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1982-07-20"
+                }
+            }
+        },
+        {
+            "query": "What's the zodiac sign of someone who shares their birthday with me in a different year but same month and day, but in a leap year?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2000-02-29"
+                }
+            }
+        },
+        {
+            "query": "If I was born on August 22nd, what would be my zodiac sign?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1993-08-22"
+                }
+            }
+        },
+        {
+            "query": "What is the sign of someone born in 2018 on December 7th?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2018-12-07"
+                }
+            }
+        },
+        {
+            "query": "If I was born on September 14th, what would be my zodiac sign?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1987-09-14"
+                }
+            }
+        },
+        {
+            "query": "What's the zodiac sign of someone who shares their birthday with me in a different year but same month and day?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2009-05-15"
+                }
+            }
+        },
+        {
+            "query": "If I was born on October 6th, what would be my zodiac sign?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1995-10-06"
+                }
+            }
+        },
+        {
+            "query": "What is the sign of someone born in 2008 on February 26th?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2008-02-26"
+                }
+            }
+        },
+        {
+            "query": "If I was born on November 19th, what would be my zodiac sign?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1984-11-19"
+                }
+            }
+        },
+        {
+            "query": "What's the zodiac sign of someone who shares their birthday with me in a different year but same month and day?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2019-04-12"
+                }
+            }
+        },
+        {
+            "query": "If I was born on December 9th, what would be my zodiac sign?",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1997-12-09"
+                }
+            }
+        }
+    ]
+}

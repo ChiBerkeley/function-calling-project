@@ -1,0 +1,391 @@
+{
+    "queries": [
+        {
+            "query": "What is the forecast for a rainy day in Accra, Ghana",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Accra"
+                }
+            }
+        },
+        {
+            "query": "Will it be sunny tomorrow in Phnom Penh, Cambodia?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Phnom Penh"
+                }
+            }
+        },
+        {
+            "query": "What is the weather like right now in Sapporo, Japan",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Sapporo"
+                }
+            }
+        },
+        {
+            "query": "How's the temperature in Lima, Peru today?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Lima"
+                }
+            }
+        },
+        {
+            "query": "What is the current weather situation in Colombo, Sri Lanka?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Colombo"
+                }
+            }
+        },
+        {
+            "query": "Is it going to rain tomorrow in Hanoi, Vietnam?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Hanoi"
+                }
+            }
+        },
+        {
+            "query": "What is the weather forecast for a week from now in Bangkok, Thailand?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Bangkok"
+                }
+            }
+        },
+        {
+            "query": "Will it be cloudy today in Medellin, Colombia?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Medellin"
+                }
+            }
+        },
+        {
+            "query": "What is the current temperature in Abuja, Nigeria?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Abuja"
+                }
+            }
+        },
+        {
+            "query": "Is it going to be hot tomorrow in Dubai, UAE?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Dubai"
+                }
+            }
+        },
+        {
+            "query": "What is the weather situation like right now in Cairo, Egypt?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Cairo"
+                }
+            }
+        },
+        {
+            "query": "Will it be sunny next week in Mumbai, India?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Mumbai"
+                }
+            }
+        },
+        {
+            "query": "What is the current weather like in Addis Ababa, Ethiopia?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Addis Ababa"
+                }
+            }
+        },
+        {
+            "query": "Is it going to rain tomorrow in Caracas, Venezuela?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Caracas"
+                }
+            }
+        },
+        {
+            "query": "What is the weather forecast for a month from now in Kuala Lumpur, Malaysia?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Kuala Lumpur"
+                }
+            }
+        },
+        {
+            "query": "Will it be cloudy today in Algiers, Algeria?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Algiers"
+                }
+            }
+        },
+        {
+            "query": "What is the current temperature in Dhaka, Bangladesh?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Dhaka"
+                }
+            }
+        },
+        {
+            "query": "Is it going to be hot tomorrow in Yaounde, Cameroon?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Yaounde"
+                }
+            }
+        },
+        {
+            "query": "What is the weather situation like right now in Tashkent, Uzbekistan?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Tashkent"
+                }
+            }
+        },
+        {
+            "query": "Will it be sunny next week in Ashgabat, Turkmenistan?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Ashgabat"
+                }
+            }
+        },
+        {
+            "query": "What is the current weather like in Bishkek, Kyrgyzstan?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Bishkek"
+                }
+            }
+        },
+        {
+            "query": "Is it going to rain tomorrow in Samarkand, Uzbekistan?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Samarkand"
+                }
+            }
+        },
+        {
+            "query": "What is the weather forecast for a week from now in Astana, Kazakhstan?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Astana"
+                }
+            }
+        },
+        {
+            "query": "Will it be cloudy today in Minsk, Belarus?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Minsk"
+                }
+            }
+        },
+        {
+            "query": "What is the current temperature in Moscow, Russia?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Moscow"
+                }
+            }
+        },
+        {
+            "query": "Is it going to be hot tomorrow in Kyiv, Ukraine?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Kyiv"
+                }
+            }
+        },
+        {
+            "query": "What is the weather situation like right now in Riga, Latvia?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Riga"
+                }
+            }
+        },
+        {
+            "query": "Will it be sunny next week in Vilnius, Lithuania?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Vilnius"
+                }
+            }
+        },
+        {
+            "query": "What is the current weather like in Tallinn, Estonia?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Tallinn"
+                }
+            }
+        },
+        {
+            "query": "Is it going to rain tomorrow in Stockholm, Sweden?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Stockholm"
+                }
+            }
+        },
+        {
+            "query": "What is the weather forecast for a month from now in Copenhagen, Denmark?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Copenhagen"
+                }
+            }
+        },
+        {
+            "query": "Will it be cloudy today in Oslo, Norway?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Oslo"
+                }
+            }
+        },
+        {
+            "query": "What is the current temperature in Helsinki, Finland?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Helsinki"
+                }
+            }
+        },
+        {
+            "query": "Is it going to be hot tomorrow in Reykjavik, Iceland?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Reykjavik"
+                }
+            }
+        },
+        {
+            "query": "What is the weather situation like right now in Gibraltar, UK?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Gibraltar"
+                }
+            }
+        },
+        {
+            "query": "Will it be sunny next week in Jersey, Channel Islands?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Jersey"
+                }
+            }
+        },
+        {
+            "query": "What is the current weather like in Guernsey, UK?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Guernsey"
+                }
+            }
+        },
+        {
+            "query": "Is it going to rain tomorrow in St. Helier, Jersey?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "St. Helier"
+                }
+            }
+        },
+        {
+            "query": "What is the weather forecast for a week from now in Douglas, Isle of Man?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Douglas"
+                }
+            }
+        },
+        {
+            "query": "Will it be cloudy today in Torshavn, Faroe Islands?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Torshavn"
+                }
+            }
+        },
+        {
+            "query": "What is the current temperature in Nuuk, Greenland?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Nuuk"
+                }
+            }
+        },
+        {
+            "query": "Is it going to be hot tomorrow in Reykjavik, Iceland?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Reykjavik"
+                }
+            }
+        },
+        {
+            "query": "What is the weather situation like right now in Longyearbyen, Svalbard?",
+            "answer": {
+                "function": "get_weather_info",
+                "arguments": {
+                    "city": "Longyearbyen"
+                }
+            }
+        }
+    ]
+}

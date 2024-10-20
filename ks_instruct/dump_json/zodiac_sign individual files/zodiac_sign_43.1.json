@@ -1,0 +1,391 @@
+{
+    "queries": [
+        {
+            "query": "What is my zodiac sign if I was born on August 17th, 1985",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1985-08-17"
+                }
+            }
+        },
+        {
+            "query": "I want to know the zodiac sign for someone born on March 22nd, 2002",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2002-03-22"
+                }
+            }
+        },
+        {
+            "query": "What is my zodiac sign if I was born on September 15th, 1999",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1999-09-15"
+                }
+            }
+        },
+        {
+            "query": "Find out the zodiac sign for someone born on June 10th, 1982",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1982-06-10"
+                }
+            }
+        },
+        {
+            "query": "What is my zodiac sign if I was born on November 23rd, 2005",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2005-11-23"
+                }
+            }
+        },
+        {
+            "query": "I want to know the zodiac sign for someone born on January 29th, 1997",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1997-01-29"
+                }
+            }
+        },
+        {
+            "query": "What is my zodiac sign if I was born on May 6th, 2001",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2001-05-06"
+                }
+            }
+        },
+        {
+            "query": "Find out the zodiac sign for someone born on July 25th, 1989",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1989-07-25"
+                }
+            }
+        },
+        {
+            "query": "What is my zodiac sign if I was born on April 12th, 1994",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1994-04-12"
+                }
+            }
+        },
+        {
+            "query": "I want to know the zodiac sign for someone born on October 16th, 2003",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2003-10-16"
+                }
+            }
+        },
+        {
+            "query": "What is my zodiac sign if I was born on August 31st, 1987",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1987-08-31"
+                }
+            }
+        },
+        {
+            "query": "Find out the zodiac sign for someone born on March 4th, 1991",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1991-03-04"
+                }
+            }
+        },
+        {
+            "query": "What is my zodiac sign if I was born on June 14th, 2009",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2009-06-14"
+                }
+            }
+        },
+        {
+            "query": "I want to know the zodiac sign for someone born on November 29th, 1984",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1984-11-29"
+                }
+            }
+        },
+        {
+            "query": "What is my zodiac sign if I was born on May 20th, 2008",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2008-05-20"
+                }
+            }
+        },
+        {
+            "query": "Find out the zodiac sign for someone born on February 26th, 1995",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1995-02-26"
+                }
+            }
+        },
+        {
+            "query": "What is my zodiac sign if I was born on September 22nd, 2004",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2004-09-22"
+                }
+            }
+        },
+        {
+            "query": "I want to know the zodiac sign for someone born on July 9th, 1986",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1986-07-09"
+                }
+            }
+        },
+        {
+            "query": "What is my zodiac sign if I was born on December 31st, 1993",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1993-12-31"
+                }
+            }
+        },
+        {
+            "query": "Find out the zodiac sign for someone born on October 21st, 2007",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2007-10-21"
+                }
+            }
+        },
+        {
+            "query": "What is my zodiac sign if I was born on April 25th, 1988",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1988-04-25"
+                }
+            }
+        },
+        {
+            "query": "I want to know the zodiac sign for someone born on June 18th, 1996",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1996-06-18"
+                }
+            }
+        },
+        {
+            "query": "What is my zodiac sign if I was born on August 24th, 2000",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2000-08-24"
+                }
+            }
+        },
+        {
+            "query": "Find out the zodiac sign for someone born on November 12th, 1983",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1983-11-12"
+                }
+            }
+        },
+        {
+            "query": "What is my zodiac sign if I was born on May 29th, 1998",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1998-05-29"
+                }
+            }
+        },
+        {
+            "query": "I want to know the zodiac sign for someone born on January 7th, 2006",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2006-01-07"
+                }
+            }
+        },
+        {
+            "query": "What is my zodiac sign if I was born on September 1st, 1981",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1981-09-01"
+                }
+            }
+        },
+        {
+            "query": "Find out the zodiac sign for someone born on April 9th, 2005",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2005-04-09"
+                }
+            }
+        },
+        {
+            "query": "What is my zodiac sign if I was born on March 17th, 1992",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1992-03-17"
+                }
+            }
+        },
+        {
+            "query": "I want to know the zodiac sign for someone born on October 4th, 1989",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1989-10-04"
+                }
+            }
+        },
+        {
+            "query": "What is my zodiac sign if I was born on June 5th, 2003",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2003-06-05"
+                }
+            }
+        },
+        {
+            "query": "Find out the zodiac sign for someone born on February 20th, 1990",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1990-02-20"
+                }
+            }
+        },
+        {
+            "query": "What is my zodiac sign if I was born on November 8th, 2002",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2002-11-08"
+                }
+            }
+        },
+        {
+            "query": "I want to know the zodiac sign for someone born on May 14th, 1987",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1987-05-14"
+                }
+            }
+        },
+        {
+            "query": "What is my zodiac sign if I was born on August 16th, 2001",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2001-08-16"
+                }
+            }
+        },
+        {
+            "query": "Find out the zodiac sign for someone born on January 22nd, 1994",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1994-01-22"
+                }
+            }
+        },
+        {
+            "query": "What is my zodiac sign if I was born on December 15th, 2009",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2009-12-15"
+                }
+            }
+        },
+        {
+            "query": "I want to know the zodiac sign for someone born on September 14th, 1985",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1985-09-14"
+                }
+            }
+        },
+        {
+            "query": "What is my zodiac sign if I was born on July 25th, 1997",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1997-07-25"
+                }
+            }
+        },
+        {
+            "query": "Find out the zodiac sign for someone born on April 3rd, 1982",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1982-04-03"
+                }
+            }
+        },
+        {
+            "query": "What is my zodiac sign if I was born on October 28th, 2006",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2006-10-28"
+                }
+            }
+        },
+        {
+            "query": "I want to know the zodiac sign for someone born on June 22nd, 1999",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "1999-06-22"
+                }
+            }
+        },
+        {
+            "query": "What is my zodiac sign if I was born on February 1st, 2004",
+            "answer": {
+                "function": "zodiac_sign",
+                "arguments": {
+                    "birthday": "2004-02-01"
+                }
+            }
+        }
+    ]
+}

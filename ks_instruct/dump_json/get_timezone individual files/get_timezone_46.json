@@ -1,0 +1,556 @@
+{
+    "queries": [
+        {
+            "query": "What time zone is Berlin, Baden-W\u00fcrttemberg in Germany with the mail code 10623 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Berlin",
+                    "state": "Baden-W\u00fcrttemberg",
+                    "country": "Germany",
+                    "mail_code": "10623"
+                }
+            }
+        },
+        {
+            "query": "What is my timezone if I'm in Hamburg, North Rhine-Westphalia Germany with the mail code 22041?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Hamburg",
+                    "state": "North Rhine-Westphalia",
+                    "country": "Germany",
+                    "mail_code": "22041"
+                }
+            }
+        },
+        {
+            "query": "Can you tell me what time zone I am in if I'm in Munich, Lower Saxony Germany with the mail code 14195?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Munich",
+                    "state": "Lower Saxony",
+                    "country": "Germany",
+                    "mail_code": "14195"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Frankfurt, Bavaria Germany with the mail code 65423 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Frankfurt",
+                    "state": "Bavaria",
+                    "country": "Germany",
+                    "mail_code": "65423"
+                }
+            }
+        },
+        {
+            "query": "Can you find out what time zone I am in if I'm in Cologne, Saxony-Anhalt Germany with the mail code 12345?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Cologne",
+                    "state": "Saxony-Anhalt",
+                    "country": "Germany",
+                    "mail_code": "12345"
+                }
+            }
+        },
+        {
+            "query": "What is my timezone if I'm in Stuttgart, Hesse Germany with the mail code 65432?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Stuttgart",
+                    "state": "Hesse",
+                    "country": "Germany",
+                    "mail_code": "65432"
+                }
+            }
+        },
+        {
+            "query": "Can you tell me what time zone I am in if I'm in Leipzig, Rhineland-Palatinate Germany with the mail code 54321?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Leipzig",
+                    "state": "Rhineland-Palatinate",
+                    "country": "Germany",
+                    "mail_code": "54321"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Dresden, Brandenburg Germany with the mail code 10999 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Dresden",
+                    "state": "Brandenburg",
+                    "country": "Germany",
+                    "mail_code": "10999"
+                }
+            }
+        },
+        {
+            "query": "Can you find out what time zone I am in if I'm in Nuremberg, Mecklenburg-Vorpommern Germany with the mail code 17243?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Nuremberg",
+                    "state": "Mecklenburg-Vorpommern",
+                    "country": "Germany",
+                    "mail_code": "17243"
+                }
+            }
+        },
+        {
+            "query": "What is my timezone if I'm in Bonn, Thuringia Germany with the mail code 34215?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Bonn",
+                    "state": "Thuringia",
+                    "country": "Germany",
+                    "mail_code": "34215"
+                }
+            }
+        },
+        {
+            "query": "Can you tell me what time zone I am in if I'm in Mannheim, Schleswig-Holstein Germany with the mail code 23551?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Mannheim",
+                    "state": "Schleswig-Holstein",
+                    "country": "Germany",
+                    "mail_code": "23551"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Karlsruhe, Bremen Germany with the mail code 28259 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Karlsruhe",
+                    "state": "Bremen",
+                    "country": "Germany",
+                    "mail_code": "28259"
+                }
+            }
+        },
+        {
+            "query": "Can you find out what time zone I am in if I'm in W\u00fcrzburg, Saarland Germany with the mail code 66386?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "W\u00fcrzburg",
+                    "state": "Saarland",
+                    "country": "Germany",
+                    "mail_code": "66386"
+                }
+            }
+        },
+        {
+            "query": "What is my timezone if I'm in Kiel, Saxony Germany with the mail code 22763?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Kiel",
+                    "state": "Saxony",
+                    "country": "Germany",
+                    "mail_code": "22763"
+                }
+            }
+        },
+        {
+            "query": "Can you tell me what time zone I am in if I'm in L\u00fcbeck, Hamburg Germany with the mail code 23551?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "L\u00fcbeck",
+                    "state": "Hamburg",
+                    "country": "Germany",
+                    "mail_code": "23551"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Erfurt, North Rhine-Westphalia Germany with the mail code 46244 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Erfurt",
+                    "state": "North Rhine-Westphalia",
+                    "country": "Germany",
+                    "mail_code": "46244"
+                }
+            }
+        },
+        {
+            "query": "Can you find out what time zone I am in if I'm in Braunschweig, Baden-W\u00fcrttemberg Germany with the mail code 38100?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Braunschweig",
+                    "state": "Baden-W\u00fcrttemberg",
+                    "country": "Germany",
+                    "mail_code": "38100"
+                }
+            }
+        },
+        {
+            "query": "What is my timezone if I'm in Rostock, Lower Saxony Germany with the mail code 18509?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Rostock",
+                    "state": "Lower Saxony",
+                    "country": "Germany",
+                    "mail_code": "18509"
+                }
+            }
+        },
+        {
+            "query": "Can you tell me what time zone I am in if I'm in Chemnitz, Rhineland-Palatinate Germany with the mail code 55318?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Chemnitz",
+                    "state": "Rhineland-Palatinate",
+                    "country": "Germany",
+                    "mail_code": "55318"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Heidelberg, Brandenburg Germany with the mail code 14725 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Heidelberg",
+                    "state": "Brandenburg",
+                    "country": "Germany",
+                    "mail_code": "14725"
+                }
+            }
+        },
+        {
+            "query": "Can you find out what time zone I am in if I'm in Freiburg, Saxony-Anhalt Germany with the mail code 38420?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Freiburg",
+                    "state": "Saxony-Anhalt",
+                    "country": "Germany",
+                    "mail_code": "38420"
+                }
+            }
+        },
+        {
+            "query": "What is my timezone if I'm in Magdeburg, Schleswig-Holstein Germany with the mail code 23611?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Magdeburg",
+                    "state": "Schleswig-Holstein",
+                    "country": "Germany",
+                    "mail_code": "23611"
+                }
+            }
+        },
+        {
+            "query": "Can you tell me what time zone I am in if I'm in Potsdam, Saarland Germany with the mail code 66539?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Potsdam",
+                    "state": "Saarland",
+                    "country": "Germany",
+                    "mail_code": "66539"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Halle, Mecklenburg-Vorpommern Germany with the mail code 39345 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Halle",
+                    "state": "Mecklenburg-Vorpommern",
+                    "country": "Germany",
+                    "mail_code": "39345"
+                }
+            }
+        },
+        {
+            "query": "Can you find out what time zone I am in if I'm in Gelsenkirchen, Thuringia Germany with the mail code 45890?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Gelsenkirchen",
+                    "state": "Thuringia",
+                    "country": "Germany",
+                    "mail_code": "45890"
+                }
+            }
+        },
+        {
+            "query": "What is my timezone if I'm in M\u00fcnster, Bremen Germany with the mail code 28194?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "M\u00fcnster",
+                    "state": "Bremen",
+                    "country": "Germany",
+                    "mail_code": "28194"
+                }
+            }
+        },
+        {
+            "query": "Can you tell me what time zone I am in if I'm in Trier, Saxony Germany with the mail code 63366?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Trier",
+                    "state": "Saxony",
+                    "country": "Germany",
+                    "mail_code": "63366"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Coburg, Saxony-Anhalt Germany with the mail code 39018 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Coburg",
+                    "state": "Saxony-Anhalt",
+                    "country": "Germany",
+                    "mail_code": "39018"
+                }
+            }
+        },
+        {
+            "query": "Can you find out what time zone I am in if I'm in Wiesbaden, Schleswig-Holstein Germany with the mail code 24117?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Wiesbaden",
+                    "state": "Schleswig-Holstein",
+                    "country": "Germany",
+                    "mail_code": "24117"
+                }
+            }
+        },
+        {
+            "query": "What is my timezone if I'm in Kaiserslautern, Mecklenburg-Vorpommern Germany with the mail code 24537?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Kaiserslautern",
+                    "state": "Mecklenburg-Vorpommern",
+                    "country": "Germany",
+                    "mail_code": "24537"
+                }
+            }
+        },
+        {
+            "query": "Can you tell me what time zone I am in if I'm in Aachen, Baden-W\u00fcrttemberg Germany with the mail code 88217?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Aachen",
+                    "state": "Baden-W\u00fcrttemberg",
+                    "country": "Germany",
+                    "mail_code": "88217"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Oldenburg, Thuringia Germany with the mail code 23995 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Oldenburg",
+                    "state": "Thuringia",
+                    "country": "Germany",
+                    "mail_code": "23995"
+                }
+            }
+        },
+        {
+            "query": "Can you find out what time zone I am in if I'm in L\u00fcdenscheid, Saxony Germany with the mail code 58561?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "L\u00fcdenscheid",
+                    "state": "Saxony",
+                    "country": "Germany",
+                    "mail_code": "58561"
+                }
+            }
+        },
+        {
+            "query": "What is my timezone if I'm in Neum\u00fcnster, Saxony-Anhalt Germany with the mail code 24013?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Neum\u00fcnster",
+                    "state": "Saxony-Anhalt",
+                    "country": "Germany",
+                    "mail_code": "24013"
+                }
+            }
+        },
+        {
+            "query": "Can you tell me what time zone I am in if I'm in Cottbus, Schleswig-Holstein Germany with the mail code 24117?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Cottbus",
+                    "state": "Schleswig-Holstein",
+                    "country": "Germany",
+                    "mail_code": "24117"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Gera, Mecklenburg-Vorpommern Germany with the mail code 24537 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Gera",
+                    "state": "Mecklenburg-Vorpommern",
+                    "country": "Germany",
+                    "mail_code": "24537"
+                }
+            }
+        },
+        {
+            "query": "Can you find out what time zone I am in if I'm in Jena, Baden-W\u00fcrttemberg Germany with the mail code 88217?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Jena",
+                    "state": "Baden-W\u00fcrttemberg",
+                    "country": "Germany",
+                    "mail_code": "88217"
+                }
+            }
+        },
+        {
+            "query": "What is my timezone if I'm in Kiel, Thuringia Germany with the mail code 23995?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Kiel",
+                    "state": "Thuringia",
+                    "country": "Germany",
+                    "mail_code": "23995"
+                }
+            }
+        },
+        {
+            "query": "Can you tell me what time zone I am in if I'm in Schwerin, Saxony Germany with the mail code 58561?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Schwerin",
+                    "state": "Saxony",
+                    "country": "Germany",
+                    "mail_code": "58561"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Erfurt, Saxony-Anhalt Germany with the mail code 24013 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Erfurt",
+                    "state": "Saxony-Anhalt",
+                    "country": "Germany",
+                    "mail_code": "24013"
+                }
+            }
+        },
+        {
+            "query": "Can you find out what time zone I am in if I'm in Paderborn, Schleswig-Holstein Germany with the mail code 24117?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Paderborn",
+                    "state": "Schleswig-Holstein",
+                    "country": "Germany",
+                    "mail_code": "24117"
+                }
+            }
+        },
+        {
+            "query": "What is my timezone if I'm in Mainz, Mecklenburg-Vorpommern Germany with the mail code 24537?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Mainz",
+                    "state": "Mecklenburg-Vorpommern",
+                    "country": "Germany",
+                    "mail_code": "24537"
+                }
+            }
+        },
+        {
+            "query": "Can you tell me what time zone I am in if I'm in Rostock, Baden-W\u00fcrttemberg Germany with the mail code 88217?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Rostock",
+                    "state": "Baden-W\u00fcrttemberg",
+                    "country": "Germany",
+                    "mail_code": "88217"
+                }
+            }
+        },
+        {
+            "query": "What time zone is Chemnitz, Thuringia Germany with the mail code 23995 in?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Chemnitz",
+                    "state": "Thuringia",
+                    "country": "Germany",
+                    "mail_code": "23995"
+                }
+            }
+        },
+        {
+            "query": "Can you find out what time zone I am in if I'm in Jena, Saxony Germany with the mail code 58561?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "Jena",
+                    "state": "Saxony",
+                    "country": "Germany",
+                    "mail_code": "58561"
+                }
+            }
+        },
+        {
+            "query": "What is my timezone if I'm in G\u00f6ttingen, Saxony-Anhalt Germany with the mail code 24013?",
+            "answer": {
+                "function": "get_timezone",
+                "arguments": {
+                    "city": "G\u00f6ttingen",
+                    "state": "Saxony-Anhalt",
+                    "country": "Germany",
+                    "mail_code": "24013"
+                }
+            }
+        }
+    ]
+}

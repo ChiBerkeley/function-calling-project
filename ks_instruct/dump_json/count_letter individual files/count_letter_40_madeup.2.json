@@ -1,0 +1,394 @@
+{
+    "queries": [
+        {
+            "query": "How many times appears letter X in Zorb?",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Zorb",
+                    "letter": "X"
+                }
+            }
+        },
+        {
+            "query": "In the word Gloop, how many times is the letter Y?",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Gloop",
+                    "letter": "Y"
+                }
+            }
+        },
+        {
+            "query": "Count letter Z in Flumplenook",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Flumplenook",
+                    "letter": "Z"
+                }
+            }
+        },
+        {
+            "query": "Letter W appears how many times in Jinkle?",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Jinkle",
+                    "letter": "W"
+                }
+            }
+        },
+        {
+            "query": "How often is letter V in Klabloon?",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Klabloon",
+                    "letter": "V"
+                }
+            }
+        },
+        {
+            "query": "In the word Quizzle, how many times appears the letter E",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Quizzle",
+                    "letter": "E"
+                }
+            }
+        },
+        {
+            "query": "Count letter R in Snickelfritz",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Snickelfritz",
+                    "letter": "R"
+                }
+            }
+        },
+        {
+            "query": "Letter T appears how many times in Glibble?",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Glibble",
+                    "letter": "T"
+                }
+            }
+        },
+        {
+            "query": "How often is letter K in Wuggle",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Wuggle",
+                    "letter": "K"
+                }
+            }
+        },
+        {
+            "query": "In the word Jinklewiff, how many times appears the letter F",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Jinklewiff",
+                    "letter": "F"
+                }
+            }
+        },
+        {
+            "query": "Count letter P in Klablotion",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Klablotion",
+                    "letter": "P"
+                }
+            }
+        },
+        {
+            "query": "Letter D appears how many times in Zorbloom",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Zorbloom",
+                    "letter": "D"
+                }
+            }
+        },
+        {
+            "query": "In the word Wizzle, how many times is the letter S?",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Wizzle",
+                    "letter": "S"
+                }
+            }
+        },
+        {
+            "query": "Count letter L in Flimflam",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Flimflam",
+                    "letter": "L"
+                }
+            }
+        },
+        {
+            "query": "Letter M appears how many times in Glibberty",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Glibberty",
+                    "letter": "M"
+                }
+            }
+        },
+        {
+            "query": "In the word Jangly, how many times appears the letter O",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Jangly",
+                    "letter": "O"
+                }
+            }
+        },
+        {
+            "query": "Count letter N in Wumplenook",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Wumplenook",
+                    "letter": "N"
+                }
+            }
+        },
+        {
+            "query": "Letter G appears how many times in Quizzleplop",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Quizzleplop",
+                    "letter": "G"
+                }
+            }
+        },
+        {
+            "query": "In the word Klablooey, how many times is the letter Y?",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Klablooey",
+                    "letter": "Y"
+                }
+            }
+        },
+        {
+            "query": "Count letter C in Snicklefritz",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Snicklefritz",
+                    "letter": "C"
+                }
+            }
+        },
+        {
+            "query": "Letter B appears how many times in Jinklewiff",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Jinklewiff",
+                    "letter": "B"
+                }
+            }
+        },
+        {
+            "query": "In the word Wizzleplop, how many times appears the letter E",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Wizzleplop",
+                    "letter": "E"
+                }
+            }
+        },
+        {
+            "query": "Count letter H in Flumplenook",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Flumplenook",
+                    "letter": "H"
+                }
+            }
+        },
+        {
+            "query": "Letter I appears how many times in Glibbleton",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Glibbleton",
+                    "letter": "I"
+                }
+            }
+        },
+        {
+            "query": "In the word Klabloon, how many times is the letter F",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Klabloon",
+                    "letter": "F"
+                }
+            }
+        },
+        {
+            "query": "Count letter J in Wumplenook",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Wumplenook",
+                    "letter": "J"
+                }
+            }
+        },
+        {
+            "query": "Letter F appears how many times in Quizzle",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Quizzle",
+                    "letter": "F"
+                }
+            }
+        },
+        {
+            "query": "In the word Snicklefritz, how many times appears the letter L",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Snicklefritz",
+                    "letter": "L"
+                }
+            }
+        },
+        {
+            "query": "Count letter A in Glibbleton",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Glibbleton",
+                    "letter": "A"
+                }
+            }
+        },
+        {
+            "query": "Letter E appears how many times in Jangle",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Jangle",
+                    "letter": "E"
+                }
+            }
+        },
+        {
+            "query": "In the word Wizzle, how many times is the letter P",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Wizzle",
+                    "letter": "P"
+                }
+            }
+        },
+        {
+            "query": "Count letter T in Klablotion",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Klablotion",
+                    "letter": "T"
+                }
+            }
+        },
+        {
+            "query": "Letter S appears how many times in Flumplenook",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Flumplenook",
+                    "letter": "S"
+                }
+            }
+        },
+        {
+            "query": "In the word Jinklewiff, how many times appears the letter K",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Jinklewiff",
+                    "letter": "K"
+                }
+            }
+        },
+        {
+            "query": "Count letter O in Glibble",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Glibble",
+                    "letter": "O"
+                }
+            }
+        },
+        {
+            "query": "Letter R appears how many times in Wizzleplop",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Wizzleplop",
+                    "letter": "R"
+                }
+            }
+        },
+        {
+            "query": "In the word Klabloon, how many times is the letter P",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Klabloon",
+                    "letter": "P"
+                }
+            }
+        },
+        {
+            "query": "Count letter M in Snickelfritz",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Snicklefritz",
+                    "letter": "M"
+                }
+            }
+        },
+        {
+            "query": "Letter N appears how many times in Janglewiff",
+            "answer": {
+                "function": "count_letter",
+                "arguments": {
+                    "word": "Janglewiff",
+                    "letter": "N"
+                }
+            }
+        }
+    ]
+}
