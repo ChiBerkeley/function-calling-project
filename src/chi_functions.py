@@ -1,41 +1,37 @@
 import json
-import math
 import random
 from datetime import datetime, timedelta
 
-def power(base: float, exponent: float) -> str:
+def power(base, exponent) -> str:
     """
     Calculate the power of a base raised to an exponent and return the result as a JSON string.
 
     This function computes base^exponent, where both the base and the exponent can be either 
     positive or negative numbers. The result is returned as a JSON string.
-    
-    If the result is an imaginary number or infinity, the function returns `{"result": "failed"}`.
 
     Args:
         base (float): The base number to be raised.
         exponent (float): The exponent to raise the base to.
 
     Returns:
-        str: A JSON string with the result, or `{"result": "failed"}` if the result is invalid.
+        str: A JSON string with the result.
 
     Example:
         >>> power(2, 3)
         '{"result": 8.0}'
         >>> power(2, -2)
         '{"result": 0.25}'
-        >>> power(-2, 0.5)
-        '{"result": "failed"}'
     """
     try:
-        result = base ** exponent
-        if math.isinf(result) or isinstance(result, complex):
-            return json.dumps({"result": "failed"})
+        base = float(base)
+        exponent = float(exponent)
+        if base < 0:
+            result = -abs(base) ** exponent
+        else:
+            result = base ** exponent
         return json.dumps({"result": result})
-    except (OverflowError, ValueError):
-        return json.dumps({"result": "failed"})
-    
-
+    except (OverflowError, ValueError, ZeroDivisionError):
+        return json.dumps({"result": "failed to calucate"})
 
 
 def get_weather_info(city: str) -> str:
@@ -140,7 +136,7 @@ def calculate_trip_cost(distance: float, fuel_efficiency: float, fuel_cost_per_l
     return json.dumps(result)
 
 
-def calculate_bmi(weight: float, height: float, age: int, gender: str) -> str:
+def calculate_bmi(weight, height, age, gender) -> str:
     """
     Calculate the Body Mass Index (BMI) and return the BMI category and health recommendations.
 
@@ -163,6 +159,10 @@ def calculate_bmi(weight: float, height: float, age: int, gender: str) -> str:
         '{"error": "Invalid weight. Weight must be a positive number."}'
     """
 
+    weight = float(weight)
+    height = float(height)
+    age = float(age)
+    
     # Error handling: Ensure all inputs are valid
     if weight <= 0:
         return json.dumps({"error": "Invalid weight. Weight must be a positive number."})

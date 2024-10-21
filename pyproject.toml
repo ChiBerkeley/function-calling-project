@@ -18,6 +18,7 @@ fastapi = "^0.115.0"
 pydantic = "^2.9.2"
 openpyxl = "^3.1.5"
 sagemaker = "^2.232.2"
+textblob = "^0.18.0.post0"
 
 
 [tool.poetry.group.dev.dependencies]
