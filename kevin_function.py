@@ -71,8 +71,12 @@ def calculate_area(length: float, width: float, round_result: bool = False) -> s
     >>> calculate_area(5, 10, True)
     '{"area": "50"}'
     """
-    if not isinstance(length, (int, float)) or not isinstance(width, (int, float)):
-        return json.dumps({"error": "Length and width must be numbers."})
+    if not (isinstance(length, (int, float)) or (isinstance(length, str) and length.replace('.', '', 1).isdigit())):
+        return json.dumps({"error": "Length must be a number."})
+    if not (isinstance(width, (int, float)) or (isinstance(width, str) and width.replace('.', '', 1).isdigit())):
+        return json.dumps({"error": "Width must be a number."})
+    length = float(length) if isinstance(length, str) else length
+    width = float(width) if isinstance(width, str) else width
     area = length * width
     return json.dumps({"area": f"{round(area) if round_result else area}"})
 
