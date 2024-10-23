@@ -55,20 +55,19 @@ def count_letter(word: str, letter: str) -> str:
     return json.dumps({"result": word.lower().count(letter.lower())})
 
 
-def calculate_area(length: float, width: float, round_result: bool = False) -> str:
+def calculate_area(length: int | float | str, width: int | float | str, round_result: bool = False) -> str:
     """
     Calculates the area of a rectangle.
 
     Parameters:
-    length (float): The length of the rectangle.
-    width (float): The width of the rectangle.
-    unit (str, optional): The unit of measurement (default is 'meters').
+    length (int | float | str): The length of the rectangle.
+    width (int | float | str): The width of the rectangle.
     round_result (bool, optional): Whether to round the result (default is False).
 
     Example:
     >>> calculate_area(5, 10)
     '{"area": "50.0"}'
-    >>> calculate_area(5, 10, True)
+    >>> calculate_area("5", 10, True)
     '{"area": "50"}'
     """
     if not (isinstance(length, (int, float)) or (isinstance(length, str) and length.replace('.', '', 1).isdigit())):
