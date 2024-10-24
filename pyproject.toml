@@ -19,6 +19,9 @@ pydantic = "^2.9.2"
 openpyxl = "^3.1.5"
 sagemaker = "^2.232.2"
 textblob = "^0.18.0.post0"
+geopy = "^2.4.1"
+timezonefinder = "^6.5.3"
+swifter = "^1.4.0"
 
 
 [tool.poetry.group.dev.dependencies]

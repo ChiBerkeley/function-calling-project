@@ -86,7 +86,7 @@ def get_weather_info(city: str) -> str:
     # Return the result as a JSON string
     return json.dumps(result)
 
-def calculate_trip_cost(distance: float, fuel_efficiency: float, fuel_cost_per_liter: float) -> str:
+def calculate_trip_cost(distance, fuel_efficiency, fuel_cost_per_liter) -> str:
     """
     Calculate the total cost of a trip based on the distance, fuel efficiency, and fuel cost.
 
@@ -107,7 +107,9 @@ def calculate_trip_cost(distance: float, fuel_efficiency: float, fuel_cost_per_l
         >>> calculate_trip_cost(-300, 15, 1.2)
         '{"error": "Invalid distance. Distance must be a positive number."}'
     """
-
+    distance = float(distance)
+    fuel_efficiency = float(distance)
+    fuel_cost_per_liter = float(fuel_cost_per_liter)
     # Error handling: Check if all inputs are positive numbers
     if not isinstance(distance, (int, float)) or distance <= 0:
         return json.dumps({"error": "Invalid distance. Distance must be a positive number."})
@@ -142,7 +144,7 @@ def calculate_bmi(weight, height, age, gender) -> str:
 
     Args:
         weight (float): The person's weight in kilograms (must be positive).
-        height (float): The person's height in meters (must be positive).
+        height (float): The person's height in centimeters (must be positive).
         age (int): The person's age in years (must be a positive integer).
         gender (str): The person's gender ("male", "female", or "other").
 
@@ -151,11 +153,11 @@ def calculate_bmi(weight, height, age, gender) -> str:
              or an error message if any input is invalid.
 
     Example of Valid Input:
-        >>> calculate_bmi(70, 1.75, 30, "male")
+        >>> calculate_bmi(70, 175, 30, "male")
         '{"bmi": 22.86, "category": "Normal weight", "recommendation": "Maintain a healthy diet and exercise regularly.", "age": 30, "gender": "male"}'
 
     Example of Invalid Input (Negative Weight):
-        >>> calculate_bmi(-70, 1.75, 30, "male")
+        >>> calculate_bmi(-70, 175, 30, "male")
         '{"error": "Invalid weight. Weight must be a positive number."}'
     """
 
@@ -174,7 +176,7 @@ def calculate_bmi(weight, height, age, gender) -> str:
         return json.dumps({"error": "Invalid gender. Gender must be 'male', 'female', or 'other'."})
 
     # Calculate BMI
-    bmi = weight / (height ** 2)
+    bmi = weight / ((height/1e2) ** 2)
     bmi = round(bmi, 2)
 
     # Determine BMI category and recommendation
