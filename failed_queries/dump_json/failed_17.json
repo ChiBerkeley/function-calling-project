@@ -1,0 +1,389 @@
+{
+    "queries": [
+        {
+            "query": "What is the average lifespan of a squirrel",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many moons does Saturn have in our galaxy",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you give me the recipe for chicken parmesan",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the boiling point of liquid nitrogen",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How do I calculate the area of a circle with a radius of 7 meters",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the chemical formula for water",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you tell me the name of the largest waterfall in the world",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many degrees are there in a full circle",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the molecular weight of oxygen gas",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you give me the instructions for building a wooden birdhouse",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the average airspeed velocity of an unladen swallow",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How do I convert a decimal number to a binary code",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the melting point of gold metal",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you tell me the name of the smallest country in the world",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many gallons are there in a barrel of oil",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the pH level of seawater",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you give me the steps to make a homemade pizza from scratch",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the average temperature in July at the North Pole",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How do I calculate the distance between two cities with different time zones",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the chemical formula for carbon dioxide",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you tell me the name of the largest living species of lizard",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many calories are there in a standard serving of popcorn",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the boiling point of water at high altitude",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you give me the recipe for traditional Scottish shortbread",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the average lifespan of a domestic cat",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How do I calculate the area of a rectangle with a length of 8 meters and a width of 5 meters",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the chemical formula for iron oxide",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you tell me the name of the largest waterfall in South America",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many degrees are there in a semicircle",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the molecular weight of helium gas",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you give me the instructions for planting a garden in a small backyard",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the average air pressure at sea level",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How do I convert a binary code to a decimal number",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the melting point of silver metal",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you tell me the name of the largest living species of mammal",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many kilometers are there in a standard marathon distance",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the pH level of bleach solution",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you give me the recipe for traditional Italian spaghetti sauce",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the average temperature in January at the South Pole",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How do I calculate the volume of a cube with a side length of 5 meters",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the chemical formula for sulfuric acid",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you tell me the name of the largest living species of fish",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many seconds are there in a standard hour",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the average lifespan of a human being",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you give me the instructions for making a homemade ice cream",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the boiling point of mercury metal",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How do I calculate the area of a trapezoid with two parallel sides of 10 meters and 8 meters",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the molecular weight of neon gas",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you tell me the name of the largest waterfall in Asia",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many degrees are there in a quarter circle",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the average airspeed of a commercial airliner",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you give me the recipe for traditional German sauerbraten",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the melting point of gold metal",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How do I calculate the volume of a sphere with a diameter of 5 meters",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the pH level of vinegar solution",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        }
+    ]
+}

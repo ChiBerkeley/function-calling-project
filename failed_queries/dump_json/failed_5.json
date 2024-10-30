@@ -1,0 +1,424 @@
+{
+    "queries": [
+        {
+            "query": "What is the average airspeed velocity of a swallow",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many gallons of water are in a standard swimming pool",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can a person survive for 30 days without food",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the boiling point of mercury at high altitude",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many people are infected with rabies each year in the United States",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the average lifespan of a housefly",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you calculate the tip for a $50 meal with 20% service charge",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the density of liquid nitrogen at -200 degrees Celsius",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many miles per gallon does a hybrid car get on the highway",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the melting point of steel at high pressure",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you convert 150 pounds to kilograms",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many people have ever walked on the moon",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the average weight of a newborn baby in grams",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you calculate the interest on a 10-year mortgage at 4.5% APR",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the boiling point of water at high altitude in Denver",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many hours of sleep does a toddler need each night",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the average lifespan of a parrot in captivity",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you convert 0.75 meters to feet",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many people are infected with HIV each year worldwide",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the melting point of gold at high pressure",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you calculate the cost of a round-trip flight from New York to Los Angeles",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the average weight of a 5-year-old child in kilograms",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many calories are burned during a 30-minute run at a moderate pace",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the boiling point of water at sea level in Fahrenheit",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you convert 3.14 kilometers to miles",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many people are affected by seasonal affective disorder each year",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the melting point of steel at high temperature",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you calculate the tip for a $200 meal with 15% service charge",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the average lifespan of a cat in years",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many miles per gallon does a gas-powered car get on the highway",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the boiling point of mercury at standard pressure",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you convert 5.2 pounds to kilograms",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many people are infected with Lyme disease each year in the United States",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the melting point of gold at high altitude",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you calculate the interest on a 5-year car loan at 6% APR",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the average weight of a newborn baby in ounces",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many hours of sleep does an adult need each night for optimal health",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the boiling point of water at high altitude in Mexico City",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you convert 2.5 meters to feet",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many people are infected with whooping cough each year in the United States",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the melting point of steel at high temperature and pressure",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you calculate the cost of a round-trip flight from Paris to New York",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the average lifespan of a dog in years",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many calories are burned during a 45-minute bike ride at a moderate pace",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the boiling point of mercury at standard temperature and pressure",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you convert 1.8 kilometers to miles",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many people are affected by Alzheimer's disease each year worldwide",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the melting point of gold at high pressure and temperature",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you calculate the tip for a $150 meal with 10% service charge",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the average weight of a 3-year-old child in kilograms",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many calories are burned during a 60-minute swim at a moderate pace",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the boiling point of water at sea level in Celsius",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you convert 7.5 pounds to kilograms",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many people are infected with tuberculosis each year in the United States",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the melting point of steel at high temperature and standard pressure",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you calculate the cost of a round-trip flight from London to New York",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the average lifespan of a cat in years for optimal health",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many calories are burned during a 90-minute run at a moderate pace",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the boiling point of mercury at high temperature and standard pressure",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you convert 4.5 kilometers to miles",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        }
+    ]
+}

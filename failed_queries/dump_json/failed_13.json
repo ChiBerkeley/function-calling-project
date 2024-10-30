@@ -1,0 +1,452 @@
+{
+    "queries": [
+        {
+            "query": "What is the average airspeed velocity of a swallow",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many wheels does a skateboard have",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What time is it in Los Angeles",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you speak Klingon",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How much does a ticket to the moon cost",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Is Pluto still considered a planet",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the best way to learn Spanish",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How long does it take to cook a frozen pizza",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you write a love poem about a pineapple",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the average lifespan of a goldfish",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many legs does an octopus have",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you translate 'Hello, world!' into Japanese",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the chemical formula for water",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many sides does a hexagon have",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you summarize 'To Kill a Mockingbird'",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the capital of France",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many species of trees are there in the Amazon rainforest",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you write a short story about a talking eggplant",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the definition of artificial intelligence",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many times has the Olympics been held in Tokyo",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you create a password for me",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the average temperature in July in Sydney",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many miles is the Grand Canyon",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you give me a recipe for chicken parmesan",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the name of the largest living organism on Earth",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many players are on a basketball team",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you translate 'Hello, world!' into Spanish",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the chemical formula for carbon dioxide",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many days are in a leap year",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you give me a list of all the Harry Potter books",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the definition of renewable energy",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many countries are in Africa",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you create a crossword puzzle for me",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the name of the largest desert on Earth",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many players are on a soccer team",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you translate 'Bonjour!' into English",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the chemical formula for hydrogen gas",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many species of sharks are there",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you write a poem about the beauty of nature",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the definition of artificial general intelligence",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many wheels does a bicycle have",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you give me a recipe for vegan chocolate cake",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the name of the largest mountain range on Earth",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many days are in a week",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you translate 'Konnichiwa!' into Spanish",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the chemical formula for oxygen gas",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many species of birds are there in North America",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you create a list of all the planets in our solar system",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the definition of climate change",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many players are on a tennis team",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you write a short story about a talking rabbit",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the name of the largest ocean on Earth",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many days are in a month",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you translate 'Hola!' into English",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the chemical formula for water",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many species of mammals are there in South America",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you create a list of all the countries in Europe",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the definition of renewable resource",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many players are on a baseball team",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you write a poem about the beauty of space",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the name of the largest river on Earth",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many days are in a year",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you translate 'Salut!' into English",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the chemical formula for carbon monoxide",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        }
+    ]
+}

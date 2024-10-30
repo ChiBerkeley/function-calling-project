@@ -1,0 +1,389 @@
+{
+    "queries": [
+        {
+            "query": "What is the average airspeed velocity of a 747",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many grains are in a liter of milk",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the boiling point of a solution with 15% ethanol",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you calculate the circumference of a circle with diameter 9.3cm",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the square root of -17 multiplied by pi",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How much would it cost to fill a 5000L tank with gasoline at $2.35 per liter",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the volume of a sphere with radius 7cm, density 4g/cm^3",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you find the area of a right triangle with legs 8m and 15m",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the maximum frequency of a sound wave with wavelength 0.05m",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many moles are in 350g of carbon dioxide at standard temperature and pressure",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the acceleration due to gravity on a planet with mass 10^25kg, radius 4000km",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you calculate the force required to move a 200N weight up a 30\u00b0 incline",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the surface area of a cube with side length 5cm, density 8g/cm^3",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many joules are in a kilocalorie",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the maximum speed of a car with mass 1500kg, friction coefficient 0.5",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you find the minimum time required to accelerate an object from rest to 20m/s",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the volume of a cylinder with radius 3cm, height 5.5cm",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many liters are in a cubic meter",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the density of a solution with 20% salt, 15% sugar, and 65% water",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you calculate the energy required to lift an object from sea level to an altitude of 500m",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the maximum power output of a solar panel with surface area 10m^2, efficiency 15%",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many grams are in an ounce",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the surface area of a sphere with radius 4.2cm, density 12g/cm^3",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you find the minimum speed required to keep an object in orbit around a planet with mass 10^24kg",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the volume of a rectangular prism with length 3m, width 2.5m, height 1.8m",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many seconds are in a day",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the maximum speed of a projectile with initial velocity 20m/s, angle of projection 45\u00b0",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you calculate the energy required to accelerate an object from rest to 10m/s in 2 seconds",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the surface area of a cone with radius 5cm, height 8.3cm",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many joules are in an electronvolt",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the maximum frequency of a sound wave with amplitude 0.05m, speed 340m/s",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you find the minimum time required to accelerate an object from rest to 15m/s^2",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the volume of a pyramid with base area 3.5m^2, height 6.7m",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many liters are in an imperial gallon",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the surface area of a cylinder with radius 2.5cm, height 4.8cm",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you calculate the force required to hold an object in place against gravity on a planet with mass 10^25kg",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the maximum power output of a wind turbine with surface area 50m^2, efficiency 20%",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many calories are in an ounce of fat",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the volume of a sphere with radius 3.1cm, density 10g/cm^3",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you find the minimum time required to accelerate an object from rest to 25m/s in 5 seconds",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the surface area of a cube with side length 7.9cm, density 6g/cm^3",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many joules are in an erg",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the maximum frequency of a sound wave with amplitude 0.03m, speed 340m/s",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you calculate the energy required to lift an object from sea level to an altitude of 1000m",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the volume of a rectangular prism with length 2.1m, width 1.9m, height 3.5m",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many seconds are in an hour",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the surface area of a sphere with radius 2.8cm, density 14g/cm^3",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you find the minimum time required to accelerate an object from rest to 30m/s in 10 seconds",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the volume of a pyramid with base area 2.5m^2, height 4.1m",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many joules are in an atomic unit of energy",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the maximum frequency of a sound wave with amplitude 0.02m, speed 340m/s",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you calculate the force required to hold an object in place against gravity on a planet with mass 10^23kg",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the surface area of a cylinder with radius 4.5cm, height 7.3cm",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many liters are in an imperial pint",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the volume of a sphere with radius 5.3cm, density 8g/cm^3",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        }
+    ]
+}

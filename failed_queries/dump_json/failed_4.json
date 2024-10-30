@@ -1,0 +1,361 @@
+{
+    "queries": [
+        {
+            "query": "What is the average airspeed velocity of an unladen swallow",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you translate 'Bonjour' into Spanish",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the square root of 4096 plus 17 multiplied by 3",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Is there a cure for atherosclerosis in chickens",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you convert 74.321 meters to feet and inches",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the sum of all prime numbers less than or equal to 23 multiplied by 11 squared minus 19",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you give me directions from London to Paris via the Chunnel",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the largest integer less than or equal to the cube root of 729 plus 8 minus 5 divided by 3",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you convert '\u03c0' into Roman numerals",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the difference between a Fahrenheit thermometer and a Celsius thermometer",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you tell me the population of the city 'Tallinn' in 2015",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the volume of a sphere with radius 7 multiplied by \u03c0 minus 3 squared divided by 4",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you translate 'Hello, how are you?' into Chinese",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the sine of 30 degrees multiplied by the cosine of 45 degrees divided by the tangent of 60 degrees plus 1 minus 2 squared",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you give me a list of all prime numbers between 10 and 50",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the average weight of a house cat multiplied by 4 minus 11 squared divided by 9 plus 2",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you convert '1234567890' into binary",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the volume of a rectangular prism with dimensions 7, 11, and 13 multiplied by \u03c0 squared minus 19 divided by 3 plus 2",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you give me the sum of all even numbers between 10 and 20 inclusive",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the sine of 45 degrees multiplied by the cosine of 60 degrees divided by the tangent of 30 degrees minus 1 plus 2 squared",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you convert 'hello' into Morse code",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the average speed of a snail multiplied by 3 minus 11 squared divided by 9 plus 2",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you give me a list of all perfect squares between 10 and 50 inclusive",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the volume of a cone with radius 7 multiplied by \u03c0 squared minus 19 divided by 3 plus 2",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you convert '\u03c0' into Egyptian hieroglyphs",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the sine of 60 degrees multiplied by the cosine of 45 degrees divided by the tangent of 30 degrees minus 1 plus 2 squared",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you give me a list of all prime numbers less than or equal to 23 multiplied by 11 squared minus 19 divided by 3 plus 2",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the volume of a cylinder with radius 7 multiplied by \u03c0 squared minus 19 divided by 3 plus 2",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you convert '1234567890' into hexadecimal",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the sine of 45 degrees multiplied by the cosine of 60 degrees divided by the tangent of 30 degrees minus 1 plus 2 squared",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you give me a list of all perfect cubes between 10 and 50 inclusive",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the average speed of a cheetah multiplied by 3 minus 11 squared divided by 9 plus 2",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you convert 'hello' into binary",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the sine of 60 degrees multiplied by the cosine of 45 degrees divided by the tangent of 30 degrees minus 1 plus 2 squared",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you give me a list of all even numbers less than or equal to 23 multiplied by 11 squared minus 19 divided by 3 plus 2",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the volume of a sphere with radius 7 multiplied by \u03c0 squared minus 19 divided by 3 plus 2",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you convert '\u03c0' into binary",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the sine of 45 degrees multiplied by the cosine of 60 degrees divided by the tangent of 30 degrees minus 1 plus 2 squared",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you give me a list of all perfect squares less than or equal to 23 multiplied by 11 squared minus 19 divided by 3 plus 2",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the average weight of a house cat multiplied by 3 minus 11 squared divided by 9 plus 2",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you convert 'hello' into hexadecimal",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the sine of 60 degrees multiplied by the cosine of 45 degrees divided by the tangent of 30 degrees minus 1 plus 2 squared",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you give me a list of all prime numbers less than or equal to 23 multiplied by 11 squared minus 19 divided by 3 plus 2",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the volume of a rectangular prism with dimensions 7, 11, and 13 multiplied by \u03c0 squared minus 19 divided by 3 plus 2",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you convert '\u03c0' into hexadecimal",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the sine of 45 degrees multiplied by the cosine of 60 degrees divided by the tangent of 30 degrees minus 1 plus 2 squared",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you give me a list of all even numbers less than or equal to 23 multiplied by 11 squared minus 19 divided by 3 plus 2",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the average speed of a snail multiplied by 3 minus 11 squared divided by 9 plus 2",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you convert 'hello' into Morse code",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the sine of 60 degrees multiplied by the cosine of 45 degrees divided by the tangent of 30 degrees minus 1 plus 2 squared",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you give me a list of all perfect cubes less than or equal to 23 multiplied by 11 squared minus 19 divided by 3 plus 2",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        }
+    ]
+}

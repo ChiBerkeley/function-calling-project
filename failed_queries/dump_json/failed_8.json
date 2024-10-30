@@ -1,0 +1,354 @@
+{
+    "queries": [
+        {
+            "query": "What is the average airspeed velocity of a typical swallow",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you describe the flavor profile of a well-balanced chardonnay",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the recommended dosage for children's ibuprofen in milligrams per kilogram",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How do you calculate the sum of all interior angles in a regular 12-sided polygon",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you provide a recipe for traditional Sicilian cannoli pastry with a chocolate filling",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the typical lifespan of a mature redwood tree in years",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many degrees Celsius does it take for water to reach its critical point",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you give me the instructions on how to properly care for a Venus flytrap",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the historical significance of the first successful powered flight by Orville Wright",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How do you determine the optimal pH level for growing prize-winning roses in your garden",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the most energy-efficient way to heat a small apartment with a wood-burning stove",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you explain the concept of dark matter in simple terms for a layperson",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the recommended daily intake of omega-3 fatty acids for someone with high cholesterol",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How do you properly clean and maintain a vintage 1950s-style pinball machine",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the typical cost of hiring a team of professional line dancers for a corporate event",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you give me instructions on how to properly care for a rare species of orchid in your home",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the historical significance of the first successful landing on Mars by NASA's Curiosity Rover",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How do you calculate the total cost of ownership for a new electric car over its expected lifespan",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you describe the process of making traditional Japanese ramen noodles from scratch",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the recommended dosage for treating allergies in pets with a weight-based calculation",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How do you determine the best type of insulation to use for a passive solar building design",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you provide a recipe for making traditional Indian butter chicken curry from scratch",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the typical lifespan of a mature redwood tree in centuries",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How do you calculate the total cost of shipping a large container from China to Los Angeles by sea",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you describe the process of making traditional Mexican mole poblano sauce from scratch",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the recommended daily intake of vitamin D for someone living in a region with limited sunlight during winter",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How do you determine the best type of exercise routine for a middle-aged person looking to improve their balance and flexibility",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you give me instructions on how to properly care for a rare species of cactus in your home",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the historical significance of the first successful landing on the moon by Neil Armstrong",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How do you calculate the total cost of owning a private jet for a year, including maintenance and fuel costs",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you describe the process of making traditional French croissants from scratch",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the recommended dosage for treating high blood pressure in people with diabetes",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How do you determine the best type of material to use for building a sustainable and energy-efficient home",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you provide a recipe for making traditional Italian tiramisu from scratch",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the typical cost of hiring a team of professional photographers for a corporate event",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How do you calculate the total cost of owning a luxury yacht for a year, including maintenance and fuel costs",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you describe the process of making traditional Japanese sushi from scratch",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the recommended daily intake of omega-6 fatty acids for someone with high cholesterol",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How do you determine the best type of exercise routine for a young athlete looking to improve their endurance and speed",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you give me instructions on how to properly care for a rare species of orchid in your home with bright light",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the historical significance of the first successful landing on Mars by NASA's Perseverance Rover",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How do you calculate the total cost of owning a private plane for a year, including maintenance and fuel costs",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you describe the process of making traditional Mexican tacos al pastor from scratch",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the recommended daily intake of vitamin B12 for someone living in a region with limited sunlight during winter",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How do you determine the best type of exercise routine for a middle-aged person looking to improve their strength and flexibility",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you give me instructions on how to properly care for a rare species of cactus in your home with full sun",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the historical significance of the first successful landing on the moon by Buzz Aldrin",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How do you calculate the total cost of owning a luxury car for a year, including maintenance and insurance costs",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you describe the process of making traditional French baguettes from scratch",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the recommended dosage for treating allergies in pets with a weight-based calculation and environmental factors",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        }
+    ]
+}

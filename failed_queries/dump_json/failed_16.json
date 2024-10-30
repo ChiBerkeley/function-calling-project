@@ -1,0 +1,396 @@
+{
+    "queries": [
+        {
+            "query": "What is the average airspeed velocity of an unladen swallow",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many rainbows can fit in a standard shipping container",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the square root of 9000 times the number of protons in a helium atom",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How far can a human jump on the moon with a jetpack",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the probability of winning the lottery twice in a row",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you convert 100 degrees Fahrenheit to Kelvin times the number of seconds in a day",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many different ways can you arrange 7 red balls and 5 blue balls",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the sum of all even numbers between 1 and 1000 that are multiples of 3",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many people can fit in a single-family home with an average square footage of 2500",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the maximum height you can reach on a trampoline with a mass of 150 pounds and air resistance",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you calculate the area of a circle with a diameter of 10 times pi to 5 decimal places",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many grams are in 1000 cubic centimeters of water at room temperature",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the volume of a sphere with a radius of 5 times the gravitational constant G",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many calories are burned in an hour of walking uphill at a 45 degree angle",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you find the least common multiple of 12, 18, and 24 that is divisible by 5",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the square root of the sum of all positive integers up to 1000",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many different types of fruit can you grow on a small farm with an area of 1 acre",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the average weight of a cat times the number of hours in a week",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many different ways can you arrange 4 red balls, 2 blue balls, and 3 green balls",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you calculate the area of a rectangle with a length of 10 times its width divided by 5",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the volume of a cube with a side length of 8 times pi to 3 decimal places",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many different types of rocks can you find in a geological survey of 100 square miles",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the sum of all odd numbers between 1 and 500 that are divisible by 3",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you calculate the surface area of a sphere with a radius of 6 times pi to 4 decimal places",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many grams are in 500 cubic centimeters of air at room temperature and pressure",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the maximum speed you can reach on a bicycle with a mass of 100 pounds and rolling resistance",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you find the greatest common divisor of 12, 15, and 20 that is divisible by 5",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many different types of clouds can you see in a clear sky at noon on a sunny day",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the square root of the sum of all positive integers up to 2000 that are multiples of 4",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you calculate the area of a triangle with two sides of length 5 and 7 times pi to 2 decimal places",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many different ways can you arrange 3 red balls, 4 blue balls, and 2 green balls",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the volume of a cylinder with a radius of 5 times its height divided by 3",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you find the least common multiple of 6, 8, and 12 that is divisible by 4",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many grams are in 200 cubic centimeters of water at room temperature",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the average weight of a dog times the number of days in a year",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you calculate the surface area of a sphere with a radius of 7 times pi to 5 decimal places",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many different types of fish can you find in a freshwater lake with an area of 1 square mile",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the sum of all even numbers between 2 and 1000 that are multiples of 5",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you find the greatest common divisor of 9, 12, and 15 that is divisible by 3",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many different ways can you arrange 5 red balls, 3 blue balls, and 2 green balls",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the maximum speed you can reach on a skateboard with a mass of 50 pounds and rolling resistance",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you calculate the area of a trapezoid with two parallel sides of length 5 and 7 times pi to 3 decimal places",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many different types of rocks can you find in a geological survey of 50 square miles",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the volume of a cone with a radius of 6 times its height divided by 2",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you find the least common multiple of 9, 12, and 15 that is divisible by 3",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many grams are in 300 cubic centimeters of air at room temperature and pressure",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the average weight of a cat times the number of hours in a day",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you calculate the surface area of a sphere with a radius of 9 times pi to 4 decimal places",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many different ways can you arrange 2 red balls, 3 blue balls, and 4 green balls",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the maximum speed you can reach on a motorcycle with a mass of 150 pounds and rolling resistance",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you find the greatest common divisor of 6, 8, and 12 that is divisible by 4",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many different types of clouds can you see in a clear sky at sunrise on a cloudy day",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the sum of all odd numbers between 1 and 750 that are multiples of 3",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you calculate the area of a triangle with two sides of length 6 and 8 times pi to 5 decimal places",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many grams are in 400 cubic centimeters of water at room temperature",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the volume of a cylinder with a radius of 7 times its height divided by 5",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        }
+    ]
+}

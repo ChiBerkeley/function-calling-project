@@ -1,0 +1,340 @@
+{
+    "queries": [
+        {
+            "query": "What is the boiling point of mercury",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many wheels does a skateboard have",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Calculate 14 divided by 3 squared plus pi",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the atomic number of radon",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Estimate the weight of a small cat",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Find the square root of 9 minus 3 times the logarithm of pi",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the chemical formula for glucose",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Determine if a triangle with sides 5, 6 and 7 is equilateral",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Calculate the volume of a sphere with radius 4 plus epsilon",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Find the area of a rectangle with width 9 and height 12 divided by 3 minus pi squared",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the melting point of sulfur in degrees Celsius",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Estimate the value of Euler's number to 5 decimal places",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Determine if a given date is within the Chinese New Year holiday",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Calculate the factorial of 7 plus the square root of pi to the power of 2",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Find the greatest common divisor of 14 and 21 minus epsilon divided by pi squared",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the standard deviation of a normal distribution with mean 0 and variance 1 squared",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Estimate the value of pi to 10 decimal places plus the square root of 2 minus the logarithm of e",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Determine if a given string is a palindrome in any language",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Calculate the sum of the first 10 prime numbers minus the factorial of 5 divided by the square root of pi to the power of 3",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Find the area of a circle with radius 4 times the sine of pi over 2 plus epsilon squared",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Estimate the value of the golden ratio to 5 decimal places minus the logarithm of e divided by pi squared",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Determine if a given number is a perfect square in any base",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Calculate the volume of a cone with radius 3 and height 5 minus pi squared plus epsilon to the power of 2",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Find the greatest common divisor of 21 and 28 times the factorial of 4 divided by pi to the power of 3 minus epsilon",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Estimate the value of e to the power of i squared plus pi to the power of 2 minus the logarithm of 10 to the base 5",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Determine if a given string is a valid email address in any language and format",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Calculate the sum of an arithmetic series with 10 terms, first term 1, last term 20 plus the square root of pi to the power of 3 minus epsilon squared",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Find the area of a trapezoid with parallel sides 7 and 11 times the sine of pi over 4 divided by the cosine of pi over 2 plus epsilon to the power of 3",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Estimate the value of the natural logarithm of 10 to the base e minus pi squared plus epsilon times the factorial of 5 divided by the square root of 2",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Determine if a given date is within the Japanese New Year holiday",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Calculate the volume of a pyramid with base area 4 and height 5 squared minus pi to the power of 2 plus epsilon times the sine of pi over 3 divided by the cosine of pi over 4",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Find the greatest common divisor of 14, 21 and 28 times the factorial of 5 minus pi squared plus epsilon to the power of 3",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Estimate the value of Euler's number to 10 decimal places minus the logarithm of 10 to the base e divided by pi squared plus epsilon times the sine of pi over 2",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Determine if a given string is a valid ISBN in any format and version",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Calculate the sum of an infinite geometric series with first term 1/2, common ratio 3/4 minus pi squared plus epsilon times the factorial of 7 divided by the square root of 5 to the power of 3",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Find the area of a rhombus with diagonals 6 and 8 times the sine of pi over 4 minus epsilon squared plus pi to the power of 2 divided by the cosine of pi over 3",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Estimate the value of the natural logarithm of e to the base 10 minus pi to the power of 2 plus epsilon times the factorial of 4 divided by the square root of 2 to the power of 3",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Determine if a given number is a perfect cube in any base and version",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Calculate the volume of a sphere with radius 4 minus pi squared plus epsilon times the sine of pi over 2 divided by the cosine of pi over 3 to the power of 2",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Find the greatest common divisor of 21 and 35 times the factorial of 7 minus pi squared plus epsilon to the power of 3 divided by the square root of 5",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Estimate the value of Euler's number to the power of i squared minus pi to the power of 2 plus epsilon times the sine of pi over 4 divided by the cosine of pi over 3",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Determine if a given string is a valid URL in any format and protocol",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Calculate the sum of an arithmetic series with 20 terms, first term 1, last term 40 minus pi squared plus epsilon times the factorial of 6 divided by the square root of 5 to the power of 3",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Find the area of a circle with radius 5 times the sine of pi over 2 minus epsilon squared plus pi to the power of 2 divided by the cosine of pi over 4",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Estimate the value of the golden ratio to the power of i squared plus pi to the power of 3 minus epsilon times the sine of pi over 3 divided by the cosine of pi over 2",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Determine if a given number is a perfect square in any base and version, considering decimal or hexadecimal representation",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Calculate the volume of a cone with radius 4 and height 6 squared minus pi to the power of 2 plus epsilon times the sine of pi over 3 divided by the cosine of pi over 4",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Find the greatest common divisor of 14, 21 and 35 minus pi squared plus epsilon to the power of 3 divided by the square root of 5",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        }
+    ]
+}

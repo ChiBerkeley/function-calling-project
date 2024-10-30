@@ -1,0 +1,354 @@
+{
+    "queries": [
+        {
+            "query": "What is the average airspeed velocity of an unladen swallow",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many legs does a spider have if it lost one",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the boiling point of water at 10,000 feet",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can a computer program be creative if it has been trained on all of Shakespeare's sonnets",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the speed of light in miles per hour through a vacuum tube at absolute zero",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many grains of sand are on all the beaches of Earth",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the maximum heart rate of a human who has never exercised before and eats only fast food",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can a person survive for one week in a sealed room with no air, water or food",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the weight of an elephant's hair if it was cut and dried",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many rainbows can fit inside a standard shipping container on a sunny day",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can a person speak with an accent from every country in the world and understand every language",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the longest recorded flight of a chicken through a wind tunnel",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many atoms are in the air if you breathe out slowly over an hour",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can a robot learn to play chess by watching humans play for 10 years straight",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the temperature of absolute zero in degrees Fahrenheit on Mars",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many people can simultaneously touch their nose with their left hand and right foot",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can a person hold their breath for one minute underwater in the deep end of a pool",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the speed of sound through a helium balloon at 100,000 feet altitude",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many different flavors can you mix to get exactly one gallon of punch",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can a person learn to ride a bike with their eyes closed and only use their ears for balance",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the longest recorded distance traveled by a tortoise on land in one year",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many different shapes can you make with exactly 5 pieces of paper and no scissors or glue",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can a person run around the world in one day without stopping to eat, sleep or rest",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the weight of a single snowflake that fell from the sky on Christmas Eve",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many different colors can you name in alphabetical order starting with the color blue",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can a person learn to recite the entire script of 'Hamlet' backwards while juggling three balls",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the temperature of liquid nitrogen in degrees Celsius on the surface of the moon",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many different types of clouds can you identify by their shape alone without any labels or diagrams",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can a person learn to play the piano with only one hand and still be able to hear the music in their head",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the longest recorded duration of someone watching paint dry without taking a break",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many different ways can you fold a fitted sheet and still get it to fit back into its original box",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can a person learn to speak with an accent from every country in the world without ever leaving their home",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the weight of an average human hair if it was cut and dried on the surface of Mars",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many different types of rocks can you identify by their shape alone without any labels or diagrams",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can a person run across the surface of the sun without burning up and still be able to see themselves in the mirror",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the longest recorded duration of someone holding their breath underwater while reciting Shakespearean sonnets",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many different types of clouds can you identify by their shape alone without any labels or diagrams on a sunny day",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can a person learn to speak with an accent from every country in the world and understand every language while wearing flip flops",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the weight of an elephant's tooth if it was cut and polished on the surface of the moon",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many different shapes can you make with exactly 3 pieces of paper and no scissors or glue while standing on one leg",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can a person learn to recite the entire script of 'Hamlet' backwards while juggling three balls and wearing a tutu",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the temperature of liquid nitrogen in degrees Celsius on the surface of Neptune",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many different types of rocks can you identify by their shape alone without any labels or diagrams while blindfolded",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can a person run across the surface of the sun without burning up and still be able to see themselves in the mirror while reciting Shakespearean sonnets",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the weight of an average human hair if it was cut and dried on the surface of Pluto",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many different shapes can you make with exactly 5 pieces of paper and no scissors or glue while standing on one leg and blindfolded",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can a person learn to speak with an accent from every country in the world without ever leaving their home while wearing flip flops",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the longest recorded duration of someone watching paint dry without taking a break while standing on one leg and blindfolded",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many different types of clouds can you identify by their shape alone without any labels or diagrams on a sunny day while reciting Shakespearean sonnets",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can a person learn to run across the surface of the sun without burning up and still be able to see themselves in the mirror while wearing flip flops",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        }
+    ]
+}

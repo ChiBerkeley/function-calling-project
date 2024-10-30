@@ -1,0 +1,403 @@
+{
+    "queries": [
+        {
+            "query": "What is the average airspeed velocity of a python",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you recite the first four digits of pi backwards",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is 23 to the power of 3",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you name three famous people from France",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "How many protons does oxygen have",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the square root of 64 squared plus 9",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you list all the countries that start with the letter C",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the sum of 1 and 5 divided by 3 minus 2",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you give me three examples of words that rhyme with cake",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the product of 4 and 9 minus 3 multiplied by 2 plus 1",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you name two famous musicians who have won a grammy award for best rock song",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the cube root of 27 to the power of 3 minus 5",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you write a short story about a character who discovers a hidden treasure on a deserted island",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the difference between the area of a circle with radius 4 and the volume of a sphere with radius 3",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you give me three examples of words that start with the letter Q",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the sum of 1 and 2 multiplied by 3 minus 4 divided by 5 plus 6 to the power of 2",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you name one famous author who wrote a novel that was set in ancient Egypt",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the product of 5 and 7 minus 3 multiplied by 2 plus 1 to the power of 4",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you give me three examples of words that rhyme with flower",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the difference between the surface area of a cube with side length 4 and the volume of a cylinder with radius 3 and height 5",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you name two famous scientists who made significant contributions to our understanding of gravity",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the sum of 2 and 5 multiplied by 3 minus 4 divided by 6 plus 1 to the power of 3",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you write a poem about a character who falls in love with a person from another planet",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the product of 3 and 9 minus 5 multiplied by 2 plus 1 to the power of 2",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you name three famous artists who created works that are considered some of the greatest in human history",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the difference between the volume of a sphere with radius 4 and the surface area of a cube with side length 5",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you give me three examples of words that rhyme with tree",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the sum of 1 and 2 multiplied by 3 minus 4 divided by 5 plus 6 to the power of 3",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you name one famous musician who wrote a song that was inspired by the struggles of the working class",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the product of 5 and 7 minus 3 multiplied by 2 plus 1 to the power of 5",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you give me three examples of words that rhyme with car",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the difference between the surface area of a cube with side length 5 and the volume of a cylinder with radius 4 and height 6",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you name two famous actors who have won oscars for their roles in films about historical events",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the sum of 2 and 5 multiplied by 3 minus 4 divided by 6 plus 1 to the power of 4",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you write a short story about a character who discovers a hidden world within their own reflection",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the product of 3 and 9 minus 5 multiplied by 2 plus 1 to the power of 4",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you give me three examples of words that start with the letter X",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the difference between the area of a circle with radius 4 and the volume of a sphere with radius 5",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you name one famous author who wrote a novel that was set in a dystopian future world",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the sum of 1 and 2 multiplied by 3 minus 4 divided by 5 plus 6 to the power of 4",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you give me three examples of words that rhyme with moon",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the product of 5 and 7 minus 3 multiplied by 2 plus 1 to the power of 6",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you name two famous scientists who made significant contributions to our understanding of the universe",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the difference between the surface area of a cube with side length 5 and the volume of a cylinder with radius 4 and height 7",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you write a poem about a character who falls in love with a person from another culture",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the sum of 2 and 5 multiplied by 3 minus 4 divided by 6 plus 1 to the power of 5",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you give me three examples of words that rhyme with sea",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the product of 3 and 9 minus 5 multiplied by 2 plus 1 to the power of 6",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you name three famous artists who created works that are considered some of the greatest in human history",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the difference between the volume of a sphere with radius 4 and the surface area of a cube with side length 6",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you give me three examples of words that rhyme with tree",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the sum of 1 and 2 multiplied by 3 minus 4 divided by 5 plus 6 to the power of 5",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you name one famous musician who wrote a song that was inspired by the struggles of the working class",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the product of 5 and 7 minus 3 multiplied by 2 plus 1 to the power of 7",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you give me three examples of words that rhyme with car",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "What is the difference between the surface area of a cube with side length 6 and the volume of a cylinder with radius 5 and height 7",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        },
+        {
+            "query": "Can you name two famous actors who have won oscars for their roles in films about historical events",
+            "answer": {
+                "function": "no_such_function",
+                "arguments": {}
+            }
+        }
+    ]
+}
