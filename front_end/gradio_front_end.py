@@ -28,7 +28,6 @@ demo = gr.TabbedInterface(
                         "power",
                         "sentiment_analysis",
                         "simple_interest",
-                        "translate",
                         "zodiac_sign",
                 ], label="Function", info="Choose a function to generate data for."
             ),
