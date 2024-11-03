@@ -13,23 +13,7 @@ from langchain_core.tools import tool
 @tool
 def power(base, exponent) -> str:
     """
-    Calculate the power of a base raised to an exponent and return the result as a JSON string.
-
-    This function computes base^exponent, where both the base and the exponent can be either
-    positive or negative numbers. The result is returned as a JSON string.
-
-    Args:
-        base (float): The base number to be raised.
-        exponent (float): The exponent to raise the base to.
-
-    Returns:
-        str: A JSON string with the result.
-
-    Example:
-        >>> power(2, 3)
-        '{"result": 8.0}'
-        >>> power(2, -2)
-        '{"result": 0.25}'
+    Calculate the power of a base raised to an exponent
     """
     try:
         base = float(base)
@@ -46,24 +30,6 @@ def power(base, exponent) -> str:
 def get_weather_info(city: str) -> str:
     """
     Return the current time in PST, along with weather and temperature for a given city.
-
-    This function calculates the current time in PST (UTC-8) and provides the temperature
-    and weather condition for a specified city. The temperature is provided in Celsius.
-
-    Args:
-        city (str): The name of the city for which to generate weather information (must be a non-empty string).
-
-    Returns:
-        str: A JSON string with the current time in PST, temperature, weather, and the city,
-             or an error message if the input is invalid.
-
-    Example of Valid Call:
-        >>> get_weather_info("Paris")
-        '{"city": "Paris", "time_in_PST": "2024-09-26 15:08:24", "temperature": 36, "unit": "Celsius", "weather": "sunny"}'
-
-    Example of Invalid Call (Empty String):
-        >>> get_weather_info("")
-        '{"error": "Invalid city. City name must be a non-empty string."}'
     """
 
     # Error handling: Check if the city is a non-empty string
@@ -99,23 +65,6 @@ def get_weather_info(city: str) -> str:
 def calculate_trip_cost(distance: float, fuel_efficiency: float, fuel_cost_per_liter: float) -> str:
     """
     Calculate the total cost of a trip based on the distance, fuel efficiency, and fuel cost.
-
-    Args:
-        distance (float): The total distance of the trip in kilometers (must be positive).
-        fuel_efficiency (float): The fuel efficiency of the vehicle in kilometers per liter (must be positive).
-        fuel_cost_per_liter (float): The cost of fuel per liter (must be positive).
-
-    Returns:
-        str: A JSON string with the distance, fuel efficiency, fuel cost per liter, and the total trip cost,
-             or an error message if any input is invalid.
-
-    Example of Valid Input:
-        >>> calculate_trip_cost(300, 15, 1.2)
-        '{"distance": 300, "fuel_efficiency": 15, "fuel_cost_per_liter": 1.2, "total_cost": 24.0}'
-
-    Example of Invalid Input (Negative Distance):
-        >>> calculate_trip_cost(-300, 15, 1.2)
-        '{"error": "Invalid distance. Distance must be a positive number."}'
     """
 
     # Error handling: Check if all inputs are positive numbers
@@ -149,24 +98,6 @@ def calculate_trip_cost(distance: float, fuel_efficiency: float, fuel_cost_per_l
 def calculate_bmi(weight, height, age, gender) -> str:
     """
     Calculate the Body Mass Index (BMI) and return the BMI category and health recommendations.
-
-    Args:
-        weight (float): The person's weight in kilograms (must be positive).
-        height (float): The person's height in meters (must be positive).
-        age (int): The person's age in years (must be a positive integer).
-        gender (str): The person's gender ("male", "female", or "other").
-
-    Returns:
-        str: A JSON string containing the BMI value, BMI category, health recommendations,
-             or an error message if any input is invalid.
-
-    Example of Valid Input:
-        >>> calculate_bmi(70, 1.75, 30, "male")
-        '{"bmi": 22.86, "category": "Normal weight", "recommendation": "Maintain a healthy diet and exercise regularly.", "age": 30, "gender": "male"}'
-
-    Example of Invalid Input (Negative Weight):
-        >>> calculate_bmi(-70, 1.75, 30, "male")
-        '{"error": "Invalid weight. Weight must be a positive number."}'
     """
 
     weight = float(weight)
@@ -217,16 +148,6 @@ def calculate_bmi(weight, height, age, gender) -> str:
 def get_capital(country: str) -> str:
     """
     Retrieves the capital of a given country.
-
-    Parameters:
-    country (str): The name of the country.
-
-    Returns:
-    str: A JSON string containing the capital of the country.
-
-    Example:
-    >>> get_country_capital('France')
-    '{"result": "Paris"}'
     """
     if not isinstance(country, str):
         return json.dumps({"error": "The country must be a string."})
@@ -243,14 +164,6 @@ def get_capital(country: str) -> str:
 def count_letter(word: str, letter: str) -> str:
     """
     Counts the number of occurrences of a specified letter in a word.
-
-    Parameters:
-    word (str): The word to count letters in.
-    letter (str): The letter to count.
-
-    Example:
-    >>> count_letter('strawberry', 'R')
-    '{"result": 3}'
     """
     if not isinstance(word, str) or not isinstance(letter, str):
         return json.dumps({"error": "The word and letter must be strings."})
@@ -262,17 +175,6 @@ def count_letter(word: str, letter: str) -> str:
 def calculate_area(length: int | float | str, width: int | float | str, round_result: bool = False) -> str:
     """
     Calculates the area of a rectangle.
-
-    Parameters:
-    length (int | float | str): The length of the rectangle.
-    width (int | float | str): The width of the rectangle.
-    round_result (bool, optional): Whether to round the result (default is False).
-
-    Example:
-    >>> calculate_area(5, 10)
-    '{"area": "50.0"}'
-    >>> calculate_area("5", 10, True)
-    '{"area": "50"}'
     """
     if not (isinstance(length, (int, float)) or (isinstance(length, str) and length.replace('.', '', 1).isdigit())):
         return json.dumps({"error": "Length must be a number."})
@@ -287,19 +189,6 @@ def calculate_area(length: int | float | str, width: int | float | str, round_re
 def get_timezone(city: str, state: str, country: str, mail_code: str) -> str:
     """
     Determines the timezone for a given location.
-
-    Parameters:
-    city (str): The city of the location.
-    state (str): The state or province of the location (optional).
-    country (str): The country of the location.
-    mail_code (str): The postal code of the location (optional).
-
-    Returns:
-    str: A JSON string containing the timezone or an error message.
-
-    Example:
-    >>> get_timezone('Ketchikan', 'Alaska', 'USA', '99950')
-    '{"result": "America/Sitka"}'
     """
     # Validate input types
     if not all(isinstance(arg, str) for arg in [city, state, country, mail_code]):
@@ -343,23 +232,7 @@ def get_timezone(city: str, state: str, country: str, mail_code: str) -> str:
 @tool
 def zodiac_sign(birthday: str) -> str:
     """
-    Determines the astrological zodiac sign based on the provided birthday and returns the result as a JSON string.
-
-    This function accepts a birthday in 'YYYY-MM-DD' format and calculates the corresponding zodiac sign based on Western astrology.
-
-    Args:
-        birthday (str): The birthday as a string in 'YYYY-MM-DD' format.
-
-    Returns:
-        str: A JSON string with the zodiac sign, or `{"result": "failed"}` if the input is invalid.
-
-    Example:
-        >>> zodiac_sign('1990-05-15')
-        '{"result": "Taurus"}'
-        >>> zodiac_sign('2000-12-25')
-        '{"result": "Capricorn"}'
-        >>> zodiac_sign('invalid-date')
-        '{"result": "failed"}'
+    Determines the astrological zodiac sign based on the provided birthday.
     """
     try:
         # Parse the birthday
@@ -403,27 +276,7 @@ def zodiac_sign(birthday: str) -> str:
 @tool
 def date_difference(start_date: str, end_date: str, include_end: bool = False) -> str:
     """
-    Calculates the number of days between two dates and returns the result as a JSON string.
-
-    This function computes the difference in days between the provided start and end dates,
-    assuming the date format is '%Y-%m-%d' (e.g., '2023-01-15'). It can optionally include the end date
-    in the calculation. The result is returned as a JSON string.
-
-    Args:
-        start_date (str): The start date as a string in 'YYYY-MM-DD' format.
-        end_date (str): The end date as a string in 'YYYY-MM-DD' format.
-        include_end (bool): Whether to include the end date in the calculation. Defaults to False.
-
-    Returns:
-        str: A JSON string with the number of days between the dates, or `{"result": "failed"}` if the input is invalid.
-
-    Example:
-        >>> date_difference('2023-01-01', '2023-01-10')
-        '{"result": 9}'
-        >>> date_difference('2023-01-01', '2023-01-10', include_end=True)
-        '{"result": 10}'
-        >>> date_difference('2023-01-10', '2023-01-01')
-        '{"result": "failed"}'
+    Calculates the number of days between two dates
     """
     try:
         # Parse the input dates
@@ -446,33 +299,7 @@ def date_difference(start_date: str, end_date: str, include_end: bool = False) -
 @tool
 def calculate_tip(total_spend: float, country: str, service: str) -> str:
     """
-    Calculates the tip amount based on the total expenditure, country, and service quality, and returns the result as a JSON string.
-
-    In Japan and countries in the UK, tipping is not customary, so the tip amount will always be 0.
-    In North American countries, the tip percentages are:
-        - 10% for poor service
-        - 18% for satisfactory service
-        - 25% for excellent service
-    For other countries, the tip percentages are:
-        - 5% for poor service
-        - 10% for satisfactory service
-        - 20% for excellent service
-
-    Args:
-        total_spend (float): The total bill amount for the meal.
-        country (str): The country where the meal is being had.
-        service (str): The quality of service ('poor', 'satisfactory', 'excellent').
-
-    Returns:
-        str: A JSON string with the tip amount, or `{"result": "failed"}` if the input is invalid.
-
-    Example:
-        >>> calculate_tip(100, 'USA', 'excellent')
-        '{"result": 25.0}'
-        >>> calculate_tip(100, 'Japan', 'poor')
-        '{"result": 0.0}'
-        >>> calculate_tip(100, 'France', 'satisfactory')
-        '{"result": 10.0}'
+    Calculates the tip amount based on the total expenditure, country, and service quality
     """
     try:
         # Validate inputs
@@ -520,27 +347,7 @@ def calculate_tip(total_spend: float, country: str, service: str) -> str:
 @tool
 def playlist_duration_calculator(number_of_songs: int, average_song_length: float, include_breaks: bool, break_duration: float) -> str:
     """
-    Calculates the total duration of a playlist and returns the result as a JSON string.
-
-    This function computes the total duration of a playlist based on the number of songs and the average length of each song.
-    If breaks are included, it adds the total break time to the overall duration. The durations are in minutes.
-
-    Args:
-        number_of_songs (int): The total number of songs in the playlist.
-        average_song_length (float): The average length of each song in minutes.
-        include_breaks (bool): Whether to include breaks between songs.
-        break_duration (float): The duration of each break in minutes (used only if include_breaks is True).
-
-    Returns:
-        str: A JSON string with the total playlist duration in minutes, or `{"result": "failed"}` if the input is invalid.
-
-    Example:
-        >>> playlist_duration_calculator(15, 3.5, True, 0.5)
-        '{"result": 60.0}'
-        >>> playlist_duration_calculator(10, 4, False, 0)
-        '{"result": 40.0}'
-        >>> playlist_duration_calculator(-5, 3.5, True, 0.5)
-        '{"result": "failed"}'
+    Calculates the total duration of a playlist
     """
     try:
         # Validate inputs
@@ -572,27 +379,7 @@ def playlist_duration_calculator(number_of_songs: int, average_song_length: floa
 @tool
 def sentiment_analysis(text: str) -> str:
     """
-    Analyze the sentiment of the given text using the TextBlob library and return the result as a JSON string.
-
-    This function computes the sentiment of the input text, providing both polarity and subjectivity.
-    Polarity measures the positivity or negativity of the text (-1 to 1), and subjectivity measures the
-    objectivity or subjectivity (0 to 1). The result is returned as a JSON string.
-
-    If the text cannot be processed, the function returns `{"result": "failed"}`.
-
-    Args:
-        text (str): The input text to analyze.
-
-    Returns:
-        str: A JSON string with the sentiment analysis result, or `{"result": "failed"}` if the analysis fails.
-
-    Example:
-        >>> sentiment_analysis("I love programming!")
-        '{"result": {"polarity": 0.5, "subjectivity": 0.6}}'
-        >>> sentiment_analysis("This is terrible!")
-        '{"result": {"polarity": -1.0, "subjectivity": 1.0}}'
-        >>> sentiment_analysis("")
-        '{"result": "failed"}'
+    Analyze the sentiment of the given text using the TextBlob library
     """
     try:
         blob = TextBlob(text)
@@ -642,30 +429,7 @@ def difference_of_squares(a: float, b: float) -> str:
 @tool
 def simple_interest(principal: float, rate: float, time: float) -> str:
     """
-    Calculate the simple interest and return the result as a JSON string.
-
-    This function computes the simple interest based on the principal amount, interest rate,
-    and time period in years. The formula used is: (principal * rate * time) / 100.
-    The result is returned as a JSON string.
-
-    If any of the inputs are invalid (non-numeric values or negative numbers), the function
-    returns `{"result": "failed"}`.
-
-    Args:
-        principal (float): The initial amount of money.
-        rate (float): The interest rate as a percentage.
-        time (float): The time period in years.
-
-    Returns:
-        str: A JSON string with the calculated simple interest, or `{"result": "failed"}` if inputs are invalid.
-
-    Example:
-        >>> simple_interest(1000, 5, 2)
-        '{"result": 100.0}'
-        >>> simple_interest(5000, 3.5, 1)
-        '{"result": 175.0}'
-        >>> simple_interest(-1000, 5, 2)
-        '{"result": "failed"}'
+    Calculate the simple interest
     """
     try:
         # Validate that inputs are non-negative numbers
@@ -684,31 +448,7 @@ def simple_interest(principal: float, rate: float, time: float) -> str:
 @tool
 def password_generator(length: int = 12, use_numbers: bool = True, use_special_chars: bool = True, use_caps: bool = True) -> str:
     """
-    Generates a random password with options to include numbers, special characters, and capital letters,
-    and returns the result as a JSON string.
-
-    This function generates a random password of specified length. The password can include lowercase letters,
-    uppercase letters, numbers, and special characters depending on the given arguments. The result is returned
-    as a JSON string.
-
-    If the length is less than 1, the function returns `{"result": "failed"}`.
-
-    Args:
-        length (int): The length of the generated password. Defaults to 12.
-        use_numbers (bool): Whether to include numbers. Defaults to True.
-        use_special_chars (bool): Whether to include special characters. Defaults to True.
-        use_caps (bool): Whether to include capital letters. Defaults to True.
-
-    Returns:
-        str: A JSON string with the generated password, or `{"result": "failed"}` if the input is invalid.
-
-    Example:
-        >>> password_generator(10, True, True, False)
-        '{"result": "password123"}'
-        >>> password_generator(8, False, False, False)
-        '{"result": "abcdefgh"}'
-        >>> password_generator(-5, True, True, True)
-        '{"result": "failed"}'
+    Generates a random password with options to include numbers, special characters, and capital letters
     """
     try:
         # Validate that the length is a positive integer
