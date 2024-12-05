@@ -3,7 +3,7 @@ from langchain_ollama import ChatOllama
 from langchain_core.messages import HumanMessage
 
 # Change to whatever we want
-llm = ChatOllama(model="llama3.1:8b-instruct-fp16", temperature=0.5)
+llm = ChatOllama(model="llama3.1:latest", temperature=0.5)
 
 tools = [
     calculate_area,
