@@ -27,39 +27,40 @@ def power(base, exponent) -> str:
         return json.dumps({"result": "failed to calucate"})
 
 @tool
-def get_weather_info(city: str) -> str:
+def get_weather_info(city_name: str, state: str) -> str:
     """
     Return the current time in PST, along with weather and temperature for a given city.
     """
 
-    # Error handling: Check if the city is a non-empty string
-    if not isinstance(city, str) or not city.strip():
-        return json.dumps({"error": "Invalid city. City name must be a non-empty string."})
+    api_key = "34008a95d9acd4e2d84fed645512e6c2"
+    base_url = "https://api.openweathermap.org/data/2.5/weather?"
 
-    # Define a list of possible weather conditions
-    weather_conditions = ["sunny", "cloudy", "rainy", "snowy", "windy", "stormy", "foggy"]
+    geolocator = Nominatim(user_agent="timezone_finder")
 
-    # Generate a random temperature between -10 and 40 degrees Celsius
-    temperature = random.randint(-10, 40)
+    location = geolocator.geocode(", ".join([city_name, state]))
+    lat, lon = location.latitude, location.longitude
 
-    # Pick a random weather condition from the list
-    weather = random.choice(weather_conditions)
+    complete_url = base_url + "lat=" + str(lat) + "&lon=" + str(lon) + "&appid=" + api_key
+    print(complete_url)
+    response = requests.get(complete_url)
 
-    # Calculate the current time in PST (UTC-8)
-    current_utc_time = datetime.now()
-    pst_time = current_utc_time - timedelta(hours=8)
+    x = response.json()
 
-    # Create the result dictionary
-    result = {
-        "city": city.strip(),  # Strip any extra spaces from the city name
-        "time_in_PST": pst_time.strftime("%Y-%m-%d %H:%M:%S"),
-        "temperature": temperature,
-        "unit": "Celsius",
-        "weather": weather
-    }
+    if x["cod"] not in (401, 404):
 
-    # Return the result as a JSON string
-    return json.dumps(result)
+        y = x["main"]
+
+        current_temperature = (y["temp"] - 273.15)*1.8+32
+
+        z = x["weather"]
+
+        weather_description = z[0]["description"]
+
+        # print following values
+        return json.dumps({"result": f"Temperature: {current_temperature}°F, Weather: {weather_description}"})
+
+    else:
+        print(" City Not Found ")
 
 @tool
 def calculate_trip_cost(distance: float, fuel_efficiency: float, fuel_cost_per_liter: float) -> str:
