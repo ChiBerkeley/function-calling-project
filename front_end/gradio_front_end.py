@@ -30,7 +30,7 @@ app = gr.TabbedInterface(
         run,
         [
             gr.Dropdown(
-                ["llama3.1:latest", "llama3.1:8b-instruct-fp16", "llama3.2:1b", "llama3.2:latest", "llama3.2:3b-instruct-fp16"], label="Model", info="Choose a model to generate data."
+                ["llama3.1:latest", "llama3.2:1b", "llama3.2:latest", "gemma2:2b", "mistral:latest"], label="Model", info="Choose a model to generate data."
             ),
             gr.Slider(0.1, 1.0, value=0.5, label="Temperature", info="Choose a temperature for the model."),
             gr.CheckboxGroup(
