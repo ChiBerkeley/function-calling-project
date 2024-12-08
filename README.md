@@ -36,10 +36,16 @@ Synthcall is a project created by students from MIDS program at UC Berkeley. Thi
 
 
 ## Related
+### SynthCall Homepage
 
-SynthCall MIDS Website
+[Homepage](https://synthcall.app/)
+
+
+
+### SynthCall MIDS Website
 
 [SynthCall](https://www.ischool.berkeley.edu/projects/2024/synthcall)
+
 
 
 ## License
